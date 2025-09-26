@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-26 13:50:18",
+  "date": "2025-09-26 21:47:57",
   "channels": {
     "BANGLA": [
       {
@@ -574,6 +574,13 @@
       }
     ],
     "MUSIC": [
+      {
+        "name": "GAAN BANGLA HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg",
+        "group": "MUSIC",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://tplay.live/originals/bengali-beats/index.m3u8"
+      },
       {
         "name": "Sangeet Bangla",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515",

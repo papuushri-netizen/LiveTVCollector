@@ -480,6 +480,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "GAAN BANGLA HD",
+    "type": "MUSIC",
+    "url": "https://tplay.live/originals/bengali-beats/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.jpg"
+  },
+  {
     "name": "Sangeet Bangla",
     "type": "MUSIC",
     "url": "https://live.dinesh29.com.np/stream/jiotvplus/sangeetbangla/stream_0.m3u8?uid=3571565213",
