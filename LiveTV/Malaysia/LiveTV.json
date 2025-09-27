@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-27 06:44:05",
+  "date": "2025-09-27 13:49:29",
   "channels": {
     "siaranMy": [
       {
@@ -21,7 +21,7 @@
         "logo": "https://mifntechnology.github.io/siaranMy/logo/Tv3.png",
         "group": "siaranMy",
         "source": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8",
-        "url": "https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8"
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd"
       },
       {
         "name": "Okey Tv",
@@ -49,7 +49,7 @@
         "logo": "https://mifntechnology.github.io/siaranMy/logo/8tv.png",
         "group": "siaranMy",
         "source": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8",
-        "url": "https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8"
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd"
       },
       {
         "name": "TV9",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png",
         "group": "siaranMy",
         "source": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/myIPtv.m3u8",
-        "url": "https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8"
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd"
       },
       {
         "name": "Dewan Rakyat",
@@ -399,13 +399,6 @@
         "group": "Malaysia",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
         "url": "https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd"
-      },
-      {
-        "name": "103 TV3 2",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",
-        "group": "Malaysia",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd"
       }
     ],
     "MALAYSIA": [
