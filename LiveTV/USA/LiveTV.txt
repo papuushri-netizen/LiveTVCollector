@@ -12679,12 +12679,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Milenio
-URL: http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/253231.ts
+URL: http://hardcoremedia.xyz:80/live/BG992263/38692743/253231.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: N+ FORO
-URL: http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/253204.ts
+URL: http://hardcoremedia.xyz:80/live/BG992263/38692743/253204.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -21303,17 +21303,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ION
-URL: https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
+URL: https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_channelId=99951158
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ION Plus
-URL: https://raw.githubusercontent.com/mystery75/m3u8/main/IONPLUS.m3u8
+URL: https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ION Mystery
-URL: https://raw.githubusercontent.com/mystery75/m3u8/main/IONMYSTERY.m3u8
+URL: https://dbrb49pjoymg4.cloudfront.net/10001/99951157/hls/playlist.m3u8?ads.xumo_channelId=99951157
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------

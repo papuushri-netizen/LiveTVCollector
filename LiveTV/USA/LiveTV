@@ -21620,13 +21620,13 @@
   {
     "name": "Milenio",
     "type": "Latino (Spanish)",
-    "url": "http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/253231.ts",
+    "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/253231.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "N+ FORO",
     "type": "Latino (Spanish)",
-    "url": "http://hardcoremedia.xyz:80/live/NW3Vk7xXwW/8375773282/253204.ts",
+    "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/253204.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -22418,19 +22418,19 @@
   {
     "name": "ION",
     "type": "Network Channels",
-    "url": "https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8",
+    "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_channelId=99951158",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "ION Plus",
     "type": "Network Channels",
-    "url": "https://raw.githubusercontent.com/mystery75/m3u8/main/IONPLUS.m3u8",
+    "url": "https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "ION Mystery",
     "type": "Network Channels",
-    "url": "https://raw.githubusercontent.com/mystery75/m3u8/main/IONMYSTERY.m3u8",
+    "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951157/hls/playlist.m3u8?ads.xumo_channelId=99951157",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
