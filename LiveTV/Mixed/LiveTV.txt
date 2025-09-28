@@ -371,7 +371,7 @@ Logo: https://www.cxtv.com.br/img/Tvs/Logo/webp-l/efea896119450ed5bdc725f270cf31
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: STAR CHANNEL
-URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/54441.m3u8
+URL: http://190.60.33.245:4002/play/a1i2/index.m3u8
 Logo: https://i.ibb.co/kBS1sFh/star-channel.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -396,7 +396,7 @@ Logo: https://media.bss-prd.directvgo.com/media/catalog/product/cache/74c1057f79
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: HBO
-URL: http://190.238.172.153:8000/play/a09m
+URL: http://45.184.87.142:8000/play/a04k
 Logo: https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -471,7 +471,7 @@ Logo: https://i.postimg.cc/Sxd9XyY0/gplus.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: GOLDEN PREMIER
-URL: http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278486.m3u8
+URL: http://45.184.87.142:8000/play/a03a
 Logo: https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -601,7 +601,7 @@ Logo: https://i.pinimg.com/736x/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: UNIVERSAL TV
-URL: http://190.238.172.153:8000/play/a0ix
+URL: http://190.60.33.245:4002/play/a1hg/index.m3u8
 Logo: https://i.pinimg.com/564x/b9/e1/b5/b9e1b5ed78238f8700fdc1704287ba37.jpg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -914,7 +914,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argent
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: FOX SPORTS 2
-URL: http://143.0.67.77:8000/play/a05c/index.m3u8
+URL: http://tvpromas.com:2082/stkramip/8430/30935
 Logo: https://cdn.storage.foromedios.com/monthly_2023_02/small.1344882745_FOXSports2ARG(2023-).png.cd26bb6f6340e81d793b7a598b51aa32.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -933,7 +933,7 @@ URL: http://tvdirecto.pro:8080/live/948068511/8noplifre/3441.m3u
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
-Name: CDO
+Name: CDO 2
 URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/26000.m3u8
 Logo: https://i.ibb.co/W0mWyNr/cdo.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
@@ -973,19 +973,34 @@ URL: http://user.tvcluboficial.com/live/m/m/318.m3u8
 Logo: https://www.xtrim.com.ec/wp-content/uploads/2024/09/ECDF.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
-Name: DIRECTV SPORTS
-URL: http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/9561
+Name: DIRECTV SPORTS 1
+URL: http://195.66.210.10:80/MiguelArrieta/QKBVE/158506
 Logo: https://i.ibb.co/fMh1j6W/610.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
+Name: DIRECTV SPORTS (1)
+URL: http://195.66.210.10:80/MiguelArrieta/QKBVE/158511
+Logo: https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
 Name: DIRECTV SPORTS 2
+URL: http://195.66.210.10:80/MiguelArrieta/QKBVE/456658
+Logo: https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: DIRECTV SPORTS (2)
 URL: http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/9564
 Logo: https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: DIRECTV SPORTS+
-URL: http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/9557
+URL: http://195.66.210.10:80/MiguelArrieta/QKBVE/518959
 Logo: https://i.postimg.cc/7Lb92ddX/directvsports.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: DIRECTV SPORTS (+)
+URL: http://195.66.210.10:80/MiguelArrieta/QKBVE/310535
+Logo: https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: WIN SPORTS +

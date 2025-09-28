@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-27 21:31:04",
+  "date": "2025-09-28 06:12:04",
   "channels": {
     "STREAMING": [
       {
@@ -2688,7 +2688,7 @@
         "logo": "https://cdn.storage.foromedios.com/monthly_2023_02/small.1344882745_FOXSports2ARG(2023-).png.cd26bb6f6340e81d793b7a598b51aa32.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://143.0.67.77:8000/play/a05c/index.m3u8"
+        "url": "http://tvpromas.com:2082/stkramip/8430/30935"
       },
       {
         "name": "FOX SPORTS 3",
@@ -2712,7 +2712,7 @@
         "url": "http://tvdirecto.pro:8080/live/948068511/8noplifre/3441.m3u"
       },
       {
-        "name": "CDO",
+        "name": "CDO 2",
         "logo": "https://i.ibb.co/W0mWyNr/cdo.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
@@ -2768,14 +2768,28 @@
         "url": "http://user.tvcluboficial.com/live/m/m/318.m3u8"
       },
       {
-        "name": "DIRECTV SPORTS",
+        "name": "DIRECTV SPORTS 1",
         "logo": "https://i.ibb.co/fMh1j6W/610.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/9561"
+        "url": "http://195.66.210.10:80/MiguelArrieta/QKBVE/158506"
+      },
+      {
+        "name": "DIRECTV SPORTS (1)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://195.66.210.10:80/MiguelArrieta/QKBVE/158511"
       },
       {
         "name": "DIRECTV SPORTS 2",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://195.66.210.10:80/MiguelArrieta/QKBVE/456658"
+      },
+      {
+        "name": "DIRECTV SPORTS (2)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
@@ -2786,7 +2800,14 @@
         "logo": "https://i.postimg.cc/7Lb92ddX/directvsports.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/9557"
+        "url": "http://195.66.210.10:80/MiguelArrieta/QKBVE/518959"
+      },
+      {
+        "name": "DIRECTV SPORTS (+)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://195.66.210.10:80/MiguelArrieta/QKBVE/310535"
       },
       {
         "name": "WIN SPORTS +",
@@ -2928,7 +2949,7 @@
         "logo": "https://i.ibb.co/kBS1sFh/star-channel.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54441.m3u8"
+        "url": "http://190.60.33.245:4002/play/a1i2/index.m3u8"
       },
       {
         "name": "group-title=\"CINE Y SERIES\", FREETV ACCION",
@@ -2963,7 +2984,7 @@
         "logo": "https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://190.238.172.153:8000/play/a09m"
+        "url": "http://45.184.87.142:8000/play/a04k"
       },
       {
         "name": "HBO PLUS",
@@ -3068,7 +3089,7 @@
         "logo": "https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278486.m3u8"
+        "url": "http://45.184.87.142:8000/play/a03a"
       },
       {
         "name": "MC",
@@ -3250,7 +3271,7 @@
         "logo": "https://i.pinimg.com/564x/b9/e1/b5/b9e1b5ed78238f8700fdc1704287ba37.jpg",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://190.238.172.153:8000/play/a0ix"
+        "url": "http://190.60.33.245:4002/play/a1hg/index.m3u8"
       },
       {
         "name": "UNIVERSAL CINEMA",
