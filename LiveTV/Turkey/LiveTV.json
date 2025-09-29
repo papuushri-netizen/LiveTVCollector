@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-28 21:51:10",
+  "date": "2025-09-29 07:09:41",
   "channels": {
     ".🇹🇷 ULUSAL 🇹🇷 .COM/1.M3U ESKİ USUL": [
       {
@@ -36113,7 +36113,7 @@
       },
       {
         "name": "TV A (720p)",
-        "logo": "https://i.postimg.cc/DZNm0T2V/tva.png",
+        "logo": "https://www.lyngsat.com/logo/tv/tt/tva-tr.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8"
@@ -36208,7 +36208,7 @@
     "Education;Outdoor": [
       {
         "name": "Agro TV (1080p)",
-        "logo": "https://i.postimg.cc/8C0QPwh7/agrotv.png",
+        "logo": "https://i.imgur.com/ls9NLa4.png",
         "group": "Education;Outdoor",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "http://185.234.111.229:8000/play/a011"
@@ -36520,7 +36520,7 @@
       },
       {
         "name": "TV 1 (720p)",
-        "logo": "https://i.postimg.cc/mkxXsyLW/tv1.png",
+        "logo": "https://i.imgur.com/8CtrYVb.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8"
@@ -36632,7 +36632,7 @@
       },
       {
         "name": "V TV (720p)",
-        "logo": "https://i.postimg.cc/gjRFW03r/vtv.png",
+        "logo": "https://www.vtv.net.tr/uploads/logo/sitelogo_4.jpg",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://serdar.tiviplayer.com/player/m3u8/65aae71c9b93f0965aaed3a92660d98b/65aae71c9b93f0965aaed3a92660d98b.m3u8"

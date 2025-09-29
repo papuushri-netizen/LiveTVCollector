@@ -12324,7 +12324,7 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Group: Education;Outdoor
 Name: Agro TV (1080p)
 URL: http://185.234.111.229:8000/play/a011
-Logo: https://i.postimg.cc/8C0QPwh7/agrotv.png
+Logo: https://i.imgur.com/ls9NLa4.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
@@ -12663,7 +12663,7 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: TV A (720p)
 URL: https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
-Logo: https://i.postimg.cc/DZNm0T2V/tva.png
+Logo: https://www.lyngsat.com/logo/tv/tt/tva-tr.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Yol TV (720p)
@@ -13410,7 +13410,7 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: TV 1 (720p)
 URL: https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
-Logo: https://i.postimg.cc/mkxXsyLW/tv1.png
+Logo: https://i.imgur.com/8CtrYVb.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: TV 8 (1080p)
@@ -13490,7 +13490,7 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: V TV (720p)
 URL: https://serdar.tiviplayer.com/player/m3u8/65aae71c9b93f0965aaed3a92660d98b/65aae71c9b93f0965aaed3a92660d98b.m3u8
-Logo: https://i.postimg.cc/gjRFW03r/vtv.png
+Logo: https://www.vtv.net.tr/uploads/logo/sitelogo_4.jpg
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Vav TV (1080p)
