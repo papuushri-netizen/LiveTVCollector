@@ -16632,6 +16632,12 @@
     "img": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MNCTV.png"
   },
   {
+    "name": "ANTV",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "http://103.179.182.117:6768/hls/45/45.m3u8",
+    "img": "http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqrFlBchDAfHX5_HlZRkz7Bw.png"
+  },
+  {
     "name": "TRANS 7*",
     "type": "NasioNaL DiGitaL 📡",
     "url": "http://103.179.182.117:6768/hls/42/42.m3u8",
@@ -17070,12 +17076,6 @@
     "img": "https://iili.io/JMp3wV1.png"
   },
   {
-    "name": "ANTV",
-    "type": "DIGITAL CHANNEL",
-    "url": "http://103.179.182.117:6768/hls/45/45.m3u8",
-    "img": "https://i.imgur.com/cMxwK50.jpg"
-  },
-  {
     "name": "Antv ⁱ",
     "type": "Nasional 🇮🇩",
     "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8",
@@ -17112,22 +17112,10 @@
     "img": "https://i.imgur.com/aKmRvdb.png"
   },
   {
-    "name": "GTV",
-    "type": "Nasional 🇮🇩",
-    "url": "https://allcutv.rctiplus.id/gtv2023.m3u8",
-    "img": "https://i.imgur.com/Z1M2Avx.png"
-  },
-  {
     "name": "IDX",
     "type": "Nasional 🇮🇩",
     "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8",
     "img": "https://i.imgur.com/1zcrM6F.png"
-  },
-  {
-    "name": "iNews",
-    "type": "Nasional 🇮🇩",
-    "url": "https://inews-cutv.rctiplus.id/inews-sdi.m3u8",
-    "img": "https://i.imgur.com/cNj0zNL.png"
   },
   {
     "name": "mdTV",
@@ -17140,12 +17128,6 @@
     "type": "Nasional 🇮🇩",
     "url": "http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8",
     "img": "https://i.imgur.com/ynGX4PT.png"
-  },
-  {
-    "name": "MNCTV",
-    "type": "Nasional 🇮🇩",
-    "url": "https://allcutv.rctiplus.id/mnctv2023.m3u8",
-    "img": "https://i.imgur.com/7AX2huE.png"
   },
   {
     "name": "Nusantara TV",

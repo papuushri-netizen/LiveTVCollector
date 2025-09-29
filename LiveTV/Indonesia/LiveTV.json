@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-29 13:43:24",
+  "date": "2025-09-29 21:31:23",
   "channels": {
     "INDONESIA": [
       {
@@ -19533,6 +19533,13 @@
         "url": "https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd"
       },
       {
+        "name": "ANTV",
+        "logo": "http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqrFlBchDAfHX5_HlZRkz7Bw.png",
+        "group": "NasioNaL DiGitaL 📡",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://103.179.182.117:6768/hls/45/45.m3u8"
+      },
+      {
         "name": "TRANS 7*",
         "logo": "http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png",
         "group": "NasioNaL DiGitaL 📡",
@@ -20044,15 +20051,6 @@
         "url": "http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts"
       }
     ],
-    "DIGITAL CHANNEL": [
-      {
-        "name": "ANTV",
-        "logo": "https://i.imgur.com/cMxwK50.jpg",
-        "group": "DIGITAL CHANNEL",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "http://103.179.182.117:6768/hls/45/45.m3u8"
-      }
-    ],
     "Nasional 🇮🇩": [
       {
         "name": "Antv ⁱ",
@@ -20097,25 +20095,11 @@
         "url": "https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8"
       },
       {
-        "name": "GTV",
-        "logo": "https://i.imgur.com/Z1M2Avx.png",
-        "group": "Nasional 🇮🇩",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://allcutv.rctiplus.id/gtv2023.m3u8"
-      },
-      {
         "name": "IDX",
         "logo": "https://i.imgur.com/1zcrM6F.png",
         "group": "Nasional 🇮🇩",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8"
-      },
-      {
-        "name": "iNews",
-        "logo": "https://i.imgur.com/cNj0zNL.png",
-        "group": "Nasional 🇮🇩",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://inews-cutv.rctiplus.id/inews-sdi.m3u8"
       },
       {
         "name": "mdTV",
@@ -20130,13 +20114,6 @@
         "group": "Nasional 🇮🇩",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8"
-      },
-      {
-        "name": "MNCTV",
-        "logo": "https://i.imgur.com/7AX2huE.png",
-        "group": "Nasional 🇮🇩",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://allcutv.rctiplus.id/mnctv2023.m3u8"
       },
       {
         "name": "Nusantara TV",
