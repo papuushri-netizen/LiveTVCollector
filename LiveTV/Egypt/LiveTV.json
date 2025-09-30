@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-29 21:39:54",
+  "date": "2025-09-30 06:14:25",
   "channels": {
     "Uncategorized": [
       {
@@ -1231,7 +1231,7 @@
     "General": [
       {
         "name": "Al Masriyah",
-        "logo": "https://i.postimg.cc/NGVMP7Sf/almasriyah.png",
+        "logo": "https://i.ibb.co/Kx7wmXCQ/almasriya.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://fl1002.bozztv.com/ga-almasriya/index.m3u8"
@@ -1266,7 +1266,7 @@
       },
       {
         "name": "El Mehwar Channel",
-        "logo": "https://i.imgur.com/dCAHZfG.png",
+        "logo": "https://i.ibb.co/84t3yXTV/mehwar.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://fl1002.bozztv.com/ga-elmehwar/tracks-v1a1/mono.m3u8"
