@@ -514,8 +514,8 @@ URL: http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist
 Logo: https://i.imgur.com/Vji81jB.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
-Name: Sooriyan TV
-URL: https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+Name: Sooriyan TV (1080p)
+URL: https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 Logo: https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------

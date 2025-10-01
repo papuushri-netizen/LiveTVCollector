@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-30 22:01:17",
+  "date": "2025-10-01 07:34:34",
   "channels": {
     "Pluto TV House of Horror": [
       {
@@ -1943,11 +1943,11 @@
         "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8"
       },
       {
-        "name": "Sooriyan TV",
+        "name": "Sooriyan TV (1080p)",
         "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8"
+        "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
       },
       {
         "name": "STAR International (720p)",
