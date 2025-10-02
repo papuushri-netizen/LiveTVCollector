@@ -24852,6 +24852,36 @@
     "img": "https://i.imgur.com/BaNtB6K.png"
   },
   {
+    "name": "Jawa Pos TV Bali (576p)",
+    "type": "General",
+    "url": "http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8",
+    "img": "https://i.imgur.com/Kt2kOGH.png"
+  },
+  {
+    "name": "Jawa Pos TV Jakarta (720p)",
+    "type": "General",
+    "url": "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
+    "img": "https://i.imgur.com/Kt2kOGH.png"
+  },
+  {
+    "name": "Jawa Pos TV Madiun (720p)",
+    "type": "General",
+    "url": "http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8",
+    "img": "https://i.imgur.com/Kt2kOGH.png"
+  },
+  {
+    "name": "Jawa Pos TV Magelang (720p)",
+    "type": "General",
+    "url": "http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8",
+    "img": "https://i.imgur.com/Kt2kOGH.png"
+  },
+  {
+    "name": "Jawa Pos TV Semarang (720p)",
+    "type": "General",
+    "url": "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8",
+    "img": "https://i.imgur.com/Kt2kOGH.png"
+  },
+  {
     "name": "Jek TV (720p) [Not 24/7]",
     "type": "General",
     "url": "http://61.8.64.138:1935/jektv/myStream/playlist.m3u8",

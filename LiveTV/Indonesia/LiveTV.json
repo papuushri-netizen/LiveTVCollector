@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-01 13:31:20",
+  "date": "2025-10-02 06:06:59",
   "channels": {
     "INDONESIA": [
       {
@@ -29149,6 +29149,41 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
         "url": "http://122.248.43.138:1935/ch23/myStream/playlist.m3u8"
+      },
+      {
+        "name": "Jawa Pos TV Bali (576p)",
+        "logo": "https://i.imgur.com/Kt2kOGH.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
+        "url": "http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8"
+      },
+      {
+        "name": "Jawa Pos TV Jakarta (720p)",
+        "logo": "https://i.imgur.com/Kt2kOGH.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
+        "url": "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8"
+      },
+      {
+        "name": "Jawa Pos TV Madiun (720p)",
+        "logo": "https://i.imgur.com/Kt2kOGH.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
+        "url": "http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8"
+      },
+      {
+        "name": "Jawa Pos TV Magelang (720p)",
+        "logo": "https://i.imgur.com/Kt2kOGH.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
+        "url": "http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8"
+      },
+      {
+        "name": "Jawa Pos TV Semarang (720p)",
+        "logo": "https://i.imgur.com/Kt2kOGH.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
+        "url": "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8"
       },
       {
         "name": "Jek TV (720p) [Not 24/7]",
