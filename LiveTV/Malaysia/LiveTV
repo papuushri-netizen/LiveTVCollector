@@ -1398,6 +1398,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png"
   },
   {
+    "name": "803 Astro Arena Bola HD",
+    "type": "SPORTS",
+    "url": "https://linears2-playback.astro.com.my/vsg/41RXdJhyV02PwDKoRoAQPMV0iZbePex3Tbanc-vC8vHJo=Mled/dash-wv/jitp-dashisowm/5099/default_primary.mpd",
+    "img": "https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png"
+  },
+  {
     "name": "832 Astro Cricket HD",
     "type": "SPORTS",
     "url": "https://b500e47a210c49479f2313d1a124f855.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH31-dash/default_ott.mpd?astro=true&aws.sessionId=35e03e2b-470a-4563-a439-0f616424a47a",
@@ -1458,16 +1464,10 @@
     "img": "https://iili.io/2lP4f19.png"
   },
   {
-    "name": "803 Astro-Arena-Bola-1",
+    "name": "804 Astro Arena Bola 2 HD",
     "type": "Sports",
-    "url": "https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTkyNzQ0MjksImlzcyI6IlZSIiwiZXhwIjoxNzU5MzU3ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.HMCqIw75IJ8jWLPFtNCM_iBEVOJVi3g4XnoG8bw9MLk",
-    "img": "https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png"
-  },
-  {
-    "name": "804 Astro Arena Bola 2",
-    "type": "Sports",
-    "url": "https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTkyNzQ0NTAsImlzcyI6IlZSIiwiZXhwIjoxNzU5MzU3ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.1YweGWcwCjtycDTePdnRiPH-aMGS6NqI-sB7OzA-X8Q",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Astro_Arena_Bola_2_%282024%29.png"
+    "url": "https://linears2-playback.astro.com.my/vsg/41ON25HtzIozJ9cNzLagXMlyVgcl7yWWLCvAwEBGizALA=jKK_/dash-wv/jitp-linearwm/5100/default_primary.mpd",
+    "img": "https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_2024.png"
   },
   {
     "name": "815 Astro Badminton",
