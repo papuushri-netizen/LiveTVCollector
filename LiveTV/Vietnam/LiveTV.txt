@@ -137,11 +137,6 @@ URL: https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 Logo: https://i.imgur.com/lLlu6ZA.png
 Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 --------------------------------------------------
-Name: LA34 Long An TV [Geo-blocked]
-URL: https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8
-Logo: https://i.imgur.com/j6T7sqT.png
-Source: https://iptv-org.github.io/iptv/countries/vn.m3u
---------------------------------------------------
 Name: Lam Dong TV (720p)
 URL: http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 Logo: https://i.imgur.com/lSMoGlv.png

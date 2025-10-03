@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-02 21:51:19",
+  "date": "2025-10-03 06:47:17",
   "channels": {
     "Uncategorized": [
       {
@@ -1046,13 +1046,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8"
-      },
-      {
-        "name": "LA34 Long An TV [Geo-blocked]",
-        "logo": "https://i.imgur.com/j6T7sqT.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8"
       },
       {
         "name": "Lam Dong TV (720p)",

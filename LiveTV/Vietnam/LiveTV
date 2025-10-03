@@ -894,12 +894,6 @@
     "img": "https://i.imgur.com/lLlu6ZA.png"
   },
   {
-    "name": "LA34 Long An TV [Geo-blocked]",
-    "type": "General",
-    "url": "https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8",
-    "img": "https://i.imgur.com/j6T7sqT.png"
-  },
-  {
     "name": "Lam Dong TV (720p)",
     "type": "General",
     "url": "http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8",
