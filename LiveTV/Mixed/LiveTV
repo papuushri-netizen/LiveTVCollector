@@ -1022,7 +1022,7 @@
   {
     "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",ORF 3",
     "type": "General",
-    "url": "https://test02.mdn.ors.at/orf/orf3/qxa/manifest.m3u8",
+    "url": "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8",
     "img": "https://i.imgur.com/XnIhKQ6.png"
   },
   {
@@ -1052,7 +1052,7 @@
   {
     "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Adria Kitchen",
     "type": "Sports",
-    "url": "https://de1.adriatelekom.com/AdriaKitchen-www/index.m3u8",
+    "url": "https://de1.dstvmultimedia.com/AdriaKitchen-www/tracks-v1a1/mono.ts.m3u8",
     "img": "https://i.imgur.com/RAqrlvY.png"
   },
   {

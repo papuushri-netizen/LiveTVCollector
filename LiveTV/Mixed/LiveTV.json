@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-02 21:31:04",
+  "date": "2025-10-03 06:06:47",
   "channels": {
     "STREAMING": [
       {
@@ -1227,7 +1227,7 @@
         "logo": "https://i.imgur.com/XnIhKQ6.png",
         "group": "General",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "https://test02.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
+        "url": "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
       },
       {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",3Sat",
@@ -1264,7 +1264,7 @@
         "logo": "https://i.imgur.com/RAqrlvY.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "https://de1.adriatelekom.com/AdriaKitchen-www/index.m3u8"
+        "url": "https://de1.dstvmultimedia.com/AdriaKitchen-www/tracks-v1a1/mono.ts.m3u8"
       },
       {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Adria eSports",
