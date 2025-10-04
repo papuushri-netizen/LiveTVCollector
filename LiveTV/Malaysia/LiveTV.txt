@@ -2906,7 +2906,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 803 Astro Arena Bola HD
-URL: https://linears2-playback.astro.com.my/vsg/41RXdJhyV02PwDKoRoAQPMV7cu1gpdjmu7Ncm3P5tDfrU=D-ND/dash-wv/jitp-dashisowm/5099/default_primary.mpd
+URL: https://linears2-playback.astro.com.my/vsg/41RXdJhyV02PwDKoRoAQPMV623YPdpFKWaT30jvWTSyew=f2eY/dash-wv/jitp-dashisowm/5099/default_primary.mpd
 Logo: https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -2961,7 +2961,7 @@ URL: http://mains.services/live/pmf0423/1aku0jt%40/908d1263-42e6-4d4d-becb-ff4c3
 Logo: https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: EPL LIVE PEACOCK
+Name: Premier league UHD
 URL: https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 Logo: https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
@@ -2981,23 +2981,23 @@ URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
 Logo: https://iili.io/2lP42X2.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: Champions TV 5
+Name: Premier league Indo 1
 URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
-Logo: https://iili.io/2lP4dzl.png
+Logo: https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: Champions TV 6
+Name: Premier league Indo 2
 URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
-Logo: https://iili.io/2lP4f19.png
+Logo: https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 804 Astro Arena Bola 2 HD
-URL: https://linears2-playback.astro.com.my/vsg/41BsLcXnZzdghGEzUMWmc_mQpQZDYIJVaUJA9nRZcMfJw=t8cb/dash-wv/jitp-linearwm/5100/default_primary.mpd
+URL: https://linears2-playback.astro.com.my/vsg/41BsLcXnZzdghGEzUMWmc_mZ_PWWpNHx5JC7HPspn21jc=SZE8/dash-wv/jitp-linearwm/5100/default_primary.mpd
 Logo: https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 815 Astro Badminton
-URL: https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTkyNzQ1MzMsImlzcyI6IlZSIiwiZXhwIjoxNzU5MzU3ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.foyHBzJbFQJtaDDCFv8aGOe_uB19WN_RHwjdHUjcjOk
+URL: https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTk0NDc0NjIsImlzcyI6IlZSIiwiZXhwIjoxNzU5NTMwNjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.7WBUIDqYYeV-qWGbmhs3lBN3s8c1q87WvYzeQ_6klWk
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
