@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-04 21:57:16",
+  "date": "2025-10-05 07:33:23",
   "channels": {
     "News": [
       {
@@ -789,6 +789,15 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8"
+      }
+    ],
+    "Animation;Kids": [
+      {
+        "name": "Disney Channel Latin America (1080p)",
+        "logo": "https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://201.230.121.186:8000/play/a0fb/index.m3u8"
       }
     ],
     "Science": [
