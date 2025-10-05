@@ -174,9 +174,9 @@ https://2767164d5ee04887b96812a9eea74d32.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="Uncategorized",LCI [tkn-blocked]
 https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Uncategorized",TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTk2MzQyOTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU5NjE5ODkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.mpImNKFH8ZHmoTacbs-0nPnwNJMN_fw6wJVM0fP56a8/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTk2NTU5NjIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU5NjQxNTYyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.GsCWl2fCWfC3MJ-jVdFFuydQpwNjGLKC739Z2e05Y_0/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Uncategorized",TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTk2MzU2MDEsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1OTYyMTIwMSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.KDNaZZZA3mK0lxvz77KHu02cU_3J5QYuZIOyTmw2ys8/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTk2NjQzNTQsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1OTY0OTk1NCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.jQ31zkOlKoPsUi3_iBTuOgFEMhqtmdIcFM_Di70hVp0/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="Uncategorized",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="Uncategorized",FRANCE 3
@@ -1100,9 +1100,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Uncategorized",SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=5s2GaWsO90KiRPftyCfOJQ&e=1759626892
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=h_0j5QtW-0i4lgImPnYb0w&e=1759660069
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=5s2GaWsO90KiRPftyCfOJQ&e=1759626892
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=h_0j5QtW-0i4lgImPnYb0w&e=1759660069
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
@@ -6162,7 +6162,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e052a60-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ad13452-4038-4ee5-9d1d-60ffd7bdf4ed
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100" group-title="FRANCE",1. TF1 [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/1PuEaiX8EbS8ANFo.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/2syeRHGUtGPrmQq.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EbEL7U8.png" group-title="FRANCE",2. France 2 [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EbEL7U8.png" group-title="FRANCE",48. France 2 [SSAI][1080p-france.tv]
@@ -6180,53 +6180,53 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" group-title="FRANCE",7. Arte [720p-arte.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
 #EXTINF:-1 tvg-logo="https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png" group-title="FRANCE",46. ARTE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/wYrAMADWSONCEZM4.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/G4K9w8xwd6NEFk2E.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GqWBPJY.png" group-title="FRANCE",47. Arte [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WK7fvqD.png" group-title="FRANCE",51. LCP-AN [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100" group-title="FRANCE",10. TMC [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/kfVE4OQ9VV3evLip.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/WsQSZDZKMKGGq6.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100" group-title="FRANCE",11. TFX [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/C0pRGTnwUMC7uumW.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/2eBg0mRgcqYQcU.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" group-title="FRANCE",14. C NEWS [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" group-title="FRANCE",45. C NEWS [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100" group-title="FRANCE",15. LCI [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/zuim5mANyF4WfEFa.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/6yH7DbZ55pmwTqXC.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hwaz7xG.png" group-title="FRANCE",16. France Info [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100" group-title="FRANCE",17. CStar [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100" group-title="FRANCE",20. TF1 Séries Films [720p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/glv27UwBUqNDAMC.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/nwGEAne8KS3hhEng.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" group-title="FRANCE",44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/4rQeh5PcCxWxu9l.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/ld7UPSVVJqYEfds.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100" group-title="FRANCE",24. RMC Découverte [1080p-rmcbfmplay.com]
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" group-title="FRANCE",34. LE FIGARO TV [720p-lefigaro.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100" group-title="FRANCE",35. LE FIGARO TV [1080p-tf1.fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/GWNhzXaGFXtf8JDe.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/OvFnnHDjakQLtLEI.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100" group-title="FRANCE",40. CANAL+ EN CLAIR [1080p-canalplus.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" group-title="LEQUIPE.FR",78. Journal du Golf TV [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/journal-du-golf-tv-dm.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100" group-title="LEQUIPE.FR",90. Journal du Golf TV [BACKUP][1080p-dailymotion.com]
-https://www.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=KZ1HrcgWLvEXAdZuysW-f7iNjqrRtU8HNr2j6oLXx7evm8sBe6AGCpnPK_1w7eJDiDDpVBPN8MEWUSllifB1J4QdgT7FayDzbyjTQohmMaM
+https://www.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=Wk0l5yF_fofWH2htFgb3UYdO2HehPDJyANztt-s8ep1RnYSTv3J05r1h2NH8mACfD3SdY8k75tLVieP5cbAhociRusEkq17sYx5Ll7hpMIw
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100" group-title="LEQUIPE.FR",89. LA CHAÎNE L'ÉQUIPE [BACKUP][1080p-dailymotion.com]
-https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=gr8-w7VR4sqRKLL-2eomDCQoZ7wRiwZ8XXQ8HSeJinVrTXq5bdEMY3bzfmrD1wHjwpDx7-g9ngIfZ-TNPphK7lFoimz-M7XEYLK89EpPH7s
+https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=xPSAc4c57EDnS9IIZL1qeoSZ3Dbj6X_4xyyiLoFUgwj_-nJWkHEkG3HLtyiiZVo6VJP0fYYVj8WdaRSgWJYlF10q3cCWgeIhyZAYS_S1zvw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7UiaCG.png" group-title="LEQUIPE.FR",91. L'Équipe live foot [BACKUP][1080p-dailymotion.com]
-https://www.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=L1aZMmRiZb0ZG0pLRKzRpVatwRPzj97S3X89zbT9nU0XJTkSFzZ0PPpVgmp3aWuC4LhNoFqZgiQxbPqCgY7wCW113BgN5X7gHlJQMQDX2d0
+https://www.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=Q2gEdcBRt5ITY1If9hjmh_kUz1IlFl3AcYxKp_9zz6UBH5xTswi1xBgYK_c5ysa1iBv9ZG_xZe6sPl47MqZYtnpsU_8V-Isvv7hGxqB5pXY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3gfaW8a.png" group-title="LEQUIPE.FR",81. L'Équipe live 1 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3gfaW8a.png" group-title="LEQUIPE.FR",92. L'Équipe live 1 [BACKUP][1080p-dailymotion.com][NOT 24/7]
-https://www.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=Mtb-vHZsNYMxOamtcbI7BckbdAKD4pTgWdHEGvh92JCXi6hS69Vqbo1yk4m3d-Ld0fxhg31A4cz1dydLwYIgpuXsnKjVKSjC81hy5UO1X1g
+https://www.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=4v9VeC6lpuBQhcF2WQMygux0cJS6HeW7qmyEztoT7kgDAt1yUO6KvZ1D8dsyvdGNPG9VDkXFQI-QCHPEe7uq2tnrqO4UQ81B7Vns1iIQQfA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmXOZME.png" group-title="LEQUIPE.FR",82. L'Équipe live 2 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-2-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmXOZME.png" group-title="LEQUIPE.FR",93. L'Équipe live 2 [BACKUP][1080p-dailymotion.com][NOT 24/7]
-https://www.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=WpEL85P-HsPKdCU5TP8FbLOxlh6JQ7mSX8xMjOYukxcOImHOqF8-I8yf_D_gXi_fNWsC9NMaOrUW4q6M_zEwYRtkabusc_91lwqzMezxshs
+https://www.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=V3UM4LyLhCLdaEeou0q1wcbDJuKW35_YleDWnVzZFzbWswdqPLDws2vOjc6-5ST_u83IzNkdWXyUac2_G6hW5wYCjd6E9EMxATpZu2UgGSk
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",83. L'Équipe live 3 [1080p-dailymotion.com][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-3-dm.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="LEQUIPE.FR",94. L'Équipe live 3 [BACKUP][1080p-dailymotion.com][NOT 24/7]
@@ -6307,6 +6307,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-provence-alpes.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWbIICf.png" group-title="FRANCE.TV",148. FRANCE 3 RHÔNE-ALPES [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8vBQ37F.png" group-title="FRANCE.TV",149. MAYOTTE 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mayotte-1ere.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8vBQ37F.png" group-title="FRANCE.TV",150. WALLIS ET FUTUNA 1ÈRE [NOT 24/7][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/wallis-et-futuna-1ere.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZXeQKu.png" group-title="EQUIDIA",312. RACING 2 [1080p-equidia.fr][NOT 24/7]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8wlnCf.png" group-title="EQUIDIA",313. RACING 3 [1080p-equidia.fr][NOT 24/7]
@@ -6739,83 +6743,79 @@ https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/aljazeera.png" group-title="NETPLUS.TV",1637. AL JAZEERA [EN]
 https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc1.png" group-title="NETPLUS.TV",1638. BBC 1 [EN][OFFLINE]
-https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-HLS8/bbc1.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc2.png" group-title="NETPLUS.TV",1639. BBC 2 [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc2.png" group-title="NETPLUS.TV",1638. BBC 2 [EN]
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc3cbbc.png" group-title="NETPLUS.TV",1640. BBC 3 CBBC [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc3cbbc.png" group-title="NETPLUS.TV",1639. BBC 3 CBBC [EN]
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc4cbeebies.png" group-title="NETPLUS.TV",1641. BBC 4 CBEEBIES [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbc4cbeebies.png" group-title="NETPLUS.TV",1640. BBC 4 CBEEBIES [EN]
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png" group-title="NETPLUS.TV",1642. BBC WORLD [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png" group-title="NETPLUS.TV",1641. BBC WORLD [EN]
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bloomberg.png" group-title="NETPLUS.TV",1643. BLOOMBERG [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bloomberg.png" group-title="NETPLUS.TV",1642. BLOOMBERG [EN]
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/channel4.png" group-title="NETPLUS.TV",1644. CHANNEL 4 [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/channel4.png" group-title="NETPLUS.TV",1643. CHANNEL 4 [EN]
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/channel5.png" group-title="NETPLUS.TV",1645. CHANNEL 5 [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/channel5.png" group-title="NETPLUS.TV",1644. CHANNEL 5 [EN]
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/cnbc.png" group-title="NETPLUS.TV",1646. CNBC [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/cnbc.png" group-title="NETPLUS.TV",1645. CNBC [EN]
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/cnn.png" group-title="NETPLUS.TV",1647. CNN [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/cnn.png" group-title="NETPLUS.TV",1646. CNN [EN]
 https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/fashiontv.png" group-title="NETPLUS.TV",1648. FASHION TV [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/fashiontv.png" group-title="NETPLUS.TV",1647. FASHION TV [EN]
 https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/film4.png" group-title="NETPLUS.TV",1649. FILM 4 [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/film4.png" group-title="NETPLUS.TV",1648. FILM 4 [EN]
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv.png" group-title="NETPLUS.TV",1650. ITV [EN][OFFLINE]
-https://viamotionhsi.netplus.ch/live/eds/itv/browser-HLS8/itv.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv2.png" group-title="NETPLUS.TV",1651. ITV 2 [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv2.png" group-title="NETPLUS.TV",1649. ITV 2 [EN]
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv3.png" group-title="NETPLUS.TV",1652. ITV 3 [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv3.png" group-title="NETPLUS.TV",1650. ITV 3 [EN]
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv4.png" group-title="NETPLUS.TV",1653. ITV 4 [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itv4.png" group-title="NETPLUS.TV",1651. ITV 4 [EN]
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/skynews.png" group-title="NETPLUS.TV",1654. SKY NEWS [EN]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/skynews.png" group-title="NETPLUS.TV",1652. SKY NEWS [EN]
 https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/tveinternacional.png" group-title="NETPLUS.TV",1655. TVE INTERNACIONAL [ES]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/tveinternacional.png" group-title="NETPLUS.TV",1653. TVE INTERNACIONAL [ES]
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bfmbusiness.png" group-title="NETPLUS.TV",1658. BFM BUSINESS [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bfmbusiness.png" group-title="NETPLUS.TV",1656. BFM BUSINESS [FR]
 https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bfmtv.png" group-title="NETPLUS.TV",1659. BFM TV [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bfmtv.png" group-title="NETPLUS.TV",1657. BFM TV [FR]
 https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bluezoomfr.png" group-title="NETPLUS.TV",1660. BLUE ZOOM FR [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/bluezoomfr.png" group-title="NETPLUS.TV",1658. BLUE ZOOM FR [FR]
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canal9.png" group-title="NETPLUS.TV",1661. CANAL 9 [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canal9.png" group-title="NETPLUS.TV",1659. CANAL 9 [FR]
 https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canalalphaju.png" group-title="NETPLUS.TV",1662. CANAL ALPHA JU [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canalalphaju.png" group-title="NETPLUS.TV",1660. CANAL ALPHA JU [FR]
 https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canalalphane.png" group-title="NETPLUS.TV",1663. CANAL ALPHA NE [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/canalalphane.png" group-title="NETPLUS.TV",1661. CANAL ALPHA NE [FR]
 https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itele.png" group-title="NETPLUS.TV",1664. CANALNEWS [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/itele.png" group-title="NETPLUS.TV",1662. CANALNEWS [FR]
 https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/rougetv.png" group-title="NETPLUS.TV",1665. CARAC 1 [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/rougetv.png" group-title="NETPLUS.TV",1663. CARAC 1 [FR]
 https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/onetv.png" group-title="NETPLUS.TV",1666. CARAC 2 [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/onetv.png" group-title="NETPLUS.TV",1664. CARAC 2 [FR]
 https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/lfmtv.png" group-title="NETPLUS.TV",1667. CARAC 3 [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/lfmtv.png" group-title="NETPLUS.TV",1665. CARAC 3 [FR]
 https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/tvsuisseplus.png" group-title="NETPLUS.TV",1668. CARAC 4 [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/tvsuisseplus.png" group-title="NETPLUS.TV",1666. CARAC 4 [FR]
 https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/france2hd.png" group-title="NETPLUS.TV",1673. FRANCE 2 HD [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/france2hd.png" group-title="NETPLUS.TV",1672. FRANCE 2 HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/france3hd.png" group-title="NETPLUS.TV",1674. FRANCE 3 HD [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/france3hd.png" group-title="NETPLUS.TV",1673. FRANCE 3 HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/france4hd.png" group-title="NETPLUS.TV",1675. FRANCE 4 HD [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/france4hd.png" group-title="NETPLUS.TV",1674. FRANCE 4 HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/france5hd.png" group-title="NETPLUS.TV",1676. FRANCE 5 HD [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/france5hd.png" group-title="NETPLUS.TV",1675. FRANCE 5 HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/kto.png" group-title="NETPLUS.TV",1679. KTO [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/kto.png" group-title="NETPLUS.TV",1678. KTO [FR]
 https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/latele.png" group-title="NETPLUS.TV",1680. LA TELE [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/latele.png" group-title="NETPLUS.TV",1679. LA TELE [FR]
 https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/lci.png" group-title="NETPLUS.TV",1681. LCI [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/lci.png" group-title="NETPLUS.TV",1680. LCI [FR]
 https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png" group-title="NETPLUS.TV",1683. LEMAN BLEU [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png" group-title="NETPLUS.TV",1682. LEMAN BLEU [FR]
 https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/lequipe21.png" group-title="NETPLUS.TV",1684. L EQUIPE [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/lequipe21.png" group-title="NETPLUS.TV",1683. L EQUIPE [FR]
 https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
-#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/maxtv.png" group-title="NETPLUS.TV",1686. MAX TV [FR]
+#EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/maxtv.png" group-title="NETPLUS.TV",1685. MAX TV [FR]
 https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/nrtv.png" group-title="NETPLUS.TV",1687. NRTV [FR]
 https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
@@ -6825,6 +6825,8 @@ https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png" group-title="NETPLUS.TV",1691. RTS 2 HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="NETPLUS.TV",1692. T18 [FR]
+https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/tf1hd.png" group-title="NETPLUS.TV",1693. TF1 HD [FR]
 https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/tv8montblanc.png" group-title="NETPLUS.TV",1698. TV8 MONT BLANC [FR]

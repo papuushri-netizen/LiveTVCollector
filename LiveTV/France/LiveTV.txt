@@ -884,7 +884,7 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 
 Group: FRANCE
 Name: 1. TF1 [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/1PuEaiX8EbS8ANFo.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/2syeRHGUtGPrmQq.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -929,7 +929,7 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 46. ARTE [1080p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/wYrAMADWSONCEZM4.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/G4K9w8xwd6NEFk2E.m3u8
 Logo: https://photos.tf1.fr/0/40/logo-chaine_arte-5637da-a7b07d-0@3x.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -944,12 +944,12 @@ Logo: https://i.imgur.com/WK7fvqD.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 10. TMC [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/kfVE4OQ9VV3evLip.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/WsQSZDZKMKGGq6.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 11. TFX [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/C0pRGTnwUMC7uumW.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/2eBg0mRgcqYQcU.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -964,7 +964,7 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 15. LCI [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/zuim5mANyF4WfEFa.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/6yH7DbZ55pmwTqXC.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -979,12 +979,12 @@ Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 20. TF1 Séries Films [720p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/glv27UwBUqNDAMC.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/nwGEAne8KS3hhEng.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 44. LA CHAÎNE L'ÉQUIPE [1080p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/4rQeh5PcCxWxu9l.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/ld7UPSVVJqYEfds.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -999,7 +999,7 @@ Logo: https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100c
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 35. LE FIGARO TV [1080p-tf1.fr]
-URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/IwyACWjbHbYM/GWNhzXaGFXtf8JDe.m3u8
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qbG5TVIfL1U/OvFnnHDjakQLtLEI.m3u8
 Logo: https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -1158,6 +1158,16 @@ Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/para
 Name: 148. FRANCE 3 RHÔNE-ALPES [1080p-france.tv]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-rhone-alpes.m3u8
 Logo: https://i.imgur.com/PWbIICf.png
+Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
+--------------------------------------------------
+Name: 149. MAYOTTE 1ÈRE [NOT 24/7][1080p-france.tv]
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mayotte-1ere.m3u8
+Logo: https://i.imgur.com/8vBQ37F.png
+Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
+--------------------------------------------------
+Name: 150. WALLIS ET FUTUNA 1ÈRE [NOT 24/7][1080p-france.tv]
+URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/wallis-et-futuna-1ere.m3u8
+Logo: https://i.imgur.com/8vBQ37F.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 
@@ -1483,17 +1493,17 @@ Logo: https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 90. Journal du Golf TV [BACKUP][1080p-dailymotion.com]
-URL: https://www.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=KZ1HrcgWLvEXAdZuysW-f7iNjqrRtU8HNr2j6oLXx7evm8sBe6AGCpnPK_1w7eJDiDDpVBPN8MEWUSllifB1J4QdgT7FayDzbyjTQohmMaM
+URL: https://www.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=Wk0l5yF_fofWH2htFgb3UYdO2HehPDJyANztt-s8ep1RnYSTv3J05r1h2NH8mACfD3SdY8k75tLVieP5cbAhociRusEkq17sYx5Ll7hpMIw
 Logo: https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 89. LA CHAÎNE L'ÉQUIPE [BACKUP][1080p-dailymotion.com]
-URL: https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=gr8-w7VR4sqRKLL-2eomDCQoZ7wRiwZ8XXQ8HSeJinVrTXq5bdEMY3bzfmrD1wHjwpDx7-g9ngIfZ-TNPphK7lFoimz-M7XEYLK89EpPH7s
+URL: https://www.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=xPSAc4c57EDnS9IIZL1qeoSZ3Dbj6X_4xyyiLoFUgwj_-nJWkHEkG3HLtyiiZVo6VJP0fYYVj8WdaRSgWJYlF10q3cCWgeIhyZAYS_S1zvw
 Logo: https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 91. L'Équipe live foot [BACKUP][1080p-dailymotion.com]
-URL: https://www.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=L1aZMmRiZb0ZG0pLRKzRpVatwRPzj97S3X89zbT9nU0XJTkSFzZ0PPpVgmp3aWuC4LhNoFqZgiQxbPqCgY7wCW113BgN5X7gHlJQMQDX2d0
+URL: https://www.dailymotion.com/cdn/live/video/x6hd0e1.m3u8?sec=Q2gEdcBRt5ITY1If9hjmh_kUz1IlFl3AcYxKp_9zz6UBH5xTswi1xBgYK_c5ysa1iBv9ZG_xZe6sPl47MqZYtnpsU_8V-Isvv7hGxqB5pXY
 Logo: https://i.imgur.com/p7UiaCG.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -1503,7 +1513,7 @@ Logo: https://i.imgur.com/3gfaW8a.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 92. L'Équipe live 1 [BACKUP][1080p-dailymotion.com][NOT 24/7]
-URL: https://www.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=Mtb-vHZsNYMxOamtcbI7BckbdAKD4pTgWdHEGvh92JCXi6hS69Vqbo1yk4m3d-Ld0fxhg31A4cz1dydLwYIgpuXsnKjVKSjC81hy5UO1X1g
+URL: https://www.dailymotion.com/cdn/live/video/x6hczsw.m3u8?sec=4v9VeC6lpuBQhcF2WQMygux0cJS6HeW7qmyEztoT7kgDAt1yUO6KvZ1D8dsyvdGNPG9VDkXFQI-QCHPEe7uq2tnrqO4UQ81B7Vns1iIQQfA
 Logo: https://i.imgur.com/3gfaW8a.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -1513,7 +1523,7 @@ Logo: https://i.imgur.com/bmXOZME.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 93. L'Équipe live 2 [BACKUP][1080p-dailymotion.com][NOT 24/7]
-URL: https://www.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=WpEL85P-HsPKdCU5TP8FbLOxlh6JQ7mSX8xMjOYukxcOImHOqF8-I8yf_D_gXi_fNWsC9NMaOrUW4q6M_zEwYRtkabusc_91lwqzMezxshs
+URL: https://www.dailymotion.com/cdn/live/video/x6hd012.m3u8?sec=V3UM4LyLhCLdaEeou0q1wcbDJuKW35_YleDWnVzZFzbWswdqPLDws2vOjc6-5ST_u83IzNkdWXyUac2_G6hW5wYCjd6E9EMxATpZu2UgGSk
 Logo: https://i.imgur.com/bmXOZME.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
@@ -1931,197 +1941,187 @@ URL: https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m
 Logo: https://picserve.netplus.ch/channels/aljazeera.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1638. BBC 1 [EN][OFFLINE]
-URL: https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-HLS8/bbc1.m3u8
-Logo: https://picserve.netplus.ch/channels/bbc1.png
-Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
---------------------------------------------------
-Name: 1639. BBC 2 [EN]
+Name: 1638. BBC 2 [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 Logo: https://picserve.netplus.ch/channels/bbc2.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1640. BBC 3 CBBC [EN]
+Name: 1639. BBC 3 CBBC [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 Logo: https://picserve.netplus.ch/channels/bbc3cbbc.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1641. BBC 4 CBEEBIES [EN]
+Name: 1640. BBC 4 CBEEBIES [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 Logo: https://picserve.netplus.ch/channels/bbc4cbeebies.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1642. BBC WORLD [EN]
+Name: 1641. BBC WORLD [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 Logo: https://picserve.netplus.ch/channels/bbcworld.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1643. BLOOMBERG [EN]
+Name: 1642. BLOOMBERG [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
 Logo: https://picserve.netplus.ch/channels/bloomberg.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1644. CHANNEL 4 [EN]
+Name: 1643. CHANNEL 4 [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 Logo: https://picserve.netplus.ch/channels/channel4.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1645. CHANNEL 5 [EN]
+Name: 1644. CHANNEL 5 [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 Logo: https://picserve.netplus.ch/channels/channel5.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1646. CNBC [EN]
+Name: 1645. CNBC [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 Logo: https://picserve.netplus.ch/channels/cnbc.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1647. CNN [EN]
+Name: 1646. CNN [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
 Logo: https://picserve.netplus.ch/channels/cnn.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1648. FASHION TV [EN]
+Name: 1647. FASHION TV [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8
 Logo: https://picserve.netplus.ch/channels/fashiontv.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1649. FILM 4 [EN]
+Name: 1648. FILM 4 [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 Logo: https://picserve.netplus.ch/channels/film4.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1650. ITV [EN][OFFLINE]
-URL: https://viamotionhsi.netplus.ch/live/eds/itv/browser-HLS8/itv.m3u8
-Logo: https://picserve.netplus.ch/channels/itv.png
-Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
---------------------------------------------------
-Name: 1651. ITV 2 [EN]
+Name: 1649. ITV 2 [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
 Logo: https://picserve.netplus.ch/channels/itv2.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1652. ITV 3 [EN]
+Name: 1650. ITV 3 [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 Logo: https://picserve.netplus.ch/channels/itv3.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1653. ITV 4 [EN]
+Name: 1651. ITV 4 [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 Logo: https://picserve.netplus.ch/channels/itv4.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1654. SKY NEWS [EN]
+Name: 1652. SKY NEWS [EN]
 URL: https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
 Logo: https://picserve.netplus.ch/channels/skynews.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1655. TVE INTERNACIONAL [ES]
+Name: 1653. TVE INTERNACIONAL [ES]
 URL: https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
 Logo: https://picserve.netplus.ch/channels/tveinternacional.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1658. BFM BUSINESS [FR]
+Name: 1656. BFM BUSINESS [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
 Logo: https://picserve.netplus.ch/channels/bfmbusiness.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1659. BFM TV [FR]
+Name: 1657. BFM TV [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
 Logo: https://picserve.netplus.ch/channels/bfmtv.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1660. BLUE ZOOM FR [FR]
+Name: 1658. BLUE ZOOM FR [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 Logo: https://picserve.netplus.ch/channels/bluezoomfr.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1661. CANAL 9 [FR]
+Name: 1659. CANAL 9 [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
 Logo: https://picserve.netplus.ch/channels/canal9.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1662. CANAL ALPHA JU [FR]
+Name: 1660. CANAL ALPHA JU [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
 Logo: https://picserve.netplus.ch/channels/canalalphaju.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1663. CANAL ALPHA NE [FR]
+Name: 1661. CANAL ALPHA NE [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
 Logo: https://picserve.netplus.ch/channels/canalalphane.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1664. CANALNEWS [FR]
+Name: 1662. CANALNEWS [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
 Logo: https://picserve.netplus.ch/channels/itele.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1665. CARAC 1 [FR]
+Name: 1663. CARAC 1 [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
 Logo: https://picserve.netplus.ch/channels/rougetv.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1666. CARAC 2 [FR]
+Name: 1664. CARAC 2 [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
 Logo: https://picserve.netplus.ch/channels/onetv.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1667. CARAC 3 [FR]
+Name: 1665. CARAC 3 [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
 Logo: https://picserve.netplus.ch/channels/lfmtv.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1668. CARAC 4 [FR]
+Name: 1666. CARAC 4 [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
 Logo: https://picserve.netplus.ch/channels/tvsuisseplus.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1673. FRANCE 2 HD [FR]
+Name: 1672. FRANCE 2 HD [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 Logo: https://picserve.netplus.ch/channels/france2hd.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1674. FRANCE 3 HD [FR]
+Name: 1673. FRANCE 3 HD [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
 Logo: https://picserve.netplus.ch/channels/france3hd.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1675. FRANCE 4 HD [FR]
+Name: 1674. FRANCE 4 HD [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
 Logo: https://picserve.netplus.ch/channels/france4hd.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1676. FRANCE 5 HD [FR]
+Name: 1675. FRANCE 5 HD [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
 Logo: https://picserve.netplus.ch/channels/france5hd.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1679. KTO [FR]
+Name: 1678. KTO [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
 Logo: https://picserve.netplus.ch/channels/kto.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1680. LA TELE [FR]
+Name: 1679. LA TELE [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
 Logo: https://picserve.netplus.ch/channels/latele.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1681. LCI [FR]
+Name: 1680. LCI [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 Logo: https://picserve.netplus.ch/channels/lci.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1683. LEMAN BLEU [FR]
+Name: 1682. LEMAN BLEU [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
 Logo: https://picserve.netplus.ch/channels/lemanbleu.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1684. L EQUIPE [FR]
+Name: 1683. L EQUIPE [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
 Logo: https://picserve.netplus.ch/channels/lequipe21.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
-Name: 1686. MAX TV [FR]
+Name: 1685. MAX TV [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
 Logo: https://picserve.netplus.ch/channels/maxtv.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
@@ -2144,6 +2144,11 @@ Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/para
 Name: 1691. RTS 2 HD [FR]
 URL: https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
 Logo: https://picserve.netplus.ch/channels/rts2hd.png
+Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
+--------------------------------------------------
+Name: 1692. T18 [FR]
+URL: https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u
 --------------------------------------------------
 Name: 1693. TF1 HD [FR]
@@ -3892,12 +3897,12 @@ Logo: https://i.ibb.co/Zfcrrr1/lci.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TF1_
-URL: https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTk2MzQyOTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU5NjE5ODkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.mpImNKFH8ZHmoTacbs-0nPnwNJMN_fw6wJVM0fP56a8/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+URL: https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTk2NTU5NjIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU5NjQxNTYyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.GsCWl2fCWfC3MJ-jVdFFuydQpwNjGLKC739Z2e05Y_0/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 Logo: https://i.ibb.co/BBpR1Wx/tf1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TF1-
-URL: https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTk2MzU2MDEsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1OTYyMTIwMSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.KDNaZZZA3mK0lxvz77KHu02cU_3J5QYuZIOyTmw2ys8/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+URL: https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTk2NjQzNTQsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1OTY0OTk1NCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.jQ31zkOlKoPsUi3_iBTuOgFEMhqtmdIcFM_Di70hVp0/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 Logo: https://i.ibb.co/BBpR1Wx/tf1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -6207,12 +6212,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=5s2GaWsO90KiRPftyCfOJQ&e=1759626892
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=h_0j5QtW-0i4lgImPnYb0w&e=1759660069
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=5s2GaWsO90KiRPftyCfOJQ&e=1759626892
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=h_0j5QtW-0i4lgImPnYb0w&e=1759660069
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
