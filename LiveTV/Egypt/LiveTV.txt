@@ -94,6 +94,11 @@ URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa
 Logo: https://i.postimg.cc/wBsfSbK2/pncdrama.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
+Name: Sada Elbalad Drama
+URL: https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbaladdrama/playlist.m3u8
+Logo: https://i.imgur.com/3VLjZKc.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
 
 Group: Uncategorized
 Name: Aghapy TV (1080p) [Not 24/7]
