@@ -41,6 +41,13 @@ Logo: https://animax.lat/assets/img/pandalogo2.png
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
 
+Group: Animation;Kids
+Name: Disney Channel Latin America (1080p)
+URL: http://201.230.121.186:8000/play/a0fb/index.m3u8
+Logo: https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+
 Group: Anime
 Name: Anime Onegai
 URL: https://live-evg20.tv360.bitel.com.pe/bitel/animeOnegai/chunks.m3u8
@@ -329,6 +336,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: TV Cosmos (720p) [Not 24/7]
 URL: https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 Logo: https://i.imgur.com/nr4ctt4.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: TV Peru (720p)
+URL: http://181.188.216.5:18000/play/a0qn/index.m3u8
+Logo: https://i.imgur.com/6io0IrX.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: TV Perú Internacional (1080p)
@@ -788,6 +800,11 @@ Group: News
 Name: ATV+
 URL: https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 Logo: https://i.imgur.com/fY9256H.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: Canal N
+URL: http://181.188.216.5:18000/play/a01p/index.m3u8
+Logo: https://i.imgur.com/Xytvw3J.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Conecta2TV (720p) [Not 24/7]
