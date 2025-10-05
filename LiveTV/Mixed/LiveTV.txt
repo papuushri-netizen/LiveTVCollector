@@ -301,12 +301,12 @@ Logo: https://assets.iprofesional.com/assets/jpg/2020/06/497527.jpg?5.6.0.5
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: A&E
-URL: http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278389.m3u8
+URL: http://190.60.33.245:4002/play/a1ak/index.m3u8
 Logo: https://i.ibb.co/Ld3vtST/a-e.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: AXN
-URL: http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278386.m3u8
+URL: http://190.60.33.245:4002/play/a1i4/index.m3u8
 Logo: https://i.ibb.co/5jBfMj7/axn.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -591,7 +591,7 @@ Logo: https://image.xumo.com/v1/channels/channel/99951367/600x337.webp?type=chan
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: USA
-URL: http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278451.m3u8
+URL: http://190.60.33.245:4002/play/a1mk/index.m3u8
 Logo: https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNYXu9bQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd7%2fUSA_Network_logo_(2016).svg%2f220px-USA_Network_logo_(2016).svg.png&ehk=m%2fHWMjyk6xJcJ2s4jXN2hSFbYGfsDgoivmAvGJAQGHM%3d&risl=&pid=ImgRaw&r=0
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -1009,8 +1009,18 @@ Logo: https://img.hidra.app/deportes/winsportsplus.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: AZTECA DEPORTES
-URL: http://172.93.102.119:8989/278577_.m3u8
+URL: http://190.60.33.245:4002/play/a0hw/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: LA LIGA
+URL: http://tvpromas.com:2082/stkramip/8430/81869
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: LA LIGA
+URL: http://tvpromas.com:2082/stkramip/8430/81870
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1200px-LaLiga_TV_Hypermotion_2023_Logo.svg.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 
@@ -1401,6 +1411,11 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 Name: Libertas TV
 URL: https://stream.luci.xyz/hls/LTV.m3u8
 Logo: https://i.imgur.com/MRpGnpa.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT Niksic
+URL: https://tv.rtv-niksic.me/hls/stream.m3u8
+Logo: https://i.imgur.com/8kTMTsS.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",RT Herceg Novi
