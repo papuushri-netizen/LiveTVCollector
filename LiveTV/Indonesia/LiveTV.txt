@@ -9223,7 +9223,7 @@ Logo: https://i.imgur.com/8osIZLM.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: HBO
-URL: https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 Logo: https://w7.pngwing.com/pngs/504/253/png-transparent-hbo-hd-logo.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -9246,11 +9246,6 @@ Name: Cinemax
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
-Name: HBO 🇮🇩
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-Logo: https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: HBO Hits 🇮🇩
 URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
@@ -15280,6 +15275,11 @@ URL: http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7323/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/800px-FS2_logo_2015.svg.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
+Name: PSJ TV
+URL: https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
+Logo: https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858d6351f0018dc0100d513246/cf58fdbdfa9f44a9b848d6c7097c3da9.jpg
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
 Name: beIN Sports 4 ID 🔵
 URL: https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 Logo: https://mncvision.id/userfiles/image/channel/channel_312.png
@@ -15438,11 +15438,6 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 Name: Fight TV Premium 🔴
 URL: https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 Logo: https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060a0c34340b6/b3884938fdda48e49561e7e27024a00c.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: PSJ TV 🔴
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
-Logo: https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858d6351f0018dc0100d513246/cf58fdbdfa9f44a9b848d6c7097c3da9.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: Sky Sport MotoGP
@@ -18821,7 +18816,7 @@ Logo: https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20str
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: TRANS 7
-URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+URL: https://video.detik.com/trans7/smil:trans7.smil/chunklist_w127267210_b744100_sleng.m3u8
 Logo: https://about.vidio.com/wp-content/uploads/2021/02/Trans7-Landscape.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
