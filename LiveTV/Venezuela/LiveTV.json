@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-05 21:56:55",
+  "date": "2025-10-06 07:25:43",
   "channels": {
     "News": [
       {
@@ -437,7 +437,7 @@
       },
       {
         "name": "interTV (1080p)",
-        "logo": "https://i.postimg.cc/qMCkD1tB/intertv.png",
+        "logo": "https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"

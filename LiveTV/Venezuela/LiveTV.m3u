@@ -121,7 +121,7 @@ https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w1563195636.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" group-title="Entertainment",Guaro TV (1080p)
 https://streamtv.intervenhosting.net:3592/live/guarotvbqtolive.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMCkD1tB/intertv.png" group-title="Entertainment",interTV (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg" group-title="Entertainment",interTV (1080p)
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg" group-title="Entertainment",Lara en Redes TV (1080p)
 https://streamtv.intervenhosting.net:3763/hybrid/play.m3u8
