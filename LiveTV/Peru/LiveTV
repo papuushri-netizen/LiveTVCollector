@@ -1122,6 +1122,12 @@
     "img": "https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg"
   },
   {
+    "name": "Disney Jr. Latin America South (480p)",
+    "type": "Animation;Kids",
+    "url": "http://38.183.182.166:8000/play/a0j9/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"
+  },
+  {
     "name": "Gol Peru (1080p)",
     "type": "Sports",
     "url": "http://38.183.182.166:8000/play/a120/index.m3u8",
