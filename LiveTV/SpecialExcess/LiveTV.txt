@@ -5,7 +5,7 @@ Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_es_1920
 Source: https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u
 --------------------------------------------------
 Name: Rebelde
-URL: https://run-rtreb.otteravision.com/run/rtreb/rtreb.m3u8
+URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=16402
 Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/QAzPD4zniCaQPONpwXrDlvNnYTRwTbefD50G-nf9KhM.jpg
 Source: https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u
 --------------------------------------------------
