@@ -51,6 +51,11 @@ URL: http://tvdirecto.pro:8080/live/948068511/8noplifre/5567.m3u
 Logo: http://oaktvpro.club:50003/images/db690694f7e26942e9c9feaf4427045c.jpg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
+Name: LOS SUPERSONICOS
+URL: http://tv.masterplaytv.club:8080/p4u7a4r3na/483caa36995b/105643
+Logo: https://static.wikia.nocookie.net/doblaje/images/3/3d/TheJetsons.jpg/revision/latest/scale-to-width-down/1200?cb=20230718010744&path-prefix=es
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
 Name: The Big Bang Theory
 URL: http://tvdirecto.pro:8080/live/948068511/8noplifre/5484.m3u
 Logo: http://oaktvpro.club:50003/images/d080f8b3d43978d6a311f0d019a1b4e7.png

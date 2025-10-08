@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-07 21:31:07",
+  "date": "2025-10-08 06:07:14",
   "channels": {
     "STREAMING": [
       {
@@ -3719,6 +3719,13 @@
         "group": "24/7",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://tvdirecto.pro:8080/live/948068511/8noplifre/5567.m3u"
+      },
+      {
+        "name": "LOS SUPERSONICOS",
+        "logo": "https://static.wikia.nocookie.net/doblaje/images/3/3d/TheJetsons.jpg/revision/latest/scale-to-width-down/1200?cb=20230718010744&path-prefix=es",
+        "group": "24/7",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://tv.masterplaytv.club:8080/p4u7a4r3na/483caa36995b/105643"
       },
       {
         "name": "The Big Bang Theory",
