@@ -576,9 +576,29 @@ URL: https://tvsen6.aynaott.com/discovery_hd_bangla/tracks-v1a1/mono.ts.m3u8
 Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: Discovery Hindi
+URL: http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1486517
+Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Discovery Engliah HD
+URL: http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1533319
+Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: Discovery Science SD
 URL: http://89.187.189.98/DISCOVERYJEETHD/index.m3u8
 Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: NAT GEO HD Bangla
+URL: http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1487901
+Logo: https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: NAT GEO HD
+URL: http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1486518
+Logo: https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Travel xp
@@ -694,11 +714,6 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Movies Now
 URL: http://89.187.189.98/MOVIESNOWHD/index.m3u8
-Logo: https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Lotus
-URL: https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index_2.m3u8
 Logo: https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1075,6 +1090,11 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 
 Group: INDIAN BANGLA
+Name: BANGLA+ HD
+URL: https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELyb5Ve3GlpgkHp8i4eOQyEY7QyZVBLpsew&s
+Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
+--------------------------------------------------
 Name: ENTEER TEN BANGLA
 URL: https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/cb573e1c786c678b84c83a64cef94382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fae0554d8e69a6b4011a9d2c44fa83439c8101b2d4d2598316d776f0419c93f783db1481e4325293738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f8f7b53430df30a07ba129a4e90399a7eb84bdd89a65a19d8ad236743d4f65a6f20b0f0b2cadf3c25b475f2ade79f01143a58250a259839a24a0f319efcc10491d15ff0dc47d0e63c4d6a80f931ea48e51b4db44713bc5ccf0df4ac0f1978434e68a74eab9b22ff21dc73a9f4de40364269a2805cc88ad811652c1fc6c869dd1d1fb6cc98c3f13a7b9b30550ab320ee520b3a986f2c64b379b0da1d7c992a0fb2303fd05121cf17afef62a6f19bad2d1381f3eb0ebf63e6be0f92d107aa6633104290fa3e5048493281bc36436037930bb493f9e0710812e5b898ad971d6b514b623866bcebe9749499d3694c46b3340854344147d854ac2ab5666e0f21ce12d6d679578d142e20e3e7721d6d6598ccbe969494ad60b06cd8dbf22925590d35a5521ae8e197ba76d3d5ae53032681e06f91/46/1280x720_3072000/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg
@@ -1194,7 +1214,7 @@ Source: https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/hea
 
 Group: Indian-Bangla
 Name: Star Jalsha HD
-URL: https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid=
+URL: https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1204,16 +1224,21 @@ Logo: https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Jalsha Movies HD
-URL: https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8?uid=
+URL: https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Jalsha Movies SD
-URL: https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/stream_0.m3u8?uid=3443014649
+URL: https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Zee Bangla HD
+URL: https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+Logo: https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Zee Bangla
 URL: http://103.175.242.10:8080/zeebangla/index.m3u8
 Logo: https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
@@ -1224,17 +1249,17 @@ Logo: https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Zee_Bangla_Cinema.jpe
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Colors Bangla
-URL: https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
+URL: https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
 Logo: https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Colors Bangla Cinema
-URL: https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+URL: http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1484537
 Logo: https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Sun Bangla
-URL: https://live.dinesh29.com.np/stream/jiotvplus/sunbangla/stream_0.m3u8?uid=827691936
+URL: https://cdn-4.pishow.tv/live/1499/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1502,7 +1527,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/e/e7/Gaan_Bangla_Logo_2021.
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Sangeet Bangla
-URL: https://live.dinesh29.com.np/stream/jiotvplus/sangeetbangla/stream_0.m3u8?uid=3571565213
+URL: https://cdn-4.pishow.tv/live/1143/1143_2.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1517,7 +1542,7 @@ Logo: https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.j
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Music India
-URL: https://portal-to-m3u-07.iptv07india.workers.dev/?id=3131
+URL: https://cdn-2.pishow.tv/live/226/226_2.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1569,6 +1594,11 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 Name: Halal tv
 URL: https://stream.panet.com/edge/halaTV/chunks.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: PTC Music
+URL: http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1484583
+Logo: https://i.imgur.com/7A5PG3o.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Hindi Hits HD
@@ -1884,33 +1914,18 @@ Source: https://iptv-org.github.io/iptv/countries/bd.m3u
 --------------------------------------------------
 
 Group: SPORTS
-Name: Live Sports-1
-URL: http://185.189.225.157/EuroSport1/index.m3u8
-Logo: http://dds.oncast.me/img/logo/sp1.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Live Sports-2
-URL: http://135.125.238.26:8080/catena-36-1149991-streamer-nz_sky_sport_2/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
-Logo: http://dds.oncast.me/img/logo/sp2.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Live Sports-3
-URL: http://135.125.238.26:8080/catena-36-1149993-streamer-nz_sky_sport_4/video.m3u8?token=f54abc11fcaeb75c0368edb767264658
-Logo: http://dds.oncast.me/img/logo/sp3.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Live Sports-4
-URL: http://195.181.169.162:80/TEN_1_HD/index.m3u8?token=test
-Logo: http://dds.oncast.me/img/logo/sp4.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
 Name: T-Sports [1]
 URL: http://116.204.149.16/t_sports/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: T-Sports [2]
+URL: https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1760013906&token=627234bc1e9bb47a68390c6757e62f2b&u=7a511720-17fc-44bc-a9a7-9222de71898c
+Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: Star Sports 1
-URL: http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1369.m3u8
+URL: http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488099
 Logo: https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1941,11 +1956,6 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Star Sports Select 1
 URL: http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276734&extension=.m3u8
-Logo: https://imgur.com/ZTxVYed.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Star Sports Select 1
-URL: https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 Logo: https://imgur.com/ZTxVYed.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1984,54 +1994,24 @@ URL: http://66.102.120.18:8000/play/a04w/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
-Name: PTV Sports-[2]
-URL: http://nayatv.ydns.eu:80/xfireflix/flixfire/12331.ts
-Logo: https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
 Name: Ten Sports
 URL: http://filex.tv:8080/live/Multicity/1234/52106.ts
 Logo: https://iconape.com/wp-content/files/da/323865/png/323865.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: A Sports
-URL: https://d2.merichunidya.com:1686/hls/asportshd.m3u8?md5=yW5V-JP6cA0qj6ubea9xYw&expires=1759233480
+URL: http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488088
 Logo: https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
-Name: Geo Super TV
-URL: http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
-Logo: https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
 Name: Willow HD
-URL: http://filex.tv:8080/live/Multicity/1234/52109.ts
-Logo: https://aimages.willow.tv/wlo_logo_200_200.jpg
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Willow HD-2
-URL: https://d3.merichunidya.com:1686/hls/willowextra.m3u8?md5=LqoJFITl2Jw03NjL-yOsSw&expires=1759233480
-Logo: https://aimages.willow.tv/wlo_logo_200_200.jpg
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Willow Extra HD
 URL: https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 Logo: https://aimages.willow.tv/wlo_logo_200_200.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
-Name: TNS Sports-1
-URL: https://d1.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=dZER3TyQ1V2X2uX_f5kaXQ&expires=1759233480
-Logo: https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: TNS Sports-2
-URL: https://d6.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=B8ufg4F2lGiV1MDk3NAaGA&expires=1759233480
-Logo: https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: TNS Sports-3
-URL: https://d6.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=qwRaXxhoBXOmitmkTEIugg&expires=1759233481
-Logo: https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png
+Name: Willow HD-2
+URL: http://filex.tv:8080/live/Multicity/1234/52109.ts
+Logo: https://aimages.willow.tv/wlo_logo_200_200.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: FOX Cricket 501
@@ -2039,29 +2019,14 @@ URL: http://51.89.148.37:8080/catena-9-15390503-streamer-_fox_sports_505_fhd/tra
 Logo: https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: Astro Cricket
+URL: http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488091
+Logo: https://aimages.willow.tv/wlo_logo_200_200.jpg
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: RTA SPORTS
 URL: https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
 Logo: https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Sky Sports Cricket
-URL: https://d1.merichunidya.com:1686/hls/skyscric.m3u8?md5=lzqXAJCvEfO4ZtsmmMjrZg&expires=1759233480
-Logo: https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Sky Sports Cricket [2]
-URL: http://178.33.239.54:8080/503/index.m3u8
-Logo: https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Sky Sports Action
-URL: https://d4.merichunidya.com:1686/hls/skysmixx.m3u8?md5=kmRCUp6d9jCRfNKpnuwOUg&expires=1759233483
-Logo: https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Sky Sports Football
-URL: https://d7.merichunidya.com:1686/hls/skysprem.m3u8?md5=IUANNSBE879mLi9S2aySxw&expires=1759233482
-Logo: https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Super Sport Cricket
@@ -2144,6 +2109,11 @@ URL: http://185.189.225.157/EuroSport2/index.m3u8
 Logo: https://sunplex.net/iptv/logo/channel-24.jpg
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
+Name: Europe Sports 1 HD
+URL: http://185.189.225.157/EuroSport1/index.m3u8
+Logo: https://sunplex.net/iptv/logo/channel-24.jpg
+Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
+--------------------------------------------------
 Name: Live
 URL: https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2221,6 +2191,11 @@ Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/
 Name: Sony Sports Ten 5 HD
 URL: https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 Logo: https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png
+Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
+--------------------------------------------------
+Name: Star Sports Select HD1
+URL: https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
+Logo: https://live.dinesh29.com.np/logos/jiotvplus/starsportsselecthd1.png
 Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
 --------------------------------------------------
 Name: Star Sports Select HD2
@@ -2681,5 +2656,12 @@ Name: BTV National (1080p)
 URL: https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 Logo: https://i.imgur.com/5OE2FDt.png
 Source: https://iptv-org.github.io/iptv/countries/bd.m3u
+--------------------------------------------------
+
+Group: VIP SPORTS
+Name: GEO SUPPER
+URL: http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
 
