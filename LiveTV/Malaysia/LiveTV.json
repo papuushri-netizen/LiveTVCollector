@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-08 21:51:27",
+  "date": "2025-10-09 06:47:27",
   "channels": {
     "siaranMy": [
       {
@@ -1672,7 +1672,14 @@
         "logo": "https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41RXdJhyV02PwDKoRoAQPMV-epJFvUYAlbQ9ZR9cvK4H8=Z1zZ/dash-wv/jitp-dashisowm/5099/default_primary.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/41RXdJhyV02PwDKoRoAQPMVyO-G9Y0RpCOJdMO0Pm0jUE=gXsc/dash-wv/jitp-dashisowm/5099/default_primary.mpd"
+      },
+      {
+        "name": "803 Astro Arena Bola HD",
+        "logo": "https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTk4MTk5MTMsImlzcyI6IlZSIiwiZXhwIjoxNzU5ODc2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9._k9IEBBDnxEyielufVKZWE2cTqNOJWlrg9avOKDSiNs"
       },
       {
         "name": "832 Astro Cricket HD",
@@ -1737,28 +1744,56 @@
         "logo": "https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41BsLcXnZzdghGEzUMWmc_mbpXtDt1U3AL4TE-AfX03Rg=F9Hn/dash-wv/jitp-linearwm/5100/default_primary.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/41BsLcXnZzdghGEzUMWmc_mSj3uUakHBKU_4gjIHzWkXc=snTb/dash-wv/jitp-linearwm/5100/default_primary.mpd"
       },
       {
         "name": "804 Astro Arena Bola 2 HD",
         "logo": "https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTk2NDQzNDYsImlzcyI6IlZSIiwiZXhwIjoxNzU5NzAzNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.zcPslISgIC8S9wWgFFHYVpMrEhzujGQoxS3CtbEdCHY"
+        "url": "https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTk4MTk5NDgsImlzcyI6IlZSIiwiZXhwIjoxNzU5ODc2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.sj3iTo1pZUJixsGGTzSnnjDd-wWSG6glr_8bjw7ZWR8"
       },
       {
         "name": "811 Astro Premier League HD",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41Kocp6_zZChvTqEWnPloX7z1tthf4Qtxojo33Rsa670s=MGq2/dash-wv/jitp-dashisowm/601/default_primary.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/41Kocp6_zZChvTqEWnPloX74_v2HgfL-JZGi792Ts7DjI=O7Na/dash-wv/jitp-dashisowm/601/default_primary.mpd"
+      },
+      {
+        "name": "811 Astro Premier League HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://l01.dp.sooka.my/601/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTk4MTk5ODIsImlzcyI6IlZSIiwiZXhwIjoxNzU5ODc2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNjAxIn0.8rN03yC3PVE791ej13wOIvWOvJZVuf_nMQhNSCKt5tk"
       },
       {
         "name": "812 Astro Premier League 2 HD",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/418hE2VhV_z-rNa0gf3lfkQw9CdGcAhSDPoxMTTLBAKug=t3ES/dash-wv/jitp-dashisowm/2104/default_primary.mpd"
+        "url": "https://linears2-playback.astro.com.my/vsg/418hE2VhV_z-rNa0gf3lfkQzd5L8HsIuGaSLGaFmWMf6c=_9Mx/dash-wv/jitp-dashisowm/2104/default_primary.mpd"
+      },
+      {
+        "name": "812 Astro Premier League 2 HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTk4MjAwNTMsImlzcyI6IlZSIiwiZXhwIjoxNzU5ODc2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.YR0DPszJms2-8_mbx1dTFzesoIfnhA6WShQ9QIQJfFQ"
+      },
+      {
+        "name": "815 Astro Badminton HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1boYNsaRwm6t0ADjgMci0_Q=Plk1/dash-wv/jitp-dashisowm/5170/default_primary.mpd"
+      },
+      {
+        "name": "815 Astro Badminton HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTk3MzE5NzgsImlzcyI6IlZSIiwiZXhwIjoxNzU5Nzg5ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.52DoGZh8z20d6L2tl0qAxmBuHNUSAnd5uCHbtx9XL6w"
       },
       {
         "name": "816 Astro Badminton 2 HD",
