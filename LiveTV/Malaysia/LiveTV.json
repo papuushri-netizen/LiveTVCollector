@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-10 13:53:00",
+  "date": "2025-10-10 21:51:10",
   "channels": {
     "siaranMy": [
       {
@@ -1740,6 +1740,13 @@
         "url": "https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash"
       },
       {
+        "name": "815 Astro Badminton",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAwNTI3NTksImlzcyI6IlZSIiwiZXhwIjoxNzYwMTM1NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.uRJd_YEajyd7cIvO7F_AbMskVw4oolARPKJD0d4QzZg"
+      },
+      {
         "name": "804 Astro Arena Bola 2 HD",
         "logo": "https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png",
         "group": "Sports",
@@ -1780,20 +1787,6 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
         "url": "https://l02.dp.sooka.my/2104/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTk5NzU4OTEsImlzcyI6IlZSIiwiZXhwIjoxNzYwMDQ5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.Kx6FaNGKQXOAqh6suDPuFZt4v_l5ppU0gZIaOGGHznk"
-      },
-      {
-        "name": "815 Astro Badminton HD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1e6HHcGLndTv0U702y1YlvU=O95r/dash-wv/jitp-dashisowm/5170/default_primary.mpd"
-      },
-      {
-        "name": "815 Astro Badminton HD B",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTk5NzU5MzksImlzcyI6IlZSIiwiZXhwIjoxNzYwMDQ5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.0Q7fq_qZIeRA-8pOlcxqV3QKvo2pUXBrUfZAksy20EM"
       },
       {
         "name": "816 Astro Badminton 2 HD",
