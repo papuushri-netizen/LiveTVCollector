@@ -1,3 +1,10 @@
+Group: Documentary
+Name: Al Wathaeqya
+URL: https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alwathaeqyia/playlist.m3u8
+Logo: https://i.imgur.com/CwC7fz6.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
+
 Group: Entertainment;Series
 Name: Zee Alwan Egypt (576p)
 URL: http://213.57.91.138:8000/play/a05u
@@ -107,9 +114,19 @@ URL: https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/alhadathalyoum
 Logo: https://i.ibb.co/sd2k94pS/Final-Hadath.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
+Name: Extra News
+URL: https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/cbcextranews/playlist.m3u8
+Logo: https://i.imgur.com/9HREF7o.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
 Name: Mekameleen TV (1080p)
 URL: https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 Logo: https://i.postimg.cc/85dghYss/mekameleentv.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
+Name: Nile News
+URL: https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/alnilenews/playlist.m3u8
+Logo: https://i.ibb.co/Kz0H3mLP/Nile-News.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
 

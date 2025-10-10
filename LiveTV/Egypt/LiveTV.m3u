@@ -377,6 +377,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zWQjVq6s/ten-tv.png" group-title="General",TeN
 https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/ten/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwC7fz6.png" group-title="Documentary",Al Wathaeqya
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alwathaeqyia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksnNhr5w/Al-Nahar-Drama.png" group-title="Series",Al-Nahar Drama (576)
 http://213.57.91.138:8000/play/a06n
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vVM7I4a.png" group-title="Series",Alhayat Drama (576)
@@ -391,8 +393,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbaladdrama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sd2k94pS/Final-Hadath.png" group-title="News",AlHadath Alyoum
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/alhadathalyoum/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9HREF7o.png" group-title="News",Extra News
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/cbcextranews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85dghYss/mekameleentv.png" group-title="News",Mekameleen TV (1080p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0H3mLP/Nile-News.png" group-title="News",Nile News
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/alnilenews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="Lifestyle",CBC Sofra (576p)
 http://213.57.91.138:8000/play/a06p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p6SPr0Ym/Cima.png" group-title="Movies",Cima

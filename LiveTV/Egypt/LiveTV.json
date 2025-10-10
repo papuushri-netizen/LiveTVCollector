@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-09 21:45:36",
+  "date": "2025-10-10 06:13:36",
   "channels": {
     "Uncategorized": [
       {
@@ -1328,6 +1328,15 @@
         "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/ten/playlist.m3u8"
       }
     ],
+    "Documentary": [
+      {
+        "name": "Al Wathaeqya",
+        "logo": "https://i.imgur.com/CwC7fz6.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alwathaeqyia/playlist.m3u8"
+      }
+    ],
     "Series": [
       {
         "name": "Al-Nahar Drama (576)",
@@ -1381,11 +1390,25 @@
         "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/alhadathalyoum/playlist.m3u8"
       },
       {
+        "name": "Extra News",
+        "logo": "https://i.imgur.com/9HREF7o.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/cbcextranews/playlist.m3u8"
+      },
+      {
         "name": "Mekameleen TV (1080p)",
         "logo": "https://i.postimg.cc/85dghYss/mekameleentv.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
+      },
+      {
+        "name": "Nile News",
+        "logo": "https://i.ibb.co/Kz0H3mLP/Nile-News.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/alnilenews/playlist.m3u8"
       }
     ],
     "Lifestyle": [
