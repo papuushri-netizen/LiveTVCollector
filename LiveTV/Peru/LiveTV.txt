@@ -833,7 +833,7 @@ Logo: https://i.imgur.com/Xytvw3J.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Conecta2TV (720p) [Not 24/7]
-URL: https://servilive.com:3114/live/liveulive.m3u8
+URL: https://live.obslivestream.com/conecta2/index.m3u8
 Logo: https://i.imgur.com/cfHaLt2.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
@@ -1278,11 +1278,6 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 Name: 31 | VZ TV/DEPORTES |
 URL: https://vztv.online/live/mysteam_web.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/vzTV.jpg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
-Name: 32 | CONECTA2 TV |
-URL: https://live.obslivestream.com/conecta2/index.m3u8
-Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/CONECTADOS.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 34 | BH TV |
@@ -1839,6 +1834,11 @@ Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/head
 Name: Cadena TV
 URL: https://servilive.com:3079/live/cdnatvlive.m3u8
 Logo: https://i.imgur.com/stvzqzd.png
+Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
+--------------------------------------------------
+Name: Conecta2 TV (Lima) (720p)
+URL: https://servilive.com:3114/live/liveulive.m3u8
+Logo: https://i.imgur.com/cfHaLt2.png
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
 Name: Frecuencia Musical TV (720p)

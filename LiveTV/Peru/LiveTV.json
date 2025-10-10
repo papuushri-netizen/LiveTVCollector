@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-09 22:02:06",
+  "date": "2025-10-10 07:20:07",
   "channels": {
     "General": [
       {
@@ -813,7 +813,7 @@
         "logo": "https://i.imgur.com/cfHaLt2.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://servilive.com:3114/live/liveulive.m3u8"
+        "url": "https://live.obslivestream.com/conecta2/index.m3u8"
       },
       {
         "name": "Exitosa (720p)",
@@ -1207,6 +1207,13 @@
         "group": "Undefined",
         "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
         "url": "https://servilive.com:3079/live/cdnatvlive.m3u8"
+      },
+      {
+        "name": "Conecta2 TV (Lima) (720p)",
+        "logo": "https://i.imgur.com/cfHaLt2.png",
+        "group": "Undefined",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "https://servilive.com:3114/live/liveulive.m3u8"
       },
       {
         "name": "Frecuencia Musical TV (720p)",
@@ -2023,13 +2030,6 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://vztv.online/live/mysteam_web.m3u8"
-      },
-      {
-        "name": "32 | CONECTA2 TV |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/CONECTADOS.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://live.obslivestream.com/conecta2/index.m3u8"
       },
       {
         "name": "34 | BH TV |",
