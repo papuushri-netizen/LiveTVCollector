@@ -19,11 +19,6 @@ URL: https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 Logo: https://s4.gifyu.com/images/imagea02f4314e761661d.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
-Name: Ekon tv
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
 Name: Channel 24
 URL: https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 Logo: https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png
@@ -42,6 +37,11 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 Name: DBC News
 URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Ekon tv
+URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: ATN NEWS [BD]

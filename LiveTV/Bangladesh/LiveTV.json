@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-10 13:49:39",
+  "date": "2025-10-10 21:47:56",
   "channels": {
     "BANGLA": [
       {
@@ -31,13 +31,6 @@
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
       },
       {
-        "name": "Ekon tv",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",
-        "group": "BANGLA",
-        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8"
-      },
-      {
         "name": "Channel 24",
         "logo": "https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",
         "group": "BANGLA",
@@ -64,6 +57,13 @@
         "group": "BANGLA",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8"
+      },
+      {
+        "name": "Ekon tv",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",
+        "group": "BANGLA",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8"
       },
       {
         "name": "ATN NEWS [BD]",
