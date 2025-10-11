@@ -2986,14 +2986,9 @@ URL: https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 Logo: https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 815 Astro Badminton HD
-URL: https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1ZlHPdExTypweRKYCJqD518=OhlW/dash-wv/jitp-dashisowm/5170/default_primary.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
 Name: 815 Astro Badminton
-URL: https://linears2-playback.astro.com.my/vsg/41M3Q4rxXywqH2By1wtH-rWKdHcTTOQDzxDy5aEkuzzok=o0tW/dash-wv/jitp-dashisowm/5170/default_primary.mpd
-Logo: https://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png
+URL: https://l17.dp.sooka.my/5170/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjAxMzkyNzMsImlzcyI6IlZSIiwiZXhwIjoxNzYwMjIxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZGQyZjRkZjMtOGFlYi00ODlkLWExN2ItNmVkM2ZjOGJmMWQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.oOZuuCJcZGYH4pHtyKRE-QJE6vja3QAfCH_ASp3MGWE
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 804 Astro Arena Bola 2 HD
