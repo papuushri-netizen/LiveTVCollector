@@ -1,7 +1,7 @@
 Group: Animation
 Name: DreamWorks Channel Asia Vietnam (1080p)
 URL: https://tv.ddns.vn/tv/dreamworks/index.m3u8
-Logo: https://hls.mskycdn.online/logo/dreamworks.png
+Logo: https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png
 Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 --------------------------------------------------
 
@@ -1030,13 +1030,13 @@ URL: https://hls.mskycdn.online/tv/vntoday/index.m3u8
 Logo: https://static.mediacdn.vn/vietnamtoday/images/logo-VNToday-light.svg
 Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 --------------------------------------------------
-Name: VTV1 (576p)
-URL: http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8
+Name: VTV1 (1080p)
+URL: https://tv.ddns.vn/tv/vtv1fhd/index.m3u8
 Logo: https://i.imgur.com/vZYlGIW.png
 Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 --------------------------------------------------
-Name: VTV1 (1080p)
-URL: https://tv.ddns.vn/tv/vtv1fhd/index.m3u8
+Name: VTV1 (576p)
+URL: http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/vZYlGIW.png
 Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 --------------------------------------------------

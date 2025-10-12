@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-11 21:48:37",
+  "date": "2025-10-12 06:52:23",
   "channels": {
     "Uncategorized": [
       {
@@ -1232,18 +1232,18 @@
         "url": "https://hls.mskycdn.online/tv/vntoday/index.m3u8"
       },
       {
-        "name": "VTV1 (576p)",
-        "logo": "https://i.imgur.com/vZYlGIW.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8"
-      },
-      {
         "name": "VTV1 (1080p)",
         "logo": "https://i.imgur.com/vZYlGIW.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://tv.ddns.vn/tv/vtv1fhd/index.m3u8"
+      },
+      {
+        "name": "VTV1 (576p)",
+        "logo": "https://i.imgur.com/vZYlGIW.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "VTV2 HD (1080p)",
@@ -1422,7 +1422,7 @@
     "Animation": [
       {
         "name": "DreamWorks Channel Asia Vietnam (1080p)",
-        "logo": "https://hls.mskycdn.online/logo/dreamworks.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png",
         "group": "Animation",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://tv.ddns.vn/tv/dreamworks/index.m3u8"

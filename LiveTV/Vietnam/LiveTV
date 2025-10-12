@@ -1050,15 +1050,15 @@
     "img": "https://static.mediacdn.vn/vietnamtoday/images/logo-VNToday-light.svg"
   },
   {
-    "name": "VTV1 (576p)",
-    "type": "Undefined",
-    "url": "http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8",
-    "img": "https://i.imgur.com/vZYlGIW.png"
-  },
-  {
     "name": "VTV1 (1080p)",
     "type": "Undefined",
     "url": "https://tv.ddns.vn/tv/vtv1fhd/index.m3u8",
+    "img": "https://i.imgur.com/vZYlGIW.png"
+  },
+  {
+    "name": "VTV1 (576p)",
+    "type": "Undefined",
+    "url": "http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8",
     "img": "https://i.imgur.com/vZYlGIW.png"
   },
   {
@@ -1203,7 +1203,7 @@
     "name": "DreamWorks Channel Asia Vietnam (1080p)",
     "type": "Animation",
     "url": "https://tv.ddns.vn/tv/dreamworks/index.m3u8",
-    "img": "https://hls.mskycdn.online/logo/dreamworks.png"
+    "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png"
   },
   {
     "name": "Hmong TV Network (720p)",
