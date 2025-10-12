@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-12 06:09:33",
+  "date": "2025-10-12 13:31:04",
   "channels": {
     "STREAMING": [
       {
@@ -654,7 +654,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYWY5ZmFkMjEtNjgwMi00Yjg5LTgyZjUtMmQxZGRkNmM2YTQwIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYjkyMTQ1ZDUtMmI3ZS00Njc2LTg0N2ItNmJlYmJmMmM3MjJmIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -696,7 +696,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNmY2NDcwYzYtODA1OC00Njc3LTliNGItMzkyMzAwNmY1ZDI5IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNjlkZjlkNTQtYzdjYi00YmE4LWJiOWMtODdlNzRiOGEyN2JjIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
@@ -1194,7 +1194,7 @@
       },
       {
         "name": "BHRT",
-        "logo": "https://i.imgur.com/Gg8NPvl.png",
+        "logo": "https://i.imgur.com/kMM3OYY.png",
         "group": "General",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://webtvstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8"
