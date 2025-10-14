@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-14 07:07:26",
+  "date": "2025-10-14 13:56:13",
   "channels": {
     "Religious": [
       {
@@ -8931,18 +8931,18 @@
         "url": "http://rfcm.streamguys1.com/smoothjazzpremium-mp3"
       },
       {
-        "name": "MC (Music Choice) | Hit List",
+        "name": "MC (Music Choice) | Hit List (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47978.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260656.ts"
       },
       {
-        "name": "MC (Music Choice) | Music Choice Max",
+        "name": "MC (Music Choice) | Music Choice Max (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48002.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260697.ts"
       },
       {
         "name": "MC (Music Choice) | Dance EDM",
@@ -8963,196 +8963,280 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47975.ts"
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/237626"
       },
       {
-        "name": "MC (Music Choice) | Rap",
+        "name": "MC (Music Choice) | Hip-Hop And R&B (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48014.ts"
+        "url": "http://hardcoremedia.xyz:80/liveBG992263/38692743/260655.ts"
       },
       {
-        "name": "MC (Music Choice) | Mainstream Rap",
+        "name": "MC (Music Choice) | Rap (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47995.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260720.ts"
       },
       {
-        "name": "MC (Music Choice) | Underground Hip-Hop",
+        "name": "MC (Music Choice) | Mainstream Rap (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48049.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260721.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Underground Hip-Hop (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260734.ts"
       },
       {
         "name": "MC (Music Choice) | Hip-Hop Classics",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47976.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237628.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Hip-Hop Classics (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260724.ts"
       },
       {
         "name": "MC (Music Choice) | Throwback Jams",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48044.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237629.ts"
       },
       {
-        "name": "MC (Music Choice) | Funk",
+        "name": "MC (Music Choice) | Throwback Jams (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47970.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260723.ts"
       },
       {
-        "name": "MC (Music Choice) | R&B Groove",
+        "name": "MC (Music Choice) | Funk (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48018.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260733.ts"
       },
       {
-        "name": "MC (Music Choice) | R&B Soul",
+        "name": "MC (Music Choice) | R&B Groove (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48020.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260729.ts"
       },
       {
-        "name": "MC (Music Choice) | R&B Slow Jams",
+        "name": "MC (Music Choice) | R&B Soul (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48019.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260661.ts"
+      },
+      {
+        "name": "MC (Music Choice) | R&B Slow Jamz (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260730.ts"
       },
       {
         "name": "MC (Music Choice) | R&B Classics",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48017.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237630.ts"
       },
       {
-        "name": "MC (Music Choice) | ALT R&B",
+        "name": "MC (Music Choice) | R&B Classics (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47926.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260722.ts"
       },
       {
-        "name": "MC (Music Choice) | Freestyle",
+        "name": "MC (Music Choice) | ALT R&B (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47969.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260731.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Today's R&B",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237631.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Freestyle (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260728.ts"
       },
       {
         "name": "MC (Music Choice) | Gospel",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47971.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237632.ts"
       },
       {
-        "name": "MC (Music Choice) | Reggae",
+        "name": "MC (Music Choice) | Gospel (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48021.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260764.ts"
       },
       {
-        "name": "MC (Music Choice) | Rock",
+        "name": "MC (Music Choice) | Reggae (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48025.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260732.ts"
       },
       {
-        "name": "MC (Music Choice) | Hard Rock",
+        "name": "MC (Music Choice) | Rock (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47973.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260662.ts"
       },
       {
-        "name": "MC (Music Choice) | Metal",
+        "name": "MC (Music Choice) | Hard Rock (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47998.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260748.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Metal (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260751.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Alternative (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260754.ts"
       },
       {
         "name": "MC (Music Choice) | Adult Alternative",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47925.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237637.ts"
       },
       {
-        "name": "MC (Music Choice) | Classic Alternative",
+        "name": "MC (Music Choice) | Adult Alternative (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47941.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260755.ts"
       },
       {
-        "name": "MC (Music Choice) | Rock Hits",
+        "name": "MC (Music Choice) | Classic Alternative (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48026.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260753.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Rock",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237634.ts"
       },
       {
         "name": "MC (Music Choice) | Classic Rock",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47946.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237639.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Classic Rock (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260747.ts"
       },
       {
         "name": "MC (Music Choice) | Soft Rock",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48033.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237640.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Soft Rock (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260703.ts"
       },
       {
         "name": "MC (Music Choice) | Yacht Rock",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48057.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237635.ts"
       },
       {
-        "name": "MC (Music Choice) | Love Songs",
+        "name": "MC (Music Choice) | Yacht Rock (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47993.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260700.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Love Songs (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260705.ts"
       },
       {
         "name": "MC (Music Choice) | Pop Hits",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48012.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237642.ts"
       },
       {
-        "name": "MC (Music Choice) | Party Favorites",
+        "name": "MC (Music Choice) | Pop Hits (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48008.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260673.ts"
       },
       {
-        "name": "MC (Music Choice) | Teen Beats",
+        "name": "MC (Music Choice) | Party Favorites (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48041.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260698.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Teen Beats (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260665.ts"
       },
       {
         "name": "MC (Music Choice) | Kids Only",
@@ -9169,235 +9253,361 @@
         "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48046.ts"
       },
       {
-        "name": "MC (Music Choice) | Malt Shop Favorites",
+        "name": "MC (Music Choice) | Singer & Swinging",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47996.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237668.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Feel-Good Favorites",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237624.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Malt Shop Favorites (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260706.ts"
       },
       {
         "name": "MC (Music Choice) | Solid Gold Oldies",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48034.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237651.ts"
       },
       {
-        "name": "MC (Music Choice) | '60s",
+        "name": "MC (Music Choice) | Solid Gold Oldies (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47907.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260692.ts"
       },
       {
-        "name": "MC (Music Choice) | '60s Rock",
+        "name": "MC (Music Choice) | '60s Generation",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47906.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237650.ts"
       },
       {
-        "name": "MC (Music Choice) | '60s British Invasion",
+        "name": "MC (Music Choice) | '60s (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47905.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260702.ts"
+      },
+      {
+        "name": "MC (Music Choice) | '60s Rock (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260744.ts"
+      },
+      {
+        "name": "MC (Music Choice) | '60s British Invasion (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260743.ts"
       },
       {
         "name": "MC (Music Choice) | '70s",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47908.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237649.ts"
       },
       {
-        "name": "MC (Music Choice) | '70s Rock",
+        "name": "MC (Music Choice) | '70s (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47909.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260693.ts"
+      },
+      {
+        "name": "MC (Music Choice) | '70s Rock (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260745.ts"
+      },
+      {
+        "name": "MC (Music Choice) | '70s Soul (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260717.ts"
+      },
+      {
+        "name": "MC (Music Choice) | '70s & '80s Favorites",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237646.ts"
       },
       {
         "name": "MC (Music Choice) | '80s",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47912.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237648.ts"
       },
       {
-        "name": "MC (Music Choice) | '80s One Hit Wonders",
+        "name": "MC (Music Choice) | '80s (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47914.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260701.ts"
       },
       {
-        "name": "MC (Music Choice) | '80s Rock",
+        "name": "MC (Music Choice) | '80s One Hit Wonders (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47916.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260696.ts"
+      },
+      {
+        "name": "MC (Music Choice) | '80s Rock (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260749.ts"
       },
       {
         "name": "MC (Music Choice) | '90s",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47918.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237647.ts"
       },
       {
-        "name": "MC (Music Choice) | '90s Club Hits",
+        "name": "MC (Music Choice) | '90s (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47919.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260674.ts"
       },
       {
-        "name": "MC (Music Choice) | '90s Hip-Hop",
+        "name": "MC (Music Choice) | '90s Club Hits (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47921.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260719.ts"
       },
       {
-        "name": "MC (Music Choice) | '90s R&B",
+        "name": "MC (Music Choice) | '90s Hip-Hop (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47922.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260727.ts"
       },
       {
-        "name": "MC (Music Choice) | '90s Rock",
+        "name": "MC (Music Choice) | '90s R&B (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47923.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260785.ts"
       },
       {
-        "name": "MC (Music Choice) | Y2K",
+        "name": "MC (Music Choice) | '90s Rock (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48056.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260746.ts"
       },
       {
-        "name": "MC (Music Choice) | Y2K Rap",
+        "name": "MC (Music Choice) | Y2K (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48015.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260699.ts"
       },
       {
-        "name": "MC (Music Choice) | Y2K R&B",
+        "name": "MC (Music Choice) | Y2K Rap (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48016.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260725.ts"
       },
       {
-        "name": "MC (Music Choice) | 2010s",
+        "name": "MC (Music Choice) | Y2K R&B (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47904.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260726.ts"
+      },
+      {
+        "name": "MC (Music Choice) | 2010s (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260695.ts"
       },
       {
         "name": "MC (Music Choice) | Classic Christmas",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47942.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237670.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Classic Christmas (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260776.ts"
       },
       {
         "name": "MC (Music Choice) | Pop And Country",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48011.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237652.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Pop And Country (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260660.ts"
       },
       {
         "name": "MC (Music Choice) | Today's Country",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48045.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237653.ts"
       },
       {
-        "name": "MC (Music Choice) | Country Hits",
+        "name": "MC (Music Choice) | Today's Country (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47953.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260672.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Country Hits (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260708.ts"
       },
       {
         "name": "MC (Music Choice) | Classic Country",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47943.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237655.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Classic Country (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260709.ts"
       },
       {
         "name": "MC (Music Choice) | Contemporary Christian",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47949.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237633.ts"
       },
       {
-        "name": "MC (Music Choice) | Pop Latino",
+        "name": "MC (Music Choice) | Contemporary Christian (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48013.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260765.ts"
       },
       {
-        "name": "MC (Music Choice) | Musica Urbana",
+        "name": "MC (Music Choice) | Pop Latino (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48003.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260735.ts"
       },
       {
-        "name": "MC (Music Choice) | Mexicana",
+        "name": "MC (Music Choice) | Musica Urbana (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47886.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260736.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Mexicana (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260739.ts"
       },
       {
         "name": "MC (Music Choice) | Tropicales",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48047.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237644.ts"
       },
       {
-        "name": "MC (Music Choice) | Romances",
+        "name": "MC (Music Choice) | Tropicales (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48029.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260737.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Romantic Latin Pop",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237645.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Today's Latin Hits",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237643.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Romances (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260738.ts"
       },
       {
         "name": "MC (Music Choice) | Sounds of The Seasons",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48035.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237671.ts"
       },
       {
-        "name": "MC (Music Choice) | Stage And Screen",
+        "name": "MC (Music Choice) | Sounds of The Seasons (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48037.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260777.ts"
       },
       {
-        "name": "MC (Music Choice) | Smooth Jazz",
+        "name": "MC (Music Choice) | Stage And Screen (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48032.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260781.ts"
+      },
+      {
+        "name": "MC (Music Choice) | Smooth Jazz (Audio Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260663.ts"
       },
       {
         "name": "MC (Music Choice) | Choice Blues",
@@ -9407,165 +9617,179 @@
         "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47934.ts"
       },
       {
-        "name": "MC (Music Choice) | Singers And Swing",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Music",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48030.ts"
-      },
-      {
         "name": "MC (Music Choice) | Easy Listening",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47964.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237669.ts"
       },
       {
-        "name": "MC (Music Choice) | Classical Masterpieces",
+        "name": "MC (Music Choice) | Easy Listening (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47947.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260691.ts"
       },
       {
-        "name": "MC (Music Choice) | Light Classical",
+        "name": "MC (Music Choice) | Classical Masterpieces (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47991.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260759.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Hit List",
+        "name": "MC (Music Choice) | Light Classical (Audio Channel)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47882.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260658.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Dance/EDM",
+        "name": "MC (Music Choice Videos) | Hit List (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47879.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260667.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Tropicales",
+        "name": "MC (Music Choice Videos) | Dance/EDM (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47901.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260677.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Pop Latino",
+        "name": "MC (Music Choice Videos) | Kidz Only! (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47891.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260676.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Musica Urbana",
+        "name": "MC (Music Choice Videos) | Tropicales (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47888.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260688.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Today's Country",
+        "name": "MC (Music Choice Videos) | Pop Latino (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47899.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260684.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Pop & Country",
+        "name": "MC (Music Choice Videos) | Musica Urbana (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47889.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260675.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Pop Hits",
+        "name": "MC (Music Choice Videos) | Mexicana (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47890.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260689.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Alternative",
+        "name": "MC (Music Choice Videos) | Today's Country (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47877.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260670.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | R&B/Soul",
+        "name": "MC (Music Choice Videos) | Pop & Country (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47894.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260680.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Rap",
+        "name": "MC (Music Choice Videos) | Pop Hits (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47892.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260679.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Rap 2K",
+        "name": "MC (Music Choice Videos) | Alternative (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47893.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260678.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Throwback Jamz",
+        "name": "MC (Music Choice Videos) | R&B/Soul (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47898.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260681.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Hip-Hop/R&B",
+        "name": "MC (Music Choice Videos) | Rap (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47881.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260685.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Teen Beats",
+        "name": "MC (Music Choice Videos) | Rap 2K (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47897.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260687.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Toddler Tunes",
+        "name": "MC (Music Choice Videos) | Throwback Jamz (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47900.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260686.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | 80's",
+        "name": "MC (Music Choice Videos) | Hip-Hop/R&B (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47875.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260668.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | 90's",
+        "name": "MC (Music Choice Videos) | Teen Beats (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47876.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260669.ts"
       },
       {
-        "name": "MC (Music Choice Videos) | Y2K",
+        "name": "MC (Music Choice Videos) | Toddler Tunes (Music Videos)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47902.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260690.ts"
+      },
+      {
+        "name": "MC (Music Choice Videos) | 80's (Music Videos)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260651.ts"
+      },
+      {
+        "name": "MC (Music Choice Videos) | 90's (Music Videos)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260652.ts"
+      },
+      {
+        "name": "MC (Music Choice Videos) | Y2K (Music Videos)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/260683.ts"
       }
     ],
     "Comedy": [
@@ -18379,42 +18603,42 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://212.102.60.231/CA_Los_Angeles_CBS/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9865.ts"
       },
       {
         "name": "KNBC-TV NBC 4 (Los Angeles CA)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://212.102.60.231/CA_Los_Angeles_NBC/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10121.ts"
       },
       {
         "name": "KTLA-TV CW 5 (Los Angeles CA)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48787.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117093.ts"
       },
       {
         "name": "KABC-TV ABC 7 (Los Angeles CA)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48784.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9774.ts"
       },
       {
         "name": "KCAL-TV CBS/Ind. 9 (Los Angeles CA)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/KCAL-TV_Logo..png/250px-KCAL-TV_Logo..png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48786.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9864.ts"
       },
       {
         "name": "KTTV-TV FOX 11 (Los Angeles CA)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48788.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9995.ts"
       },
       {
         "name": "KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA)",
@@ -18428,112 +18652,112 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://212.102.60.231/CBSEAST/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9934.ts"
       },
       {
         "name": "WNBC-TV NBC 4 (New York NY)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://212.102.60.231/NBC_EAST/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10227.ts"
       },
       {
         "name": "WNYW-TV FOX 5 (New York NY)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/23322.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10056.ts"
       },
       {
         "name": "WABC-TV ABC 7 (New York NY)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://212.102.60.231/ABC_EAST/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/142490.ts"
       },
       {
         "name": "WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/23214.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117216.ts"
       },
       {
         "name": "WPIX-TV CW 11 (PIX 11+) (New York NY)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/22466.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117280.ts"
       },
       {
         "name": "WLNY-TV CBS/Ind. 10/55 (New York NY)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89717.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117221.ts"
       },
       {
         "name": "WBBM-TV CBS 2 (Chicago IL)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://212.102.60.231/IL_Chicago_CBS/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9893.ts"
       },
       {
         "name": "WMAQ-TV NBC 5 (Chicago IL)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48876.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10159.ts"
       },
       {
         "name": "WLS-TV ABC 7 (Chicago IL)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48872.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9795.ts"
       },
       {
         "name": "WGN-TV CW 9 (Chicago IL)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://212.102.60.231/WGN/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/129979.ts"
       },
       {
         "name": "WFLD-TV FOX 32 (Chicago IL)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://212.102.60.231/IL_Chicago_FOX/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10024.ts"
       },
       {
         "name": "WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48875.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/129925.ts"
       },
       {
         "name": "WJBK-TV FOX 2 (Detroit MI)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://212.102.60.231/MI_Detroit_FOX/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10038.ts"
       },
       {
         "name": "WDIV-TV NBC 4 (Detroit MI)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48930.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10188.ts"
       },
       {
         "name": "WXYZ-TV ABC 7 (Detroit MI)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cord-cutter.net:8080/live/95549031/69361122/120855.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9806.ts"
       },
       {
         "name": "WMYD-TV MyNetworkTV 20 (Detroit MI)",
@@ -18547,49 +18771,49 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48928.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117173.ts"
       },
       {
         "name": "WWJ-TV CBS 62 (Detroit MI)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://212.102.60.231/MI_Detroit_CBS/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9912.ts"
       },
       {
         "name": "WCCO-TV CBS 4 (Minneapolis/St. Paul MN)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48938.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9915.ts"
       },
       {
         "name": "KSTP-TV ABC 5 (Minneapolis/St. Paul MN)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48943.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9808.ts"
       },
       {
         "name": "KMSP-TV FOX 9 (Minneapolis/St. Paul MN)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48940.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10042.ts"
       },
       {
         "name": "KARE-TV NBC 11 (Minneapolis/St. Paul MN)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48942.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10194.ts"
       },
       {
         "name": "WUCW-TV CW 23 (Minneapolis/St. Paul MN)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48939.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117180.ts"
       },
       {
         "name": "WFTC-TV MyNetworkTV 29 (FOX 9+) (Minneapolis/St. Paul MN)",
@@ -18603,21 +18827,21 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49054.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9950.ts"
       },
       {
         "name": "WPVI-TV ABC 6 (Philadelphia PA)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49053.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9834.ts"
       },
       {
         "name": "WCAU-TV NBC 10 (Philadelphia PA)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49058.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10252.ts"
       },
       {
         "name": "WHPL-TV CW 17 (Philadelphia PA)",
@@ -18631,14 +18855,14 @@
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49056.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10069.ts"
       },
       {
         "name": "WPSG-TV Ind. Philly 57 (Philadelphia PA)",
         "logo": "https://www.newscaststudio.com/wp-content/uploads/2023/08/philly-57-logo-768x434.jpg",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49055.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117116.ts"
       },
       {
         "name": "WFMZ-TV Ind. 69 (Philadelphia PA)",
@@ -18652,7 +18876,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48912.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9905.ts"
       },
       {
         "name": "WCVB-TV ABC 5 (Boston MA)",
@@ -18666,14 +18890,14 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48916.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10182.ts"
       },
       {
         "name": "WFXT-CD FOX 25 (Boston MA)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48913.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10034.ts"
       },
       {
         "name": "WSBK-TV Ind. 38 (Boston MA)",
@@ -18694,21 +18918,21 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49060.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9951.ts"
       },
       {
         "name": "WTAE-TV ABC 4 (Pittsburgh PA)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49059.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9835.ts"
       },
       {
         "name": "WPXI-TV NBC 11 (Pittsburgh PA)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49063.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10253.ts"
       },
       {
         "name": "WPCW-TV CW 19 (KDKA+) (Pittsburgh PA)",
@@ -18722,70 +18946,70 @@
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49062.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/229658.ts"
       },
       {
         "name": "WFSB-TV CBS 3 (Hartford CT)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48808.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9873.ts"
       },
       {
         "name": "WTNH-TV ABC 8 (Hartford CT)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48810.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9779.ts"
       },
       {
         "name": "WVIT-TV NBC 30 (Hartford CT)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/2456.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10131.ts"
       },
       {
         "name": "WTIC-CD TV FOX 61 (Hartford CT)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48809.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10004.ts"
       },
       {
         "name": "WFOR-TV CBS 4 (Miami FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://212.102.60.231/FL_Miami_CBS/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9877.ts"
       },
       {
         "name": "WTVJ-TV NBC 6 (Miami FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://212.102.60.231/FL_Miami_NBC/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10137.ts"
       },
       {
         "name": "WSVN-TV FOX 7 (Miami FL)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://212.102.60.231/FL_Miami_FOX/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10008.ts"
       },
       {
         "name": "WPLG-TV ABC 10 (Miami FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48823.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9784.ts"
       },
       {
         "name": "WBFS-TV CW/MyNetworkTV 33 (Miami FL)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48828.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117128.ts"
       },
       {
         "name": "WSFL-TV CW/Ind. 39 (Miami FL)",
@@ -18799,7 +19023,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48842.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10142.ts"
       },
       {
         "name": "WTSP-DT CBS 10 (Tampa Bay FL)",
@@ -18813,56 +19037,56 @@
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48841.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10012.ts"
       },
       {
         "name": "WFTS-TV ABC 28 (Tampa Bay FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48839.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9789.ts"
       },
       {
         "name": "WTOG-TV Ind. 44 (Tampa Bay FL)",
         "logo": "https://www.newscaststudio.com/wp-content/uploads/2023/08/tampa-bay-44-logo-768x434.jpg",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48837.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117114.ts"
       },
       {
         "name": "WESH-TV NBC 2 (Orlando FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48814.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10139.ts"
       },
       {
         "name": "WKMG-TV CBS 6 (Orlando FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48833.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9879.ts"
       },
       {
         "name": "WFTV-TV ABC 9 (Orlando FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48832.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9786.ts"
       },
       {
         "name": "WKCF-TV CW 18 (Orlando FL)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://212.102.60.231/CW_ORLANDO/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117129.ts"
       },
       {
         "name": "WOFL-TV FOX 35 (Orlando FL)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48834.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10011.ts"
       },
       {
         "name": "WACX-TV 55.1 SuperChannel Orlando (Orlando FL)",
@@ -18876,21 +19100,21 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48835.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117130.ts"
       },
       {
         "name": "WOGX-TV FOX 51 (Ocala/Gainsville FL)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/2542.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10010.ts"
       },
       {
         "name": "WWSB-TV ABC 7 (Sarasota FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/112252.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9788.ts"
       },
       {
         "name": "KOB-TV NBC 4 (Albuquerque NM)",
@@ -18911,6 +19135,13 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9929.ts"
+      },
+      {
+        "name": "KRQE-TV FOX 13.2 (Albuquerque NM)",
+        "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
+        "group": "Local Channels (Not 24/7)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48980.ts"
       },
       {
@@ -18925,14 +19156,14 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49107.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9843.ts"
       },
       {
         "name": "KTSM-TV NBC 9 (El Paso TX)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49110.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10275.ts"
       },
       {
         "name": "KFOX-TV FOX 14 (El Paso TX)",
@@ -18953,21 +19184,21 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89823.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10274.ts"
       },
       {
         "name": "KZTV-TV CBS 10 (Corpus Christi TX)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89822.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9965.ts"
       },
       {
         "name": "KSCC-TV FOX 38 (Corpus Christi TX)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216549"
+        "url": "http://1tv41.icu:8080/live/tandphunt1@gmail.com/AAn4BJhH7f/216549.ts"
       },
       {
         "name": "KCBD-TV NBC 11 (Lubbock TX)",
@@ -18981,14 +19212,14 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38304.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9971.ts"
       },
       {
         "name": "KAMC-TV ABC 28 (Lubbock TX)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38303.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9845.ts"
       },
       {
         "name": "KJTV-TV FOX 34 (Lubbock TX)",
@@ -19002,56 +19233,63 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49124.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10283.ts"
       },
       {
         "name": "KENS-TV CBS 5 (San Antonio TX)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49122.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9973.ts"
       },
       {
         "name": "KSAT-TV ABC 12 (San Antonio TX)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49121.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9846.ts"
       },
       {
         "name": "KABB-TV FOX 29 (San Antonio TX)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49123.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10088.ts"
+      },
+      {
+        "name": "KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
+        "group": "Local Channels (Not 24/7)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117112.ts"
       },
       {
         "name": "KDFW-TV FOX 4 (Ft. Worth/Dallas TX)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49105.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10082.ts"
       },
       {
         "name": "KXAS-TV NBC 5 (Ft. Worth/Dallas TX)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49113.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10276.ts"
       },
       {
         "name": "WFAA-TV ABC 8 (Ft. Worth/Dallas TX)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49104.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9842.ts"
       },
       {
         "name": "KTVT-TV CBS 11 (Ft. Worth/Dallas TX)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49111.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9967.ts"
       },
       {
         "name": "KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX)",
@@ -19065,28 +19303,28 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49120.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10277.ts"
       },
       {
         "name": "KHOU-TV CBS 8 (Houston TX)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49117.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9970.ts"
       },
       {
         "name": "KTRK-TV ABC 13 (Houston TX)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49116.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9844.ts"
       },
       {
         "name": "KTXH-TV MyNetworkTV 20 (My20 Vision) (Houston TX)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49119.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117266.ts"
       },
       {
         "name": "KRIV-TV FOX 26 (Houston TX)",
@@ -19100,7 +19338,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/643838.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117265.ts"
       },
       {
         "name": "KTBC-TV FOX 7 (Austin TX)",
@@ -19114,14 +19352,14 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49095.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9840.ts"
       },
       {
         "name": "KXAN-TV NBC 36 (Austin TX)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49099.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10271.ts"
       },
       {
         "name": "KEYE-TV CBS 42 (Austin TX)",
@@ -19135,42 +19373,42 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48905.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9903.ts"
       },
       {
         "name": "WDSU-TV NBC 6 (New Orleans LA)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48765.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10180.ts"
       },
       {
         "name": "WVUE-TV FOX 8 (New Orleans LA)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48906.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/166859.ts"
       },
       {
         "name": "WGNO-TV ABC 26 (New Orleans LA)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48904.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9801.ts"
       },
       {
         "name": "WBRZ-TV ABC 2 (Baton Rouge LA)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48899.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9800.ts"
       },
       {
         "name": "WAFB-TV CBS 9 (Baton Rouge LA)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48901.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9901.ts"
       },
       {
         "name": "WVLA-TV NBC 33 (Baton Rouge LA)",
@@ -19184,28 +19422,28 @@
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48902.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10030.ts"
       },
       {
         "name": "KTBS-TV ABC 3 (Shreveport LA)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48907.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9802.ts"
       },
       {
         "name": "KTAL-TV NBC 6 (Shreveport LA)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48910.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10181.ts"
       },
       {
         "name": "KSLA-TV CBS 12 (Shreveport LA)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48908.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9904.ts"
       },
       {
         "name": "KMSS-TV FOX 33 (Shreveport LA)",
@@ -19219,14 +19457,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/KTVK_logo.svg/1280px-KTVK_logo.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38298.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9860.ts"
       },
       {
         "name": "KPHO-TV CBS 5 (Phoenix AZ)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48775.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9859.ts"
       },
       {
         "name": "KSAZ-TV FOX 10.1 (Phoenix AZ)",
@@ -19240,21 +19478,21 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/2444.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10114.ts"
       },
       {
         "name": "KNXV-TV ABC 15 (Phoenix AZ)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48774.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9772.ts"
       },
       {
         "name": "KVOA-TV NBC 4 (Tucson AZ)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48779.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10115.ts"
       },
       {
         "name": "KGUN-TV ABC 9 (Tucson AZ)",
@@ -19275,42 +19513,42 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48777.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9861.ts"
       },
       {
         "name": "KSNV-TV NBC 3 (Las Vegas NV)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48985.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10221.ts"
       },
       {
         "name": "KVVU-TV FOX 5 (Las Vegas NV)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89699.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10054.ts"
       },
       {
         "name": "KLAS-TV CBS 8 (Las Vegas NV)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48983.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9930.ts"
       },
       {
         "name": "KTNV-TV ABC 13 (Las Vegas NV)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48982.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9821.ts"
       },
       {
         "name": "KVCW-TV CW 33 (Las Vegas NV)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48984.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117111.ts"
       },
       {
         "name": "KSWB-TV FOX 5/69 (San Diego CA)",
@@ -19324,14 +19562,14 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48799.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10125.ts"
       },
       {
         "name": "KFMB-TV CBS 8.1 (8+) (San Diego CA)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48796.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9867.ts"
       },
       {
         "name": "KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA)",
@@ -19345,7 +19583,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48795.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9776.ts"
       },
       {
         "name": "KUSI-TV Ind. 51 (San Diego CA)",
@@ -19387,21 +19625,21 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89444.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10122.ts"
       },
       {
         "name": "WJXT-TV 4 Ind. (Jacksonville FL)",
         "logo": "https://upload.wikimedia.org/wikipedia/en/1/1d/WJXT_Logo_2014.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48822.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117127.ts"
       },
       {
         "name": "WTLV-TV NBC 12 (Jacksonville FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48821.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10136.ts"
       },
       {
         "name": "WCWJ-TV CW 17 (Jacksonville FL)",
@@ -19415,42 +19653,42 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48817.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9783.ts"
       },
       {
         "name": "WFOX-TV FOX 30 (Jacksonville FL)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48820.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10007.ts"
       },
       {
         "name": "WJAX-TV CBS 47 (Jacksonville FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48818.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9876.ts"
       },
       {
         "name": "WPTV-TV NBC 5 (West Palm Beach FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48845.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10143.ts"
       },
       {
         "name": "WPEC-TV CBS 12 (West Palm Beach FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48843.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9881.ts"
       },
       {
         "name": "WPBF-TV ABC 25 (West Palm Beach FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/672344.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9790.ts"
       },
       {
         "name": "WFLX-TV FOX 29 (West Palm Beach FL)",
@@ -19464,14 +19702,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/630216.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117137.ts"
       },
       {
         "name": "WFTX-TV FOX 4 (Naples FL)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89482.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10009.ts"
       },
       {
         "name": "WZVN-TV ABC 7 (Naples FL)",
@@ -19485,119 +19723,119 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48815.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9878.ts"
       },
       {
         "name": "WBBH-TV NBC 20 (Naples FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48816.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10138.ts"
       },
       {
         "name": "KARK-TV NBC 4 (Litlle Rock AR)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48772.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10112.ts"
       },
       {
         "name": "KATV-TV ABC 7 (Litlle Rock AR)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48769.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/11198.ts"
       },
       {
         "name": "KTHV-TV CBS 11 (Litlle Rock AR)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48770.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9858.ts"
       },
       {
         "name": "KLRT-TV FOX 16 (Litlle Rock AR)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48771.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9992.ts"
       },
       {
         "name": "WBRC-TV FOX 6 (Birmingham AL)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48756.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9987.ts"
       },
       {
         "name": "WVTM-TV NBC 13 (Birmingham AL)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48757.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10105.ts"
       },
       {
         "name": "WIAT-TV CBS 42 (Birmingham AL)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48755.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9855.ts"
       },
       {
         "name": "WABM-TV ABC 68 (Birmingham AL)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48754.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117194.ts"
       },
       {
         "name": "WHNT-TV CBS 19 (Huntsville AL)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48759.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/11641.ts"
       },
       {
         "name": "WAAY-TV ABC 31 (Huntsville AL)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48758.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9769.ts"
       },
       {
         "name": "WAFF-TV NBC 48 (Huntsville AL)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48761.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10107.ts"
       },
       {
         "name": "WZDX-TV FOX 54 (Huntsville AL)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48760.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9989.ts"
       },
       {
         "name": "KTVI-TV FOX 2 (St. Louis MO)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48955.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10045.ts"
       },
       {
         "name": "KMOV-TV CBS 4 (St. Louis MO)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48954.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9919.ts"
       },
       {
         "name": "KSDK-TV NBC 5 (St. Louis MO)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48956.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10199.ts"
       },
       {
         "name": "KPLR-TV CW 11 (St. Louis MO)",
@@ -19744,56 +19982,56 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49086.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9962.ts"
       },
       {
         "name": "WMC-TV NBC 5 (Memphis TN)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49088.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10267.ts"
       },
       {
         "name": "WHBQ-TV FOX 13 (Memphis TN)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49087.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10078.ts"
       },
       {
         "name": "WATN-TV ABC 24 (Memphis TN)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49085.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9838.ts"
       },
       {
         "name": "WKRN-TV ABC 2 (Nashville TN)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49089.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9839.ts"
       },
       {
         "name": "WSMV-TV NBC 4 (Nashville TN)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49094.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10268.ts"
       },
       {
         "name": "WTVF-TV CBS 5 (Nashville TN)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49090.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9963.ts"
       },
       {
         "name": "WZTV-TV FOX 17.1 (Nashville TN)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49092.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10079.ts"
       },
       {
         "name": "WZTV-DT CW 17.2 (Nashville TN)",
@@ -19821,21 +20059,21 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/620009.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/14763.ts"
       },
       {
         "name": "WVLT-TV CBS 8 (Knoxville TN)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49082.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9961.ts"
       },
       {
         "name": "WBIR-TV NBC 10 (Knoxville TN)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49084.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10266.ts"
       },
       {
         "name": "WTNZ-TV FOX 43 (Knoxville TN)",
@@ -19849,7 +20087,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49081.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10264.ts"
       },
       {
         "name": "WTVC-TV ABC 9.1 (Chattanooga TN)",
@@ -19863,14 +20101,14 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49079.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9960.ts"
       },
       {
         "name": "KTVU-TV FOX 2 (San Francisco CA)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47678.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9996.ts"
       },
       {
         "name": "KRON-TV CW 4 (San Francisco CA)",
@@ -19884,21 +20122,21 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/30135.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9868.ts"
       },
       {
         "name": "KGO-TV ABC 7 (San Francisco CA)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/2669.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9777.ts"
       },
       {
         "name": "KNTV-TV NBC 10 (San Francisco CA)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/2438.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10126.ts"
       },
       {
         "name": "KICU-TV MyNetworkTV 36 (FOX 2+) (San Francisco CA)",
@@ -19919,28 +20157,28 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48794.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10123.ts"
       },
       {
         "name": "KXTV-TV ABC 10 (Sacramento CA)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48791.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9775.ts"
       },
       {
         "name": "KOVR-TV CBS 13 (Stockton/Sacramento CA)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48800.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9870.ts"
       },
       {
         "name": "KTXL-TV FOX 40 (Sacramento CA)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48793.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9997.ts"
       },
       {
         "name": "KMAX-TV CW 31 (Sacramento CA)",
@@ -19961,21 +20199,21 @@
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48782.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/237672.ts"
       },
       {
         "name": "KFSN-TV ABC 30 (Fresno CA)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48780.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9773.ts"
       },
       {
         "name": "KGPE-TV CBS 47 (Fresno CA)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48781.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9863.ts"
       },
       {
         "name": "WFRE-TV CW 59 (Fresno CA)",
@@ -19989,21 +20227,21 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48847.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9791.ts"
       },
       {
         "name": "WAGA-TV FOX 5 (Atlanta GA)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48849.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10015.ts"
       },
       {
         "name": "WXIA-TV NBC 11 (Atlanta GA)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48850.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10145.ts"
       },
       {
         "name": "WPCH-TV Peachtree TV CW 17 (Atlanta GA)",
@@ -20017,49 +20255,49 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/2652.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9882.ts"
       },
       {
         "name": "WUPA-TV CBS/Ind. 69 (Atlanta GA)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48848.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117118.ts"
       },
       {
         "name": "WJBF-TV ABC 6 (Augusta GA)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38284.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9792.ts"
       },
       {
         "name": "WRDW-DT CBS 12 (Augusta GA)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89519.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9883.ts"
       },
       {
         "name": "WAGT-TV NBC 26 (Augusta GA)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89521.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10146.ts"
       },
       {
         "name": "WFXG-TV FOX 54 (Augusta GA)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89520.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10016.ts"
       },
       {
         "name": "WRBL-DT CBS 3 (Columbus GA)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/640216.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/11199.ts"
       },
       {
         "name": "WTVM-TV ABC 9 (Columbus GA)",
@@ -20073,7 +20311,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89523.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10147.ts"
       },
       {
         "name": "WTVX-TV FOX 54 (Columbus GA)",
@@ -20087,21 +20325,21 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48963.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9923.ts"
       },
       {
         "name": "WSOC-TV ABC 9 (Charlotte NC)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48962.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9815.ts"
       },
       {
         "name": "WCNC-TV NBC 36 (Charlotte NC)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48964.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10211.ts"
       },
       {
         "name": "WJZY-TV FOX 46 (Charlotte NC)",
@@ -20115,14 +20353,14 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48972.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10212.ts"
       },
       {
         "name": "WTVD-TV ABC 11 (Raleigh NC)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48965.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9817.ts"
       },
       {
         "name": "WNCN-TV CBS 17 (Raleigh NC)",
@@ -20136,14 +20374,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48970.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117195.ts"
       },
       {
         "name": "WRAZ-TV FOX 50 (Raleigh NC)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48971.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10050.ts"
       },
       {
         "name": "KWGN-TV CW 2 (Denver CO)",
@@ -20157,28 +20395,28 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48804.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9872.ts"
       },
       {
         "name": "KMGH-TV ABC 7 (Denver CO)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48803.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9778.ts"
       },
       {
         "name": "KUSA-TV NBC 9 (Denver CO)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48806.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10128.ts"
       },
       {
         "name": "KDVR-TV FOX 31 (Denver CO)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48805.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10003.ts"
       },
       {
         "name": "KMTV-TV CBS 3 (Omaha NE)",
@@ -20192,7 +20430,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48978.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10218.ts"
       },
       {
         "name": "KETV-TV ABC 13 (Omaha NE)",
@@ -20213,7 +20451,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49132.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9848.ts"
       },
       {
         "name": "WUPV-TV CW 11 (Richmond VA)",
@@ -20227,7 +20465,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49134.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10290.ts"
       },
       {
         "name": "WRLH-TV FOX 35 (Richmond VA)",
@@ -20241,28 +20479,28 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48813.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10132.ts"
       },
       {
         "name": "WTTG-TV FOX 5 (Washington DC)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/47691.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10005.ts"
       },
       {
         "name": "WJLA-TV ABC 7 (Washington DC)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48812.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9780.ts"
       },
       {
         "name": "WUSA-TV CBS 9 (Washington DC)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/559692.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9874.ts"
       },
       {
         "name": "WCDW-TV CW 50 (Washington DC)",
@@ -20276,28 +20514,28 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49014.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9804.ts"
       },
       {
         "name": "WBAL-TV NBC 11 (Baltimore MD)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48921.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10184.ts"
       },
       {
         "name": "WJZ-TV CBS 13 (Baltimore MD)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48918.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9907.ts"
       },
       {
         "name": "WBFF-TV FOX 45 (Baltimore MD)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48920.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10036.ts"
       },
       {
         "name": "WNUV-TV CW 54 (Baltimore MD)",
@@ -20311,56 +20549,56 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89441.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9866.ts"
       },
       {
         "name": "KUTV-TV CBS 2 (Salt Lake City UT)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49129.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9975.ts"
       },
       {
         "name": "KTVX-TV ABC 4 (Salt Lake City UT)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49128.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9847.ts"
       },
       {
         "name": "KSL-TV NBC 5 (Salt Lake City UT)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/591882.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10287.ts"
       },
       {
         "name": "KSTU-TV FOX 13 (Salt Lake City UT)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49130.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10091.ts"
       },
       {
         "name": "KFOR-TV NBC 4 (Oklahoma City OK)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49040.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10243.ts"
       },
       {
         "name": "KOCO-TV ABC 5 (Oklahoma City OK)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49036.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9830.ts"
       },
       {
         "name": "KWTV-TV CBS 9 (Oklahoma City OK)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49037.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9944.ts"
       },
       {
         "name": "KOKH-TV FOX 25 (Oklahoma City OK)",
@@ -20381,77 +20619,84 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49027.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10235.ts"
       },
       {
         "name": "WSYX-TV ABC 6 (Columbus OH)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49024.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9828.ts"
       },
       {
         "name": "WBNS-TV CBS 10 (Columbus OH)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49025.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9939.ts"
       },
       {
         "name": "WTTE-TV FOX 28 (Columbus OH)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49026.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10060.ts"
       },
       {
         "name": "WWHO-TV CW 53 (Columbus OH)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/629939.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117115.ts"
       },
       {
         "name": "WKYC-TV NBC 3 (Cleveland OH)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49023.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10234.ts"
       },
       {
         "name": "WEWS-TV ABC 5 (Cleveland OH)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49020.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9827.ts"
       },
       {
         "name": "WJW-TV FOX 8 (Cleveland OH)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49022.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10059.ts"
       },
       {
         "name": "WOIO CBS 19 (Cleveland OH)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49021.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9941.ts"
       },
       {
         "name": "WLWT-TV NBC 5 (Cincinnati OH)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49019.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10233.ts"
       },
       {
         "name": "WCPO-TV ABC 9 (Cincinnati OH)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49015.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9826.ts"
+      },
+      {
+        "name": "WKRC-TV CBS 12 (Cincinnati OH)",
+        "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
+        "group": "Local Channels (Not 24/7)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49023.ts"
       },
       {
         "name": "WSTR-TV MyNetworkTV 64 (Cincinnati OH)",
@@ -20465,14 +20710,14 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49031.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10236.ts"
       },
       {
         "name": "WHIO-TV CBS 7 (Dayton OH)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49029.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9940.ts"
       },
       {
         "name": "WKEF-TV ABC 22 (Dayton OH)",
@@ -20493,14 +20738,14 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49033.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9942.ts"
       },
       {
         "name": "WTVG-TV ABC 13 (Toledo OH)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49032.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/13039.ts"
       },
       {
         "name": "WNWO-TV NBC 24 (Toledo OH)",
@@ -20535,42 +20780,42 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48879.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9797.ts"
       },
       {
         "name": "WTHR-TV NBC 13 (Indianapolis IN)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48881.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10166.ts"
       },
       {
         "name": "WXIN-TV FOX 59 (Indianapolis IN)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48880.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10026.ts"
       },
       {
         "name": "WGRZ-TV NBC 2 (Buffalo NY)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48995.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10225.ts"
       },
       {
         "name": "WIVB-TV CBS 4 (Buffalo NY)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48992.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9933.ts"
       },
       {
         "name": "WKBW-TV ABC 7 (Buffalo NY)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48990.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9823.ts"
       },
       {
         "name": "WNLO-TV CW 23 (Buffalo NY)",
@@ -20584,7 +20829,7 @@
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48993.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/11640.ts"
       },
       {
         "name": "WNYO-TV MyNetworkTV 49 (Buffalo NY)",
@@ -20598,21 +20843,21 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49006.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9936.ts"
       },
       {
         "name": "WTEN-TV ABC 10 (Albany NY)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48986.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9822.ts"
       },
       {
         "name": "WNYT-TV NBC 13 (Albany NY)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48989.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10223.ts"
       },
       {
         "name": "WCWN-TV CW 15 (Albany NY)",
@@ -20626,21 +20871,21 @@
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48988.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10055.ts"
       },
       {
         "name": "WSTM-TV NBC 3 (Syracuse NY)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49013.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10230.ts"
       },
       {
         "name": "WTVH-TV CBS 5 (Syracuse NY)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49010.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9937.ts"
       },
       {
         "name": "WSYR-TV ABC 9 (Syracuse  NY)",
@@ -20661,14 +20906,14 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48923.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10187.ts"
       },
       {
         "name": "WGME-TV CBS 13 (Portland ME)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48922.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9909.ts"
       },
       {
         "name": "WPFO-TV FOX 23 (Portland ME)",
@@ -20682,21 +20927,21 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49045.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9832.ts"
       },
       {
         "name": "KOIN-TV CBS 6 (Portland OR)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49046.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9947.ts"
       },
       {
         "name": "KGW-TV NBC 8 (Portland OR)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49048.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/11644.ts"
       },
       {
         "name": "KPTV-TV FOX 12 (Portland OR)",
@@ -20710,14 +20955,14 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48960.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10202.ts"
       },
       {
         "name": "WJTV-TV CBS 12.1 (Jackson MS)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48958.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9922.ts"
       },
       {
         "name": "WJTV-DT CW 12.2 (Jackson MS)",
@@ -20738,14 +20983,14 @@
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/89656.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10047.ts"
       },
       {
         "name": "WISC-TV CBS 3 (Madison WI)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49152.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9983.ts"
       },
       {
         "name": "WMTV-TV NBC 15 (Madison WI)",
@@ -20759,7 +21004,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49151.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9852.ts"
       },
       {
         "name": "WMSN-TV FOX 47 (Madison WI)",
@@ -20773,56 +21018,56 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49159.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10298.ts"
       },
       {
         "name": "WITI-TV FOX 6 (Milwaukee WI)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49158.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10100.ts"
       },
       {
         "name": "WVTV-TV CW 18 (Milwaukee WI)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49157.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117108.ts"
       },
       {
         "name": "WISN-TV ABC 12 (Milwaukee WI)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49155.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9853.ts"
       },
       {
         "name": "WDJT-TV CBS 58 (Milwaukee WI)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49156.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9984.ts"
       },
       {
         "name": "WBAY-TV ABC 2 (Green Bay WI)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49147.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9851.ts"
       },
       {
         "name": "WFRV-TV CBS 5 (Green Bay WI)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49148.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9981.ts"
       },
       {
         "name": "WLUK-TV FOX 11 (Green Bay WI)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49149.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/253384.ts"
       },
       {
         "name": "WCWF-TV CW 14 (Green Bay WI)",
@@ -20836,7 +21081,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49150.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10295.ts"
       },
       {
         "name": "KREM-TV CBS 2 (Spokane WA)",
@@ -20850,77 +21095,77 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49140.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9850.ts"
       },
       {
         "name": "KING-TV NBC 5 (Seattle WA)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49142.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10293.ts"
       },
       {
         "name": "KIRO-TV CBS 7 (Seattle WA)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49141.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9978.ts"
       },
       {
         "name": "KSTW-TV CW/Ind. 11 (Seattle WA)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49145.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117275.ts"
       },
       {
         "name": "KCPQ-TV FOX 13 (Seattle WA)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/49146.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10097.ts"
       },
       {
         "name": "WAVE-TV NBC 3 (Louisville KY)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48896.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10174.ts"
       },
       {
         "name": "WHAS-TV ABC 11 (Louisville KY)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48893.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9799.ts"
       },
       {
         "name": "WLKY-TV CBS 32 (Louisville KY)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48894.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9900.ts"
       },
       {
         "name": "WDRB-TV FOX 41 (Louisville KY)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48895.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10028.ts"
       },
       {
         "name": "WLEX-TV NBC 18 (Lexington KY)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48892.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10173.ts"
       },
       {
         "name": "WKYT-TV CBS 27.1 (Lexington KY)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48890.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9899.ts"
       },
       {
         "name": "WKYT-DT CW 27.2 (Lexington KY)",
@@ -20934,14 +21179,14 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48889.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9798.ts"
       },
       {
         "name": "WDKY-TV FOX 56 (Lexington KY)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48891.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10027.ts"
       },
       {
         "name": "KXLF-TV CBS 4 (Butte MT)",
@@ -20976,7 +21221,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38320.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10102.ts"
       },
       {
         "name": "KTBY-TV FOX 4 (Anchorage AK)",
@@ -20990,7 +21235,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/38317.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9767.ts"
       },
       {
         "name": "KTVA-TV CBS 22 (Anchorage AK)",
@@ -21004,7 +21249,7 @@
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48857.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10018.ts"
       },
       {
         "name": "KHON-DT CW 2.2 (Honolulu HI)",
@@ -21018,21 +21263,21 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48855.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9793.ts"
       },
       {
         "name": "KGMB-TV CBS 5 (Honolulu HI)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48856.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/9887.ts"
       },
       {
         "name": "KHNL-TV NBC 13 (Honolulu HI)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/live/Babeboi11/9785992589/48858.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/10150.ts"
       }
     ],
     "Local News 24/7": [
@@ -21048,7 +21293,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local News 24/7",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://d2kowtvrzzi7ps.cloudfront.net/11602/88889710/hls/playlist.m3u8?ads.xumo_channelId=88889710"
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951164/hls/master.m3u8?ads.xumo_channelId=99951164"
       },
       {
         "name": "KABC-TV ABC 7 24/7 News (Los Angeles CA)",
@@ -21069,7 +21314,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local News 24/7",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://d2kowtvrzzi7ps.cloudfront.net/11602/88889709/hls/playlist.m3u8?ads.xumo_channelId=88889709"
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951163/hls/master.m3u8?ads.xumo_channelId=99951163"
       },
       {
         "name": "WNYW-TV FOX 5 24/7 News (New York NY)",
@@ -21097,7 +21342,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local News 24/7",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://d2kowtvrzzi7ps.cloudfront.net/11602/88889704/hls/playlist.m3u8?ads.xumo_channelId=88889704"
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951165/hls/playlist.m3u8?ads.xumo_channelId=99951165"
       },
       {
         "name": "WLS-TV ABC 7 24/7 News (Chicago IL)",
@@ -21167,7 +21412,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local News 24/7",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://d2kowtvrzzi7ps.cloudfront.net/11602/88889705/hls/playlist.m3u8?ads.xumo_channelId=88889705"
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951166/hls/master.m3u8?ads.xumo_channelId=99951166"
       },
       {
         "name": "WTXF-TV FOX 29 24/7 News (Philadelphia PA)",
@@ -21188,7 +21433,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local News 24/7",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951168/hls/playlist.m3u8?ads.xumo_channelId=99951168"
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951168/hls/master.m3u8?ads.xumo_channelId=99951168"
       },
       {
         "name": "WFXT-CD FOX 25 24/7 News (Boston MA)",
@@ -21209,7 +21454,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local News 24/7",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://d2kowtvrzzi7ps.cloudfront.net/11602/88889702/hls/playlist.m3u8?ads.xumo_channelId=88889702"
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951167/hls/master.m3u8?ads.xumo_channelId=99951167"
       },
       {
         "name": "WTSP-TV CBS 10 24/7 News (Tampa Bay FL)",
@@ -21279,7 +21524,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local News 24/7",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://d2kowtvrzzi7ps.cloudfront.net/11602/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a"
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951182/hls/master.m3u8?ads.xumo_channelId=99951182"
       },
       {
         "name": "WFFA-TV ABC 8 24/7 News (Ft. Worth/Dallas TX)",
@@ -21356,7 +21601,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local News 24/7",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://d2kowtvrzzi7ps.cloudfront.net/11602/88889712/hls/playlist.m3u8?ads.xumo_channelId=88889712"
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951185/hls/master.m3u8?ads.xumo_channelId=99951185"
       },
       {
         "name": "KFMB-TV CBS 8 24/7 News (San Diego CA)",
@@ -21398,7 +21643,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local News 24/7",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951162/hls/playlist.m3u8?ads.xumo_channelId=99951162"
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951162/hls/master.m3u8?ads.xumo_channelId=99951162&ads.asnw=169843"
       },
       {
         "name": "KESQ-TV 3 ABC 24/7 News (Palm Springs CA)",
@@ -21482,7 +21727,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local News 24/7",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951181/hls/playlist.m3u8?ads.xumo_channelId=99951181"
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951181/hls/master.m3u8?ads.xumo_channelId=99951181"
       },
       {
         "name": "WTTG-TV FOX 5 24/7 News (Washington DC)",
@@ -37301,7 +37546,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/3092.ts"
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/129736.ts"
       },
       {
         "name": "NFL Network (Canada)",
