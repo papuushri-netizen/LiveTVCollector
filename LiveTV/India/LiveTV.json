@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-13 13:55:34",
+  "date": "2025-10-14 06:46:43",
   "channels": {
     "News": [
       {
@@ -1488,7 +1488,7 @@
         "logo": "https://i.imgur.com/xC460sj.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8"
+        "url": "http://116.90.120.149:8000/play/a0c2/index.m3u8"
       },
       {
         "name": "Star Gold Romance (576p)",
@@ -1540,11 +1540,11 @@
         "url": "https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8"
       },
       {
-        "name": "Star Utsav Movies (576p)",
+        "name": "Star Utsav Movies (576p) [Not 24/7]",
         "logo": "https://i.imgur.com/k5QHfH2.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8"
+        "url": "http://116.90.120.149:8000/play/a02r/index.m3u8"
       },
       {
         "name": "Studio One + (720p)",
@@ -2067,18 +2067,11 @@
         "url": "https://live.dinesh29.com.np/stream/jiotvplus/suvarna/master.m3u8"
       },
       {
-        "name": "Star Vijay HD (1080p)",
-        "logo": "https://i.imgur.com/dZtJHAe.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://live.dinesh29.com.np/stream/jiotvplus/starvijayhd/master.m3u8"
-      },
-      {
         "name": "StarPlus HD (1080p)",
         "logo": "https://i.imgur.com/xWxNy3L.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8"
+        "url": "http://116.90.120.149:8000/play/a0b9/index.m3u8"
       },
       {
         "name": "Sun Neo (1080p)",
@@ -2859,11 +2852,11 @@
         "url": "https://live.dinesh29.com.np/stream/jiotvplus/suvarnaplus/master.m3u8"
       },
       {
-        "name": "Star Utsav (576p)",
+        "name": "Star Utsav (576p) [Not 24/7]",
         "logo": "https://i.imgur.com/H1jhHDl.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8"
+        "url": "http://116.90.120.149:8000/play/a02t/index.m3u8"
       },
       {
         "name": "Subharti TV (576p)",
@@ -3850,7 +3843,7 @@
         "logo": "https://i.imgur.com/JkGvrc6.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8"
+        "url": "http://116.90.120.149:8000/play/a0e9/index.m3u8"
       },
       {
         "name": "Disney Junior (576p)",

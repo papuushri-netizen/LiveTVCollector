@@ -644,13 +644,8 @@ URL: https://live.dinesh29.com.np/stream/jiotvplus/suvarna/master.m3u8
 Logo: https://i.imgur.com/U9FA4Gs.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Star Vijay HD (1080p)
-URL: https://live.dinesh29.com.np/stream/jiotvplus/starvijayhd/master.m3u8
-Logo: https://i.imgur.com/dZtJHAe.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: StarPlus HD (1080p)
-URL: https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+URL: http://116.90.120.149:8000/play/a0b9/index.m3u8
 Logo: https://i.imgur.com/xWxNy3L.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1045,7 +1040,7 @@ Logo: https://i.postimg.cc/854KwmH1/disneychannel.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Disney International HD (1080p)
-URL: https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
+URL: http://116.90.120.149:8000/play/a0e9/index.m3u8
 Logo: https://i.imgur.com/JkGvrc6.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1286,7 +1281,7 @@ Logo: https://i.imgur.com/G0ZfzZr.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Gold HD (1080p)
-URL: https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
+URL: http://116.90.120.149:8000/play/a0c2/index.m3u8
 Logo: https://i.imgur.com/xC460sj.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1325,8 +1320,8 @@ URL: https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u
 Logo: https://i.imgur.com/bnzDNCF.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Star Utsav Movies (576p)
-URL: https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8
+Name: Star Utsav Movies (576p) [Not 24/7]
+URL: http://116.90.120.149:8000/play/a02r/index.m3u8
 Logo: https://i.imgur.com/k5QHfH2.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -8661,8 +8656,8 @@ URL: https://live.dinesh29.com.np/stream/jiotvplus/suvarnaplus/master.m3u8
 Logo: https://i.imgur.com/xlCOq0l.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Star Utsav (576p)
-URL: https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
+Name: Star Utsav (576p) [Not 24/7]
+URL: http://116.90.120.149:8000/play/a02t/index.m3u8
 Logo: https://i.imgur.com/H1jhHDl.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------

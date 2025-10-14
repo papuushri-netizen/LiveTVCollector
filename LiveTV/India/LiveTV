@@ -1268,7 +1268,7 @@
   {
     "name": "Star Gold HD (1080p)",
     "type": "Movies",
-    "url": "https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8",
+    "url": "http://116.90.120.149:8000/play/a0c2/index.m3u8",
     "img": "https://i.imgur.com/xC460sj.png"
   },
   {
@@ -1314,9 +1314,9 @@
     "img": "https://i.imgur.com/bnzDNCF.png"
   },
   {
-    "name": "Star Utsav Movies (576p)",
+    "name": "Star Utsav Movies (576p) [Not 24/7]",
     "type": "Movies",
-    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8",
+    "url": "http://116.90.120.149:8000/play/a02r/index.m3u8",
     "img": "https://i.imgur.com/k5QHfH2.png"
   },
   {
@@ -1764,15 +1764,9 @@
     "img": "https://i.imgur.com/U9FA4Gs.png"
   },
   {
-    "name": "Star Vijay HD (1080p)",
-    "type": "Entertainment",
-    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starvijayhd/master.m3u8",
-    "img": "https://i.imgur.com/dZtJHAe.png"
-  },
-  {
     "name": "StarPlus HD (1080p)",
     "type": "Entertainment",
-    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8",
+    "url": "http://116.90.120.149:8000/play/a0b9/index.m3u8",
     "img": "https://i.imgur.com/xWxNy3L.png"
   },
   {
@@ -2436,9 +2430,9 @@
     "img": "https://i.imgur.com/xlCOq0l.png"
   },
   {
-    "name": "Star Utsav (576p)",
+    "name": "Star Utsav (576p) [Not 24/7]",
     "type": "Undefined",
-    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8",
+    "url": "http://116.90.120.149:8000/play/a02t/index.m3u8",
     "img": "https://i.imgur.com/H1jhHDl.png"
   },
   {
@@ -3272,7 +3266,7 @@
   {
     "name": "Disney International HD (1080p)",
     "type": "Kids",
-    "url": "https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8",
+    "url": "http://116.90.120.149:8000/play/a0e9/index.m3u8",
     "img": "https://i.imgur.com/JkGvrc6.png"
   },
   {

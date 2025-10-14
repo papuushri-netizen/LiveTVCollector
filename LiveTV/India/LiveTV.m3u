@@ -422,7 +422,7 @@ https://nxtlive.net/sliv/stream.php?id=0898545986&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="Movies",Star Gold 2 HD (576p)
 http://116.90.120.149:8000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xC460sj.png" group-title="Movies",Star Gold HD (1080p)
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
+http://116.90.120.149:8000/play/a0c2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSWv9U3.png" group-title="Movies",Star Gold Romance (576p)
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Movies",Star Gold Select HD (1080p)
@@ -437,8 +437,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/maamovieshd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnzDNCF.png" group-title="Movies",Star Movies Select HD (1080p)
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k5QHfH2.png" group-title="Movies",Star Utsav Movies (576p)
-https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k5QHfH2.png" group-title="Movies",Star Utsav Movies (576p) [Not 24/7]
+http://116.90.120.149:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Movies",Studio One + (720p)
 https://cdn-1.pishow.tv/live/276/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FkSCjIo.png" group-title="Movies",Surya Movies (1080p)
@@ -587,10 +587,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/maahd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starpravahhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U9FA4Gs.png" group-title="Entertainment",Star Suvarna (576p)
 https://live.dinesh29.com.np/stream/jiotvplus/suvarna/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dZtJHAe.png" group-title="Entertainment",Star Vijay HD (1080p)
-https://live.dinesh29.com.np/stream/jiotvplus/starvijayhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",StarPlus HD (1080p)
-https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+http://116.90.120.149:8000/play/a0b9/index.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194389/1920x1080_SunNeoHD_194389_5edd34c1-4574-452e-a613-2f4140cd636f.jpg" group-title="Entertainment",Sun Neo (1080p)
 https://live.dinesh29.com.np/stream/jiotvplus/sunneohd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NqXpFXU.png" group-title="Entertainment",Surya TV (1080p)
@@ -811,8 +809,8 @@ https://tv.bdixtv24.com/toffee/live.php?e=.m3u8&id=ea02096b0fbc
 https://nxtlive.net/sliv/stream.php?id=0657898986&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xlCOq0l.png" group-title="Undefined",Star Suvarna Plus (576p)
 https://live.dinesh29.com.np/stream/jiotvplus/suvarnaplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H1jhHDl.png" group-title="Undefined",Star Utsav (576p)
-https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1jhHDl.png" group-title="Undefined",Star Utsav (576p) [Not 24/7]
+http://116.90.120.149:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9hdNFtt.png" group-title="Undefined",Subharti TV (576p)
 https://yuppftalive.akamaized.net/080823/subhartitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfk5jKE.png" group-title="Undefined",Subhavaartha TV (720p)
@@ -1090,7 +1088,7 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel (576p) [Not 24/7]
 http://116.90.120.149:8000/play/a0bx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JkGvrc6.png" group-title="Kids",Disney International HD (1080p)
-https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
+http://116.90.120.149:8000/play/a0e9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvRqrLg2/disneyjunior.png" group-title="Kids",Disney Junior (576p)
 http://116.90.120.149:8000/play/a0b3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bvbf9o7.png" group-title="Kids",Gubbare (1080p)
