@@ -3230,7 +3230,7 @@
   {
     "name": "NBC Sports NOW",
     "type": "Sports",
-    "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253",
+    "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814624/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814624",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -18608,7 +18608,7 @@
   {
     "name": "WVIZ-TV PBS 25.1 (Cleveland OH)",
     "type": "Local Public Broadcast",
-    "url": "http://gjntpkk.leadcool.xyz:900/live/2731921600/1135460737/182660.ts",
+    "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/243548.ts",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png"
   },
   {
@@ -18632,7 +18632,7 @@
   {
     "name": "WTVS-TV PBS 56.1 (Detroit MI)",
     "type": "Local Public Broadcast",
-    "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/88066.ts",
+    "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/243533.ts",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png"
   },
   {
@@ -18640,12 +18640,6 @@
     "type": "Local Public Broadcast",
     "url": "https://d2jalth387y2js.cloudfront.net/test.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "WTTW-TV PBS 11 (Chicago IL)",
-    "type": "Local Public Broadcast",
-    "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/446780.ts",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png"
   },
   {
     "name": "KMOS-TV PBS 6 (Columbia/Sedalia/Jefferson City MO)",
@@ -18728,19 +18722,19 @@
   {
     "name": "KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA)",
     "type": "Local Public Broadcast",
-    "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/597137.ts",
+    "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/243518.ts",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png"
   },
   {
     "name": "WNET-TV PBS 13 (New York NY)",
     "type": "Local Public Broadcast",
-    "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/66782.ts",
+    "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/243542.ts",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png"
   },
   {
     "name": "WLIW-TV PBS 21 (New York NY)",
     "type": "Local Public Broadcast",
-    "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/446770.ts",
+    "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/243563.ts",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png"
   },
   {
@@ -18752,7 +18746,7 @@
   {
     "name": "WNED-TV BTPM PBS 17 (Buffalo NY/Toronto ON)",
     "type": "Local Public Broadcast",
-    "url": "http://user.scalecdn.co:8080/live/sonnyaj0914/2678048757/470321.ts",
+    "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/243541.ts",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png"
   },
   {
@@ -19766,8 +19760,8 @@
   {
     "name": "Caso Cerrado 24/7",
     "type": "Latino (Spanish)",
-    "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814577/hls/master.m3u8",
-    "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
+    "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814577/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814577",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "KVEA-TV Telemundo 52 (Corona/Los Angeles CA)",
@@ -22892,7 +22886,7 @@
   {
     "name": "Grit Xtra",
     "type": "Network Channels",
-    "url": "https://amg01438-ewscripps-amg01438c46-cw-us-2390.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippsgritxtra-cwus/playlist.m3u8",
+    "url": "https://3388c194738a4b5b8a2dcc2c497d1344.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_GritXtra/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -22940,7 +22934,7 @@
   {
     "name": "Bounce XL",
     "type": "Network Channels",
-    "url": "https://dbrb49pjoymg4.cloudfront.net/10001/9999613/hls/playlist.m3u8?ads.xumo_channelId=9999613",
+    "url": "https://a6b36c3063ad43c38e9b2deac8b1bb69.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_BounceXL/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
