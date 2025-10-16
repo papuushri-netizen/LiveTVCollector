@@ -4849,6 +4849,11 @@ URL: https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 Logo: https://i.imgur.com/sXsAcZ3.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
+Name: Indosiar (1080p)
+URL: http://203.77.246.58:4500/udp/239.1.1.110:5000
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png
+Source: https://iptv-org.github.io/iptv/countries/id.m3u
+--------------------------------------------------
 Name: Jambi TV (576p) [Not 24/7]
 URL: http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
 Logo: https://i.imgur.com/BaNtB6K.png
@@ -4927,6 +4932,11 @@ Source: https://iptv-org.github.io/iptv/countries/id.m3u
 Name: Sampit TV (720p) [Not 24/7]
 URL: https://sampit-tv.siar.us/live/sampit-tv.m3u8
 Logo: https://i.imgur.com/8cFJa8G.png
+Source: https://iptv-org.github.io/iptv/countries/id.m3u
+--------------------------------------------------
+Name: SCTV (1080p)
+URL: http://203.77.246.58:4500/udp/239.1.1.108:5000
+Logo: https://i.imgur.com/EMmOvnQ.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
 Name: TVRI Riau (720p) [Not 24/7]
@@ -20287,7 +20297,7 @@ Logo: https://i.imgur.com/tbtF40p.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------
 Name: Banyumas TV (720p) [Not 24/7]
-URL: https://5bf7b725107e5.streamlock.net:443/bmstv/bmstv/playlist.m3u8
+URL: https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 Logo: https://i.imgur.com/snMxng5.png
 Source: https://iptv-org.github.io/iptv/countries/id.m3u
 --------------------------------------------------

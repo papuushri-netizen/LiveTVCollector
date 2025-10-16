@@ -25392,6 +25392,12 @@
     "img": "https://i.imgur.com/sXsAcZ3.png"
   },
   {
+    "name": "Indosiar (1080p)",
+    "type": "General",
+    "url": "http://203.77.246.58:4500/udp/239.1.1.110:5000",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"
+  },
+  {
     "name": "Jambi TV (576p) [Not 24/7]",
     "type": "General",
     "url": "http://122.248.43.138:1935/ch23/myStream/playlist.m3u8",
@@ -25488,6 +25494,12 @@
     "img": "https://i.imgur.com/8cFJa8G.png"
   },
   {
+    "name": "SCTV (1080p)",
+    "type": "General",
+    "url": "http://203.77.246.58:4500/udp/239.1.1.108:5000",
+    "img": "https://i.imgur.com/EMmOvnQ.png"
+  },
+  {
     "name": "TVRI Riau (720p) [Not 24/7]",
     "type": "General",
     "url": "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8",
@@ -25520,7 +25532,7 @@
   {
     "name": "Banyumas TV (720p) [Not 24/7]",
     "type": "Undefined",
-    "url": "https://5bf7b725107e5.streamlock.net:443/bmstv/bmstv/playlist.m3u8",
+    "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
     "img": "https://i.imgur.com/snMxng5.png"
   },
   {
