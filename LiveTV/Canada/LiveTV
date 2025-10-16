@@ -2142,9 +2142,9 @@
     "img": "https://i.imgur.com/Y5YnUit.png"
   },
   {
-    "name": "Pardesi TV (720p)",
+    "name": "Pardesi TV (720p) [Not 24/7]",
     "type": "Culture",
-    "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
+    "url": "http://stream.pardesitv.online/pardesi/index.m3u8",
     "img": "https://i.imgur.com/CwAdPpZ.jpg"
   },
   {

@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-15 21:58:29",
+  "date": "2025-10-16 07:26:21",
   "channels": {
     "Pluto TV House of Horror": [
       {
@@ -2562,11 +2562,11 @@
         "url": "http://live.greektv.ca/hls1/greektv.m3u8"
       },
       {
-        "name": "Pardesi TV (720p)",
+        "name": "Pardesi TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/CwAdPpZ.jpg",
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
+        "url": "http://stream.pardesitv.online/pardesi/index.m3u8"
       }
     ],
     "Education": [
