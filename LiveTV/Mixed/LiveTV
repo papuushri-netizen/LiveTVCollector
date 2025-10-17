@@ -536,7 +536,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZjExNDc4N2UtNjU5Mi00N2RmLWIwOTMtMDcyNDQwZTA0YjYyIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiN2NiYmUzNTMtNDk0Zi00ODUwLWJkODMtN2YxMzg2NDI5ZGYwIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -572,7 +572,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNTEzNDA0OTUtNGFlNy00YzhmLWFiYjEtY2Q3NWRlNDg0YWMwIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
+    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiY2NhZTAwZDItMDJmZi00NzAyLWEyYjAtYmZkY2ZjOTBlYzExIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1158,16 +1158,10 @@
     "img": "https://lh4.ggpht.com/f-zQdGn5dAUEybjbCJ94QTfabrzijJBNcADcaWn5dCoA3isCWrnN7-Pj0C73wSCbmHQ=w300"
   },
   {
-    "name": "RTM SPECIAL",
+    "name": "RADIO BRUNEI🇧🇳",
     "type": "Uncategorized",
     "url": "http://youtube.com",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/e/e2/RTMKlik.png"
-  },
-  {
-    "name": "BRUNEI🇧🇳",
-    "type": "Uncategorized",
-    "url": "http://www.youtube.com/",
-    "img": "tvbrunei.png"
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Radio_Televisyen_Brunei.svg/1200px-Radio_Televisyen_Brunei.svg.png"
   },
   {
     "name": "Falastini TV (1080p)",
@@ -3882,48 +3876,6 @@
     "img": "https://billing.tv4k.me/pb/x4-logo.png"
   },
   {
-    "name": "APETITO",
-    "type": "RTM SPECIAL",
-    "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8",
-    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/APETTO%20Malay.png"
-  },
-  {
-    "name": "AURA",
-    "type": "RTM SPECIAL",
-    "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8",
-    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/AURA%20Malay.png"
-  },
-  {
-    "name": "FITRAH",
-    "type": "RTM SPECIAL",
-    "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8",
-    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/FITRAH%20Malay.png"
-  },
-  {
-    "name": "JR.",
-    "type": "RTM SPECIAL",
-    "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8",
-    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/JR.%20Malay.png"
-  },
-  {
-    "name": "LEAD",
-    "type": "RTM SPECIAL",
-    "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8",
-    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/LEAD%20Malay.png"
-  },
-  {
-    "name": "ROLL",
-    "type": "RTM SPECIAL",
-    "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8",
-    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/ROLL%20Malay.png"
-  },
-  {
-    "name": "SNAP",
-    "type": "RTM SPECIAL",
-    "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8",
-    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/SNAP%20MALAY.png"
-  },
-  {
     "name": "ARENA SPORT PREMIUM 1",
     "type": "SPORTS",
     "url": "https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd",
@@ -4252,6 +4204,48 @@
     "type": "SPORTS",
     "url": "https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg"
+  },
+  {
+    "name": "APETITO",
+    "type": "RTM SPECIAL",
+    "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8",
+    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/APETTO%20Malay.png"
+  },
+  {
+    "name": "AURA",
+    "type": "RTM SPECIAL",
+    "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8",
+    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/AURA%20Malay.png"
+  },
+  {
+    "name": "FITRAH",
+    "type": "RTM SPECIAL",
+    "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8",
+    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/FITRAH%20Malay.png"
+  },
+  {
+    "name": "JR.",
+    "type": "RTM SPECIAL",
+    "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8",
+    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/JR.%20Malay.png"
+  },
+  {
+    "name": "LEAD",
+    "type": "RTM SPECIAL",
+    "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8",
+    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/LEAD%20Malay.png"
+  },
+  {
+    "name": "ROLL",
+    "type": "RTM SPECIAL",
+    "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8",
+    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/ROLL%20Malay.png"
+  },
+  {
+    "name": "SNAP",
+    "type": "RTM SPECIAL",
+    "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8",
+    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/SNAP%20MALAY.png"
   },
   {
     "name": "RTM ASEAN",

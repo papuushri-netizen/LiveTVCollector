@@ -178,7 +178,7 @@ https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakute
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="documentari",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Euronews IN DIRETTA
-https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZjExNDc4N2UtNjU5Mi00N2RmLWIwOTMtMDcyNDQwZTA0YjYyIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
+https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiN2NiYmUzNTMtNDk0Zi00ODUwLWJkODMtN2YxMzg2NDI5ZGYwIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",The Reuters 60
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Urania News
@@ -190,7 +190,7 @@ https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Bloomberg TV+
 https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Africanews
-https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNTEzNDA0OTUtNGFlNy00YzhmLWFiYjEtY2Q3NWRlNDg0YWMwIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiY2NhZTAwZDItMDJmZi00NzAyLWEyYjAtYmZkY2ZjOTBlYzExIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",NewsWorld
@@ -385,10 +385,8 @@ https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/f-zQdGn5dAUEybjbCJ94QTfabrzijJBNcADcaWn5dCoA3isCWrnN7-Pj0C73wSCbmHQ=w300" group-title="Uncategorized",PUTERA PERLIS MULTIMEDIA
 http://youtube
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/RTMKlik.png" group-title="Uncategorized",RTM SPECIAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Radio_Televisyen_Brunei.svg/1200px-Radio_Televisyen_Brunei.svg.png" group-title="Uncategorized",RADIO BRUNEI🇧🇳
 http://youtube.com
-#EXTINF:-1 tvg-logo="tvbrunei.png" group-title="Uncategorized",BRUNEI🇧🇳
-http://www.youtube.com/
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Falastini TV (1080p)
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized",Palestine Edu (1080p)
@@ -1293,20 +1291,6 @@ http://apk1.sonictv.xyz:2052/a.jesus/64363818/201800
 http://apk1.sonictv.xyz:2052/a.jesus/64363818/201816
 #EXTINF:-1 tvg-logo="https://billing.tv4k.me/pb/x4-logo.png" group-title="|XXX| ADULT",X4 | Perv Nana
 http://apk1.sonictv.xyz:2052/a.jesus/64363818/20194
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/APETTO%20Malay.png" group-title="RTM SPECIAL",APETITO
-https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/AURA%20Malay.png" group-title="RTM SPECIAL",AURA
-https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/FITRAH%20Malay.png" group-title="RTM SPECIAL",FITRAH
-https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/JR.%20Malay.png" group-title="RTM SPECIAL",JR.
-https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/LEAD%20Malay.png" group-title="RTM SPECIAL",LEAD
-https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/ROLL%20Malay.png" group-title="RTM SPECIAL",ROLL
-https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/SNAP%20MALAY.png" group-title="RTM SPECIAL",SNAP
-https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="SPORTS",ARENA SPORT PREMIUM 1
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png" group-title="SPORTS",ARENA SPORT PREMIUM 2
@@ -1417,6 +1401,20 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="SPORTS",WWE NETWORK
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/APETTO%20Malay.png" group-title="RTM SPECIAL",APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/AURA%20Malay.png" group-title="RTM SPECIAL",AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/FITRAH%20Malay.png" group-title="RTM SPECIAL",FITRAH
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/JR.%20Malay.png" group-title="RTM SPECIAL",JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/LEAD%20Malay.png" group-title="RTM SPECIAL",LEAD
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/ROLL%20Malay.png" group-title="RTM SPECIAL",ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/SNAP%20MALAY.png" group-title="RTM SPECIAL",SNAP
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/RTM%20ASEAN%20Malay.png" group-title="MALAYSIA🇲🇾",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/d/d7/TV_1%28Malaysia%29baru.png/440px-TV_1%28Malaysia%29baru.png" group-title="MALAYSIA🇲🇾",TV1 HD
