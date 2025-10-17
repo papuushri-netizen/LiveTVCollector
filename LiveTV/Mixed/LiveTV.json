@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-17 13:31:01",
+  "date": "2025-10-17 21:31:21",
   "channels": {
     "STREAMING": [
       {
@@ -654,7 +654,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiN2NiYmUzNTMtNDk0Zi00ODUwLWJkODMtN2YxMzg2NDI5ZGYwIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZTFjYjBkMjktNmZiZC00ZjIwLWIxYmMtOWIxMGI0MDBmYzY0IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -696,7 +696,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiY2NhZTAwZDItMDJmZi00NzAyLWEyYjAtYmZkY2ZjOTBlYzExIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMzUwZmNlNTQtYzY0Zi00ZWY0LWJjODctYzkzMDBlZDRhOTg5IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
@@ -4601,389 +4601,256 @@
     ],
     "SPORTS": [
       {
-        "name": "ARENA SPORT PREMIUM 1",
-        "logo": "http://www.tvboxgroup.com/iptv/logo/HR/HR001.png",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd"
-      },
-      {
-        "name": "ARENA SPORT PREMIUM 2",
-        "logo": "http://www.tvboxgroup.com/iptv/logo/HR/HR002.png",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd"
-      },
-      {
-        "name": "ARENA ARENA SPORT PREMIUM 3",
-        "logo": "http://www.tvboxgroup.com/iptv/logo/HR/HR003.png",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd"
-      },
-      {
         "name": "ASTRO ARENA",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Astro_Arena_1_%282024%29.png/400px-Astro_Arena_1_%282024%29.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd|User-Agent=aizzal"
       },
       {
         "name": "ASTRO ARENA 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Astro_Arena_2_%282024%29.png/400px-Astro_Arena_2_%282024%29.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%202.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd"
       },
       {
         "name": "ASTRO BADMINTON",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Astro_Badminton_1_%282024%29.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Badminton%201.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://hls-gateway.vpstv.net/streams/477793.m3u8"
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd"
       },
       {
         "name": "ASTRO ARENA BOLA",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/400px-Astro_Arena_Bola_1_%282024%29.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%201.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://hls-gateway.vpstv.net/streams/489851.m3u8"
+        "url": "http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bolaarena1/playlist.m3u8"
       },
       {
         "name": "ASTRO ARENA BOLA 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/400px-Astro_Arena_Bola_2_%282024%29.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%202.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena2/playlist.m3u8"
+        "url": "http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bolaarena2/playlist.m3u8"
       },
       {
         "name": "ASTRO CRICKET",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Astro_Cricket_%282024%29.png/400px-Astro_Cricket_%282024%29.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Cricket.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18629.ts"
       },
       {
         "name": "ASTRO FOOTBALL",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/400px-Astro_Football_%282024%29.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Football.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd"
+        "url": "http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp4/playlist.m3u8"
       },
       {
         "name": "ASTRO GRANDSTAND",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Grandstand.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://000.hfr1107.top/tv/smt.php?id=go_assp3"
+        "url": "http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp3/playlist.m3u8"
       },
       {
         "name": "ASTRO PREMIER LEAGUE",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%201.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd"
-      },
-      {
-        "name": "ASTRO PREMIER LEAGUE",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://000.hfr1107.top/tv/smt.php?id=go_assp1"
+        "url": "http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp1/playlist.m3u8"
       },
       {
         "name": "ASTRO PREMIER LEAGUE 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%202.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd"
+        "url": "http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp2/playlist.m3u8"
       },
       {
-        "name": "ASTRO PREMIER LEAGUE 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",
+        "name": "ASTRO PREMIER LEAGUE 3",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%203.webp",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://000.hfr1107.top/tv/smt.php?id=go_assp2"
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd"
       },
       {
         "name": "ASTRO SPORTS PLUS",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Astro_Sports_Plus_%282024%29.png/400px-Astro_Sports_Plus_%282024%29.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Sports%20Plus.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd"
       },
       {
         "name": "ASTRO SPORTS UHD",
-        "logo": "https://aqfadtv.xyz/logos/Astro Sports UHD (2024).png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Sports%20UHD.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd"
       },
       {
         "name": "BEIN SPORTS",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Bein%20sports%201.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd"
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd"
       },
       {
         "name": "BEIN SPORTS 2",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Bein%20sports%202.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd"
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd"
       },
       {
         "name": "BEIN SPORTS 3",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Bein%20sports%203.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd"
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd"
       },
       {
         "name": "CELEBES TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Celebes_TV.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Celebes%20TV.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8"
       },
       {
         "name": "DUBAI SPORTS 1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Dubai%20Sports.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8"
       },
       {
         "name": "DUBAI SPORTS 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Dubai%20Sports.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8"
       },
       {
         "name": "DUBAI SPORTS 3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Dubai%20Sports.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8"
       },
       {
         "name": "EUROSPORT HD",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Eurosports.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd"
       },
       {
         "name": "GOLF CHANNEL HD",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Golf.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd"
       },
       {
         "name": "M LIVE 1",
-        "logo": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%278226372%27&EntityType=%27LinearSchedule%27&EntityId=%27738d0726-8853-46db-9840-3422d384a7b8%27&Width=540&Height=305&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%201.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd"
       },
       {
         "name": "M LIVE 2",
-        "logo": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%278228926%27&EntityType=%27LinearSchedule%27&EntityId=%271e6a3f2d-1cdc-4e93-bde9-c301a4c9e28b%27&Width=540&Height=305&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%202.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd"
       },
       {
         "name": "M LIVE 5",
-        "logo": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%278229229%27&EntityType=%27LinearSchedule%27&EntityId=%2742324081-1670-47c5-b81e-256da3aefde5%27&Width=540&Height=305&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%205.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd"
       },
       {
         "name": "M LIVE 6",
-        "logo": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275853379%27&EntityType=%27Item%27&EntityId=%27204746%27&Width=1920&Height=1080",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%206.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd"
       },
       {
         "name": "M LIVE SPL CH01",
-        "logo": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=45&ImageId=%274565896%27&EntityType=%27Item%27&EntityId=%2798200%27&Width=400&Height=400&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPL%2001.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd"
       },
       {
         "name": "M LIVE SPL CH02",
-        "logo": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=45&ImageId=%274565914%27&EntityType=%27Item%27&EntityId=%2798201%27&Width=400&Height=400&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPL%2002.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd"
       },
       {
-        "name": "MOTORVISION TV HD",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/18/Motorvision_TV_2016_II.png/revision/latest/scale-to-width-down/1200?cb=20230921082641",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://210.210.155.35/uq2663/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Motorvision_TV_HD"
-      },
-      {
-        "name": "MUTV",
-        "logo": "https://media.info/l/o/1/1074.1514600708.png",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
-      },
-      {
-        "name": "NOW SPORTS 1",
-        "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://iptv12k.com:35461/654321/123456/21684"
-      },
-      {
-        "name": "NOW SPORTS 2",
-        "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://iptv12k.com:35461/654321/123456/21686"
-      },
-      {
-        "name": "NOW SPORTS 3",
-        "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://iptv12k.com:35461/654321/123456/21688"
-      },
-      {
-        "name": "NOW SPORTS 4",
-        "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://iptv12k.com:35461/654321/123456/21724"
-      },
-      {
-        "name": "NOW SPORTS 5",
-        "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://iptv12k.com:35461/654321/123456/21722"
-      },
-      {
-        "name": "NOW SPORTS 6",
-        "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://iptv12k.com:35461/654321/123456/21720"
-      },
-      {
-        "name": "NOW SPORTS 7",
-        "logo": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://iptv12k.com:35461/654321/123456/21718"
-      },
-      {
         "name": "PREMIER SPORTS",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/826px-Premier_sports_logo_2018.svg.png?20180923092838",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Premier%20Sports.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd"
       },
       {
-        "name": "PSJ TV",
-        "logo": "https://www.psjtv.id/wp-content/uploads/2023/06/PSJTV-Tagline-Hitam.png",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://play.accolamedia.id/accola/psj.stream/playlist.m3u8"
-      },
-      {
         "name": "RED BULL TV",
-        "logo": "https://vitrina.ai/wp-content/uploads/2023/12/Red-Bull-content-acqusition.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Red%20Bull.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8"
       },
       {
         "name": "SPOTV",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd"
       },
       {
         "name": "SPOTV2",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV2.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd"
       },
       {
         "name": "SUKAN RTM",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png?20240229031036",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4"
       },
       {
-        "name": "TNT SPORTS 1",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230704071741",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd"
-      },
-      {
-        "name": "TNT SPORTS 2",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d8/TNT_Sports_2_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230717230828",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd"
-      },
-      {
-        "name": "TNT SPORTS 3",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6d/TNT_Sports_3_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230717230836",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd"
-      },
-      {
-        "name": "TNT SPORTS 4",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/24/TNT_Sports_4_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230704072048",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd"
-      },
-      {
         "name": "TVRI SPORT",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/b/be/TVRI_Sport_HD_%282019%29_ver2.svg/revision/latest/scale-to-width-down/250?cb=20190331112412",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/TVRI%20Sport.webp",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8"
+        "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
       },
       {
         "name": "UNIFI SPORTS",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/300px-UnifiSports2023.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Unifi%20Sports.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd"
       },
       {
         "name": "W-SPORT",
-        "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/W-Sport.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd"
-      },
-      {
-        "name": "WWE NETWORK",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8"
       }
     ],
     "RTM SPECIAL": [
@@ -10337,13 +10204,6 @@
         "group": "ĐÔNG NAM Á",
         "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
         "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8"
-      },
-      {
-        "name": "TVRI Sport",
-        "logo": "https://pictr.com/images/2025/01/23/xpbxxf.jpg",
-        "group": "ĐÔNG NAM Á",
-        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
-        "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
       },
       {
         "name": "RCTI HD",

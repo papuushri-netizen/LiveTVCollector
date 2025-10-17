@@ -10682,279 +10682,184 @@ Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV
 --------------------------------------------------
 
 Group: SPORTS
-Name: ARENA SPORT PREMIUM 1
-URL: https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
-Logo: http://www.tvboxgroup.com/iptv/logo/HR/HR001.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: ARENA SPORT PREMIUM 2
-URL: https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
-Logo: http://www.tvboxgroup.com/iptv/logo/HR/HR002.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: ARENA ARENA SPORT PREMIUM 3
-URL: https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-Logo: http://www.tvboxgroup.com/iptv/logo/HR/HR003.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
 Name: ASTRO ARENA
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd|User-Agent=aizzal
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Astro_Arena_1_%282024%29.png/400px-Astro_Arena_1_%282024%29.png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO ARENA 2
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Astro_Arena_2_%282024%29.png/400px-Astro_Arena_2_%282024%29.png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%202.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO BADMINTON
-URL: https://hls-gateway.vpstv.net/streams/477793.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/d/d0/Astro_Badminton_1_%282024%29.png
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Badminton%201.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO ARENA BOLA
-URL: https://hls-gateway.vpstv.net/streams/489851.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/400px-Astro_Arena_Bola_1_%282024%29.png
+URL: http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bolaarena1/playlist.m3u8
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%201.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO ARENA BOLA 2
-URL: http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena2/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/400px-Astro_Arena_Bola_2_%282024%29.png
+URL: http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Bolaarena2/playlist.m3u8
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Arena%20Bola%202.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO CRICKET
 URL: http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18629.ts
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Astro_Cricket_%282024%29.png/400px-Astro_Cricket_%282024%29.png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Cricket.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO FOOTBALL
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/400px-Astro_Football_%282024%29.png
+URL: http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp4/playlist.m3u8
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Football.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO GRANDSTAND
-URL: http://000.hfr1107.top/tv/smt.php?id=go_assp3
-Logo: https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png
+URL: http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp3/playlist.m3u8
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Grandstand.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO PREMIER LEAGUE
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: ASTRO PREMIER LEAGUE
-URL: http://000.hfr1107.top/tv/smt.php?id=go_assp1
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png
+URL: http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp1/playlist.m3u8
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%201.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO PREMIER LEAGUE 2
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png
+URL: http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp2/playlist.m3u8
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%202.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
-Name: ASTRO PREMIER LEAGUE 2
-URL: http://000.hfr1107.top/tv/smt.php?id=go_assp2
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png
+Name: ASTRO PREMIER LEAGUE 3
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Premier%20League%203.webp
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO SPORTS PLUS
 URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Astro_Sports_Plus_%282024%29.png/400px-Astro_Sports_Plus_%282024%29.png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Sports%20Plus.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO SPORTS UHD
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
-Logo: https://aqfadtv.xyz/logos/Astro Sports UHD (2024).png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Astro%20Sports%20UHD.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: BEIN SPORTS
-URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
-Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Bein%20sports%201.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: BEIN SPORTS 2
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
-Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Bein%20sports%202.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: BEIN SPORTS 3
-URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
-Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Bein%20sports%203.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: CELEBES TV
 URL: https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Celebes_TV.png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Celebes%20TV.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: DUBAI SPORTS 1
 URL: http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Dubai%20Sports.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: DUBAI SPORTS 2
 URL: http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Dubai%20Sports.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: DUBAI SPORTS 3
 URL: http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023.png?20240503162027
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Dubai%20Sports.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: EUROSPORT HD
 URL: https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
-Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Eurosports.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: GOLF CHANNEL HD
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
-Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Golf.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: M LIVE 1
 URL: https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-Logo: https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%278226372%27&EntityType=%27LinearSchedule%27&EntityId=%27738d0726-8853-46db-9840-3422d384a7b8%27&Width=540&Height=305&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%201.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: M LIVE 2
 URL: https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-Logo: https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%278228926%27&EntityType=%27LinearSchedule%27&EntityId=%271e6a3f2d-1cdc-4e93-bde9-c301a4c9e28b%27&Width=540&Height=305&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%202.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: M LIVE 5
 URL: https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
-Logo: https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%278229229%27&EntityType=%27LinearSchedule%27&EntityId=%2742324081-1670-47c5-b81e-256da3aefde5%27&Width=540&Height=305&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%205.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: M LIVE 6
 URL: https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
-Logo: https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275853379%27&EntityType=%27Item%27&EntityId=%27204746%27&Width=1920&Height=1080
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/M%20Live%206.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: M LIVE SPL CH01
 URL: https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
-Logo: https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=45&ImageId=%274565896%27&EntityType=%27Item%27&EntityId=%2798200%27&Width=400&Height=400&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPL%2001.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: M LIVE SPL CH02
 URL: https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
-Logo: https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=45&ImageId=%274565914%27&EntityType=%27Item%27&EntityId=%2798201%27&Width=400&Height=400&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: MOTORVISION TV HD
-URL: http://210.210.155.35/uq2663/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Motorvision_TV_HD
-Logo: https://static.wikia.nocookie.net/logopedia/images/1/18/Motorvision_TV_2016_II.png/revision/latest/scale-to-width-down/1200?cb=20230921082641
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: MUTV
-URL: https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-Logo: https://media.info/l/o/1/1074.1514600708.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: NOW SPORTS 1
-URL: http://iptv12k.com:35461/654321/123456/21684
-Logo: https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: NOW SPORTS 2
-URL: http://iptv12k.com:35461/654321/123456/21686
-Logo: https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: NOW SPORTS 3
-URL: http://iptv12k.com:35461/654321/123456/21688
-Logo: https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: NOW SPORTS 4
-URL: http://iptv12k.com:35461/654321/123456/21724
-Logo: https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: NOW SPORTS 5
-URL: http://iptv12k.com:35461/654321/123456/21722
-Logo: https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: NOW SPORTS 6
-URL: http://iptv12k.com:35461/654321/123456/21720
-Logo: https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: NOW SPORTS 7
-URL: http://iptv12k.com:35461/654321/123456/21718
-Logo: https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPL%2002.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: PREMIER SPORTS
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/826px-Premier_sports_logo_2018.svg.png?20180923092838
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: PSJ TV
-URL: https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
-Logo: https://www.psjtv.id/wp-content/uploads/2023/06/PSJTV-Tagline-Hitam.png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Premier%20Sports.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: RED BULL TV
 URL: https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-Logo: https://vitrina.ai/wp-content/uploads/2023/12/Red-Bull-content-acqusition.png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Red%20Bull.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: SPOTV
 URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
-Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: SPOTV2
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
-Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/SPOTV2.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: SUKAN RTM
 URL: https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-Logo: https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png?20240229031036
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: TNT SPORTS 1
-URL: https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-Logo: https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230704071741
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: TNT SPORTS 2
-URL: https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-Logo: https://static.wikia.nocookie.net/logopedia/images/d/d8/TNT_Sports_2_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230717230828
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: TNT SPORTS 3
-URL: https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-Logo: https://static.wikia.nocookie.net/logopedia/images/6/6d/TNT_Sports_3_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230717230836
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: TNT SPORTS 4
-URL: https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-Logo: https://static.wikia.nocookie.net/logopedia/images/2/24/TNT_Sports_4_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230704072048
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Sukan%20RTM.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: TVRI SPORT
-URL: https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
-Logo: https://static.wikia.nocookie.net/logopedia/images/b/be/TVRI_Sport_HD_%282019%29_ver2.svg/revision/latest/scale-to-width-down/250?cb=20190331112412
+URL: https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/TVRI%20Sport.webp
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: UNIFI SPORTS
 URL: https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/300px-UnifiSports2023.png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/Unifi%20Sports.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: W-SPORT
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
-Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: WWE NETWORK
-URL: https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/SPORT-LOGO/refs/heads/main/W-Sport.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 
@@ -12824,7 +12729,7 @@ Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/hea
 
 Group: notizie
 Name: Euronews IN DIRETTA
-URL: https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiN2NiYmUzNTMtNDk0Zi00ODUwLWJkODMtN2YxMzg2NDI5ZGYwIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
+URL: https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZTFjYjBkMjktNmZiZC00ZjIwLWIxYmMtOWIxMGI0MDBmYzY0IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
@@ -12854,7 +12759,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
 Name: Africanews
-URL: https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiY2NhZTAwZDItMDJmZi00NzAyLWEyYjAtYmZkY2ZjOTBlYzExIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+URL: https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMzUwZmNlNTQtYzY0Zi00ZWY0LWJjODctYzkzMDBlZDRhOTg5IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
@@ -13251,11 +13156,6 @@ Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/C
 Name: TVRI World
 URL: https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 Logo: https://pictr.com/images/2025/01/23/xpb7dl.jpg
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-Name: TVRI Sport
-URL: https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-Logo: https://pictr.com/images/2025/01/23/xpbxxf.jpg
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: RCTI HD
