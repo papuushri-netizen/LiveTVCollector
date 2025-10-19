@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-19 13:53:57",
+  "date": "2025-10-19 21:53:13",
   "channels": {
     ".🇹🇷 ULUSAL 🇹🇷 .COM/1.M3U ESKİ USUL": [
       {
@@ -35208,53 +35208,18 @@
         "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8"
       },
       {
-        "name": "EUROSTAR",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/euro-star-tr.png",
-        "group": "TURK HD+ LINE",
-        "source": "https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u",
-        "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8"
-      },
-      {
-        "name": "NOW",
-        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/now-tr.png?raw=true",
-        "group": "TURK HD+ LINE",
-        "source": "https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u",
-        "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
-      },
-      {
         "name": "ATV",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/atv-tr.png",
         "group": "TURK HD+ LINE",
         "source": "https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8"
-      },
-      {
-        "name": "ATV2",
-        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/a2-tr.png?raw=true",
-        "group": "TURK HD+ LINE",
-        "source": "https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8"
+        "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
       },
       {
         "name": "SHOW TV",
         "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tr.png",
         "group": "TURK HD+ LINE",
         "source": "https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u",
-        "url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8"
-      },
-      {
-        "name": "TV8",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png",
-        "group": "TURK HD+ LINE",
-        "source": "https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u",
-        "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8"
-      },
-      {
-        "name": "TV85",
-        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv85-tr.png",
-        "group": "TURK HD+ LINE",
-        "source": "https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u",
-        "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8"
+        "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/shturk.m3u8"
       },
       {
         "name": "TEVE2",
@@ -35397,6 +35362,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8"
+      },
+      {
+        "name": "NOW TV (720p)",
+        "logo": "https://i.imgur.com/5EYjWK7.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
       },
       {
         "name": "Persiana Turkiye",
