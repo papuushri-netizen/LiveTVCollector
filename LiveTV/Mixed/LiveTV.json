@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-19 21:30:56",
+  "date": "2025-10-20 06:12:07",
   "channels": {
     "STREAMING": [
       {
@@ -1065,6 +1065,13 @@
         "group": "General",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://srv1.adriatelekom.com/TVAS/index.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTV Novi Pazar",
+        "logo": "https://i.imgur.com/1BjqRiT.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://tv.rtvnp.rs/stream.m3u8"
       },
       {
         "name": "Z1",
