@@ -261,11 +261,6 @@ URL: http://live.radiobobar.com/
 Logo: https://i.imgur.com/mhBsbmW.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
-Name: Bobar Studio B2
-URL: http://94.130.11.28:9000/stream/1/
-Logo: https://i.imgur.com/orStyg9.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
 Name: Nes Radio
 URL: http://188.40.62.20:8070/
 Logo: https://i.imgur.com/xEydNYS.png
@@ -4284,9 +4279,9 @@ URL: https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
 Logo: https://i.imgur.com/vdaDEwR.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",Flashback Adria
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",MYUZZIK
 URL: https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-Logo: https://i.imgur.com/IBUBpOi.png
+Logo: https://i.imgur.com/NqDzTEk.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: MUZZIK MIX

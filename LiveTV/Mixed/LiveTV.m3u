@@ -471,7 +471,7 @@ https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-a5/576p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vdaDEwR.png" group-title="Music",MUZZIK
 https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IBUBpOi.png" group-title="Music",like Gecko) Chrome/81.0.4044.138 Safari/537.36",Flashback Adria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NqDzTEk.png" group-title="Music",like Gecko) Chrome/81.0.4044.138 Safari/537.36",MYUZZIK
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wEgj06b.png" group-title="Music",MUZZIK MIX
 https://muzzik-live.morescreens.com/mts-a7/576p/chunklist.m3u8
@@ -687,8 +687,6 @@ https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3
 http://51.254.61.148:11111
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhBsbmW.png" group-title="BiH",Bobar Radio
 http://live.radiobobar.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/orStyg9.png" group-title="BiH",Bobar Studio B2
-http://94.130.11.28:9000/stream/1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xEydNYS.png" group-title="BiH",Nes Radio
 http://188.40.62.20:8070/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iq4HkZx.png" group-title="BiH",Krajiski Radio Dubica

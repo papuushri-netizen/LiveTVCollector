@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-26 21:31:16",
+  "date": "2025-10-27 06:13:27",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -1701,8 +1701,8 @@
         "url": "https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Flashback Adria",
-        "logo": "https://i.imgur.com/IBUBpOi.png",
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",MYUZZIK",
+        "logo": "https://i.imgur.com/NqDzTEk.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://muzzik-live.morescreens.com/mts-7/playlist.m3u8"
@@ -2459,13 +2459,6 @@
         "group": "BiH",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "http://live.radiobobar.com/"
-      },
-      {
-        "name": "Bobar Studio B2",
-        "logo": "https://i.imgur.com/orStyg9.png",
-        "group": "BiH",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "http://94.130.11.28:9000/stream/1/"
       },
       {
         "name": "Nes Radio",
