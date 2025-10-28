@@ -11,6 +11,11 @@ Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/M
 --------------------------------------------------
 
 Group: Live Tv
+Name: Sangeet Bangla
+URL: https://cdn-4.pishow.tv/live/1143/master.m3u8
+Logo: https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
 Name: ATN Bangla
 URL: https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s
@@ -36,16 +41,6 @@ URL: http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Sangeet Bangla
-URL: https://cdn-4.pishow.tv/live/1143/master.m3u8
-Logo: https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Zee Bangla
-URL: https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: zee bangla cinema
 URL: http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -56,14 +51,14 @@ URL: https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Star Gold HD
-URL: https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: Colors
 URL: http://filex.me:8080//live/1234567890/1234567890/499616.ts
 Logo: https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Star Gold HD
+URL: https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
 Name: Colors Bangla
@@ -84,11 +79,6 @@ Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/M
 Name: & picture hd
 URL: https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
 Logo: https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Star Plus HD
-URL: https://bongoflixbd.top/stream.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4
-Logo: https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
 Name: Tom & Jerry
