@@ -6,22 +6,22 @@
     "img": "https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg"
   },
   {
-    "name": "Baaghi 4",
-    "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20096",
-    "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg"
-  },
-  {
     "name": "Thama",
     "type": "Hindi Movies",
     "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20262",
     "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Thamma/poster.jpg"
   },
   {
-    "name": "Sangeet Bangla",
+    "name": "Baaghi 4",
+    "type": "Hindi Movies",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20096",
+    "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg"
+  },
+  {
+    "name": "BTV HD",
     "type": "Live Tv",
-    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
-    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8",
+    "img": "https://i.pinimg.com/736x/c3/8c/b7/c38cb7aa28d273128b42f70a428e611e.jpg"
   },
   {
     "name": "ATN Bangla",
@@ -36,16 +36,16 @@
     "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
   },
   {
-    "name": "BTV HD",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8",
-    "img": "https://i.pinimg.com/736x/c3/8c/b7/c38cb7aa28d273128b42f70a428e611e.jpg"
-  },
-  {
     "name": "Star Jalsha",
     "type": "Live Tv",
     "url": "http://filex.tv:8080/live/uk1212/123456/499653.ts",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"
+  },
+  {
+    "name": "Sangeet Bangla",
+    "type": "Live Tv",
+    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
   },
   {
     "name": "Sun Bangla",
@@ -57,6 +57,12 @@
     "name": "zee bangla cinema",
     "type": "Live Tv",
     "url": "http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Colors Bangla",
+    "type": "Live Tv",
+    "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -78,9 +84,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Colors Bangla",
+    "name": "Zee Bangla",
     "type": "Live Tv",
-    "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
+    "url": "https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -100,6 +106,12 @@
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8",
     "img": "https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp"
+  },
+  {
+    "name": "Star Plus HD",
+    "type": "Live Tv",
+    "url": "https://bongoflixbd.top/stream.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png"
   },
   {
     "name": "Tom & Jerry",
