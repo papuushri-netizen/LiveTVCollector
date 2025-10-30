@@ -846,34 +846,10 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Discovery Bangla",
-    "type": "Documentary",
-    "url": "http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1486517",
-    "img": "https://bdiptv.stream/uploads/tv_image/discovery.png"
-  },
-  {
     "name": "Discovery Hindi",
     "type": "Documentary",
     "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd",
     "img": "https://bdiptv.stream/uploads/tv_image/discovery.png"
-  },
-  {
-    "name": "Discovery Engliah HD",
-    "type": "Documentary",
-    "url": "http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1533319",
-    "img": "https://bdiptv.stream/uploads/tv_image/discovery.png"
-  },
-  {
-    "name": "NAT GEO HD Bangla",
-    "type": "Documentary",
-    "url": "http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1487901",
-    "img": "https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png"
-  },
-  {
-    "name": "NAT GEO HD",
-    "type": "Documentary",
-    "url": "http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1486518",
-    "img": "https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png"
   },
   {
     "name": "Travel xp",
@@ -894,15 +870,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png"
   },
   {
-    "name": "BBC Earth",
-    "type": "Documentary",
-    "url": "http://89.187.189.98/BBCEARTHHD/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png"
-  },
-  {
     "name": "Animal Planet HD",
     "type": "Documentary",
-    "url": "http://89.187.189.98/ANIMALPLANETHD/index.m3u8",
+    "url": "https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png"
   },
   {
@@ -1376,7 +1346,7 @@
   {
     "name": "Netflix Movies",
     "type": "English Movie",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/sungo546/chunks.m3u8",
+    "url": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19130/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1394,8 +1364,14 @@
   {
     "name": "Live Sports-3",
     "type": "SPORTS",
-    "url": "http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1139",
+    "url": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8",
     "img": "http://dds.oncast.me/img/logo/sp3.png"
+  },
+  {
+    "name": "Live Sports-4",
+    "type": "SPORTS",
+    "url": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19141/index.m3u8",
+    "img": "http://dds.oncast.me/img/logo/sp4.png"
   },
   {
     "name": "T-Sports [1]",
@@ -1410,27 +1386,21 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
   },
   {
-    "name": "T-Sports [3]",
-    "type": "SPORTS",
-    "url": "http://147.93.154.65/Bein3/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
-  },
-  {
     "name": "Star Sports 1",
     "type": "SPORTS",
-    "url": "http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488099",
+    "url": "http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1369.m3u8",
     "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
   },
   {
     "name": "Star Sports 1-[2]",
     "type": "SPORTS",
-    "url": "https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in",
+    "url": "https://starsportshindiii.pages.dev/index.m3u8",
     "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
   },
   {
     "name": "Star Sports-1 Hindi",
     "type": "SPORTS",
-    "url": "https://starsportshindiii.pages.dev/index.m3u8",
+    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
     "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
   },
   {
@@ -1442,13 +1412,13 @@
   {
     "name": "Star Sports 2",
     "type": "SPORTS",
-    "url": "http://89.187.189.98/STARSPORTS2HD/index.m3u8",
+    "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276732&extension=.m3u8",
     "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
   },
   {
     "name": "Star Sports 3",
     "type": "SPORTS",
-    "url": "http://89.187.189.98/STARSPORTS3/index.m3u8",
+    "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276733&extension=.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112"
   },
   {
@@ -1472,7 +1442,7 @@
   {
     "name": "Sony Sports-2 HD",
     "type": "SPORTS",
-    "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276738&extension=.m3u8",
+    "url": "http://filex.tv:8080/live/Home329/Sohailhome/52083.m3u8",
     "img": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"
   },
   {
@@ -1512,12 +1482,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png"
   },
   {
-    "name": "Willow HD",
-    "type": "SPORTS",
-    "url": "https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8",
-    "img": "https://aimages.willow.tv/wlo_logo_200_200.jpg"
-  },
-  {
     "name": "Willow HD-2",
     "type": "SPORTS",
     "url": "http://filex.tv:8080/live/Multicity/1234/52109.ts",
@@ -1532,7 +1496,7 @@
   {
     "name": "Astro Cricket",
     "type": "SPORTS",
-    "url": "http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1488091",
+    "url": "http://iptvtree.net:8080/F28312/cc1dc138/157565",
     "img": "https://aimages.willow.tv/wlo_logo_200_200.jpg"
   },
   {
@@ -1540,6 +1504,18 @@
     "type": "SPORTS",
     "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8",
     "img": "https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png"
+  },
+  {
+    "name": "Sky Sports Golf",
+    "type": "SPORTS",
+    "url": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19132/index.m3u8",
+    "img": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png"
+  },
+  {
+    "name": "Sky Sports-Bascet Ball",
+    "type": "SPORTS",
+    "url": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19134/index.m3u8",
+    "img": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png"
   },
   {
     "name": "Super Sport Cricket",
