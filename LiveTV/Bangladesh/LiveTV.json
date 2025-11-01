@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-31 21:48:50",
+  "date": "2025-11-01 06:44:27",
   "channels": {
     "BANGLA": [
       {
@@ -2357,14 +2357,14 @@
         "logo": "https://i.imgur.com/IlufzR5.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "http://87.255.35.150:18237/"
+        "url": "http://87.255.35.150:18237"
       },
       {
         "name": "Zee Bangla (1080p)",
         "logo": "https://i.imgur.com/zTGTWa8.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "http://87.255.35.150:18238/"
+        "url": "http://87.255.35.150:18238"
       }
     ],
     "Movies": [
