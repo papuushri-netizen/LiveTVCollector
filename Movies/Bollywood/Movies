@@ -24,16 +24,16 @@
     "img": "https://i.pinimg.com/736x/c3/8c/b7/c38cb7aa28d273128b42f70a428e611e.jpg"
   },
   {
-    "name": "ATN Bangla",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s"
-  },
-  {
     "name": "Deepto TV",
     "type": "Live Tv",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
     "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
+  },
+  {
+    "name": "ATN Bangla",
+    "type": "Live Tv",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s"
   },
   {
     "name": "Star Jalsha",
@@ -42,16 +42,22 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"
   },
   {
+    "name": "Sangeet Bangla",
+    "type": "Live Tv",
+    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
+  },
+  {
     "name": "Sun Bangla",
     "type": "Live Tv",
     "url": "http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s"
   },
   {
-    "name": "Sangeet Bangla",
+    "name": "Zee Bangla",
     "type": "Live Tv",
-    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
-    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
+    "url": "https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "zee bangla cinema",
@@ -60,16 +66,16 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Colors Bangla",
-    "type": "Live Tv",
-    "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Colors Bangla Cinema",
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555"
+  },
+  {
+    "name": "Colors Bangla",
+    "type": "Live Tv",
+    "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Colors",
@@ -84,22 +90,10 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Zee Bangla",
-    "type": "Live Tv",
-    "url": "https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Zee Cinema hd",
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10"
-  },
-  {
-    "name": "& picture hd",
-    "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp"
   },
   {
     "name": "Colors Cineplex Bollywood",
@@ -108,10 +102,10 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png"
   },
   {
-    "name": "Star Plus HD",
+    "name": "& picture hd",
     "type": "Live Tv",
-    "url": "https://bongoflixbd.top/stream.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4",
-    "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png"
+    "url": "https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp"
   },
   {
     "name": "Tom & Jerry",
@@ -136,5 +130,11 @@
     "type": "Live Tv",
     "url": "http://filex.me:8080/live/444476/444476/453434.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s"
+  },
+  {
+    "name": "Star Plus HD",
+    "type": "Live Tv",
+    "url": "https://bongoflixbd.top/stream.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png"
   }
 ]
