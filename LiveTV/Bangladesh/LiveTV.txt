@@ -576,6 +576,11 @@ URL: https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/mani
 Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: NAT GEO HD
+URL: https://tvsen6.aynascope.net/natgeo/tracks-v1a1/mono.ts.m3u8?e=1762336523&token=b7aabe9fdd41095877eae26503e77d86&u=5448cf91-5746-4e78-a357-d45dca5c1ab9
+Logo: https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: Travel xp
 URL: https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 Logo: https://photos.prnewswire.com/prnfull/20150515/10122924
@@ -1890,27 +1895,17 @@ Logo: http://dds.oncast.me/img/logo/sp1.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Live Sports-2
-URL: http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1142
+URL: http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
 Logo: http://dds.oncast.me/img/logo/sp2.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
-Name: Live Sports-3
-URL: http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
-Logo: http://dds.oncast.me/img/logo/sp3.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Live Sports-4
-URL: http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19141/index.m3u8
-Logo: http://dds.oncast.me/img/logo/sp4.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
 Name: T-Sports [1]
-URL: http://116.204.149.16/t_sports/index.m3u8
+URL: http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1142
 Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: T-Sports [2]
-URL: http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
+URL: https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1762336598&token=8d7da691b8805eebaf929a5e7dd50d39&u=5448cf91-5746-4e78-a357-d45dca5c1ab9
 Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2562,6 +2557,11 @@ Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%2
 --------------------------------------------------
 Name: TSPORTS
 URL: https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: TSPORTS
+URL: http://116.204.149.16/t_sports/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------
