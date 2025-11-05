@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-05 13:51:28",
+  "date": "2025-11-05 21:50:06",
   "channels": {
     "BANGLA": [
       {
@@ -1046,7 +1046,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png",
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8"
+        "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8"
       }
     ],
     "Indian-Bangla": [
@@ -1219,6 +1219,13 @@
         "group": "MUSIC",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "https://tplay.live/originals/bengali-beats/index.m3u8"
+      },
+      {
+        "name": "Music Bangla",
+        "logo": "https://imgpile.com/images/58YDwk.jpg",
+        "group": "MUSIC",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Sangeet Bangla",
@@ -1700,7 +1707,7 @@
         "logo": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276737&extension=.m3u8"
+        "url": "https://stalker.tnm3us.workers.dev/62593.m3u8"
       },
       {
         "name": "Sony Sports-2 HD",
@@ -1820,6 +1827,20 @@
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8"
+      },
+      {
+        "name": "Arena Sports-1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "http://78.108.251.7/Arena_Sport_1/index.m3u8"
+      },
+      {
+        "name": "Arena Sports-2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "http://78.108.251.7/Arena_Sport_2/index.m3u8"
       },
       {
         "name": "SONY LIV",
