@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-05 21:31:09",
+  "date": "2025-11-06 06:10:27",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -2064,7 +2064,7 @@
         "logo": "https://i.imgur.com/gdc1WLE.png",
         "group": "RS",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "http://bumbum-stream.netlogic.rs:8000"
+        "url": "https://bumbum.nlnet.rs:8443/bumbum"
       },
       {
         "name": "Pink Radio",
@@ -2419,11 +2419,11 @@
         "url": "https://nl1.streamingpulse.com/ssl/RadioGradiska"
       },
       {
-        "name": "Balkan Hit Radio Sarajevo",
-        "logo": "https://i.imgur.com/QUNsOJJ.png",
+        "name": "Radio Carsija Sarajevo",
+        "logo": "https://i.imgur.com/rTPvq7b.png",
         "group": "BiH",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "https://cast2.asurahosting.com/proxy/balkanhi/stream"
+        "url": "https://cast2.name.ba/proxy/nedim/"
       },
       {
         "name": "Antena Sarajevo",
@@ -2494,6 +2494,27 @@
         "group": "BiH",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "http://domacica.bigportal.ba:8100/domacica"
+      },
+      {
+        "name": "Radio Dzungla Doboj Program I",
+        "logo": "https://i.imgur.com/JBJptpD.png",
+        "group": "BiH",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://cast2.name.ba/proxy/dzungla/stream"
+      },
+      {
+        "name": "Radio Dzungla Doboj Program II",
+        "logo": "https://i.imgur.com/JBJptpD.png",
+        "group": "BiH",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://cast2.name.ba/proxy/dzungla2/stream"
+      },
+      {
+        "name": "Radio Dzungla Doboj Program III",
+        "logo": "https://i.imgur.com/JBJptpD.png",
+        "group": "BiH",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://cast2.name.ba/proxy/dzungla3/stream"
       }
     ],
     "HR": [
