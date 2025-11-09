@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-09 13:47:07",
+  "date": "2025-11-09 21:46:17",
   "channels": {
     "BANGLA": [
       {
@@ -162,6 +162,13 @@
         "group": "BANGLA",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "https://iptvbd.live/metv1080/1080.m3u8"
+      },
+      {
+        "name": "Jankhar tv",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "BANGLA",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8"
       },
       {
         "name": "Movie Bangla TV",
