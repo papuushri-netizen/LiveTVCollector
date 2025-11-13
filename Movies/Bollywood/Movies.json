@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-13 06:30:40",
+  "date": "2025-11-13 13:52:00",
   "channels": {
     "Uncategorized": [
       {
@@ -84,13 +84,6 @@
         "url": "http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8"
       },
       {
-        "name": "Colors Bangla",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8"
-      },
-      {
         "name": "Colors Bangla Cinema",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555",
         "group": "Live Tv",
@@ -103,6 +96,13 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://filex.me:8080//live/1234567890/1234567890/499616.ts"
+      },
+      {
+        "name": "Colors Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8"
       },
       {
         "name": "Star Gold HD",
@@ -133,18 +133,18 @@
         "url": "https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8"
       },
       {
-        "name": "Doreamon",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8"
-      },
-      {
         "name": "Motu Patlu",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8"
+      },
+      {
+        "name": "Doreamon",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8"
       },
       {
         "name": "PTV Sports",
