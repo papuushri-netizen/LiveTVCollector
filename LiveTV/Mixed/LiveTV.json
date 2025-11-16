@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-15 21:30:54",
+  "date": "2025-11-16 06:14:05",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -2872,7 +2872,7 @@
         "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://190.238.172.153:8000/play/a0ei"
+        "url": "http://magiz.net:25461/live/12345678/12345678/341.m3u8"
       },
       {
         "name": "ESPN",
