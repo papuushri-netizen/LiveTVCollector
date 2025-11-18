@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-18 13:51:19",
+  "date": "2025-11-18 21:51:05",
   "channels": {
     "BANGLA": [
       {
@@ -1651,7 +1651,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1762336598&token=8d7da691b8805eebaf929a5e7dd50d39&u=5448cf91-5746-4e78-a357-d45dca5c1ab9"
+        "url": "http://103.135.132.54:805/tsport/index.m3u8"
       },
       {
         "name": "Star Sports 1",

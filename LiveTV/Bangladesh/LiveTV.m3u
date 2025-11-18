@@ -464,7 +464,7 @@ http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T-Sports [1]
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1142
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T-Sports [2]
-https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1762336598&token=8d7da691b8805eebaf929a5e7dd50d39&u=5448cf91-5746-4e78-a357-d45dca5c1ab9
+http://103.135.132.54:805/tsport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1369.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS",Star Sports 1-[2]

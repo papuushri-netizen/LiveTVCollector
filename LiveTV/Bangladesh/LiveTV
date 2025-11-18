@@ -1394,7 +1394,7 @@
   {
     "name": "T-Sports [2]",
     "type": "SPORTS",
-    "url": "https://tvsen7.aynascope.net/tsportshd/tracks-v1a1/mono.ts.m3u8?e=1762336598&token=8d7da691b8805eebaf929a5e7dd50d39&u=5448cf91-5746-4e78-a357-d45dca5c1ab9",
+    "url": "http://103.135.132.54:805/tsport/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
   },
   {
