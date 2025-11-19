@@ -1746,8 +1746,8 @@ URL: http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 Logo: https://i.ytimg.com/vi/8BzmlfZm2xU/hqdefault.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Bada Khabar (720p)
-URL: https://badakhabar.livebox.co.in/Badakhabarhls/live.m3u8
+Name: Bada Khabar (432p)
+URL: https://app.ashokadigital.net/badakhabar/badakhabar/index.m3u8
 Logo: https://i.imgur.com/XiwygDJ.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------

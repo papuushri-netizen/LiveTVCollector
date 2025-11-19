@@ -126,9 +126,9 @@
     "img": "https://i.ytimg.com/vi/8BzmlfZm2xU/hqdefault.jpg"
   },
   {
-    "name": "Bada Khabar (720p)",
+    "name": "Bada Khabar (432p)",
     "type": "News",
-    "url": "https://badakhabar.livebox.co.in/Badakhabarhls/live.m3u8",
+    "url": "https://app.ashokadigital.net/badakhabar/badakhabar/index.m3u8",
     "img": "https://i.imgur.com/XiwygDJ.png"
   },
   {
