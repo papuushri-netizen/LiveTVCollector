@@ -1393,6 +1393,11 @@ URL: https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 Logo: https://i.imgur.com/2ov2o6a.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kanal Ri Rijeka
+URL: https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8
+Logo: https://i.imgur.com/sfsHry4.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
 Name: Slavonska
 URL: http://89.201.163.244:8080/hls/hdmi.m3u8
 Logo: https://i.imgur.com/soOU1s1.png
