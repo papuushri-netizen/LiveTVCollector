@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-20 21:31:14",
+  "date": "2025-11-21 06:10:35",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -1174,6 +1174,13 @@
         "url": "http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8"
       },
       {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTV AS Sabac",
+        "logo": "https://i.imgur.com/zyuIgzL.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://de1.usmtscloud.com/TVAS/tracks-v1/index.fmp4.m3u8"
+      },
+      {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTV Mir Leposavic",
         "logo": "https://i.imgur.com/gXydmAw.jpeg",
         "group": "General",
@@ -1244,7 +1251,7 @@
         "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Kanal Ri Rijeka",
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Kanal Ri",
         "logo": "https://i.imgur.com/sfsHry4.png",
         "group": "General",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
@@ -1367,7 +1374,7 @@
         "logo": "https://i.imgur.com/YIowC4z.png",
         "group": "General",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "https://proxysat.ipradio.rs:1936/rtcg/smil:rtcg.smil/rtcg.m3u8"
+        "url": "https://rtcg-live-open.morescreens.com/RTCG_1_004/media_3.m3u8"
       },
       {
         "name": "BHRT",
@@ -1650,6 +1657,13 @@
         "group": "Music",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://stream.cmctv.hr:49998/kit/live.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Vibe TV",
+        "logo": "https://i.imgur.com/kXDN9Es.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "http://77.46.147.128:1935/vibetv/myStream/playlist.m3u8"
       },
       {
         "name": "Top TV",
@@ -2561,6 +2575,34 @@
         "group": "ME",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://malta1491.startdedicated.de:8443/main"
+      },
+      {
+        "name": "Radio Crne Gore",
+        "logo": "https://i.imgur.com/4YMyLOM.png",
+        "group": "ME",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://rtcgradio-live.morescreens.com/RTCG_1_010/audio/chunklist.m3u8"
+      },
+      {
+        "name": "Radio Crne Gore 2 R98",
+        "logo": "https://i.imgur.com/vlWyJ2G.png",
+        "group": "ME",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://rtcgradio-live.morescreens.com/RTCG_1_011/audio/chunklist.m3u8"
+      },
+      {
+        "name": "RCG Yug",
+        "logo": "https://i.imgur.com/uS6tfuz.png",
+        "group": "ME",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://rtcgradio-live.morescreens.com/RTCG_2_004/chunklist.m3u8"
+      },
+      {
+        "name": "RCG Millenium",
+        "logo": "https://i.imgur.com/bXHWalX.png",
+        "group": "ME",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://rtcgradio-live.morescreens.com/RTCG_2_002/chunklist.m3u8"
       }
     ],
     "NACIONAL": [
