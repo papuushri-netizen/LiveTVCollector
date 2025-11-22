@@ -1344,7 +1344,7 @@ Logo: https://i.imgur.com/wKvuOcr.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTV AS Sabac
-URL: https://de1.usmtscloud.com/TVAS/tracks-v1/index.fmp4.m3u8
+URL: https://srv1.adriatelekom.com/TVAS/index.m3u8
 Logo: https://i.imgur.com/zyuIgzL.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
@@ -1484,7 +1484,7 @@ Logo: https://i.imgur.com/Qt4qlFf.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",TVCG MNE
-URL: https://rtcg-live-open.morescreens.com/RTCG_1_004/media_3.m3u8
+URL: https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 Logo: https://i.imgur.com/YIowC4z.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
@@ -4370,7 +4370,7 @@ Logo: https://i.imgur.com/Q6D1zyf.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",Radio HIT FM
-URL: https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/master.m3u8
+URL: https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
 Logo: https://i.imgur.com/8Vbl5Ma.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
