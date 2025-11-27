@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-26 21:53:24",
+  "date": "2025-11-27 06:51:29",
   "channels": {
     "News": [
       {
@@ -157,11 +157,11 @@
         "url": "https://yuppftalive.akamaized.net/080823/bansalnews/playlist.m3u8"
       },
       {
-        "name": "Bharat24 (1080p)",
+        "name": "like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\",Bharat24 (1080p)",
         "logo": "https://i.imgur.com/Jx1OX9N.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://legitpro.co.in/bharat24live/bharat24live/index.m3u8"
+        "url": "https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8"
       },
       {
         "name": "Bharat Express (480p)",
@@ -358,6 +358,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/playlist.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\",India News (1080p)",
+        "logo": "https://i.imgur.com/l54AGtz.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://newsxott.in/hls/indianewsnational.m3u8"
       },
       {
         "name": "India News Haryana (576p)",
@@ -778,6 +785,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8"
+      },
+      {
+        "name": "Public TV (720p)",
+        "logo": "https://i.imgur.com/wczSawd.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://cdn-3.pishow.tv/live/439/master.m3u8"
       },
       {
         "name": "Puthiya Thalaimurai (576p)",
@@ -2016,13 +2030,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-2.pishow.tv/live/1241/master.m3u8"
-      },
-      {
-        "name": "Public TV (720p)",
-        "logo": "https://i.imgur.com/wczSawd.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdn-3.pishow.tv/live/439/master.m3u8"
       },
       {
         "name": "Sada TV (1080p) [Not 24/7]",

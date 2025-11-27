@@ -557,11 +557,6 @@ URL: https://cdn-2.pishow.tv/live/1241/master.m3u8
 Logo: https://i.imgur.com/BTYagXd.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Public TV (720p)
-URL: https://cdn-3.pishow.tv/live/439/master.m3u8
-Logo: https://i.imgur.com/wczSawd.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Sada TV (1080p) [Not 24/7]
 URL: http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 Logo: https://i.ibb.co/cXPzpGp/SADA-CHANNEL-HBN-global-Punjabi-Satellite-TV.png
@@ -1654,8 +1649,8 @@ URL: https://yuppftalive.akamaized.net/080823/bansalnews/playlist.m3u8
 Logo: https://i.imgur.com/8QL8SiB.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Bharat24 (1080p)
-URL: https://legitpro.co.in/bharat24live/bharat24live/index.m3u8
+Name: like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",Bharat24 (1080p)
+URL: https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8
 Logo: https://i.imgur.com/Jx1OX9N.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1797,6 +1792,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: IND 24 (360p)
 URL: https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/playlist.m3u8
 Logo: https://i.imgur.com/exRpVmL.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",India News (1080p)
+URL: https://newsxott.in/hls/indianewsnational.m3u8
+Logo: https://i.imgur.com/l54AGtz.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: India News Haryana (576p)
@@ -2097,6 +2097,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: PTC News (720p)
 URL: https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8
 Logo: https://i.imgur.com/8BHV6Gr.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Public TV (720p)
+URL: https://cdn-3.pishow.tv/live/439/master.m3u8
+Logo: https://i.imgur.com/wczSawd.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Puthiya Thalaimurai (576p)

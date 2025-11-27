@@ -132,9 +132,9 @@
     "img": "https://i.imgur.com/8QL8SiB.png"
   },
   {
-    "name": "Bharat24 (1080p)",
+    "name": "like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\",Bharat24 (1080p)",
     "type": "News",
-    "url": "https://legitpro.co.in/bharat24live/bharat24live/index.m3u8",
+    "url": "https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8",
     "img": "https://i.imgur.com/Jx1OX9N.png"
   },
   {
@@ -304,6 +304,12 @@
     "type": "News",
     "url": "https://gmkd5nkednxo-hls-live.wmncdn.net/ind24tv/live.stream/playlist.m3u8",
     "img": "https://i.imgur.com/exRpVmL.png"
+  },
+  {
+    "name": "like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\",India News (1080p)",
+    "type": "News",
+    "url": "https://newsxott.in/hls/indianewsnational.m3u8",
+    "img": "https://i.imgur.com/l54AGtz.png"
   },
   {
     "name": "India News Haryana (576p)",
@@ -664,6 +670,12 @@
     "type": "News",
     "url": "https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8",
     "img": "https://i.imgur.com/8BHV6Gr.png"
+  },
+  {
+    "name": "Public TV (720p)",
+    "type": "News",
+    "url": "https://cdn-3.pishow.tv/live/439/master.m3u8",
+    "img": "https://i.imgur.com/wczSawd.png"
   },
   {
     "name": "Puthiya Thalaimurai (576p)",
@@ -1720,12 +1732,6 @@
     "type": "Entertainment",
     "url": "https://cdn-2.pishow.tv/live/1241/master.m3u8",
     "img": "https://i.imgur.com/BTYagXd.png"
-  },
-  {
-    "name": "Public TV (720p)",
-    "type": "Entertainment",
-    "url": "https://cdn-3.pishow.tv/live/439/master.m3u8",
-    "img": "https://i.imgur.com/wczSawd.png"
   },
   {
     "name": "Sada TV (1080p) [Not 24/7]",
