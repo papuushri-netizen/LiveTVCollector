@@ -12,16 +12,22 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10"
   },
   {
-    "name": "Masti 4",
-    "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20364",
-    "img": "https://media5.bollywoodhungama.in/wp-content/uploads/2024/01/Mastiii4.jpeg"
-  },
-  {
     "name": "Baaghi 4",
     "type": "Hindi Movies",
     "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20096",
     "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg"
+  },
+  {
+    "name": "Thama",
+    "type": "Hindi Movies",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20262",
+    "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Thamma/poster.jpg"
+  },
+  {
+    "name": "Masti 4",
+    "type": "Hindi Movies",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20364",
+    "img": "https://media5.bollywoodhungama.in/wp-content/uploads/2024/01/Mastiii4.jpeg"
   },
   {
     "name": "Jatadhara",
@@ -34,12 +40,6 @@
     "type": "Hindi Movies",
     "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20329",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6mUM-Gi7GhC8uD7BP2D75iao3WupXSCLvbZen5GcOw&s=10"
-  },
-  {
-    "name": "Thama",
-    "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20262",
-    "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Thamma/poster.jpg"
   },
   {
     "name": "Idli Kadai",
@@ -90,16 +90,16 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555"
   },
   {
-    "name": "Star Gold HD",
-    "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Zee Cinema hd",
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10"
+  },
+  {
+    "name": "Star Gold HD",
+    "type": "Live Tv",
+    "url": "https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "& picture hd",
@@ -132,6 +132,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "PTV Sports",
+    "type": "Live Tv",
+    "url": "http://filex.me:8080/live/444476/444476/453434.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s"
+  },
+  {
     "name": "Colors Cineplex Bollywood",
     "type": "Live Tv",
     "url": "http://66.102.120.18:8000/play/a01a/index.m3u8",
@@ -142,12 +148,6 @@
     "type": "Live Tv",
     "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "PTV Sports",
-    "type": "Live Tv",
-    "url": "http://filex.me:8080/live/444476/444476/453434.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s"
   },
   {
     "name": "Star Plus HD",
