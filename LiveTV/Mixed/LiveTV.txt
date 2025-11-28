@@ -1039,7 +1039,7 @@ Logo: https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: SKY SPORTS
-URL: http://45.5.119.43:4000/play/a05r/index.m3u8
+URL: http://45.5.119.43:4000/play/a05r/39387919.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------

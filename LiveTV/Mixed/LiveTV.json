@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-27 21:30:57",
+  "date": "2025-11-28 06:09:24",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -3131,7 +3131,7 @@
         "logo": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://45.5.119.43:4000/play/a05r/index.m3u8"
+        "url": "http://45.5.119.43:4000/play/a05r/39387919.m3u8"
       }
     ],
     "CINE Y SERIES": [
