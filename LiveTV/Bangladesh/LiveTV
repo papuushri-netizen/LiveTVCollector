@@ -104,7 +104,7 @@
   {
     "name": "Deepto TV",
     "type": "BANGLA",
-    "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png"
   },
   {
@@ -285,6 +285,12 @@
     "name": "Duronto TV",
     "type": "Kids",
     "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png"
+  },
+  {
+    "name": "Moto Patlu",
+    "type": "Kids",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png"
   },
   {
@@ -846,6 +852,12 @@
     "img": "https://bdiptv.stream/uploads/tv_image/discovery.png"
   },
   {
+    "name": "Discovery Engliah HD",
+    "type": "Documentary",
+    "url": "http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8",
+    "img": "https://bdiptv.stream/uploads/tv_image/discovery.png"
+  },
+  {
     "name": "NAT GEO HD",
     "type": "Documentary",
     "url": "https://tvsen6.aynascope.net/natgeo/tracks-v1a1/mono.ts.m3u8?e=1762336523&token=b7aabe9fdd41095877eae26503e77d86&u=5448cf91-5746-4e78-a357-d45dca5c1ab9",
@@ -868,6 +880,18 @@
     "type": "Documentary",
     "url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png"
+  },
+  {
+    "name": "BBC Earth",
+    "type": "Documentary",
+    "url": "https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png"
+  },
+  {
+    "name": "BBC Earth",
+    "type": "Documentary",
+    "url": "http://65.108.239.207/bbc/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png"
   },
   {
     "name": "Animal Planet HD",
@@ -1076,7 +1100,7 @@
   {
     "name": "Mtv",
     "type": "MUSIC",
-    "url": "http://89.187.189.98/MTVPLUSHD/index.m3u8",
+    "url": "http://87.255.35.150:18901/",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1202,7 +1226,7 @@
   {
     "name": "&Tv",
     "type": "Hindi",
-    "url": "http://195.181.169.162/AND_TV_HD/index.m3u8?token=test",
+    "url": "http://87.255.35.150:18843/",
     "img": "https://yt3.ggpht.com/ytc/AKedOLS0XIuM3jYJPnjEFAdoBoqrDkEwev9LQL8HdM4w1Q=s900-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -1224,6 +1248,12 @@
     "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png"
   },
   {
+    "name": "Star Gold-2 HD",
+    "type": "Hindi",
+    "url": "http://87.255.35.150:18859/",
+    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png"
+  },
+  {
     "name": "Star Gold Select HD",
     "type": "Hindi",
     "url": "http://xott.live:8080/17871787/17871787/66176",
@@ -1232,7 +1262,7 @@
   {
     "name": "Zee tv",
     "type": "Hindi",
-    "url": "http://195.181.169.162/ZEE_TV_HD/index.m3u8?token=test",
+    "url": "http://87.255.35.150:18849/",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png"
   },
   {
@@ -1250,7 +1280,7 @@
   {
     "name": "Zee Cinema",
     "type": "Hindi",
-    "url": "http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test",
+    "url": "http://87.255.35.150:18808/",
     "img": "https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg"
   },
   {
@@ -1268,19 +1298,25 @@
   {
     "name": "Sony Entertainment HD",
     "type": "Hindi",
-    "url": "http://195.181.169.162/SONY_HD/index.m3u8?token=test",
+    "url": "http://87.255.35.150:18809/",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png"
+  },
+  {
+    "name": "SONY SAB",
+    "type": "Hindi",
+    "url": "http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125809",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png"
   },
   {
     "name": "SONY MAX HD",
     "type": "Hindi",
-    "url": "http://195.181.169.162/SONY_MAX_HD/index.m3u8?token=test",
+    "url": "http://nocable.cc:8080/789588/114528/125814",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png"
   },
   {
     "name": "SONY MAX SD",
     "type": "Hindi",
-    "url": "http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1366.m3u8",
+    "url": "http://87.255.35.150:18851/",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png"
   },
   {
@@ -1368,6 +1404,24 @@
     "img": "http://dds.oncast.me/img/logo/sp2.png"
   },
   {
+    "name": "Live Sports-3",
+    "type": "SPORTS",
+    "url": "https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8",
+    "img": "http://dds.oncast.me/img/logo/sp3.png"
+  },
+  {
+    "name": "Live Sports-4",
+    "type": "SPORTS",
+    "url": "https://bd-mc-fdlive.fancode.com/mumbai/130955_english_hls_307be9070145264_1adfreeta-di_h264/index.m3u8",
+    "img": "http://dds.oncast.me/img/logo/sp4.png"
+  },
+  {
+    "name": "Live Sports-5",
+    "type": "SPORTS",
+    "url": "http://10.111.200.30/live/feed1001/index.m3u8",
+    "img": "http://dds.oncast.me/img/logo/sp5.png"
+  },
+  {
     "name": "T-Sports [1]",
     "type": "SPORTS",
     "url": "http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1142",
@@ -1376,7 +1430,13 @@
   {
     "name": "T-Sports [2]",
     "type": "SPORTS",
-    "url": "http://103.135.132.54:805/tsport/index.m3u8",
+    "url": "https://live.matribhumitv.com/matribhumi-sports/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
+  },
+  {
+    "name": "T-Sports [3]",
+    "type": "SPORTS",
+    "url": "https://mirajlive.short.gy/free_iptv_mirajliv.m3u",
     "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
   },
   {
@@ -1442,7 +1502,7 @@
   {
     "name": "Sony Sports-3 HD",
     "type": "SPORTS",
-    "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276739&extension=.m3u8",
+    "url": "http://87.255.35.150:18848/",
     "img": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png"
   },
   {
@@ -1476,15 +1536,39 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png"
   },
   {
+    "name": "Willow HD",
+    "type": "SPORTS",
+    "url": "http://kstv.us:8080/live/carloskiu/4461542986/15965.m3u8",
+    "img": "https://aimages.willow.tv/wlo_logo_200_200.jpg"
+  },
+  {
     "name": "Willow HD-2",
     "type": "SPORTS",
     "url": "http://filex.tv:8080/live/Multicity/1234/52109.ts",
     "img": "https://aimages.willow.tv/wlo_logo_200_200.jpg"
   },
   {
+    "name": "TNS Sports-1",
+    "type": "SPORTS",
+    "url": "https://7pal.short.gy/tntspts1",
+    "img": "https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png"
+  },
+  {
+    "name": "TNS Sports-2",
+    "type": "SPORTS",
+    "url": "https://7pal.short.gy/tntspts2",
+    "img": "https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png"
+  },
+  {
+    "name": "TNS Sports-3",
+    "type": "SPORTS",
+    "url": "https://7pal.short.gy/tntspts3",
+    "img": "https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png"
+  },
+  {
     "name": "FOX Cricket 501",
     "type": "SPORTS",
-    "url": "http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8",
+    "url": "https://7pal.short.gy/fox501au",
     "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png"
   },
   {
@@ -1533,6 +1617,18 @@
     "name": "Cowboy tv",
     "type": "SPORTS",
     "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Premium Sports",
+    "type": "SPORTS",
+    "url": "https://7pal.short.gy/prsport1",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Premium Sports-2",
+    "type": "SPORTS",
+    "url": "https://7pal.short.gy/prsport2",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
