@@ -6354,64 +6354,10 @@
     "img": "https://i.imgur.com/eoI4KuB.png"
   },
   {
-    "name": "360° Новости",
-    "type": "News",
-    "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/YXDeX8q.png"
-  },
-  {
-    "name": "Астрахань 24 (720p)",
-    "type": "News",
-    "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
-    "img": "https://i.imgur.com/9WcnjQN.png"
-  },
-  {
-    "name": "Вести ФМ",
-    "type": "News",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173",
-    "img": "https://i.postimg.cc/NFR7YhFQ/vestifm.png"
-  },
-  {
-    "name": "Дон 24",
-    "type": "News",
-    "url": "https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8",
-    "img": "https://i.imgur.com/fW15la1.png"
-  },
-  {
-    "name": "Известия",
-    "type": "News",
-    "url": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
-    "img": "https://i.imgur.com/r5HzA6J.png"
-  },
-  {
-    "name": "КРИК-ТВ (Екатеринбург)",
-    "type": "News",
-    "url": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8",
-    "img": "https://i.postimg.cc/qRy8Jsq8/kriktv.png"
-  },
-  {
-    "name": "Настоящее Время",
-    "type": "News",
-    "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
-    "img": "https://i.imgur.com/hKo8ApU.png"
-  },
-  {
-    "name": "Радио Говорит Москва (Веб-камера) (720p)",
-    "type": "News",
-    "url": "https://video.govoritmoskva.ru/rufm/index.m3u8",
-    "img": "https://i.imgur.com/z2mxf3E.png"
-  },
-  {
-    "name": "Россия 24 (576p) [Not 24/7]",
-    "type": "News",
-    "url": "https://uiptv.do.am/1ufc/000000006/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png"
-  },
-  {
-    "name": "Толк HD",
-    "type": "News",
-    "url": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
-    "img": "https://i.imgur.com/l7JZ79P.png"
+    "name": "15+ Music (1080p)",
+    "type": "Music",
+    "url": "https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8",
+    "img": "https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/15p.png"
   },
   {
     "name": "Amedia 1",
@@ -6574,6 +6520,96 @@
     "type": "Music",
     "url": "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
     "img": "https://i.imgur.com/Fk4sd8t.png"
+  },
+  {
+    "name": "360° Новости",
+    "type": "News",
+    "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/YXDeX8q.png"
+  },
+  {
+    "name": "Астрахань 24 (720p)",
+    "type": "News",
+    "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
+    "img": "https://i.imgur.com/9WcnjQN.png"
+  },
+  {
+    "name": "Вести ФМ",
+    "type": "News",
+    "url": "https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173",
+    "img": "https://i.postimg.cc/NFR7YhFQ/vestifm.png"
+  },
+  {
+    "name": "Дон 24",
+    "type": "News",
+    "url": "https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8",
+    "img": "https://i.imgur.com/fW15la1.png"
+  },
+  {
+    "name": "Известия",
+    "type": "News",
+    "url": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
+    "img": "https://i.imgur.com/r5HzA6J.png"
+  },
+  {
+    "name": "КРИК-ТВ (Екатеринбург)",
+    "type": "News",
+    "url": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8",
+    "img": "https://i.postimg.cc/qRy8Jsq8/kriktv.png"
+  },
+  {
+    "name": "Настоящее Время",
+    "type": "News",
+    "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+    "img": "https://i.imgur.com/hKo8ApU.png"
+  },
+  {
+    "name": "Радио Говорит Москва (Веб-камера) (720p)",
+    "type": "News",
+    "url": "https://video.govoritmoskva.ru/rufm/index.m3u8",
+    "img": "https://i.imgur.com/z2mxf3E.png"
+  },
+  {
+    "name": "Россия 24 (576p) [Not 24/7]",
+    "type": "News",
+    "url": "https://uiptv.do.am/1ufc/000000006/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png"
+  },
+  {
+    "name": "Толк HD",
+    "type": "News",
+    "url": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
+    "img": "https://i.imgur.com/l7JZ79P.png"
+  },
+  {
+    "name": "alpha Cinema (1080p)",
+    "type": "Comedy;Family;Movies",
+    "url": "https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8",
+    "img": "https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/alphacinema.png"
+  },
+  {
+    "name": "alpha Funny (1080p)",
+    "type": "Comedy",
+    "url": "https://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8",
+    "img": "https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/alphafunny.png"
+  },
+  {
+    "name": "КВН ТВ",
+    "type": "Comedy",
+    "url": "http://31.148.48.15/KVN_TV/index.m3u8",
+    "img": "https://i.imgur.com/Vw3LFLX.png"
+  },
+  {
+    "name": "Твое ТВ Юмор",
+    "type": "Comedy",
+    "url": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8",
+    "img": "https://smotret.tv/images/tvoe-tv-yumor.webp"
+  },
+  {
+    "name": "alpha Moretime (1080p)",
+    "type": "Comedy;Movies",
+    "url": "https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8",
+    "img": "https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/alphamoretime.png"
   },
   {
     "name": "Amedia 2",
@@ -6742,6 +6778,12 @@
     "type": "Movies",
     "url": "https://v2.catcast.tv/content/44051/index.m3u8",
     "img": "https://i.imgur.com/FRbtrxo.png"
+  },
+  {
+    "name": "Novyi Russkii (720p)",
+    "type": "Movies",
+    "url": "https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8",
+    "img": "https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/nv.png"
   },
   {
     "name": "Russkiy Detektiv",
@@ -7362,6 +7404,12 @@
     "img": "https://i.imgur.com/ilUzAeb.png"
   },
   {
+    "name": "TV4 (1080p)",
+    "type": "Comedy;Documentary;General;Kids;Movies",
+    "url": "https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8",
+    "img": "https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/tv4logohd.png"
+  },
+  {
     "name": "Авто Плюс",
     "type": "Auto",
     "url": "http://31.148.48.15/Avto_Plus/index.m3u8",
@@ -7426,18 +7474,6 @@
     "type": "Education",
     "url": "http://retc.educom.ru/mosobrtv/tv1/index.m3u8",
     "img": "https://i.imgur.com/t6PmOD5.png"
-  },
-  {
-    "name": "КВН ТВ",
-    "type": "Comedy",
-    "url": "http://31.148.48.15/KVN_TV/index.m3u8",
-    "img": "https://i.imgur.com/Vw3LFLX.png"
-  },
-  {
-    "name": "Твое ТВ Юмор",
-    "type": "Comedy",
-    "url": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8",
-    "img": "https://smotret.tv/images/tvoe-tv-yumor.webp"
   },
   {
     "name": "Конный Мир",

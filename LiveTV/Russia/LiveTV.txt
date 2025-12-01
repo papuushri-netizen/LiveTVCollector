@@ -44,6 +44,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Comedy
+Name: alpha Funny (1080p)
+URL: https://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8
+Logo: https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/alphafunny.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: КВН ТВ
 URL: http://31.148.48.15/KVN_TV/index.m3u8
 Logo: https://i.imgur.com/Vw3LFLX.png
@@ -52,6 +57,27 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Твое ТВ Юмор
 URL: http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 Logo: https://smotret.tv/images/tvoe-tv-yumor.webp
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
+Group: Comedy;Documentary;General;Kids;Movies
+Name: TV4 (1080p)
+URL: https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
+Logo: https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/tv4logohd.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
+Group: Comedy;Family;Movies
+Name: alpha Cinema (1080p)
+URL: https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
+Logo: https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/alphacinema.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
+Group: Comedy;Movies
+Name: alpha Moretime (1080p)
+URL: https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
+Logo: https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/alphamoretime.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
@@ -607,6 +633,11 @@ URL: https://v2.catcast.tv/content/44051/index.m3u8
 Logo: https://i.imgur.com/FRbtrxo.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Novyi Russkii (720p)
+URL: https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
+Logo: https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/nv.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Russkiy Detektiv
 URL: http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 Logo: https://i.imgur.com/H3qhN8S.png
@@ -744,6 +775,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Music
+Name: 15+ Music (1080p)
+URL: https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
+Logo: https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/15p.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Amedia 1
 URL: http://31.148.48.15/A1/index.m3u8
 Logo: https://i.imgur.com/2pAHdAi.png

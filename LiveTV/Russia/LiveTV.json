@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-30 21:41:46",
+  "date": "2025-12-01 06:32:30",
   "channels": {
     "Кино": [
       {
@@ -7450,79 +7450,14 @@
         "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8"
       }
     ],
-    "News": [
-      {
-        "name": "360° Новости",
-        "logo": "https://i.imgur.com/YXDeX8q.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8"
-      },
-      {
-        "name": "Астрахань 24 (720p)",
-        "logo": "https://i.imgur.com/9WcnjQN.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8"
-      },
-      {
-        "name": "Вести ФМ",
-        "logo": "https://i.postimg.cc/NFR7YhFQ/vestifm.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173"
-      },
-      {
-        "name": "Дон 24",
-        "logo": "https://i.imgur.com/fW15la1.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8"
-      },
-      {
-        "name": "Известия",
-        "logo": "https://i.imgur.com/r5HzA6J.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8"
-      },
-      {
-        "name": "КРИК-ТВ (Екатеринбург)",
-        "logo": "https://i.postimg.cc/qRy8Jsq8/kriktv.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8"
-      },
-      {
-        "name": "Настоящее Время",
-        "logo": "https://i.imgur.com/hKo8ApU.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8"
-      },
-      {
-        "name": "Радио Говорит Москва (Веб-камера) (720p)",
-        "logo": "https://i.imgur.com/z2mxf3E.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://video.govoritmoskva.ru/rufm/index.m3u8"
-      },
-      {
-        "name": "Россия 24 (576p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://uiptv.do.am/1ufc/000000006/playlist.m3u8"
-      },
-      {
-        "name": "Толк HD",
-        "logo": "https://i.imgur.com/l7JZ79P.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
-      }
-    ],
     "Music": [
+      {
+        "name": "15+ Music (1080p)",
+        "logo": "https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/15p.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8"
+      },
       {
         "name": "Amedia 1",
         "logo": "https://i.imgur.com/2pAHdAi.png",
@@ -7711,6 +7646,119 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://uiptv.do.am/1ufc/602079679/playlist.m3u8"
+      }
+    ],
+    "News": [
+      {
+        "name": "360° Новости",
+        "logo": "https://i.imgur.com/YXDeX8q.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8"
+      },
+      {
+        "name": "Астрахань 24 (720p)",
+        "logo": "https://i.imgur.com/9WcnjQN.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8"
+      },
+      {
+        "name": "Вести ФМ",
+        "logo": "https://i.postimg.cc/NFR7YhFQ/vestifm.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173"
+      },
+      {
+        "name": "Дон 24",
+        "logo": "https://i.imgur.com/fW15la1.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8"
+      },
+      {
+        "name": "Известия",
+        "logo": "https://i.imgur.com/r5HzA6J.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8"
+      },
+      {
+        "name": "КРИК-ТВ (Екатеринбург)",
+        "logo": "https://i.postimg.cc/qRy8Jsq8/kriktv.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8"
+      },
+      {
+        "name": "Настоящее Время",
+        "logo": "https://i.imgur.com/hKo8ApU.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8"
+      },
+      {
+        "name": "Радио Говорит Москва (Веб-камера) (720p)",
+        "logo": "https://i.imgur.com/z2mxf3E.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://video.govoritmoskva.ru/rufm/index.m3u8"
+      },
+      {
+        "name": "Россия 24 (576p) [Not 24/7]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://uiptv.do.am/1ufc/000000006/playlist.m3u8"
+      },
+      {
+        "name": "Толк HD",
+        "logo": "https://i.imgur.com/l7JZ79P.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
+      }
+    ],
+    "Comedy;Family;Movies": [
+      {
+        "name": "alpha Cinema (1080p)",
+        "logo": "https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/alphacinema.png",
+        "group": "Comedy;Family;Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8"
+      }
+    ],
+    "Comedy": [
+      {
+        "name": "alpha Funny (1080p)",
+        "logo": "https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/alphafunny.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8"
+      },
+      {
+        "name": "КВН ТВ",
+        "logo": "https://i.imgur.com/Vw3LFLX.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/KVN_TV/index.m3u8"
+      },
+      {
+        "name": "Твое ТВ Юмор",
+        "logo": "https://smotret.tv/images/tvoe-tv-yumor.webp",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8"
+      }
+    ],
+    "Comedy;Movies": [
+      {
+        "name": "alpha Moretime (1080p)",
+        "logo": "https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/alphamoretime.png",
+        "group": "Comedy;Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8"
       }
     ],
     "Series": [
@@ -7917,6 +7965,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://v2.catcast.tv/content/44051/index.m3u8"
+      },
+      {
+        "name": "Novyi Russkii (720p)",
+        "logo": "https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/nv.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8"
       },
       {
         "name": "Russkiy Detektiv",
@@ -8656,6 +8711,15 @@
         "url": "https://streaming.televizor-24-tochka.ru/live/16.m3u8"
       }
     ],
+    "Comedy;Documentary;General;Kids;Movies": [
+      {
+        "name": "TV4 (1080p)",
+        "logo": "https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/logos_4RBUvIk6iXEOn3vNbd3j5PCw3T06yk0G/tv4logohd.png",
+        "group": "Comedy;Documentary;General;Kids;Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8"
+      }
+    ],
     "Auto": [
       {
         "name": "Авто Плюс",
@@ -8739,22 +8803,6 @@
         "group": "Education",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://retc.educom.ru/mosobrtv/tv1/index.m3u8"
-      }
-    ],
-    "Comedy": [
-      {
-        "name": "КВН ТВ",
-        "logo": "https://i.imgur.com/Vw3LFLX.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/KVN_TV/index.m3u8"
-      },
-      {
-        "name": "Твое ТВ Юмор",
-        "logo": "https://smotret.tv/images/tvoe-tv-yumor.webp",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8"
       }
     ],
     "Outdoor": [
