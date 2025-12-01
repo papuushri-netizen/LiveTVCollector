@@ -337,6 +337,11 @@ URL: http://87.255.35.150:18551
 Logo: https://i.imgur.com/Wv7MOzg.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Asianet Plus (576p)
+URL: http://87.255.35.150:18831/
+Logo: https://i.imgur.com/qg1IhV8.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Captain TV (576p) [Not 24/7]
 URL: http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 Logo: https://i.imgur.com/nLRqcj1.png
@@ -1111,6 +1116,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Abzy Movies (480p)
 URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 Logo: https://i.imgur.com/LnVgKVF.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Asianet Movies (576p)
+URL: http://87.255.35.150:18813/
+Logo: https://i.imgur.com/cps67hs.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: B4U Bhojpuri (1080p)
@@ -2461,6 +2471,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Jinvani Channel (720p)
 URL: https://cdn-2.pishow.tv/live/989/master.m3u8
 Logo: https://i.imgur.com/lztyGVi.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Jothi TV (576p)
+URL: http://87.255.35.150:18254/
+Logo: https://i.imgur.com/FyESV9X.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Life TV (480p) [Not 24/7]
@@ -8867,11 +8882,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Zee Rajasthan (720p)
 URL: https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
 Logo: https://i.imgur.com/iYrrGlL.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Zee Talkies (1080p)
-URL: https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetalkies
-Logo: https://i.imgur.com/GowDXFz.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee Tamil (1080p)

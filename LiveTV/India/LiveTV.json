@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-30 21:50:44",
+  "date": "2025-12-01 07:17:07",
   "channels": {
     "News": [
       {
@@ -1379,6 +1379,13 @@
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8"
       },
       {
+        "name": "Asianet Movies (576p)",
+        "logo": "https://i.imgur.com/cps67hs.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18813/"
+      },
+      {
         "name": "B4U Bhojpuri (1080p)",
         "logo": "https://i.imgur.com/NwOQUDp.png",
         "group": "Movies",
@@ -1722,6 +1729,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://87.255.35.150:18551"
+      },
+      {
+        "name": "Asianet Plus (576p)",
+        "logo": "https://i.imgur.com/qg1IhV8.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18831/"
       },
       {
         "name": "Captain TV (576p) [Not 24/7]",
@@ -2368,6 +2382,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-2.pishow.tv/live/989/master.m3u8"
+      },
+      {
+        "name": "Jothi TV (576p)",
+        "logo": "https://i.imgur.com/FyESV9X.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18254/"
       },
       {
         "name": "Life TV (480p) [Not 24/7]",
@@ -3186,13 +3207,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8"
-      },
-      {
-        "name": "Zee Talkies (1080p)",
-        "logo": "https://i.imgur.com/GowDXFz.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetalkies"
       },
       {
         "name": "Zee Tamil (1080p)",

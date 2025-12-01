@@ -1176,6 +1176,12 @@
     "img": "https://i.imgur.com/LnVgKVF.png"
   },
   {
+    "name": "Asianet Movies (576p)",
+    "type": "Movies",
+    "url": "http://87.255.35.150:18813/",
+    "img": "https://i.imgur.com/cps67hs.png"
+  },
+  {
     "name": "B4U Bhojpuri (1080p)",
     "type": "Movies",
     "url": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8",
@@ -1468,6 +1474,12 @@
     "type": "Entertainment",
     "url": "http://87.255.35.150:18551",
     "img": "https://i.imgur.com/Wv7MOzg.png"
+  },
+  {
+    "name": "Asianet Plus (576p)",
+    "type": "Entertainment",
+    "url": "http://87.255.35.150:18831/",
+    "img": "https://i.imgur.com/qg1IhV8.png"
   },
   {
     "name": "Captain TV (576p) [Not 24/7]",
@@ -2020,6 +2032,12 @@
     "type": "Religious",
     "url": "https://cdn-2.pishow.tv/live/989/master.m3u8",
     "img": "https://i.imgur.com/lztyGVi.png"
+  },
+  {
+    "name": "Jothi TV (576p)",
+    "type": "Religious",
+    "url": "http://87.255.35.150:18254/",
+    "img": "https://i.imgur.com/FyESV9X.png"
   },
   {
     "name": "Life TV (480p) [Not 24/7]",
@@ -2716,12 +2734,6 @@
     "type": "Undefined",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8",
     "img": "https://i.imgur.com/iYrrGlL.png"
-  },
-  {
-    "name": "Zee Talkies (1080p)",
-    "type": "Undefined",
-    "url": "https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetalkies",
-    "img": "https://i.imgur.com/GowDXFz.png"
   },
   {
     "name": "Zee Tamil (1080p)",
