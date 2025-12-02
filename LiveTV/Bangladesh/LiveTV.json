@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-01 21:52:15",
+  "date": "2025-12-02 06:43:41",
   "channels": {
     "BANGLA": [
       {
@@ -371,6 +371,13 @@
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott",
         "url": "https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8"
+      },
+      {
+        "name": "Disney International HD",
+        "logo": "https://i.imgur.com/JkGvrc6.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "http://66.102.120.18:8000/play/a078/index.m3u8"
       }
     ],
     "Uncategorized": [
