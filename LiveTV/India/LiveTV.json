@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-01 21:56:24",
+  "date": "2025-12-02 06:54:11",
   "channels": {
     "News": [
       {
@@ -1997,13 +1997,6 @@
         "url": "https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8"
       },
       {
-        "name": "MTV HD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8"
-      },
-      {
         "name": "Nazara (1080p)",
         "logo": "https://www.epicon.in/img/nazara-logo.png",
         "group": "Entertainment",
@@ -3906,7 +3899,7 @@
         "logo": "https://i.postimg.cc/854KwmH1/disneychannel.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://116.90.120.149:8000/play/a0bx/index.m3u8"
+        "url": "http://66.102.120.18:8000/play/a070/index.m3u8"
       },
       {
         "name": "Disney Channel HD (1080p)",
@@ -3914,6 +3907,20 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://66.102.120.18:8000/play/a013/index.m3u8"
+      },
+      {
+        "name": "Disney International HD",
+        "logo": "https://i.imgur.com/JkGvrc6.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://66.102.120.18:8000/play/a078/index.m3u8"
+      },
+      {
+        "name": "Disney Junior (576p)",
+        "logo": "https://i.postimg.cc/KvRqrLg2/disneyjunior.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://66.102.120.18:8000/play/a004/index.m3u8"
       },
       {
         "name": "Gubbare (1080p)",
