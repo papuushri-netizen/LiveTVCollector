@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-02 21:56:20",
+  "date": "2025-12-03 06:54:15",
   "channels": {
     "News": [
       {
@@ -483,7 +483,7 @@
         "logo": "https://i.imgur.com/Pgp3EXM.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8"
+        "url": "http://87.255.35.150:18837/"
       },
       {
         "name": "Kalinga TV (576p) [Not 24/7]",
@@ -1069,6 +1069,13 @@
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8"
       },
       {
+        "name": "Aaryaa TV (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://103.140.254.2:3500/live/3395.m3u8"
+      },
+      {
         "name": "Artist Aloud (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/urLlfSo.png",
         "group": "Music",
@@ -1097,11 +1104,11 @@
         "url": "http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8"
       },
       {
-        "name": "Dhamaal (576p) [Not 24/7]",
+        "name": "Dhamaal (576p)",
         "logo": "https://i.imgur.com/J6D56EF.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?format=.m3u8&id=535"
+        "url": "https://cdn-1.pishow.tv/live/1291/master.m3u8"
       },
       {
         "name": "Dhoom Music (720p)",
@@ -1307,6 +1314,13 @@
         "url": "http://87.255.35.150:18941"
       },
       {
+        "name": "Ultimate TV (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-10/2511103396001.jpg",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://stream.galaxyott.live/live/utv/index.m3u8"
+      },
+      {
         "name": "Vaanavil TV (720p)",
         "logo": "https://i.imgur.com/etr1k08.png",
         "group": "Music",
@@ -1362,7 +1376,7 @@
         "logo": "https://i.imgur.com/9mK6dgM.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/z5/stream.m3u8?id=0-9-209"
+        "url": "http://66.102.120.18:8000/play/a012/index.m3u8"
       },
       {
         "name": "Abzy Dhakad (480p)",
@@ -1377,6 +1391,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8"
+      },
+      {
+        "name": "Anandham TV (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-25/2511253358000.jpg",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://stream.galaxyott.live/live/anandhamtv/index.m3u8"
       },
       {
         "name": "Asianet Movies (576p)",
@@ -1488,7 +1509,7 @@
         "logo": "https://i.imgur.com/cpaudl9.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://live.dinesh29.com.np/stream/jiotvplus/jmovies/master.m3u8"
+        "url": "http://103.140.254.2:3500/live/417.m3u8"
       },
       {
         "name": "Jalsha Movies HD (1080p)",
@@ -1568,6 +1589,20 @@
         "url": "https://cdn-1.pishow.tv/live/1451/master.m3u8"
       },
       {
+        "name": "Star Gold 2 (576p)",
+        "logo": "https://i.imgur.com/G0ZfzZr.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18807/"
+      },
+      {
+        "name": "Star Gold HD (1080p)",
+        "logo": "https://i.imgur.com/xC460sj.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18859/"
+      },
+      {
         "name": "Star Gold Select HD (1080p)",
         "logo": "https://i.imgur.com/U7eiuqv.png",
         "group": "Movies",
@@ -1608,6 +1643,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-1.pishow.tv/live/276/master.m3u8"
+      },
+      {
+        "name": "Suriyan TV (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-06/2511063356010.jpg",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://stream.galaxyott.live/live/suriyantv/index.m3u8"
       },
       {
         "name": "Surya Movies (576p)",
@@ -1717,6 +1759,13 @@
         "url": "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8"
       },
       {
+        "name": "Anmol TV (576p)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9b/Anmol_TV_Logo_%282025%2C_Low_Quality%29.jpg",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18467"
+      },
+      {
         "name": "Apna Punjab TV (720p)",
         "logo": "https://i.imgur.com/IM4D8Wz.png",
         "group": "Entertainment",
@@ -1736,6 +1785,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://87.255.35.150:18831/"
+      },
+      {
+        "name": "Brio TV (576p)",
+        "logo": "https://www.lyngsat.com/logo/tv/bb/brio-tv-in.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://103.140.254.2:3500/live/3381.m3u8"
       },
       {
         "name": "Captain TV (576p) [Not 24/7]",
@@ -1787,11 +1843,11 @@
         "url": "http://87.255.35.150:18233"
       },
       {
-        "name": "Colors Super (720p)",
+        "name": "Colors Super (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?format=.m3u8&id=785"
+        "url": "http://87.255.35.150:18445"
       },
       {
         "name": "Colors Tamil (1080p)",
@@ -1889,7 +1945,7 @@
         "logo": "https://i.imgur.com/vpoiA6i.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://93.119.105.61/play/live.php?extension=ts&mac=00:1A:79:00:28:53&play_token=FPh4kuMnod&stream=443062"
+        "url": "http://87.255.35.150:18933/"
       },
       {
         "name": "Hi Dost! (720p)",
@@ -1997,6 +2053,13 @@
         "url": "https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8"
       },
       {
+        "name": "MTV (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18901/"
+      },
+      {
         "name": "Nazara (1080p)",
         "logo": "https://www.epicon.in/img/nazara-logo.png",
         "group": "Entertainment",
@@ -2016,6 +2079,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://yuppftalive.akamaized.net/080823/nepal1/playlist.m3u8"
+      },
+      {
+        "name": "NTC TV (720p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-21/2511213393009.jpg",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://galaxyott.live/hls/ntv.m3u8"
       },
       {
         "name": "One TV (720p)",
@@ -2058,6 +2128,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-3.pishow.tv/live/230/master.m3u8"
+      },
+      {
+        "name": "Sony Entertainment Television (1080p)",
+        "logo": "https://i.imgur.com/AkdfpVr.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18546"
       },
       {
         "name": "Sooriyan TV (1080p)",
@@ -2116,11 +2193,18 @@
         "url": "http://87.255.35.150:18955"
       },
       {
-        "name": "StarPlus HD (720p)",
+        "name": "StarPlus HD (1080p)",
         "logo": "https://i.imgur.com/xWxNy3L.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://tvsen7.aynaott.com/sphdbd/index.m3u8"
+        "url": "http://87.255.35.150:18880/"
+      },
+      {
+        "name": "Subin TV (1080p)",
+        "logo": "https://www.subintv.in/SUBINLOGO.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://stream.galaxyott.live/live/subintv/index.m3u8"
       },
       {
         "name": "Sun Neo (576p)",
@@ -2128,6 +2212,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://163.61.227.29:8000/play/a04t/index.m3u8"
+      },
+      {
+        "name": "Suriya TV (1080p)",
+        "logo": "https://play-lh.googleusercontent.com/izaQp_W1pZqa_fKqG0fGcWv9ls74BpIE-W1yOZBiw-gG0bSrcBNIvw3EY9SR4RyQYAlT=w480-h960-rw",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://103.140.254.2:3500/live/3394.m3u8"
       },
       {
         "name": "Surya TV (1080p)",
@@ -2263,6 +2354,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-1.pishow.tv/live/957/master.m3u8"
+      },
+      {
+        "name": "Dharshan TV (720p)",
+        "logo": "https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://galaxyott.live/hls/dharshantv.m3u8"
       },
       {
         "name": "Dheeran TV (576p)",
@@ -2465,7 +2563,7 @@
         "logo": "https://i.imgur.com/NtmRt1A.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://yuppftalive.akamaized.net/080823/svbc2tamil/playlist.m3u8"
+        "url": "http://87.255.35.150:18956/"
       },
       {
         "name": "SVBC 3 (720p)",
@@ -2695,7 +2793,7 @@
         "logo": "https://i.imgur.com/HjwKtSJ.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8"
+        "url": "http://103.140.254.2:3500/live/824.m3u8"
       },
       {
         "name": "R Plus (768p)",
@@ -2740,18 +2838,11 @@
         "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8"
       },
       {
-        "name": "Raj TV (1080p)",
+        "name": "Raj TV",
         "logo": "https://i.imgur.com/4oF38ei.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://livestream.rajtv.tv/cluster1/Content/Channel/RajTV/HLS/master.m3u8"
-      },
-      {
-        "name": "Rang (576p)",
-        "logo": "https://i.imgur.com/B8GrFwu.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?format=.m3u8&id=623"
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8"
       },
       {
         "name": "Rengoni (576p)",
@@ -3193,6 +3284,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8"
+      },
+      {
+        "name": "Zee Punjabi (576p)",
+        "logo": "https://i.imgur.com/boDyrrZ.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18931/"
       },
       {
         "name": "Zee Rajasthan (720p)",
@@ -3739,6 +3837,20 @@
         "url": "http://87.255.35.150:18818"
       },
       {
+        "name": "Star Sports 1 HD (1080p)",
+        "logo": "https://i.imgur.com/E5jjKHI.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18891/"
+      },
+      {
+        "name": "Star Sports 1 Hindi HD (1080p)",
+        "logo": "https://i.imgur.com/RGeLxjv.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18302"
+      },
+      {
         "name": "Star Sports 1 Tamil HD (1080p)",
         "logo": "https://i.imgur.com/dfLSnsZ.png",
         "group": "Sports",
@@ -3760,11 +3872,32 @@
         "url": "http://87.255.35.150:18828"
       },
       {
+        "name": "Star Sports 2 Hindi (1080p)",
+        "logo": "https://i.imgur.com/kHerF19.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18882"
+      },
+      {
         "name": "Star Sports 3 (576p)",
         "logo": "https://i.imgur.com/dbp2Mig.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://87.255.35.150:18804"
+      },
+      {
+        "name": "Star Sports Select 1 HD (1080p)",
+        "logo": "https://i.imgur.com/Mh9tKPx.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18893/"
+      },
+      {
+        "name": "Star Sports Select 2 HD (1080p)",
+        "logo": "https://i.imgur.com/FtRT73R.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18952/"
       },
       {
         "name": "DUBAI SPORTS",
