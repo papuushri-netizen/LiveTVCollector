@@ -1812,30 +1812,6 @@
     "img": "https://i.imgur.com/INJJEt5.png"
   },
   {
-    "name": "Radio S1",
-    "type": "RS",
-    "url": "https://5bc45691ca49f.streamlock.net/asmedia/radios/playlist.m3u8",
-    "img": "https://i.imgur.com/SrWXQLM.png"
-  },
-  {
-    "name": "Radio S2",
-    "type": "RS",
-    "url": "https://53be5ef2d13aa.streamlock.net/asmedia/index/playlist.m3u8",
-    "img": "https://i.imgur.com/SrWXQLM.png"
-  },
-  {
-    "name": "Radio S3",
-    "type": "RS",
-    "url": "https://539745e629986.streamlock.net/asmedia/pingvin/playlist.m3u8",
-    "img": "https://i.imgur.com/SrWXQLM.png"
-  },
-  {
-    "name": "Radio S4",
-    "type": "RS",
-    "url": "https://65aa8689be25a.streamlock.net/asmedia/gradski/playlist.m3u8",
-    "img": "https://i.imgur.com/SrWXQLM.png"
-  },
-  {
     "name": "TDI Radio",
     "type": "RS",
     "url": "http://streaming.tdiradio.com:8000/tdiradiobezreklama",
@@ -1920,58 +1896,10 @@
     "img": "https://i.imgur.com/IBCVMnt.png"
   },
   {
-    "name": "Radio Kosava 1",
+    "name": "Radio Zrenjanin",
     "type": "RS",
-    "url": "https://main.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava 2",
-    "type": "RS",
-    "url": "https://kosava2.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava Rock",
-    "type": "RS",
-    "url": "https://rock.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava folk 1",
-    "type": "RS",
-    "url": "https://folk1.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava folk 2",
-    "type": "RS",
-    "url": "https://folk2.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava folk 3",
-    "type": "RS",
-    "url": "https://folk3.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava clubbing",
-    "type": "RS",
-    "url": "https://clubbing.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava city",
-    "type": "RS",
-    "url": "https://city.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
-  },
-  {
-    "name": "Radio Kosava cafe",
-    "type": "RS",
-    "url": "https://cafe.radiokosava.rs/live",
-    "img": "https://i.imgur.com/UVUjkte.png"
+    "url": "https://radio.dukahosting.com:7031/",
+    "img": "https://i.imgur.com/9GX6lPu.png"
   },
   {
     "name": "Radio BN",
@@ -2018,7 +1946,7 @@
   {
     "name": "Bobar Radio",
     "type": "BiH",
-    "url": "http://live.radiobobar.com/",
+    "url": "https://stream.radios.rs:9082/stream",
     "img": "https://i.imgur.com/mhBsbmW.png"
   },
   {

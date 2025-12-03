@@ -603,14 +603,6 @@ https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8
 https://rtsradio-live.morescreens.com/RTS_2_003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/INJJEt5.png" group-title="RS",Radio Beograd 202
 https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrWXQLM.png" group-title="RS",Radio S1
-https://5bc45691ca49f.streamlock.net/asmedia/radios/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrWXQLM.png" group-title="RS",Radio S2
-https://53be5ef2d13aa.streamlock.net/asmedia/index/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrWXQLM.png" group-title="RS",Radio S3
-https://539745e629986.streamlock.net/asmedia/pingvin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrWXQLM.png" group-title="RS",Radio S4
-https://65aa8689be25a.streamlock.net/asmedia/gradski/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HT6pWAc.png" group-title="RS",TDI Radio
 http://streaming.tdiradio.com:8000/tdiradiobezreklama
 #EXTINF:-1 tvg-logo="https://i.imgur.com/858KM3e.png" group-title="RS",Naxi BANKER Radio Nis
@@ -639,24 +631,8 @@ https://eu9.fastcast4u.com/proxy/svidakov2
 http://uzivo.radiopingvin.com/domaci1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IBCVMnt.png" group-title="RS",Radio Vrnjacka Banja
 https://live.rtvvrnjackabanja.com/rvb.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava 1
-https://main.radiokosava.rs/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava 2
-https://kosava2.radiokosava.rs/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava Rock
-https://rock.radiokosava.rs/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava folk 1
-https://folk1.radiokosava.rs/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava folk 2
-https://folk2.radiokosava.rs/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava folk 3
-https://folk3.radiokosava.rs/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava clubbing
-https://clubbing.radiokosava.rs/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava city
-https://city.radiokosava.rs/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UVUjkte.png" group-title="RS",Radio Kosava cafe
-https://cafe.radiokosava.rs/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9GX6lPu.png" group-title="RS",Radio Zrenjanin
+https://radio.dukahosting.com:7031/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tjtHrvd.png" group-title="BiH",Radio BN
 http://stream.rtvbn.com:8522/.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J28rVvS.png" group-title="BiH",A Radio
@@ -672,7 +648,7 @@ https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a9aNFcu.png" group-title="BiH",Radio Kozara
 http://51.254.61.148:11111
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhBsbmW.png" group-title="BiH",Bobar Radio
-http://live.radiobobar.com/
+https://stream.radios.rs:9082/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xEydNYS.png" group-title="BiH",Nes Radio
 http://188.40.62.20:8070/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iq4HkZx.png" group-title="BiH",Krajiski Radio Dubica

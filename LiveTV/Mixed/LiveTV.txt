@@ -267,7 +267,7 @@ Logo: https://i.imgur.com/a9aNFcu.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: Bobar Radio
-URL: http://live.radiobobar.com/
+URL: https://stream.radios.rs:9082/stream
 Logo: https://i.imgur.com/mhBsbmW.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
@@ -10446,26 +10446,6 @@ URL: https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8
 Logo: https://i.imgur.com/INJJEt5.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
-Name: Radio S1
-URL: https://5bc45691ca49f.streamlock.net/asmedia/radios/playlist.m3u8
-Logo: https://i.imgur.com/SrWXQLM.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
-Name: Radio S2
-URL: https://53be5ef2d13aa.streamlock.net/asmedia/index/playlist.m3u8
-Logo: https://i.imgur.com/SrWXQLM.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
-Name: Radio S3
-URL: https://539745e629986.streamlock.net/asmedia/pingvin/playlist.m3u8
-Logo: https://i.imgur.com/SrWXQLM.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
-Name: Radio S4
-URL: https://65aa8689be25a.streamlock.net/asmedia/gradski/playlist.m3u8
-Logo: https://i.imgur.com/SrWXQLM.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
 Name: TDI Radio
 URL: http://streaming.tdiradio.com:8000/tdiradiobezreklama
 Logo: https://i.imgur.com/HT6pWAc.png
@@ -10536,49 +10516,9 @@ URL: https://live.rtvvrnjackabanja.com/rvb.mp3
 Logo: https://i.imgur.com/IBCVMnt.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
-Name: Radio Kosava 1
-URL: https://main.radiokosava.rs/live
-Logo: https://i.imgur.com/UVUjkte.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
-Name: Radio Kosava 2
-URL: https://kosava2.radiokosava.rs/live
-Logo: https://i.imgur.com/UVUjkte.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
-Name: Radio Kosava Rock
-URL: https://rock.radiokosava.rs/live
-Logo: https://i.imgur.com/UVUjkte.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
-Name: Radio Kosava folk 1
-URL: https://folk1.radiokosava.rs/live
-Logo: https://i.imgur.com/UVUjkte.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
-Name: Radio Kosava folk 2
-URL: https://folk2.radiokosava.rs/live
-Logo: https://i.imgur.com/UVUjkte.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
-Name: Radio Kosava folk 3
-URL: https://folk3.radiokosava.rs/live
-Logo: https://i.imgur.com/UVUjkte.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
-Name: Radio Kosava clubbing
-URL: https://clubbing.radiokosava.rs/live
-Logo: https://i.imgur.com/UVUjkte.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
-Name: Radio Kosava city
-URL: https://city.radiokosava.rs/live
-Logo: https://i.imgur.com/UVUjkte.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
-Name: Radio Kosava cafe
-URL: https://cafe.radiokosava.rs/live
-Logo: https://i.imgur.com/UVUjkte.png
+Name: Radio Zrenjanin
+URL: https://radio.dukahosting.com:7031/
+Logo: https://i.imgur.com/9GX6lPu.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 
