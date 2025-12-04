@@ -318,6 +318,12 @@
     "img": "https://i.imgur.com/JkGvrc6.png"
   },
   {
+    "name": "Nickelodeon (576p)",
+    "type": "Kids",
+    "url": "http://87.255.35.150:18249",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png"
+  },
+  {
     "name": "Unnamed Channel",
     "type": "Uncategorized",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8",

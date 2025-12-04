@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-04 06:43:56",
+  "date": "2025-12-04 13:53:01",
   "channels": {
     "BANGLA": [
       {
@@ -378,6 +378,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
         "url": "http://66.102.120.18:8000/play/a078/index.m3u8"
+      },
+      {
+        "name": "Nickelodeon (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "http://87.255.35.150:18249"
       }
     ],
     "Uncategorized": [

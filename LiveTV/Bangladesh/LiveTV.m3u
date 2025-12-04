@@ -105,6 +105,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JkGvrc6.png" group-title="Kids",Disney International HD
 http://66.102.120.18:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png" group-title="Kids",Nickelodeon (576p)
+http://87.255.35.150:18249
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Uncategorized",Unnamed Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/9XM1732894296.png" group-title="Uncategorized",9XM
