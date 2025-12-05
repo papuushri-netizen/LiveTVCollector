@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-05 06:54:41",
+  "date": "2025-12-05 13:55:31",
   "channels": {
     "News": [
       {
@@ -129,7 +129,7 @@
         "url": "https://asianetnews.vgcdn.net/ptnr-Embed/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/9bd4a057-456d-43de-b887-7b87b021f1cc/3.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\",Asianet News Kannada (1080p) [Not 24/7]",
+        "name": "Asianet News Kannada (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/19joZ1o.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -171,7 +171,7 @@
         "url": "https://yuppftalive.akamaized.net/080823/bansalnews/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\",Bharat24 (1080p)",
+        "name": "Bharat24 (1080p)",
         "logo": "https://i.imgur.com/Jx1OX9N.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -381,7 +381,7 @@
         "url": "http://202.164.50.194:8000/play/a01d/index.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\",India News (1080p)",
+        "name": "India News (1080p)",
         "logo": "https://i.imgur.com/l54AGtz.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -696,7 +696,7 @@
         "url": "https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\",News18 Kannada (1080p)",
+        "name": "News18 Kannada (1080p)",
         "logo": "https://i.imgur.com/3XVFxdO.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1158,13 +1158,6 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.140.254.2:3500/live/3395.m3u8"
-      },
-      {
-        "name": "Artist Aloud (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/urLlfSo.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://live.hungama.com/linear/artist-aloud/playlist.m3u8"
       },
       {
         "name": "B4U Music (1080p)",
@@ -2852,7 +2845,7 @@
         "url": "http://87.255.35.150:18851"
       },
       {
-        "name": "like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\",Northeast Live (720p)",
+        "name": "Northeast Live (720p)",
         "logo": "https://i.imgur.com/0Zpwy1Y.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -2866,7 +2859,7 @@
         "url": "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\",Power TV (576p)",
+        "name": "Power TV (576p)",
         "logo": "https://i.imgur.com/7wqqA1n.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -3524,7 +3517,7 @@
         "url": "http://183.89.246.119:8881/play/a09a/index.m3u8"
       },
       {
-        "name": "Zoom (720p)",
+        "name": "Zoom Global (720p)",
         "logo": "https://i.imgur.com/kcDJ4g0.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
