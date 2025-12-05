@@ -259,8 +259,8 @@ URL: http://87.255.35.150:18829
 Logo: https://i.imgur.com/cGoOX7l.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Jaya TV (576p)
-URL: http://87.255.35.150:18820
+Name: Jaya TV (1080p)
+URL: http://103.140.254.2:3500/live/419.m3u8
 Logo: https://i.imgur.com/wZJBYmA.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -350,7 +350,7 @@ Logo: https://i.imgur.com/Wv7MOzg.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Asianet Plus (576p)
-URL: http://87.255.35.150:18831/
+URL: http://87.255.35.150:18831
 Logo: https://i.imgur.com/qg1IhV8.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -465,7 +465,7 @@ Logo: https://i.imgur.com/y0VS4QN.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Flowers TV (576p)
-URL: http://87.255.35.150:18933/
+URL: http://87.255.35.150:18933
 Logo: https://i.imgur.com/vpoiA6i.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -550,7 +550,7 @@ Logo: https://i.imgur.com/8eftKdr.jpeg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: MTV (576p)
-URL: http://87.255.35.150:18901/
+URL: http://87.255.35.150:18901
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -650,7 +650,7 @@ Logo: https://i.imgur.com/dZtJHAe.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: StarPlus HD (1080p)
-URL: http://87.255.35.150:18880/
+URL: http://87.255.35.150:18880
 Logo: https://i.imgur.com/xWxNy3L.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1145,8 +1145,8 @@ URL: https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/512px-%26flix_2025.svg.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: &pictures (576p)
-URL: http://87.255.35.150:18510
+Name: &pictures (1080p)
+URL: http://66.102.120.18:8000/play/a01t/index.m3u8
 Logo: https://i.imgur.com/VYh3V8E.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1181,7 +1181,7 @@ Logo: https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-25/2511253358000
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Asianet Movies (576p)
-URL: http://87.255.35.150:18813/
+URL: http://87.255.35.150:18813
 Logo: https://i.imgur.com/cps67hs.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1316,17 +1316,17 @@ Logo: https://i.imgur.com/T76S4x3.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Shemaroo Josh (720p)
-URL: https://cdn-1.pishow.tv/live/1451/master.m3u8
+URL: https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutWZzQySLPpaZvaSHq1SnpV0dXNSFZimyag&s
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Gold 2 (576p)
-URL: http://87.255.35.150:18807/
+URL: http://87.255.35.150:18807
 Logo: https://i.imgur.com/G0ZfzZr.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Gold HD (1080p)
-URL: http://87.255.35.150:18859/
+URL: http://87.255.35.150:18859
 Logo: https://i.imgur.com/xC460sj.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1696,8 +1696,8 @@ URL: https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: ABP News (720p)
-URL: https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+Name: ABP News (1080p)
+URL: https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -2002,7 +2002,7 @@ Logo: https://i.imgur.com/GfrEhbx.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Kalaignar Seithikal (576p) [Not 24/7]
-URL: http://87.255.35.150:18837/
+URL: http://87.255.35.150:18837
 Logo: https://i.imgur.com/Pgp3EXM.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -2361,8 +2361,8 @@ URL: http://rtmp.logichost.in:1935/timevision/timevision/playlist.m3u8
 Logo: https://i.imgur.com/qvuOBP7.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Times Now [Geo-blocked]
-URL: https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
+Name: Times Now (720p) [Geo-blocked]
+URL: https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
 Logo: https://i.imgur.com/C6QK1LB.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -2656,7 +2656,7 @@ Logo: https://i.imgur.com/lztyGVi.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Jothi TV (576p)
-URL: http://87.255.35.150:18254/
+URL: http://87.255.35.150:18254
 Logo: https://i.imgur.com/FyESV9X.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -2726,7 +2726,7 @@ Logo: https://i.imgur.com/XsuFVlf.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: SVBC 2 (576p)
-URL: http://87.255.35.150:18956/
+URL: http://87.255.35.150:18956
 Logo: https://i.imgur.com/NtmRt1A.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -2767,6 +2767,21 @@ Group: Shop
 Name: Naaptol Kannada (576p)
 URL: http://202.164.50.194:8000/play/a042/index.m3u8
 Logo: https://i.imgur.com/YGzbB07.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Naaptol Malayalam (576p)
+URL: http://202.164.50.194:8000/play/a041/index.m3u8
+Logo: https://i.imgur.com/vllr7Ix.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Naaptol Tamil (576p)
+URL: http://202.164.50.194:8000/play/a040/index.m3u8
+Logo: https://i.imgur.com/JH1aAj5.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Naaptol Telugu (576p)
+URL: http://202.164.50.194:8000/play/a044/index.m3u8
+Logo: https://i.imgur.com/rfm14F8.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
@@ -2974,7 +2989,7 @@ Logo: https://i.imgur.com/40BbQUd.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Sports 1 HD (1080p)
-URL: http://87.255.35.150:18891/
+URL: http://87.255.35.150:18891
 Logo: https://i.imgur.com/E5jjKHI.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -3014,12 +3029,12 @@ Logo: https://i.imgur.com/dbp2Mig.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Sports Select 1 HD (1080p)
-URL: http://87.255.35.150:18893/
+URL: http://87.255.35.150:18893
 Logo: https://i.imgur.com/Mh9tKPx.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Sports Select 2 HD (1080p)
-URL: http://87.255.35.150:18952/
+URL: http://87.255.35.150:18952
 Logo: https://i.imgur.com/FtRT73R.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -8793,8 +8808,8 @@ URL: https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/ma
 Logo: https://i.imgur.com/lV9ZGx9.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Raj TV
-URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
+Name: Raj TV (576p)
+URL: http://87.255.35.150:18839
 Logo: https://i.imgur.com/4oF38ei.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -8876,6 +8891,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Sanskar Web TV (1080p)
 URL: https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
 Logo: https://i.imgur.com/mu2B6hw.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Santvani Channel (576p)
+URL: https://cdn-2.pishow.tv/live/475/master.m3u8
+Logo: https://i.imgur.com/V0N1VE4.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Satsang TV (1080p)
@@ -9124,7 +9144,7 @@ Logo: https://i.imgur.com/wnALPbu.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee Punjabi (576p)
-URL: http://87.255.35.150:18931/
+URL: http://87.255.35.150:18931
 Logo: https://i.imgur.com/boDyrrZ.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------

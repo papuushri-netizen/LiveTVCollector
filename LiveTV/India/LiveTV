@@ -60,9 +60,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png"
   },
   {
-    "name": "ABP News (720p)",
+    "name": "ABP News (1080p)",
     "type": "News",
-    "url": "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8",
+    "url": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png"
   },
   {
@@ -428,7 +428,7 @@
   {
     "name": "Kalaignar Seithikal (576p) [Not 24/7]",
     "type": "News",
-    "url": "http://87.255.35.150:18837/",
+    "url": "http://87.255.35.150:18837",
     "img": "https://i.imgur.com/Pgp3EXM.png"
   },
   {
@@ -858,9 +858,9 @@
     "img": "https://i.imgur.com/qvuOBP7.png"
   },
   {
-    "name": "Times Now [Geo-blocked]",
+    "name": "Times Now (720p) [Geo-blocked]",
     "type": "News",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8",
+    "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8",
     "img": "https://i.imgur.com/C6QK1LB.png"
   },
   {
@@ -1224,9 +1224,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/512px-%26flix_2025.svg.png"
   },
   {
-    "name": "&pictures (576p)",
+    "name": "&pictures (1080p)",
     "type": "Movies",
-    "url": "http://87.255.35.150:18510",
+    "url": "http://66.102.120.18:8000/play/a01t/index.m3u8",
     "img": "https://i.imgur.com/VYh3V8E.png"
   },
   {
@@ -1268,7 +1268,7 @@
   {
     "name": "Asianet Movies (576p)",
     "type": "Movies",
-    "url": "http://87.255.35.150:18813/",
+    "url": "http://87.255.35.150:18813",
     "img": "https://i.imgur.com/cps67hs.png"
   },
   {
@@ -1430,19 +1430,19 @@
   {
     "name": "Shemaroo Josh (720p)",
     "type": "Movies",
-    "url": "https://cdn-1.pishow.tv/live/1451/master.m3u8",
+    "url": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutWZzQySLPpaZvaSHq1SnpV0dXNSFZimyag&s"
   },
   {
     "name": "Star Gold 2 (576p)",
     "type": "Movies",
-    "url": "http://87.255.35.150:18807/",
+    "url": "http://87.255.35.150:18807",
     "img": "https://i.imgur.com/G0ZfzZr.png"
   },
   {
     "name": "Star Gold HD (1080p)",
     "type": "Movies",
-    "url": "http://87.255.35.150:18859/",
+    "url": "http://87.255.35.150:18859",
     "img": "https://i.imgur.com/xC460sj.png"
   },
   {
@@ -1604,7 +1604,7 @@
   {
     "name": "Asianet Plus (576p)",
     "type": "Entertainment",
-    "url": "http://87.255.35.150:18831/",
+    "url": "http://87.255.35.150:18831",
     "img": "https://i.imgur.com/qg1IhV8.png"
   },
   {
@@ -1742,7 +1742,7 @@
   {
     "name": "Flowers TV (576p)",
     "type": "Entertainment",
-    "url": "http://87.255.35.150:18933/",
+    "url": "http://87.255.35.150:18933",
     "img": "https://i.imgur.com/vpoiA6i.png"
   },
   {
@@ -1844,7 +1844,7 @@
   {
     "name": "MTV (576p)",
     "type": "Entertainment",
-    "url": "http://87.255.35.150:18901/",
+    "url": "http://87.255.35.150:18901",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png"
   },
   {
@@ -1964,7 +1964,7 @@
   {
     "name": "StarPlus HD (1080p)",
     "type": "Entertainment",
-    "url": "http://87.255.35.150:18880/",
+    "url": "http://87.255.35.150:18880",
     "img": "https://i.imgur.com/xWxNy3L.png"
   },
   {
@@ -2228,7 +2228,7 @@
   {
     "name": "Jothi TV (576p)",
     "type": "Religious",
-    "url": "http://87.255.35.150:18254/",
+    "url": "http://87.255.35.150:18254",
     "img": "https://i.imgur.com/FyESV9X.png"
   },
   {
@@ -2312,7 +2312,7 @@
   {
     "name": "SVBC 2 (576p)",
     "type": "Religious",
-    "url": "http://87.255.35.150:18956/",
+    "url": "http://87.255.35.150:18956",
     "img": "https://i.imgur.com/NtmRt1A.png"
   },
   {
@@ -2556,9 +2556,9 @@
     "img": "https://i.imgur.com/lV9ZGx9.png"
   },
   {
-    "name": "Raj TV",
+    "name": "Raj TV (576p)",
     "type": "Undefined",
-    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8",
+    "url": "http://87.255.35.150:18839",
     "img": "https://i.imgur.com/4oF38ei.png"
   },
   {
@@ -2656,6 +2656,12 @@
     "type": "Undefined",
     "url": "https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8",
     "img": "https://i.imgur.com/mu2B6hw.png"
+  },
+  {
+    "name": "Santvani Channel (576p)",
+    "type": "Undefined",
+    "url": "https://cdn-2.pishow.tv/live/475/master.m3u8",
+    "img": "https://i.imgur.com/V0N1VE4.png"
   },
   {
     "name": "Satsang TV (1080p)",
@@ -2954,7 +2960,7 @@
   {
     "name": "Zee Punjabi (576p)",
     "type": "Undefined",
-    "url": "http://87.255.35.150:18931/",
+    "url": "http://87.255.35.150:18931",
     "img": "https://i.imgur.com/boDyrrZ.png"
   },
   {
@@ -3416,7 +3422,7 @@
   {
     "name": "Star Sports 1 HD (1080p)",
     "type": "Sports",
-    "url": "http://87.255.35.150:18891/",
+    "url": "http://87.255.35.150:18891",
     "img": "https://i.imgur.com/E5jjKHI.png"
   },
   {
@@ -3464,13 +3470,13 @@
   {
     "name": "Star Sports Select 1 HD (1080p)",
     "type": "Sports",
-    "url": "http://87.255.35.150:18893/",
+    "url": "http://87.255.35.150:18893",
     "img": "https://i.imgur.com/Mh9tKPx.png"
   },
   {
     "name": "Star Sports Select 2 HD (1080p)",
     "type": "Sports",
-    "url": "http://87.255.35.150:18952/",
+    "url": "http://87.255.35.150:18952",
     "img": "https://i.imgur.com/FtRT73R.png"
   },
   {
@@ -3714,9 +3720,9 @@
     "img": "https://i.imgur.com/cGoOX7l.png"
   },
   {
-    "name": "Jaya TV (576p)",
+    "name": "Jaya TV (1080p)",
     "type": "Culture;Entertainment",
-    "url": "http://87.255.35.150:18820",
+    "url": "http://103.140.254.2:3500/live/419.m3u8",
     "img": "https://i.imgur.com/wZJBYmA.png"
   },
   {
@@ -3736,6 +3742,24 @@
     "type": "Shop",
     "url": "http://202.164.50.194:8000/play/a042/index.m3u8",
     "img": "https://i.imgur.com/YGzbB07.png"
+  },
+  {
+    "name": "Naaptol Malayalam (576p)",
+    "type": "Shop",
+    "url": "http://202.164.50.194:8000/play/a041/index.m3u8",
+    "img": "https://i.imgur.com/vllr7Ix.png"
+  },
+  {
+    "name": "Naaptol Tamil (576p)",
+    "type": "Shop",
+    "url": "http://202.164.50.194:8000/play/a040/index.m3u8",
+    "img": "https://i.imgur.com/JH1aAj5.png"
+  },
+  {
+    "name": "Naaptol Telugu (576p)",
+    "type": "Shop",
+    "url": "http://202.164.50.194:8000/play/a044/index.m3u8",
+    "img": "https://i.imgur.com/rfm14F8.png"
   },
   {
     "name": "Nambikkai TV (576p)",
