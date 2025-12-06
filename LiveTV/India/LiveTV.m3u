@@ -225,6 +225,8 @@ http://202.164.50.194:8000/play/a038/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zpxsc0Q.png" group-title="News",News X (576p)
 https://newsxott.in/hls/newsx.m3u8
+#EXTINF:-1 tvg-logo="https://newsx-prod.s3.ap-south-1.amazonaws.com/wp-content/uploads/2025/08/04174249/News-X-no-bg-3-1.png" group-title="News",NewsX World (1080p)
+https://newsxott.in/hls/newsxworld.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xMJ2bv9.png" group-title="News",NK TV 24x7 (1080p)
 https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WqTIoWS.png" group-title="News",NTV Telugu (576p)

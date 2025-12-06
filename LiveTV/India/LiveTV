@@ -678,6 +678,12 @@
     "img": "https://i.imgur.com/Zpxsc0Q.png"
   },
   {
+    "name": "NewsX World (1080p)",
+    "type": "News",
+    "url": "https://newsxott.in/hls/newsxworld.m3u8",
+    "img": "https://newsx-prod.s3.ap-south-1.amazonaws.com/wp-content/uploads/2025/08/04174249/News-X-no-bg-3-1.png"
+  },
+  {
     "name": "NK TV 24x7 (1080p)",
     "type": "News",
     "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",

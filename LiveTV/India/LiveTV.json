@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-05 21:54:17",
+  "date": "2025-12-06 06:50:32",
   "channels": {
     "News": [
       {
@@ -792,6 +792,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://newsxott.in/hls/newsx.m3u8"
+      },
+      {
+        "name": "NewsX World (1080p)",
+        "logo": "https://newsx-prod.s3.ap-south-1.amazonaws.com/wp-content/uploads/2025/08/04174249/News-X-no-bg-3-1.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://newsxott.in/hls/newsxworld.m3u8"
       },
       {
         "name": "NK TV 24x7 (1080p)",
