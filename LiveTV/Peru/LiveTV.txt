@@ -59,11 +59,6 @@ URL: http://201.217.246.177:8000/play/a02r/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
-Name: Disney Jr. Latin America South (480p)
-URL: http://38.183.182.166:8000/play/a0j9/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
 
 Group: Auto;Entertainment
 Name: Top Gear (720p)

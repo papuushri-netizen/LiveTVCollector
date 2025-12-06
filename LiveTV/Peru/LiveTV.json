@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-05 22:03:54",
+  "date": "2025-12-06 07:25:53",
   "channels": {
     "Music": [
       {
@@ -1400,13 +1400,6 @@
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "http://201.217.246.177:8000/play/a02r/index.m3u8"
-      },
-      {
-        "name": "Disney Jr. Latin America South (480p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://38.183.182.166:8000/play/a0j9/index.m3u8"
       }
     ],
     "Documentary": [
