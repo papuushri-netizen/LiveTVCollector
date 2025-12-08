@@ -147,6 +147,8 @@ http://87.255.35.150:18837
 http://202.164.50.194:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzFMOKH.png" group-title="News",Kanak News (576p) [Not 24/7]
 http://202.164.50.194:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCXqPer.png" group-title="News",Kannur Vision (1080p)
+https://stream.logichost.in/kannurvision/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfINs2r.png" group-title="News",Kashish News (576p)
 https://yuppftalive.akamaized.net/080823/kashishnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5Li5Pd.png" group-title="News",Khabar Fast (720p) [Not 24/7]
@@ -891,6 +893,8 @@ https://cdn-2.pishow.tv/live/475/master.m3u8
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Undefined",Satsang Web TV (1080p)
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDdG6Y2.png" group-title="Undefined",Shalini TV (576p)
+https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Undefined",Shekinah TV (1080p)
 https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U63jUUq.png" group-title="Undefined",Shemaroo Marathi Bana (720p)
@@ -911,6 +915,8 @@ http://87.255.35.150:18887
 http://87.255.35.150:18495
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MhlO1dB.png" group-title="Undefined",Sony Yay! (576p)
 http://87.255.35.150:18285
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1jhHDl.png" group-title="Undefined",Star Utsav (576p)
+http://163.61.227.29:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9hdNFtt.png" group-title="Undefined",Subharti TV (576p)
 http://202.164.50.194:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfk5jKE.png" group-title="Undefined",Subhavaartha TV (720p)

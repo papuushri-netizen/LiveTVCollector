@@ -444,6 +444,12 @@
     "img": "https://i.imgur.com/OzFMOKH.png"
   },
   {
+    "name": "Kannur Vision (1080p)",
+    "type": "News",
+    "url": "https://stream.logichost.in/kannurvision/live/playlist.m3u8",
+    "img": "https://i.imgur.com/FCXqPer.png"
+  },
+  {
     "name": "Kashish News (576p)",
     "type": "News",
     "url": "https://yuppftalive.akamaized.net/080823/kashishnews/playlist.m3u8",
@@ -2676,6 +2682,12 @@
     "img": "https://i.imgur.com/40kNu1w.png"
   },
   {
+    "name": "Shalini TV (576p)",
+    "type": "Undefined",
+    "url": "https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8",
+    "img": "https://i.imgur.com/fDdG6Y2.png"
+  },
+  {
     "name": "Shekinah TV (1080p)",
     "type": "Undefined",
     "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8",
@@ -2734,6 +2746,12 @@
     "type": "Undefined",
     "url": "http://87.255.35.150:18285",
     "img": "https://i.imgur.com/MhlO1dB.png"
+  },
+  {
+    "name": "Star Utsav (576p)",
+    "type": "Undefined",
+    "url": "http://163.61.227.29:8000/play/a04p/index.m3u8",
+    "img": "https://i.imgur.com/H1jhHDl.png"
   },
   {
     "name": "Subharti TV (576p)",

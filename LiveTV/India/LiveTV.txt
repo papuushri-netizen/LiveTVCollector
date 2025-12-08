@@ -2011,6 +2011,11 @@ URL: http://202.164.50.194:8000/play/a064/index.m3u8
 Logo: https://i.imgur.com/OzFMOKH.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Kannur Vision (1080p)
+URL: https://stream.logichost.in/kannurvision/live/playlist.m3u8
+Logo: https://i.imgur.com/FCXqPer.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Kashish News (576p)
 URL: https://yuppftalive.akamaized.net/080823/kashishnews/playlist.m3u8
 Logo: https://i.imgur.com/qfINs2r.png
@@ -8908,6 +8913,11 @@ URL: https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea6
 Logo: https://i.imgur.com/40kNu1w.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Shalini TV (576p)
+URL: https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
+Logo: https://i.imgur.com/fDdG6Y2.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Shekinah TV (1080p)
 URL: https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 Logo: https://i.imgur.com/6hTshsG.png
@@ -8956,6 +8966,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Sony Yay! (576p)
 URL: http://87.255.35.150:18285
 Logo: https://i.imgur.com/MhlO1dB.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Utsav (576p)
+URL: http://163.61.227.29:8000/play/a04p/index.m3u8
+Logo: https://i.imgur.com/H1jhHDl.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Subharti TV (576p)
