@@ -1138,7 +1138,7 @@ https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Yahoo! Sports Network
 https://yahoo2.global.transmit.live/hls/690b7473f01f0691850b8c7d/09f289527d9545b38b36cfe7623c619f/us-east-1/6415665815001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",beIN Sports
-http://restream-live.realiptv.to:8080/live/19742329/27604387/3612.ts
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",beIN Sports XL
 https://amg01334-amg01334c2-canelatv-international-6036.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Bein Sports 4
@@ -1154,7 +1154,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/5309.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Fubo Sports Network
 http://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/fsn/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",NBA TV
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",NBA G League TV
 https://apollo.production-public.tubi.io/live/nba-g-league2-5ViUll.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Locked on NBA
@@ -1212,7 +1212,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/552928.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Spectrum Sports Encore
 http://restream-live.realiptv.to:8080/live/19742329/27604387/649400.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Spectrum SportsNet LA
-http://restream-live.realiptv.to:8080/live/19742329/27604387/74683.ts
+https://a1xs.vip/400052
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Spectrum Sportsnet Lakers
 http://restream-live.realiptv.to:8080/live/19742329/27604387/512561.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Spectrum Sportsnet OC16
@@ -1254,15 +1254,13 @@ https://amg01444-tennischannel-amg01444c3-tennischannel-us-1912.playouts.now.ama
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",NBC Golf Channel
 http://kstv.us:8080/live/Amoah22/7887531266/22500.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",NBC Golf Pass
-http://restream-live.realiptv.to:8080/live/19742329/27604387/603381.ts
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993009/hls/master.m3u8?ads.xumo_channelId=99993009
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Willow Sports
 https://dbrb49pjoymg4.cloudfront.net/10001/99951406/hls/playlist.m3u8?ads.xumo_channelId=99951406
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",PGA Tour
 https://dbrb49pjoymg4.cloudfront.net/10001/99991281/hls/playlist.m3u8?ads.xumo_channelId=99991281
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",PBR RidePass
 https://dbrb49pjoymg4.cloudfront.net/10001/99951388/hls/playlist.m3u8?ads.xumo_channelId=99951388
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",CMH.TV
-https://fhdinternationalhermes.live.clipmyhorse.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",FanDuel TV (Formerly TVG)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/629723.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",FanDuel TV+
@@ -1300,11 +1298,11 @@ http://kstv.us:8080/live/Amoah22/7887531266/47471.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Fanduel Sports Network (Wisconsin)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2506.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",PHLY Sports
-https://dbrb49pjoymg4.cloudfront.net/10001/99951362/hls/live.m3u8?ads.xumo_channelId=99951362
+https://22d87cc318264bd092f13522c69ca470.mediatailor.us-east-1.amazonaws.com/v1/master/d58cb533af925f0d206e7043f2eb25fe50b073e5/03e24e69-3890-4606-a9fe-85c3918f7671/live.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",CHGO Sports
-https://dbrb49pjoymg4.cloudfront.net/10001/99951360/hls/live.m3u8?ads.xumo_channelId=99951360
+https://b5528a73b0c245638393a5c57c12fe79.mediatailor.us-east-1.amazonaws.com/v1/master/d58cb533af925f0d206e7043f2eb25fe50b073e5/5dc2713f-7102-4912-8dcf-c0a459037a85/live.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",DNVR Sports
-https://dbrb49pjoymg4.cloudfront.net/10001/99951361/hls/live.m3u8?ads.xumo_channelId=99951361
+https://f4fc23fd937b472abb333210b6760aea.mediatailor.us-east-1.amazonaws.com/v1/master/d58cb533af925f0d206e7043f2eb25fe50b073e5/cb056502-44b0-4c67-af41-65e6afa1b724/live.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",PHNX Sports
 https://dbrb49pjoymg4.cloudfront.net/10001/99951363/hls/live.m3u8?ads.xumo_channelId=99951363
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Racer (Formerly MAV TV)
@@ -1334,7 +1332,7 @@ https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.ama
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",FIFA+
 https://2a7ce3b9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Stadium
-http://dai.google.com/linear/hls/event/FH5OItUrSPquaZHqgVNNRg/master.m3u8
+http://dai.google.com/linear/hls/event/v08jn_wSRRGol1hWsbJgbg/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Bally Sports (MLB)
 http://dai.google.com/linear/hls/event/iAH9i6raRVu1GzVMtKI7PA/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Bally Sports (Glory)
@@ -1349,8 +1347,6 @@ https://linear30.channels.ballys.tv/abr_default/index.m3u8
 https://linear-426.frequency.stream/dist/xumo/426/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",WPT (World Poker Tour)
 https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",YES Network
-http://kstv.us:8080/live/Amoah22/7887531266/23230.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Big Ten Network
 https://fl7.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Sports Grid
@@ -6105,6 +6101,8 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951168/hls/master.m3u8?ads.xumo_cha
 https://content.uplynk.com/channel/738511700c9145ca8e4c8147f15aedb9.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png" group-title="24/7 Local News",WTVJ-TV NBC 6 24/7 News (Miami FL)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951167/hls/master.m3u8?ads.xumo_channelId=99951167
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="24/7 Local News",WPLG-TV ABC 10 24/7 News (Miami FL)
+https://d2jy668awuauer.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/wplginc_PROD_wplg_9a735077-eccb-4adb-9630-34d51840431c_LE/live/out/wplginc-wplgott-hls-v7/live.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="24/7 Local News",WTSP-TV CBS 10 24/7 News (Tampa Bay FL)
 https://video.tegnaone.com/wtsp/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTSP-Production/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png" group-title="24/7 Local News",WFTS-TV ABC 28 24/7 News (Tampa Bay FL)
@@ -7766,17 +7764,15 @@ https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af78
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nickelodeon (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/631831.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nickelodeon (East)
-http://kstv.us:8080/live/Amoah22/7887531266/23277.ts
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nick (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9cd630-7b2e-11ef-a94e-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ebbf33a-e8f6-4c9f-91cc-df503deed9e8&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nick Jr. (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/631832.ts
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nick Jr. (East)
-http://kstv.us:8080/live/Amoah22/7887531266/23276.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nick Jr. (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nicktoons
-http://kstv.us:8080/live/Amoah22/7887531266/23274.ts
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",TeenNick
 http://restream-live.realiptv.to:8080/live/19742329/27604387/74692.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Nickelodeon 90's Kids (Pluto TV)
@@ -7788,7 +7784,7 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/89095.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Disney Channel (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2590.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Disney Channel (East)
-http://kstv.us:8080/live/Amoah22/7887531266/23332.ts
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Disney XD (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/2586.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Children Channels",Disney XD (East)
@@ -7903,8 +7899,6 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/647790.ts
 https://dbrb49pjoymg4.cloudfront.net/10001/99951124/hls/playlist.m3u8?ads.xumo_channelId=99951124
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Buzzr (Alt)
 https://buzzrota-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Bounce TV
-https://streamer1.nexgen.bz/BOUNCE/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Bounce XL
 https://wurlewscripps.global.transmit.live/hls/68dab6f2432018160a46f75e/v1/scripps_bouncexl_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Nosey
@@ -8209,14 +8203,8 @@ http://restream-live.realiptv.to:8080/live/19742329/27604387/20210.ts
 https://api-ott.watchnost.com/loggingmediaurlpassthrough/b.m3u8?version=12&id=12&partner=freecast
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Hallmark Channel (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/649412.ts
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Hallmark Channel (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/2494.ts
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Hallmark Family
-http://restream-live.realiptv.to:8080/live/19742329/27604387/660922.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Hallmark Mystery (West)
 http://restream-live.realiptv.to:8080/live/19742329/27604387/649413.ts
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Hallmark Mystery (East)
-http://restream-live.realiptv.to:8080/live/19742329/27604387/3653.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Network Channels",80's Sitcom Flashback
