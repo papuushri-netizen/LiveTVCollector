@@ -1101,11 +1101,6 @@ URL: https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 Logo: https://i.imgur.com/QavgfiK.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Sansad TV (1080p) [Not 24/7]
-URL: https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
-Logo: https://i.imgur.com/TWSZC2H.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 
 Group: Lifestyle
 Name: Ayush TV (360p) [Not 24/7]
@@ -1147,6 +1142,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: &pictures (1080p)
 URL: http://66.102.120.18:8000/play/a01t/index.m3u8
+Logo: https://i.imgur.com/VYh3V8E.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: &pictures (576p)
+URL: http://87.255.35.150:18510
 Logo: https://i.imgur.com/VYh3V8E.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------

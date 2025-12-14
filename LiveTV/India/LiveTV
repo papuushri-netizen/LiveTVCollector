@@ -1236,6 +1236,12 @@
     "img": "https://i.imgur.com/VYh3V8E.png"
   },
   {
+    "name": "&pictures (576p)",
+    "type": "Movies",
+    "url": "http://87.255.35.150:18510",
+    "img": "https://i.imgur.com/VYh3V8E.png"
+  },
+  {
     "name": "&prive HD (1080p)",
     "type": "Movies",
     "url": "http://87.255.35.150:18494",
@@ -3748,12 +3754,6 @@
     "type": "Legislative",
     "url": "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8",
     "img": "https://i.imgur.com/QavgfiK.png"
-  },
-  {
-    "name": "Sansad TV (1080p) [Not 24/7]",
-    "type": "Legislative",
-    "url": "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
-    "img": "https://i.imgur.com/TWSZC2H.png"
   },
   {
     "name": "Naaptol Kannada (576p)",
