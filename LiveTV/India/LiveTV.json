@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-21 22:14:59",
+  "date": "2025-12-22 09:27:47",
   "channels": {
     "News": [
       {
@@ -794,7 +794,7 @@
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8"
       },
       {
-        "name": "News X (576p)",
+        "name": "News X (1080p)",
         "logo": "https://i.imgur.com/Zpxsc0Q.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -813,6 +813,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8"
+      },
+      {
+        "name": "Northeast Live (720p)",
+        "logo": "https://i.imgur.com/0Zpwy1Y.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8"
       },
       {
         "name": "NTV Telugu (576p)",
@@ -2207,11 +2214,25 @@
         "url": "http://87.255.35.150:18230"
       },
       {
+        "name": "Colors Infinity (1080p)",
+        "logo": "https://i.imgur.com/a5uES9j.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18838"
+      },
+      {
         "name": "Colors Kannada (1080p)",
         "logo": "https://i.imgur.com/CFUn43Z.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://87.255.35.150:18219"
+      },
+      {
+        "name": "Colors Marathi (1080p)",
+        "logo": "https://i.imgur.com/q43P31H.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://87.255.35.150:18233"
       },
       {
         "name": "Colors Super (576p)",
@@ -2557,11 +2578,11 @@
         "url": "http://87.255.35.150:18546"
       },
       {
-        "name": "Sony Marathi (1080p)",
+        "name": "Sony Marathi (576p)",
         "logo": "https://i.imgur.com/uiDnvqt.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=985980256"
+        "url": "http://87.255.35.150:18409"
       },
       {
         "name": "Sony Pal (576p)",
@@ -4282,6 +4303,13 @@
         "url": "http://87.255.35.150:18249"
       },
       {
+        "name": "Nickelodeon Sonic Hindi (1080p)",
+        "logo": "https://i.imgur.com/vSJzF6o.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"
+      },
+      {
         "name": "ZB Cartoon (1080p)",
         "logo": "https://i.imgur.com/BbFNpMr.jpeg",
         "group": "Kids",
@@ -4401,15 +4429,6 @@
         "url": "http://103.140.254.2:3500/live/419.m3u8"
       }
     ],
-    "Legislative": [
-      {
-        "name": "Lok Sabha TV (1080p)",
-        "logo": "https://i.imgur.com/QavgfiK.png",
-        "group": "Legislative",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
-      }
-    ],
     "Shop": [
       {
         "name": "Naaptol Kannada (576p)",
@@ -4454,6 +4473,22 @@
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8"
+      }
+    ],
+    "Legislative": [
+      {
+        "name": "Sansad TV 1 (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/TWSZC2H.png",
+        "group": "Legislative",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8"
+      },
+      {
+        "name": "Sansad TV 2 (1080p) [Not 24/7]",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANSAD2_HINDI_2000_X_1125_Transpharent.png",
+        "group": "Legislative",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8"
       }
     ],
     "Culture;Religious": [

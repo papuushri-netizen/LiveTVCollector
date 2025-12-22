@@ -225,12 +225,14 @@ http://202.164.50.194:8000/play/a037/index.m3u8
 http://202.164.50.194:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Tamil_24x7.png" group-title="News",News Tamil 24x7 (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-tamil-24x7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zpxsc0Q.png" group-title="News",News X (576p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zpxsc0Q.png" group-title="News",News X (1080p)
 https://newsxott.in/hls/newsx.m3u8
 #EXTINF:-1 tvg-logo="https://newsx-prod.s3.ap-south-1.amazonaws.com/wp-content/uploads/2025/08/04174249/News-X-no-bg-3-1.png" group-title="News",NewsX World (1080p)
 https://newsxott.in/hls/newsxworld.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xMJ2bv9.png" group-title="News",NK TV 24x7 (1080p)
 https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Zpwy1Y.png" group-title="News",Northeast Live (720p)
+https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WqTIoWS.png" group-title="News",NTV Telugu (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="News",Polimer News (576p) [Not 24/7]
@@ -627,8 +629,12 @@ http://87.255.35.150:18890
 http://87.255.35.150:18236
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZWMyR3j.png" group-title="Entertainment",Colors Gujarati (1080p)
 http://87.255.35.150:18230
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a5uES9j.png" group-title="Entertainment",Colors Infinity (1080p)
+http://87.255.35.150:18838
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFUn43Z.png" group-title="Entertainment",Colors Kannada (1080p)
 http://87.255.35.150:18219
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q43P31H.png" group-title="Entertainment",Colors Marathi (1080p)
+http://87.255.35.150:18233
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Entertainment",Colors Super (576p)
 http://87.255.35.150:18445
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zZXCFqF.png" group-title="Entertainment",Colors Tamil (1080p)
@@ -727,8 +733,8 @@ https://cdn-3.pishow.tv/live/230/master.m3u8
 http://202.164.50.194:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AkdfpVr.png" group-title="Entertainment",Sony Entertainment Television (1080p)
 http://87.255.35.150:18546
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uiDnvqt.png" group-title="Entertainment",Sony Marathi (1080p)
-https://nxtlive.net/sliv/stream.php?e=.m3u8&id=985980256
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uiDnvqt.png" group-title="Entertainment",Sony Marathi (576p)
+http://87.255.35.150:18409
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GnoJkj4.png" group-title="Entertainment",Sony Pal (576p)
 http://87.255.35.150:18887
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Entertainment",Sooriyan TV (1080p)
@@ -1213,6 +1219,8 @@ http://87.255.35.150:18212
 https://live.dinesh29.com.np/stream/jiotvplus/kushitv/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png" group-title="Kids",Nickelodeon (576p)
 http://87.255.35.150:18249
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSJzF6o.png" group-title="Kids",Nickelodeon Sonic Hindi (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BbFNpMr.jpeg" group-title="Kids",ZB Cartoon (1080p)
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3D5SN3E.png" group-title="Cooking",ETV Abhiruchi (1080p)
@@ -1243,8 +1251,6 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 http://87.255.35.150:18829
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wZJBYmA.png" group-title="Culture;Entertainment",Jaya TV (1080p)
 http://103.140.254.2:3500/live/419.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QavgfiK.png" group-title="Legislative",Lok Sabha TV (1080p)
-https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YGzbB07.png" group-title="Shop",Naaptol Kannada (576p)
 http://202.164.50.194:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vllr7Ix.png" group-title="Shop",Naaptol Malayalam (576p)
@@ -1257,6 +1263,10 @@ http://202.164.50.194:8000/play/a044/index.m3u8
 http://202.164.50.194:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Family",The Pet Collective
 https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWSZC2H.png" group-title="Legislative",Sansad TV 1 (1080p) [Not 24/7]
+https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANSAD2_HINDI_2000_X_1125_Transpharent.png" group-title="Legislative",Sansad TV 2 (1080p) [Not 24/7]
+https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SDkiMvR.png" group-title="Culture;Religious",Sanskar TV (1080p)
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rw9eI7V.png" group-title="Entertainment;Music",Sun Life (576p)
