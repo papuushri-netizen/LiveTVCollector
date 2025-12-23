@@ -162,12 +162,6 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/4/4f/BiG_TV_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20180316124023"
   },
   {
-    "name": "BTV News (720p) [Not 24/7]",
-    "type": "News",
-    "url": "https://vidcdn.vidgyor.com/btv-origin/liveabr/playlist.m3u8",
-    "img": "https://i.imgur.com/0BEPrNQ.png"
-  },
-  {
     "name": "CD News (576p)",
     "type": "News",
     "url": "https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8",
@@ -372,6 +366,12 @@
     "img": "https://i.imgur.com/ztn2IR8.png"
   },
   {
+    "name": "India TV Speed News (1080p)",
+    "type": "News",
+    "url": "https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/master.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Speed_News.png"
+  },
+  {
     "name": "India Voice (576p)",
     "type": "News",
     "url": "https://yuppftalive.akamaized.net/080823/indiavoice/playlist.m3u8",
@@ -574,6 +574,12 @@
     "type": "News",
     "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
     "img": "https://i.imgur.com/PyDjUZB.png"
+  },
+  {
+    "name": "NDTV Marathi (1080p)",
+    "type": "News",
+    "url": "https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png"
   },
   {
     "name": "News 1 India (576p)",
@@ -1194,12 +1200,6 @@
     "img": "https://i.imgur.com/zYbltEk.png"
   },
   {
-    "name": "Gemini Music (1080p)",
-    "type": "Music",
-    "url": "http://87.255.35.150:18857",
-    "img": "https://i.imgur.com/ShIpLj3.png"
-  },
-  {
     "name": "Insync (576p)",
     "type": "Music",
     "url": "https://yuppftalive.akamaized.net/080823/insync/playlist.m3u8",
@@ -1392,12 +1392,6 @@
     "img": "https://i.imgur.com/VUzMQ9S.png"
   },
   {
-    "name": "Udaya Music (576p)",
-    "type": "Music",
-    "url": "http://87.255.35.150:18941",
-    "img": "https://i.imgur.com/Lp1OuB9.png"
-  },
-  {
     "name": "Ultimate TV (1080p)",
     "type": "Music",
     "url": "https://stream.galaxyott.live/live/utv/index.m3u8",
@@ -1542,12 +1536,6 @@
     "img": "https://i.imgur.com/EbHSQAJ.png"
   },
   {
-    "name": "Colors Kannada Cinema (576p)",
-    "type": "Movies",
-    "url": "http://87.255.35.150:18940",
-    "img": "https://i.imgur.com/gNbA3NO.png"
-  },
-  {
     "name": "Dhinchaak (576p) [Not 24/7]",
     "type": "Movies",
     "url": "http://14.199.164.20:4001/play/a0o5/index.m3u8",
@@ -1570,12 +1558,6 @@
     "type": "Movies",
     "url": "https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8",
     "img": "https://i.ibb.co/p4BwH0x/images-5.png"
-  },
-  {
-    "name": "Gemini Movies (1080p)",
-    "type": "Movies",
-    "url": "http://87.255.35.150:18814",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "J Movie (576p)",
@@ -1746,12 +1728,6 @@
     "img": "https://i.imgur.com/FkSCjIo.png"
   },
   {
-    "name": "Udaya Movies (576p)",
-    "type": "Movies",
-    "url": "http://87.255.35.150:18938",
-    "img": "https://i.imgur.com/UNEQaAv.png"
-  },
-  {
     "name": "Vijay Super HD (1080p)",
     "type": "Movies",
     "url": "http://87.255.35.150:18954",
@@ -1780,18 +1756,6 @@
     "type": "Movies",
     "url": "http://87.255.35.150:18861",
     "img": "https://i.imgur.com/0qQrV84.png"
-  },
-  {
-    "name": "Zee Cinema (1080p)",
-    "type": "Movies",
-    "url": "https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/512px-Zee_Cinema_2025.svg.png"
-  },
-  {
-    "name": "Zee Cinemalu (1080p)",
-    "type": "Movies",
-    "url": "http://87.255.35.150:18578",
-    "img": "https://i.imgur.com/uq8WSzG.png"
   },
   {
     "name": "Zee Thirai (1080p)",
@@ -1896,22 +1860,10 @@
     "img": "https://i.imgur.com/a5uES9j.png"
   },
   {
-    "name": "Colors Kannada (1080p)",
-    "type": "Entertainment",
-    "url": "http://87.255.35.150:18219",
-    "img": "https://i.imgur.com/CFUn43Z.png"
-  },
-  {
     "name": "Colors Marathi (1080p)",
     "type": "Entertainment",
     "url": "http://87.255.35.150:18233",
     "img": "https://i.imgur.com/q43P31H.png"
-  },
-  {
-    "name": "Colors Super (576p)",
-    "type": "Entertainment",
-    "url": "http://87.255.35.150:18445",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Colors Tamil (1080p)",
@@ -2250,12 +2202,6 @@
     "img": "https://i.imgur.com/ZT0u7AK.png"
   },
   {
-    "name": "Star Suvarna HD (1080p)",
-    "type": "Entertainment",
-    "url": "http://87.255.35.150:18545",
-    "img": "https://i.imgur.com/U9FA4Gs.png"
-  },
-  {
     "name": "Star Utsav (576p)",
     "type": "Entertainment",
     "url": "http://163.61.227.29:8000/play/a04p/index.m3u8",
@@ -2328,12 +2274,6 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAaQKdmdiu7iORzWeeIaeMTSFVXazVHFXMAp2RoevnRYJsy4O8_cGmQl6wHcUTFu1P7MA&usqp=CAU"
   },
   {
-    "name": "Udaya TV (1080p)",
-    "type": "Entertainment",
-    "url": "http://87.255.35.150:18289",
-    "img": "https://i.imgur.com/BQfcmJy.png"
-  },
-  {
     "name": "Vanitha TV (720p)",
     "type": "Entertainment",
     "url": "https://cdn-1.pishow.tv/live/393/master.m3u8",
@@ -2370,12 +2310,6 @@
     "img": "https://i.imgur.com/zTGTWa8.png"
   },
   {
-    "name": "Zee Kannada (1080p)",
-    "type": "Entertainment",
-    "url": "http://87.255.35.150:18945",
-    "img": "https://i.imgur.com/aHLRen7.png"
-  },
-  {
     "name": "Zee Keralam (1080p)",
     "type": "Entertainment",
     "url": "http://87.255.35.150:18502",
@@ -2388,12 +2322,6 @@
     "img": "https://i.imgur.com/vv9ysD3.png"
   },
   {
-    "name": "Zee Power (576p)",
-    "type": "Entertainment",
-    "url": "http://87.255.35.150:18226",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/a/aa/Z_power_general.jpg"
-  },
-  {
     "name": "Zee Punjabi (576p)",
     "type": "Entertainment",
     "url": "http://87.255.35.150:18931",
@@ -2404,12 +2332,6 @@
     "type": "Entertainment",
     "url": "http://87.255.35.150:18553",
     "img": "https://i.imgur.com/KwTVqSe.png"
-  },
-  {
-    "name": "Zee Telugu (1080p)",
-    "type": "Entertainment",
-    "url": "http://87.255.35.150:18222",
-    "img": "https://i.imgur.com/YSc3G9d.png"
   },
   {
     "name": "Zee TV (1080p)",
@@ -2964,12 +2886,6 @@
     "img": "https://i.imgur.com/9hdNFtt.png"
   },
   {
-    "name": "Swara Sagar (576p)",
-    "type": "Undefined",
-    "url": "https://cdn-1.pishow.tv/live/1624/master.m3u8",
-    "img": "https://i.imgur.com/6m8IIXI.png"
-  },
-  {
     "name": "Tamil Vision TV (1080p)",
     "type": "Undefined",
     "url": "http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8",
@@ -3228,12 +3144,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg"
   },
   {
-    "name": "Kasthuri (576p)",
-    "type": "General",
-    "url": "http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8",
-    "img": "https://i.imgur.com/ZQW6MbU.png"
-  },
-  {
     "name": "Kaumudy TV (720p)",
     "type": "General",
     "url": "https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8",
@@ -3316,18 +3226,6 @@
     "type": "General",
     "url": "http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8",
     "img": "https://i.imgur.com/iZufxya.jpg"
-  },
-  {
-    "name": "Chintu TV (576p)",
-    "type": "Animation;Kids",
-    "url": "https://live.dinesh29.com.np/stream/jiotvplus/chintutv/master.m3u8",
-    "img": "https://i.imgur.com/MHrufYc.png"
-  },
-  {
-    "name": "Sony Yay! (576p)",
-    "type": "Animation;Kids",
-    "url": "http://87.255.35.150:18285",
-    "img": "https://i.imgur.com/MhlO1dB.png"
   },
   {
     "name": "CNBC Bajar (504p) [Geo-blocked]",
@@ -3450,22 +3348,10 @@
     "img": "https://i.imgur.com/RGeLxjv.png"
   },
   {
-    "name": "Star Sports 1 Tamil HD (1080p)",
-    "type": "Sports",
-    "url": "http://87.255.35.150:18844",
-    "img": "https://i.imgur.com/dfLSnsZ.png"
-  },
-  {
     "name": "Star Sports 1 Telugu HD (1080p)",
     "type": "Sports",
     "url": "http://87.255.35.150:18881",
     "img": "https://i.imgur.com/gK415D7.png"
-  },
-  {
-    "name": "Star Sports 2 HD (1080p)",
-    "type": "Sports",
-    "url": "http://87.255.35.150:18828",
-    "img": "https://i.imgur.com/5En7pOI.png"
   },
   {
     "name": "Star Sports 2 Hindi (1080p)",
@@ -3636,12 +3522,6 @@
     "img": "https://i.imgur.com/Bvbf9o7.png"
   },
   {
-    "name": "Hungama TV (576p)",
-    "type": "Kids",
-    "url": "http://87.255.35.150:18811",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/512px-Hungama_TV.svg.png"
-  },
-  {
     "name": "Kochu TV (576p)",
     "type": "Kids",
     "url": "http://87.255.35.150:18212",
@@ -3702,12 +3582,6 @@
     "img": "https://i.imgur.com/dNI0Vm5.png"
   },
   {
-    "name": "Udaya Comedy (576p)",
-    "type": "Comedy",
-    "url": "http://87.255.35.150:18947",
-    "img": "https://i.imgur.com/mLAnscw.png"
-  },
-  {
     "name": "Gyandarshan (720p)",
     "type": "Education",
     "url": "https://cdn-6.pishow.tv/live/14/master.m3u8",
@@ -3736,6 +3610,12 @@
     "type": "Documentary",
     "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
     "img": "https://i.imgur.com/dSOfYyh.png"
+  },
+  {
+    "name": "India TV Aap Ki Adalat (1080p) [Geo-blocked]",
+    "type": "Documentary;News",
+    "url": "https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8",
+    "img": "https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA"
   },
   {
     "name": "Indywood TV (720p)",
@@ -3808,6 +3688,12 @@
     "type": "Culture;Religious",
     "url": "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8",
     "img": "https://i.imgur.com/SDkiMvR.png"
+  },
+  {
+    "name": "Sony Yay! (576p)",
+    "type": "Animation;Kids",
+    "url": "http://87.255.35.150:18285",
+    "img": "https://i.imgur.com/MhlO1dB.png"
   },
   {
     "name": "Sun Life (576p)",
