@@ -354,9 +354,9 @@
     "img": "https://i.imgur.com/ztn2IR8.png"
   },
   {
-    "name": "like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0\" group-title=\"News\",India TV Speed News (1080p)",
+    "name": "India TV Speed News (1080p)",
     "type": "News",
-    "url": "https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/master.m3u8",
+    "url": "https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Speed_News.png"
   },
   {
@@ -524,7 +524,7 @@
   {
     "name": "Mirror Now (720p)",
     "type": "News",
-    "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
+    "url": "https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8",
     "img": "https://i.imgur.com/N96LwKG.png"
   },
   {
@@ -586,6 +586,12 @@
     "type": "News",
     "url": "https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/News9live-logo_1_300x.png"
+  },
+  {
+    "name": "News18 Bangla (1080p)",
+    "type": "News",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8",
+    "img": "https://i.imgur.com/l6Ndjnh.png"
   },
   {
     "name": "News18 Bihar Jharkhand (1080p)",
@@ -1362,12 +1368,6 @@
     "img": "https://i.imgur.com/32W50Y6.png"
   },
   {
-    "name": "&xplor HD (1080p)",
-    "type": "Movies",
-    "url": "http://66.102.120.18:8000/play/a012/index.m3u8",
-    "img": "https://i.imgur.com/9mK6dgM.png"
-  },
-  {
     "name": "Abzy Dhakad (480p)",
     "type": "Movies",
     "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8",
@@ -1491,7 +1491,7 @@
     "name": "Max Middle East (1080p)",
     "type": "Movies",
     "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=94312380256",
-    "img": "https://i.imgur.com/AFXPVYD.png"
+    "img": "https://i.imgur.com/LBICKI5.png"
   },
   {
     "name": "MNX SD (576p)",
@@ -2322,18 +2322,6 @@
     "img": "https://content.jdmagicbox.com/comp/bangalore/l5/080pxx80.xx80.150207120517.e4l5/catalogue/salvation-tv-network-pvt-m-g-road-bangalore-religious-organizations-1sabn2d.jpg"
   },
   {
-    "name": "Sanskar UK (1080p)",
-    "type": "Religious",
-    "url": "https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8",
-    "img": "https://i.imgur.com/AU5vSPF.png"
-  },
-  {
-    "name": "Sanskar USA (1080p)",
-    "type": "Religious",
-    "url": "https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8",
-    "img": "https://i.imgur.com/5WBWruX.png"
-  },
-  {
     "name": "Sanskar Web TV (1080p)",
     "type": "Religious",
     "url": "https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8",
@@ -2796,6 +2784,12 @@
     "img": "https://i.imgur.com/BbFNpMr.jpeg"
   },
   {
+    "name": "CNBC Awaaz (1080p)",
+    "type": "Business",
+    "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/512px-CNBC_Awaaz_logo.png"
+  },
+  {
     "name": "CNBC Bajar (1080p)",
     "type": "Business",
     "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8",
@@ -3106,12 +3100,6 @@
     "type": "Movies;News",
     "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
     "img": "https://i.ibb.co/jT3NCPp/logo-tv.png"
-  },
-  {
-    "name": "Jaya TV (1080p)",
-    "type": "Culture;Entertainment",
-    "url": "http://103.140.254.2:3500/live/419.m3u8",
-    "img": "https://i.imgur.com/wZJBYmA.png"
   },
   {
     "name": "Naaptol Kannada (576p)",

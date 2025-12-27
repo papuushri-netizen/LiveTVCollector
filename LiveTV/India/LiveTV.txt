@@ -145,6 +145,11 @@ Source: https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/
 --------------------------------------------------
 
 Group: Business
+Name: CNBC Awaaz (1080p)
+URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/512px-CNBC_Awaaz_logo.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: CNBC Bajar (1080p)
 URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
 Logo: https://i.imgur.com/cORao6C.png
@@ -237,13 +242,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Odisha TV (720p)
 URL: https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 Logo: https://i.imgur.com/tCT3qL9.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-
-Group: Culture;Entertainment
-Name: Jaya TV (1080p)
-URL: http://103.140.254.2:3500/live/419.m3u8
-Logo: https://i.imgur.com/wZJBYmA.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
@@ -1116,11 +1114,6 @@ URL: https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/32W50Y6.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: &xplor HD (1080p)
-URL: http://66.102.120.18:8000/play/a012/index.m3u8
-Logo: https://i.imgur.com/9mK6dgM.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Abzy Dhakad (480p)
 URL: https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
 Logo: https://i.imgur.com/5ORC4tn.png
@@ -1223,7 +1216,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Max Middle East (1080p)
 URL: https://nxtlive.net/sliv/stream.php?e=.m3u8&id=94312380256
-Logo: https://i.imgur.com/AFXPVYD.png
+Logo: https://i.imgur.com/LBICKI5.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: MNX SD (576p)
@@ -1842,8 +1835,8 @@ URL: https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8d
 Logo: https://i.imgur.com/ztn2IR8.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" group-title="News",India TV Speed News (1080p)
-URL: https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/master.m3u8
+Name: India TV Speed News (1080p)
+URL: https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Speed_News.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1983,7 +1976,7 @@ Logo: https://i.imgur.com/RH52BX4.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Mirror Now (720p)
-URL: https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
+URL: https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
 Logo: https://i.imgur.com/N96LwKG.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -2035,6 +2028,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: News9Live (720p)
 URL: https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/a/ae/News9live-logo_1_300x.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: News18 Bangla (1080p)
+URL: https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+Logo: https://i.imgur.com/l6Ndjnh.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: News18 Bihar Jharkhand (1080p)
@@ -2734,16 +2732,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Salvation TV (1080p)
 URL: https://ktismaservers.in:3902/live/salvationtvlive.m3u8
 Logo: https://content.jdmagicbox.com/comp/bangalore/l5/080pxx80.xx80.150207120517.e4l5/catalogue/salvation-tv-network-pvt-m-g-road-bangalore-religious-organizations-1sabn2d.jpg
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Sanskar UK (1080p)
-URL: https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
-Logo: https://i.imgur.com/AU5vSPF.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Sanskar USA (1080p)
-URL: https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
-Logo: https://i.imgur.com/5WBWruX.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Sanskar Web TV (1080p)
