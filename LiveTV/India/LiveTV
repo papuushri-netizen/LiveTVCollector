@@ -102,18 +102,6 @@
     "img": "https://asianewsnetwork.net/wp-content/uploads/2020/03/cropped-LOGO-NEW.png"
   },
   {
-    "name": "APN (576p)",
-    "type": "News",
-    "url": "http://202.164.50.194:8000/play/a03j/index.m3u8",
-    "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/APN.png"
-  },
-  {
-    "name": "Argus News (576p)",
-    "type": "News",
-    "url": "http://202.164.50.194:8000/play/a01n/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARGUS/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Asianet News (360p)",
     "type": "News",
     "url": "https://asianetnews.vgcdn.net/ptnr-Embed/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/9bd4a057-456d-43de-b887-7b87b021f1cc/3.m3u8",
@@ -124,12 +112,6 @@
     "type": "News",
     "url": "https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e2e5f74b-d075-45e4-aa07-e604a45fc1b1/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Asianet_Suvarna_News_logo.png"
-  },
-  {
-    "name": "Assam Talks (576p)",
-    "type": "News",
-    "url": "http://202.164.50.194:8000/play/a054/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASSAM_TALKS/images/LOGO_HD/image.png"
   },
   {
     "name": "Awaaz India TV (720p)",
@@ -160,6 +142,12 @@
     "type": "News",
     "url": "https://cdn-1.pishow.tv/live/1059/master.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_TV/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "BRK News (576p)",
+    "type": "News",
+    "url": "https://cdn-1.pishow.tv/live/1037/master.m3u8",
+    "img": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png"
   },
   {
     "name": "Chardikla Gurbaani TV (1080p)",
@@ -214,6 +202,12 @@
     "type": "News",
     "url": "https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8",
     "img": "https://i.imgur.com/pFNCRnf.png"
+  },
+  {
+    "name": "ETV News (1080p)",
+    "type": "News",
+    "url": "https://cc-3448kp65yhc5w.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3448kp65yhc5w/WWBI/Amagi/ETV_News_IN/playlist.m3u8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900001AQ_20250811T033458SQUARE.png"
   },
   {
     "name": "ETV Telangana (1080p)",
@@ -501,7 +495,7 @@
     "name": "Malai Murasu TV (720p) [Not 24/7]",
     "type": "News",
     "url": "https://cdn-3.pishow.tv/live/1606/master.m3u8",
-    "img": "https://i.imgur.com/M92IDhq.png"
+    "img": "https://i.imgur.com/OC5TQxp.png"
   },
   {
     "name": "Manorama News (1080p)",
@@ -1161,7 +1155,7 @@
     "name": "Zee Delhi NCR Haryana (720p)",
     "type": "News",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8",
-    "img": "https://i.imgur.com/jeBUXYz.png"
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_DELHI_NCR_HARYANA/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "Zee Kannada News (720p)",
@@ -1179,7 +1173,7 @@
     "name": "Zee News (1080p)",
     "type": "News",
     "url": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png"
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "Zee News Malayalam (720p)",
@@ -1197,7 +1191,7 @@
     "name": "Zee Rajasthan (720p)",
     "type": "News",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8",
-    "img": "https://i.imgur.com/iYrrGlL.png"
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "Zee Uttar Pradesh/Uttarakhand (720p)",
@@ -1270,6 +1264,12 @@
     "type": "Music",
     "url": "https://cdn-1.pishow.tv/live/1456/master.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DHOOM_MUSIC/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "ETV Music (1080p)",
+    "type": "Music",
+    "url": "https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20250811T033455SQUARE.png"
   },
   {
     "name": "Isai Aruvi (576p)",
@@ -1446,6 +1446,12 @@
     "img": "https://i.imgur.com/etr1k08.png"
   },
   {
+    "name": "YRF Music (1080p)",
+    "type": "Music",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png"
+  },
+  {
     "name": "ZB Music (720p)",
     "type": "Music",
     "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
@@ -1458,7 +1464,13 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png"
   },
   {
-    "name": "&flix (1080p)",
+    "name": "&flix (480p)",
+    "type": "Movies",
+    "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
+    "name": "&flix HD (1080p)",
     "type": "Movies",
     "url": "http://66.102.120.18:8000/play/a022/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png"
@@ -1479,7 +1491,7 @@
     "name": "&TV (576p)",
     "type": "Movies",
     "url": "http://103.182.170.32:8888/play/a03v",
-    "img": "https://i.imgur.com/32W50Y6.png"
+    "img": "https://i.postimg.cc/NjPB5gtG/andtv.png"
   },
   {
     "name": "Abzy Dhakad (480p)",
@@ -1528,12 +1540,6 @@
     "type": "Movies",
     "url": "https://mumt02.tangotv.in/B4UMOVIES/index.m3u8",
     "img": "https://i.imgur.com/M9kMFJl.png"
-  },
-  {
-    "name": "Bflix Movies (576p)",
-    "type": "Movies",
-    "url": "http://163.61.227.29:8000/play/a05s/index.m3u8",
-    "img": "https://i.imgur.com/5CtiQ45.png"
   },
   {
     "name": "Bhojpuri Cinema (720p)",
@@ -1800,9 +1806,9 @@
     "img": "https://i.imgur.com/WdSjlPl.png"
   },
   {
-    "name": "Anjan (1080p) [Not 24/7]",
+    "name": "Anjan TV (576p)",
     "type": "Entertainment",
-    "url": "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8",
+    "url": "https://cdn-1.pishow.tv/live/993/master.m3u8",
     "img": "https://i.imgur.com/sh0yFSf.png"
   },
   {
@@ -1816,12 +1822,6 @@
     "type": "Entertainment",
     "url": "http://217.20.112.199/asianet/index.m3u8",
     "img": "https://i.imgur.com/Wv7MOzg.png"
-  },
-  {
-    "name": "Big Magic (576p)",
-    "type": "Entertainment",
-    "url": "http://163.61.227.29:8000/play/a04f/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_MAGIC/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "Brio TV (576p)",
@@ -1918,6 +1918,12 @@
     "type": "Entertainment",
     "url": "https://epiconvh.akamaized.net/live/epic/master.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "ETV Josh (1080p)",
+    "type": "Entertainment",
+    "url": "https://cc-uyh1ow5zouoio.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8",
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900004LP_20250811T033452SQUARE.png"
   },
   {
     "name": "ETV Plus HD (1080p)",
@@ -2208,12 +2214,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VANITHA/images/LOGO_HD/image.png"
   },
   {
-    "name": "Velicham (576p)",
-    "type": "Entertainment",
-    "url": "https://cdn-3.pishow.tv/live/461/master.m3u8",
-    "img": "https://i.imgur.com/y1voO3k.png"
-  },
-  {
     "name": "Vendhar TV (720p) [Not 24/7]",
     "type": "Entertainment",
     "url": "https://cdn-3.pishow.tv/live/1271/master.m3u8",
@@ -2332,12 +2332,6 @@
     "type": "Religious",
     "url": "https://cdn-1.pishow.tv/live/957/master.m3u8",
     "img": "https://i.imgur.com/77RIaqe.png"
-  },
-  {
-    "name": "Darshan 24 (576p)",
-    "type": "Religious",
-    "url": "http://202.164.50.194:8000/play/a051/index.m3u8",
-    "img": "https://i.imgur.com/fxeTxkk.png"
   },
   {
     "name": "Dharshan TV (720p)",

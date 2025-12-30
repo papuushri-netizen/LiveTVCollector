@@ -373,8 +373,8 @@ URL: https://ddash74r36xqp.cloudfront.net/master.m3u8
 Logo: https://i.imgur.com/WdSjlPl.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Anjan (1080p) [Not 24/7]
-URL: https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8
+Name: Anjan TV (576p)
+URL: https://cdn-1.pishow.tv/live/993/master.m3u8
 Logo: https://i.imgur.com/sh0yFSf.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -386,11 +386,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Asianet HD (720p)
 URL: http://217.20.112.199/asianet/index.m3u8
 Logo: https://i.imgur.com/Wv7MOzg.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Big Magic (576p)
-URL: http://163.61.227.29:8000/play/a04f/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_MAGIC/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Brio TV (576p)
@@ -471,6 +466,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Epic TV (1080p)
 URL: https://epiconvh.akamaized.net/live/epic/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: ETV Josh (1080p)
+URL: https://cc-uyh1ow5zouoio.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900004LP_20250811T033452SQUARE.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: ETV Plus HD (1080p)
@@ -711,11 +711,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Vanitha TV (720p)
 URL: https://cdn-1.pishow.tv/live/393/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VANITHA/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Velicham (576p)
-URL: https://cdn-3.pishow.tv/live/461/master.m3u8
-Logo: https://i.imgur.com/y1voO3k.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Vendhar TV (720p) [Not 24/7]
@@ -1218,7 +1213,12 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: Movies
-Name: &flix (1080p)
+Name: &flix (480p)
+URL: https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: &flix HD (1080p)
 URL: http://66.102.120.18:8000/play/a022/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
@@ -1235,7 +1235,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: &TV (576p)
 URL: http://103.182.170.32:8888/play/a03v
-Logo: https://i.imgur.com/32W50Y6.png
+Logo: https://i.postimg.cc/NjPB5gtG/andtv.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Abzy Dhakad (480p)
@@ -1276,11 +1276,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: B4U Movies
 URL: https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
 Logo: https://i.imgur.com/M9kMFJl.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Bflix Movies (576p)
-URL: http://163.61.227.29:8000/play/a05s/index.m3u8
-Logo: https://i.imgur.com/5CtiQ45.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Bhojpuri Cinema (720p)
@@ -1537,6 +1532,11 @@ URL: https://cdn-1.pishow.tv/live/1456/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DHOOM_MUSIC/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: ETV Music (1080p)
+URL: https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20250811T033455SQUARE.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Isai Aruvi (576p)
 URL: https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png
@@ -1682,6 +1682,11 @@ URL: https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u
 Logo: https://i.imgur.com/etr1k08.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: YRF Music (1080p)
+URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: ZB Music (720p)
 URL: https://server.zillarbarta.com/zbmusic/index.m3u8
 Logo: https://i.imgur.com/k1nb8u1.jpeg
@@ -1779,16 +1784,6 @@ URL: https://cdn.ottlive.co.in/annnews/index.m3u8
 Logo: https://asianewsnetwork.net/wp-content/uploads/2020/03/cropped-LOGO-NEW.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: APN (576p)
-URL: http://202.164.50.194:8000/play/a03j/index.m3u8
-Logo: https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/APN.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Argus News (576p)
-URL: http://202.164.50.194:8000/play/a01n/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARGUS/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Asianet News (360p)
 URL: https://asianetnews.vgcdn.net/ptnr-Embed/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/9bd4a057-456d-43de-b887-7b87b021f1cc/3.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_NEWS/images/LOGO_HD/image.png
@@ -1797,11 +1792,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" group-title="News",Asianet Suvarna News (1080p) [Not 24/7]
 URL: https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e2e5f74b-d075-45e4-aa07-e604a45fc1b1/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/0/0f/Asianet_Suvarna_News_logo.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Assam Talks (576p)
-URL: http://202.164.50.194:8000/play/a054/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASSAM_TALKS/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Awaaz India TV (720p)
@@ -1827,6 +1817,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: BIG TV (720p)
 URL: https://cdn-1.pishow.tv/live/1059/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_TV/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: BRK News (576p)
+URL: https://cdn-1.pishow.tv/live/1037/master.m3u8
+Logo: https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Chardikla Gurbaani TV (1080p)
@@ -1872,6 +1867,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: ETV Andhra Pradesh (1080p)
 URL: https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8
 Logo: https://i.imgur.com/pFNCRnf.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: ETV News (1080p)
+URL: https://cc-3448kp65yhc5w.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3448kp65yhc5w/WWBI/Amagi/ETV_News_IN/playlist.m3u8
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900001AQ_20250811T033458SQUARE.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: ETV Telangana (1080p)
@@ -2111,7 +2111,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Malai Murasu TV (720p) [Not 24/7]
 URL: https://cdn-3.pishow.tv/live/1606/master.m3u8
-Logo: https://i.imgur.com/M92IDhq.png
+Logo: https://i.imgur.com/OC5TQxp.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Manorama News (1080p)
@@ -2661,7 +2661,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee Delhi NCR Haryana (720p)
 URL: https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
-Logo: https://i.imgur.com/jeBUXYz.png
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_DELHI_NCR_HARYANA/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee Kannada News (720p)
@@ -2676,7 +2676,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee News (1080p)
 URL: https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_NEWS/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee News Malayalam (720p)
@@ -2691,7 +2691,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee Rajasthan (720p)
 URL: https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
-Logo: https://i.imgur.com/iYrrGlL.png
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_RAJASTHAN_NEWS/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee Uttar Pradesh/Uttarakhand (720p)
@@ -2821,11 +2821,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: CVR OM Spiritual (576p)
 URL: https://cdn-1.pishow.tv/live/957/master.m3u8
 Logo: https://i.imgur.com/77RIaqe.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Darshan 24 (576p)
-URL: http://202.164.50.194:8000/play/a051/index.m3u8
-Logo: https://i.imgur.com/fxeTxkk.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Dharshan TV (720p)
