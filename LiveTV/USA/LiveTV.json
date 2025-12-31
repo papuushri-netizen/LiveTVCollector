@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-30 14:31:31",
+  "date": "2025-12-31 14:26:07",
   "channels": {
     "Religious": [
       {
@@ -3612,35 +3612,42 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3636.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3725.ts"
       },
       {
         "name": "ESPN 2",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl2.moveonjoy.com/ESPN_2/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2581.ts"
       },
       {
         "name": "ESPN U",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/ESPN_U/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648974.ts"
       },
       {
         "name": "ESPN News",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2577.ts"
+      },
+      {
+        "name": "SEC Network ESPN",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3864.ts"
       },
       {
         "name": "ACC Network ESPN",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/5287.ts"
       },
       {
         "name": "ACCDN",
@@ -3668,14 +3675,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2501.ts"
       },
       {
         "name": "FSN 2",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/FOX_SPORTS_2/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2500.ts"
       },
       {
         "name": "FOX Sports",
@@ -3710,7 +3717,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://portal5458.com:8080/live/DBeverly/2290061890/15944.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3621.ts"
       },
       {
         "name": "CBS Sports HQ",
@@ -3913,7 +3920,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3661.ts"
       },
       {
         "name": "MLB Channel",
@@ -4228,7 +4235,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/TVG/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/629723.ts"
       },
       {
         "name": "FanDuel TV+",
@@ -4424,7 +4431,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/5289.ts"
       },
       {
         "name": "Outdoor TV",
@@ -4536,7 +4543,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl7.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4443.ts"
       },
       {
         "name": "Sports Grid",
@@ -4683,14 +4690,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/706915.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648959.ts"
       },
       {
         "name": "MSGSN 2",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648959.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/4433.ts"
       },
       {
         "name": "MSG SportsZone",
@@ -9542,6 +9549,13 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89211.ts"
       },
       {
+        "name": "Comedy Central (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Comedy",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3626.ts"
+      },
+      {
         "name": "Comedy Central (Pluto TV)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Comedy",
@@ -14309,14 +14323,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cooking",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3644.ts"
       },
       {
         "name": "Cooking Channel",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cooking",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2605.ts"
       },
       {
         "name": "Recipe.tv",
@@ -15058,7 +15072,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png",
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl2.moveonjoy.com/Animal_Planet/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3609.ts"
       },
       {
         "name": "AKC TV",
@@ -15107,7 +15121,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/2560px-2018_Travel_Channel_logo.svg.png",
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/Travel_Channel/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3687.ts"
+      },
+      {
+        "name": "BBC Travel",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Documentary",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg00793-amg00793c38-vidaa-gb-7935.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctravel-vidaagb/playlist.m3u8"
       },
       {
         "name": "4K Travel",
@@ -15180,6 +15201,20 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3838.ts"
       },
       {
+        "name": "National Geographic (East)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1920px-Natgeologo.svg.png",
+        "group": "Documentary",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3665.ts"
+      },
+      {
+        "name": "Nat Geo Wild",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1920px-National_Geographic_Wild_logo.svg.png",
+        "group": "Documentary",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3666.ts"
+      },
+      {
         "name": "History Hit",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Documentary",
@@ -15191,7 +15226,7 @@
         "logo": "https://images.seeklogo.com/logo-png/50/1/outside-tv-logo-png_seeklogo-509597.png",
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/5288.ts"
       },
       {
         "name": "Outside TV+",
@@ -15208,11 +15243,32 @@
         "url": "https://dtqutq7lmcchv.cloudfront.net/10001/99991765/hls/playlist.m3u8?ads.xumo_channelId=99991765"
       },
       {
+        "name": "PBS Science",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Documentary",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg02333-pbs-amg02333c10-tcl-us-5683.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
         "name": "PBS Nature",
         "logo": "https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png",
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://s6host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8"
+        "url": "https://s6host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config9/playlist.m3u8?ads.cdnhost=s3host4.localnow.api.cms.amdvids.com&ads.playbackid=B7688A14-B68F-4A9B-8857-28A584CCB016&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=B7688A14-B68F-4A9B-8857-28A584CCB016&ads.n4=content_name&ads.v4=EPG%20%7C%20PBS%20Nature&ads.n21=channel_ext_id&ads.v21=63be2bff6dc4bf3efd0d5243&ads.n22=channel_corp&ads.v22=Public%20Media%20Distribution%20LLC&ads.n23=device_model&ads.v23=&ads.n24=channel_genre&ads.v24=Nature&ads.n25=network_name&ads.v25=pbs-nature-public-media&ads.n26=did&ads.v26=&ads.n27=content_custom_3_param&ads.v27=channel&ads.n28=ifa_type&ads.v28=&ads.n29=ip&ads.v29=195.179.200.80&ads.n30=content_provider&ads.v30=pbs-nature-public-media&ads.n31=channel_rating&ads.v31=TV-PG&ads.n32=content_livestream&ads.v32=1&ads.n33=content_producer_name&ads.v33=Public%20Media%20Distribution%20LLC&ads.n34=app_bundle&ads.v34=&ads.n35=channel_company_id&ads.v35=AMDP500543&ads.n36=channel_id&ads.v36=B7688A14-B68F-4A9B-8857-28A584CCB016&ads.n37=cust_devicename&ads.v37=desktop_web&ads.n38=app_name&ads.v38=&ads.n39=gpp_sid&ads.v39=&ads.n40=ua&ads.v40=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n41=channel_title&ads.v41=EPG%20%20PBS%20Nature&ads.n42=channel_brand_id&ads.v42=AMDB013474&ads.n43=device_type&ads.v43=&ads.n44=channel_language&ads.v44=en&ads.n45=app_store_url&ads.v45=&ads.n46=app_version&ads.v46=0.0.0&ads.n47=device_make&ads.v47=&ads.n48=h&ads.v48=1080&ads.n49=content_custom_1_param&ads.v49=B7688A14-B68F-4A9B-8857-28A584CCB016&ads.n50=w&ads.v50=1920&ads.n51=content_custom_2_param&ads.v51=AMDB013474&ads.n52=dnt&ads.v52=&ads.n53=channel_name&ads.v53=EPG%20%20PBS%20Nature&ads.n54=gpp&ads.v54=&ads.n55=pos&ads.v55=midroll&ads.n56=url&ads.v56=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n57=us_privacy&ads.v57=1YNY&ads.n58=content_type&ads.v58=channel"
+      },
+      {
+        "name": "PBS Genealogy",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Documentary",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg02333-pbs-amg02333c14-lg-us-8487.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsgenealogy-lgus/playlist.m3u8"
+      },
+      {
+        "name": "PBS History",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Documentary",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg02333-pbs-amg02333c3-tcl-us-5686.playouts.now.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Love & Nature",
@@ -15233,7 +15289,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8"
+        "url": "https://amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthaall-vizious/playlist.m3u8"
       },
       {
         "name": "EarthXtra",
@@ -15282,7 +15338,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1920px-American_Heroes_Channel_logo.svg.png",
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2663.ts"
       },
       {
         "name": "Documentary+",
@@ -15345,14 +15401,7 @@
         "logo": "https://m.media-amazon.com/images/I/71GE1KWeaWL.png",
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://linear-190.frequency.stream/dist/vizio/190/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "Infamous TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Documentary",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://amg01324-infamous-amg01324c1-cineverse-us-1102.playouts.now.amagi.tv/playlist/amg01324-infamousmedia-infamoustv-cineverseus/playlist.m3u8"
+        "url": "https://jmp2.uk/rok-8abbea29b86a5a5da299c7ef2e288cab.m3u8"
       },
       {
         "name": "Oxygen True Crime (West)",
@@ -15429,7 +15478,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/TRU_TV/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3766.ts"
       },
       {
         "name": "truTV+ (West)",
@@ -15451,6 +15500,13 @@
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://amg00346-vizioono-amg00346c2-distrotv-us-1396.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-investigation-distrotvus/playlist.m3u8"
+      },
+      {
+        "name": "Crime & Investigation",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Documentary",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/20211.ts"
       },
       {
         "name": "Law & Crime",
@@ -17808,14 +17864,14 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/CA_Los_Angeles_CBS/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2637.ts"
       },
       {
         "name": "KNBC-TV NBC 4 (Los Angeles CA)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/CA_Los_Angeles_NBC/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2453.ts"
       },
       {
         "name": "KTLA-TV CW 5 (Los Angeles CA)",
@@ -17829,7 +17885,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2684.ts"
       },
       {
         "name": "KCAL-TV CBS/Ind. 9 (Los Angeles CA)",
@@ -17857,35 +17913,35 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/NY_NEW_YORK_CBS/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89712.ts"
       },
       {
         "name": "WNBC-TV NBC 4 (New York NY)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/NY_New_York_NBC/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89714.ts"
       },
       {
         "name": "WNYW-TV FOX 5 (New York NY)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/NY_New_York_FOX/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2544.ts"
       },
       {
         "name": "WABC-TV ABC 7 (New York NY)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/NY_NEW_YORK_ABC/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3606.ts"
       },
       {
         "name": "WWOR-TV MyNetworkTV 9 (FOX 5+) (New York NY)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/597173.ts"
+        "url": "http://portal5458.com:8080/live/DBeverly/2290061890/23214.ts"
       },
       {
         "name": "WPIX-TV CW 11 (PIX 11+) (New York NY)",
@@ -17896,10 +17952,31 @@
       },
       {
         "name": "WLNY-TV CBS/Ind. 10/55 (New York NY)",
-        "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/WLNY_New_York_55_2023.svg/960px-WLNY_New_York_55_2023.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89717.ts"
+      },
+      {
+        "name": "WBBM-TV CBS 2 (Chicago IL)",
+        "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
+        "group": "Local Channels (Not 24/7)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2648.ts"
+      },
+      {
+        "name": "WMAQ-TV NBC 5 (Chicago IL)",
+        "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
+        "group": "Local Channels (Not 24/7)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2464.ts"
+      },
+      {
+        "name": "WLS-TV ABC 7 (Chicago IL)",
+        "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
+        "group": "Local Channels (Not 24/7)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2695.ts"
       },
       {
         "name": "WGN-TV CW 9 (Chicago IL)",
@@ -17910,7 +17987,7 @@
       },
       {
         "name": "WCIU-TV CW/Ind. (TheU) 26 (Chicago IL)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/WCIU_the_U_logo_2024.png/1280px-WCIU_the_U_logo_2024.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/117146.ts"
@@ -17920,7 +17997,7 @@
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2567.ts"
       },
       {
         "name": "WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL)",
@@ -17934,7 +18011,7 @@
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/MI_Detroit_FOX/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2558.ts"
       },
       {
         "name": "WDIV-TV NBC 4 (Detroit MI)",
@@ -17969,7 +18046,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://xxip25.top:8080/live/char@dot.com/char@14223/147201.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2643.ts"
       },
       {
         "name": "WCCO-TV CBS 4 (Minneapolis/St. Paul MN)",
@@ -18014,6 +18091,27 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/597166.ts"
       },
       {
+        "name": "KYW-TV CBS 3 (Philadelphia PA)",
+        "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
+        "group": "Local Channels (Not 24/7)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2629.ts"
+      },
+      {
+        "name": "WPVI-TV ABC 6 (Philadelphia PA)",
+        "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
+        "group": "Local Channels (Not 24/7)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2678.ts"
+      },
+      {
+        "name": "WCAU-TV NBC 10 (Philadelphia PA)",
+        "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
+        "group": "Local Channels (Not 24/7)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2445.ts"
+      },
+      {
         "name": "WHPL-TV CW 17 (Philadelphia PA)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
@@ -18025,7 +18123,7 @@
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2540.ts"
       },
       {
         "name": "WPSG-TV Ind. Philly 57 (Philadelphia PA)",
@@ -18035,18 +18133,11 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/34426.ts"
       },
       {
-        "name": "WFMZ-TV Ind. 69 (Philadelphia PA)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png",
-        "group": "Local Channels (Not 24/7)",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/182434.ts"
-      },
-      {
         "name": "WBZ-TV CBS 4 (Boston MA)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/MA_BOSTON_CBS/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2650.ts"
       },
       {
         "name": "WCVB-TV ABC 5 (Boston MA)",
@@ -18060,18 +18151,18 @@
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://portal5458.com:8080/live/DBeverly/2290061890/48917.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2467.ts"
       },
       {
         "name": "WFXT-CD FOX 25 (Boston MA)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/MA_BOSTON_FOX/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2570.ts"
       },
       {
         "name": "WSBK-TV Ind. 38 (Boston MA)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/WSBK-TV_logo.svg/960px-WSBK-TV_logo.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/92926.ts"
@@ -18088,35 +18179,35 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://xxip25.top:8080/live/char@dot.com/char@14223/120777.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2627.ts"
       },
       {
         "name": "WTAE-TV ABC 4 (Pittsburgh PA)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/PA_PITTSBURGH_ABC/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2676.ts"
       },
       {
         "name": "WPXI-TV NBC 11 (Pittsburgh PA)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/PA_Pittsburgh_NBC/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2443.ts"
       },
       {
         "name": "WPCW-TV CW 19 (KDKA+) (Pittsburgh PA)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://portal5458.com:8080/live/DBeverly/2290061890/49061.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/34432.ts"
       },
       {
         "name": "WPGH-CD FOX 53 (Pittsburgh PA)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/PA_Pittsburgh_FOX/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2538.ts"
       },
       {
         "name": "WFSB-TV CBS 3 (Hartford CT)",
@@ -18151,42 +18242,42 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/FL_Miami_CBS/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2636.ts"
       },
       {
         "name": "WTVJ-TV NBC 6 (Miami FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2452.ts"
       },
       {
         "name": "WSVN-TV FOX 7 (Miami FL)",
         "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/FL_Miami_FOX/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3641.ts"
       },
       {
         "name": "WPLG-TV ABC 10 (Miami FL)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/FL_MIAMI_ABC/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3605.ts"
       },
       {
         "name": "WBFS-TV CW/MyNetworkTV 33 (Miami FL)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://portal5458.com:8080/live/DBeverly/2290061890/48828.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/38327.ts"
       },
       {
         "name": "WSFL-TV CW/Ind. 39 (Miami FL)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://portal5458.com:8080/live/DBeverly/2290061890/48826.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/433867.ts"
       },
       {
         "name": "WFLA-TV NBC 8 (Tampa Bay FL)",
@@ -18750,7 +18841,7 @@
       },
       {
         "name": "KUSI-TV Ind. 51 (San Diego CA)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/KUSI_%281996%2C_standalone%29.svg/2560px-KUSI_%281996%2C_standalone%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/710371.ts"
@@ -19093,7 +19184,7 @@
       },
       {
         "name": "KMCI-TV Ind./NBC 38 (Kansas City MO)",
-        "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/KMCI_The_Spot_-_Kansas_City_38_%282025%29.svg/2560px-KMCI_The_Spot_-_Kansas_City_38_%282025%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8"
@@ -19285,14 +19376,14 @@
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/CA_SAN_FRANCISCO_CBS/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/30135.ts"
       },
       {
         "name": "KGO-TV ABC 7 (San Francisco CA)",
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://xxip25.top:8080/live/char@dot.com/char@14223/120865.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2669.ts"
       },
       {
         "name": "KNTV-TV NBC 10 (San Francisco CA)",
@@ -19309,8 +19400,8 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89459.ts"
       },
       {
-        "name": "KBCW-TV CW/Ind. 44 (KPIX+) (San Francisco CA)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "name": "KPYX-TV/KBCW-TV Ind. 44 (KPIX+) (San Francisco CA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/KPIX%2B_44_Cable_12_2023.svg/2560px-KPIX%2B_44_Cable_12_2023.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/34433.ts"
@@ -19414,18 +19505,11 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/38244.ts"
       },
       {
-        "name": "WANF-TV CBS 46 (Atlanta GA)",
+        "name": "WUPA-TV CBS 69 (Atlanta GA)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://fl1.moveonjoy.com/GA_ATLANTA_CBS/index.m3u8"
-      },
-      {
-        "name": "WUPA-TV CBS/Ind. 69 (Atlanta GA)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
-        "group": "Local Channels (Not 24/7)",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/34430.ts"
       },
       {
         "name": "WJBF-TV ABC 6 (Augusta GA)",
@@ -19506,7 +19590,7 @@
       },
       {
         "name": "WJZY-TV FOX 46 (Charlotte NC)",
-        "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
+        "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://fl1.moveonjoy.com/NC_CHARLOTTE_FOX/index.m3u8"
@@ -20275,8 +20359,8 @@
         "url": "http://fl1.moveonjoy.com/WA_SEATTLE_CBS/index.m3u8"
       },
       {
-        "name": "KSTW-TV CW/Ind. 11 (Seattle WA)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
+        "name": "KSTW-TV Ind. 11 (Seattle WA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/KSTW_Seattle11_2023.svg/2560px-KSTW_Seattle11_2023.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/34428.ts"
@@ -20374,7 +20458,7 @@
       },
       {
         "name": "KTVM-TV NBC 20 (Butte MT)",
-        "logo": "https://21000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
+        "logo": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/89661.ts"
@@ -20388,7 +20472,7 @@
       },
       {
         "name": "KTBY-TV FOX 4 (Anchorage AK)",
-        "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
+        "logo": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/38319.ts"
@@ -20614,7 +20698,7 @@
       },
       {
         "name": "WFTS-TV ABC 28 24/7 News (Tampa Bay FL)",
-        "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
+        "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "24/7 Local News",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://content.uplynk.com/channel/5bfc0bb9d2be47448fb2c1aaaa2dfd0a.m3u8"
@@ -20869,7 +20953,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "24/7 Local News",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://linear-681.frequency.stream/dist/lg-us/681/hls/master/playlist.m3u8"
+        "url": "https://s9host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/681/hls/master/playlist.m3u8?ads.cdnhost=s9host1.localnow.api.cms.amdvids.com&ads.playbackid=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n4=content_name&ads.v4=WJLA%20Washington%20DC&ads.n21=content_custom_1_param&ads.v21=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n22=url&ads.v22=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n23=h&ads.v23=1080&ads.n24=channel_genre&ads.v24=News&ads.n25=app_version&ads.v25=0.0.0&ads.n26=device_make&ads.v26=&ads.n27=cust_devicename&ads.v27=desktop_web&ads.n28=channel_language&ads.v28=en&ads.n29=channel_corp&ads.v29=Sinclair%20Television%20Group%20INC&ads.n30=content_type&ads.v30=channel&ads.n31=content_provider&ads.v31=wjla-washington-dc&ads.n32=gpp&ads.v32=&ads.n33=ip&ads.v33=195.179.200.80&ads.n34=channel_company_id&ads.v34=AMDP500539&ads.n35=ua&ads.v35=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n36=channel_id&ads.v36=5CEC3AD7-2023-4ABE-AEB6-AF5757C5483A&ads.n37=content_custom_3_param&ads.v37=channel&ads.n38=gpp_sid&ads.v38=&ads.n39=ifa_type&ads.v39=&ads.n40=did&ads.v40=&ads.n41=pos&ads.v41=midroll&ads.n42=channel_rating&ads.v42=TV-PG&ads.n43=channel_title&ads.v43=WJLA%20Washington%20DC&ads.n44=device_model&ads.v44=&ads.n45=content_producer_name&ads.v45=Sinclair%20Television%20Group%20INC&ads.n46=channel_ext_id&ads.v46=&ads.n47=content_custom_2_param&ads.v47=AMDB013446&ads.n48=us_privacy&ads.v48=1YNY&ads.n49=dnt&ads.v49=&ads.n50=content_livestream&ads.v50=1&ads.n51=app_store_url&ads.v51=&ads.n52=network_name&ads.v52=wjla-washington-dc&ads.n53=channel_brand_id&ads.v53=AMDB013446&ads.n54=app_name&ads.v54=&ads.n55=app_bundle&ads.v55=&ads.n56=device_type&ads.v56=&ads.n57=channel_name&ads.v57=WJLA%20Washington%20DC&ads.n58=w&ads.v58=1920"
       },
       {
         "name": "WUSA-TV CBS 9 24/7 News (Washington DC)",
@@ -20908,6 +20992,13 @@
       }
     ],
     "24/7 Shows": [
+      {
+        "name": "Today All Day",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "24/7 Shows",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245"
+      },
       {
         "name": "Supermarket Sweep",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -26428,13 +26519,6 @@
         "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8"
       },
       {
-        "name": "Today All Day",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "News Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245"
-      },
-      {
         "name": "Spectrum News NY1 (New York NY)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "News Channels",
@@ -26530,14 +26614,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "News Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2543.ts"
       },
       {
         "name": "FOX Business",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "News Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3643.ts"
       },
       {
         "name": "NBC News Now",
@@ -26558,7 +26642,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "News Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/CNBC/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3714.ts"
       },
       {
         "name": "CNBC World",
@@ -26593,14 +26677,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "News Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/MSNBC/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2479.ts"
       },
       {
         "name": "CNN",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "News Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/CNN/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3715.ts"
       },
       {
         "name": "CNN International",
@@ -26635,14 +26719,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "News Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/HLN/index.m3u8"
-      },
-      {
-        "name": "HLN+",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "News Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://raw.githubusercontent.com/insolencewillow/insolencetvgo/main/streams/hln.us.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3744.ts"
       },
       {
         "name": "Bloomberg TV",
@@ -26999,6 +27076,13 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631832.ts"
       },
       {
+        "name": "Nick Jr. (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Children Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://portal5458.com:8080/live/DBeverly/2290061890/23276.ts"
+      },
+      {
         "name": "Nick Jr. (Pluto TV)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Children Channels",
@@ -27010,10 +27094,17 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/NICKTOONS/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3674.ts"
       },
       {
-        "name": "TeenNick",
+        "name": "TeenNick (West)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Children Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631834.ts"
+      },
+      {
+        "name": "TeenNick (East)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
@@ -27052,7 +27143,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/DISNEY/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3630.ts"
       },
       {
         "name": "Disney XD (West)",
@@ -27066,7 +27157,21 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3631.ts"
+      },
+      {
+        "name": "Disney Jr. (West)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Children Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2588.ts"
+      },
+      {
+        "name": "Disney Jr. (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Children Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3632.ts"
       },
       {
         "name": "CN (Cartoon Network) (West)",
@@ -27080,21 +27185,21 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2654.ts"
       },
       {
         "name": "Boomerang by Cartoon Network",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/BOOMERANG/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3616.ts"
       },
       {
         "name": "MeTV Toons",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://portal5458.com:8080/live/DBeverly/2290061890/48753.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/721378.ts"
       },
       {
         "name": "The Lego Channel",
@@ -27157,21 +27262,21 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3849.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2502.ts"
       },
       {
         "name": "FreeForm (East)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/FREE_FORM/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3734.ts"
       },
       {
         "name": "Discovery Family",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2598.ts"
       },
       {
         "name": "Baby First #1",
@@ -27456,6 +27561,13 @@
         "url": "https://buzzrota-ono.amagi.tv/playlist.m3u8"
       },
       {
+        "name": "Bounce TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21896.ts"
+      },
+      {
         "name": "Bounce XL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
@@ -27523,7 +27635,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl2.moveonjoy.com/MTV/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3664.ts"
       },
       {
         "name": "MTV (Pluto TV)",
@@ -27544,7 +27656,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl2.moveonjoy.com/MTV_2/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/57968.ts"
       },
       {
         "name": "MTV Classic (West)",
@@ -27552,13 +27664,6 @@
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/57969.ts"
-      },
-      {
-        "name": "MTV Classic (East)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Network Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8"
       },
       {
         "name": "MTV Live",
@@ -27600,7 +27705,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/BET/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/48973.ts"
+      },
+      {
+        "name": "BET (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647385.ts"
       },
       {
         "name": "BET (Pluto TV)",
@@ -27631,6 +27743,27 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631835.ts"
       },
       {
+        "name": "BET Her (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3946.ts"
+      },
+      {
+        "name": "BET Jams",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3947.ts"
+      },
+      {
+        "name": "BET Soul",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3948.ts"
+      },
+      {
         "name": "BET Gospel",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
@@ -27638,11 +27771,25 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42491.ts"
       },
       {
+        "name": "BET - Tyler Perry Comedy",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://linear-867.frequency.stream/dist/tcltv/867/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "BET - Tyler Perry Drama",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://linear-866.frequency.stream/dist/tcltv/866/hls/master/playlist.m3u8"
+      },
+      {
         "name": "FOX Soul",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxsoul-vizio/playlist.m3u8"
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-foxsoul-lgus/playlist.m3u8"
       },
       {
         "name": "Pluto Black Classics",
@@ -27666,11 +27813,25 @@
         "url": "https://amg00876-allenmedia-griocp-ono-m3jdy.amagi.tv/playlist.m3u8"
       },
       {
+        "name": "TV One",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21897.ts"
+      },
+      {
+        "name": "Cleo TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/573316.ts"
+      },
+      {
         "name": "Revolt",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/REVOLT/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21627.ts"
       },
       {
         "name": "Afro",
@@ -27754,7 +27915,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/FX/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3642.ts"
       },
       {
         "name": "FXX (West)",
@@ -27771,6 +27932,13 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3649.ts"
       },
       {
+        "name": "FXM (FOX Movie Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3736.ts"
+      },
+      {
         "name": "TNT (West)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
@@ -27782,7 +27950,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/TNT/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/644434.ts"
       },
       {
         "name": "TNT+ (West)",
@@ -27810,7 +27978,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/TBS/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3684.ts"
       },
       {
         "name": "TBS+ (West)",
@@ -27838,7 +28006,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3694.ts"
       },
       {
         "name": "El Rey Rebel",
@@ -27876,6 +28044,13 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631839.ts"
       },
       {
+        "name": "Paramount Network (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3677.ts"
+      },
+      {
         "name": "Paramount Movie Channel (Pluto TV)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
@@ -27895,6 +28070,13 @@
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3841.ts"
+      },
+      {
+        "name": "SYFY (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3760.ts"
       },
       {
         "name": "BBC Sci-Fi",
@@ -27936,7 +28118,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/TLC/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3686.ts"
       },
       {
         "name": "Bravo (West)",
@@ -27944,6 +28126,13 @@
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3823.ts"
+      },
+      {
+        "name": "Bravo (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2655.ts"
       },
       {
         "name": "IFC (Independent Film Channel)",
@@ -28030,6 +28219,20 @@
         "url": "https://cineverse.g-mana.live/media/ffc88f2b-a62d-4f2f-b9b5-5068b2d86440/master.m3u8"
       },
       {
+        "name": "Ovation",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://portal5458.com:8080/live/DBeverly/2290061890/44204.ts"
+      },
+      {
+        "name": "INSP",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://portal5458.com:8080/live/DBeverly/2290061890/48238.ts"
+      },
+      {
         "name": "Smithsonian Channel (West)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
@@ -28041,7 +28244,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8"
+        "url": "http://portal5458.com:8080/live/DBeverly/2290061890/47549.ts"
       },
       {
         "name": "Smithsonian Channel (Pluto)",
@@ -28086,6 +28289,13 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631840.ts"
       },
       {
+        "name": "Pop TV (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3863.ts"
+      },
+      {
         "name": "Generation Drama by WB",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
@@ -28097,7 +28307,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/VICELAND/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/645915.ts"
       },
       {
         "name": "YouToo America",
@@ -28112,6 +28322,13 @@
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/650317.ts"
+      },
+      {
+        "name": "LifeTime (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/645914.ts"
       },
       {
         "name": "LMN (LifeTime Movie Network)",
@@ -28146,7 +28363,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/WE_TV/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2378.ts"
       },
       {
         "name": "WE Absolute Reality",
@@ -28188,7 +28405,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/HGTV/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3654.ts"
       },
       {
         "name": "Magnolia Network",
@@ -28254,6 +28471,13 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647422.ts"
       },
       {
+        "name": "FYI (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/30924.ts"
+      },
+      {
         "name": "Fuse",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
@@ -28300,7 +28524,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/OWN/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3675.ts"
       },
       {
         "name": "Ebony TV by Lionsgate",
@@ -28321,7 +28545,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3843.ts"
       },
       {
         "name": "AMC+",
@@ -28342,7 +28566,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl2.moveonjoy.com/TCM/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2402.ts"
       },
       {
         "name": "TCM+ (West)",
@@ -28387,11 +28611,32 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649412.ts"
       },
       {
+        "name": "Hallmark Channel (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3740.ts"
+      },
+      {
+        "name": "Hallmark Family",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/660922.ts"
+      },
+      {
         "name": "Hallmark Mystery (West)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649413.ts"
+      },
+      {
+        "name": "Hallmark Mystery (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/660923.ts"
       },
       {
         "name": "Hallmark Movies & More",
@@ -28532,13 +28777,6 @@
       },
       {
         "name": "QVC 7",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://amg01717-qvc-amg01717c1-stirr-us-2651.playouts.now.amagi.tv/qvc-bigdishdelayed-switcher-localnow/playlist.m3u8"
-      },
-      {
-        "name": "QVC 8",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Shopping",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
@@ -34383,14 +34621,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://portal5458.com:8080/live/DBeverly/2290061890/48358.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2490.ts"
       },
       {
         "name": "HBO (East)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/HBO/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3742.ts"
       },
       {
         "name": "HBO Hits (West)",
@@ -34404,7 +34642,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/HBO_2/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648976.ts"
       },
       {
         "name": "HBO Movies (West)",
@@ -34418,7 +34656,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648982.ts"
       },
       {
         "name": "HBO Drama (West)",
@@ -34453,14 +34691,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2611.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3825.ts"
       },
       {
         "name": "Cinemax (East)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3622.ts"
       },
       {
         "name": "Cinemax Hits (West)",
@@ -34491,11 +34729,32 @@
         "url": "http://portal5458.com:8080/live/DBeverly/2290061890/23346.ts"
       },
       {
+        "name": "Paramount+ with Showtime (West)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3840.ts"
+      },
+      {
+        "name": "Paramount+ with Showtime (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3758.ts"
+      },
+      {
         "name": "Showtime 2 (West)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/631912.ts"
+      },
+      {
+        "name": "Showtime 2 (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3965.ts"
       },
       {
         "name": "Showtime Extreme (West)",
@@ -34509,7 +34768,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3967.ts"
       },
       {
         "name": "Showtime Next (West)",
@@ -34523,7 +34782,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648985.ts"
       },
       {
         "name": "Showtime (ShoCase) (West)",
@@ -34551,7 +34810,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648986.ts"
       },
       {
         "name": "Showtime Family Zone (West)",
@@ -34610,6 +34869,20 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/527262.ts"
       },
       {
+        "name": "Starz (West)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3963.ts"
+      },
+      {
+        "name": "Starz (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3680.ts"
+      },
+      {
         "name": "Starz Cinema (West)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
@@ -34635,7 +34908,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3959.ts"
       },
       {
         "name": "Starz In Black (West)",
@@ -34663,7 +34936,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3961.ts"
       },
       {
         "name": "Starz Kids & Family (West)",
@@ -34687,13 +34960,6 @@
         "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3951.ts"
       },
       {
-        "name": "Starz Encore (East)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Premium Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3680.ts"
-      },
-      {
         "name": "Starz Encore Classic",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
@@ -34712,7 +34978,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3952.ts"
       },
       {
         "name": "Starz Encore Westerns",
@@ -36972,7 +37238,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3059.ts"
       },
       {
         "name": "Treehouse (Canada)",
@@ -37126,14 +37392,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://xxip25.top:8080/live/char@dot.com/char@14223/47338.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3093.ts"
       },
       {
         "name": "National Geographic Wild (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://xxip25.top:8080/live/char@dot.com/char@14223/57450.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3058.ts"
       },
       {
         "name": "History Channel (Canada)",
@@ -37567,35 +37833,35 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://xxip25.top:8080/live/char@dot.com/char@14223/47440.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3146.ts"
       },
       {
         "name": "TSN 2 (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://xxip25.top:8080/live/char@dot.com/char@14223/47442.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3145.ts"
       },
       {
         "name": "TSN 3 (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://xxip25.top:8080/live/char@dot.com/char@14223/47444.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3144.ts"
       },
       {
         "name": "TSN 4 (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://xxip25.top:8080/live/char@dot.com/char@14223/66783.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3143.ts"
       },
       {
         "name": "TSN 5 (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://xxip25.top:8080/live/char@dot.com/char@14223/16131.ts"
+        "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/88079.ts"
       },
       {
         "name": "TSN The Ocho (Canada)",
