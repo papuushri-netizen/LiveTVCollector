@@ -648,7 +648,7 @@ URL: http://202.164.50.194:8000/play/a02q/index.m3u8
 Logo: https://i.imgur.com/zKf0Wap.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Sony Entertainment Television (1080p)
+Name: Sony Entertainment Television HD (1080p)
 URL: http://66.102.120.18:8000/play/a005/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
