@@ -16,11 +16,6 @@ URL: http://103.140.254.2:3500/live/555.m3u8
 Logo: https://i.imgur.com/MHrufYc.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Sony Yay! (576p)
-URL: http://66.102.120.18:8000/play/a00s/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 
 Group: Bangla
 Name: ATN Bangla
@@ -633,11 +628,6 @@ URL: https://cdn-3.pishow.tv/live/230/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Sony Entertainment Television HD (1080p)
-URL: http://66.102.120.18:8000/play/a005/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Sony Pal (576p)
 URL: http://163.61.227.29:8000/play/a04d/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png
@@ -646,11 +636,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Sooriyan TV (1080p)
 URL: https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 Logo: https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Star Utsav (576p)
-URL: http://163.61.227.29:8000/play/a04p/index.m3u8
-Logo: https://i.imgur.com/H1jhHDl.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: StarPlus HD (1080p)
@@ -915,7 +900,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Gemini TV (1080p)
 URL: https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/GeminiTV-HDR10-IN-index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_TV/images/LOGO_HD/image.png
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GEMINI_TV_HD/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Jan TV (576p)
@@ -1087,16 +1072,6 @@ Group: Kids
 Name: Chithiram (576p)
 URL: https://cdn-6.pishow.tv/live/1243/master.m3u8
 Logo: https://i.imgur.com/xv9cWSh.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Disney Channel (576p) [Not 24/7]
-URL: http://66.102.120.18:8000/play/a070/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Disney Channel HD (1080p)
-URL: http://66.102.120.18:8000/play/a013/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Disney International HD
@@ -1285,6 +1260,11 @@ URL: http://163.61.227.29:8000/play/a04c/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Dhamaka Movies B4U (576p)
+URL: https://cdn-1.pishow.tv/live/235/master.m3u8
+Logo: https://i.postimg.cc/L4Cpy9qt/b4uplus.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: ETV Cinema HD (1080p)
 URL: https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_CINEMA/images/LOGO_HD/image.png
@@ -1313,6 +1293,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Kairali We (576p)
 URL: https://cdn-3.pishow.tv/live/1530/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: KTV (360p)
+URL: http://103.140.254.2:3500/live/894.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KTV_HD/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Maha Movie (576p)
@@ -1654,6 +1639,11 @@ URL: https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Sun Music HD (360p) [Not 24/7]
+URL: http://103.140.254.2:3500/live/895.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MUSIC/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Surya Music (480p)
 URL: http://103.140.254.2:3500/live/747.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_MUSIC/images/LOGO_HD/image.png
@@ -1812,7 +1802,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/0/0f/Asianet_Suvarna_News_l
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Awaaz India TV (720p)
-URL: http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+URL: https://awaazindia.livebox.co.in/AwaazIndaTVdash/Live.mpd
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Awaaz_India_TV.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -2198,7 +2188,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: News 7 Tamil (576p)
 URL: https://segment.yuppcdn.net/240122/news7/playlist.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_7/images/LOGO_HD/image.png
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: News9Live (720p)
@@ -2681,11 +2671,6 @@ URL: https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Zee News Malayalam (720p)
-URL: https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
-Logo: https://i.imgur.com/MePj7ET.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Zee Punjab Haryana Himachal (720p)
 URL: https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJAB_HARYANA_HIMACHAL/images/LOGO_HD/LOGO_HD_image.png
@@ -2913,6 +2898,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Nireekshana TV (576p)
 URL: https://cdn-1.pishow.tv/live/965/master.m3u8
 Logo: https://i.imgur.com/nGJv6QR.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: OM TV (576p) [Not 24/7]
+URL: http://103.140.254.2:3500/live/3279.m3u8
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Peace TV Bangla (1080p)
@@ -3196,11 +3186,6 @@ Group: Sports
 Name: DD Sports (720p)
 URL: https://cdn-6.pishow.tv/live/13/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Sony Sports Ten 1 (1080p)
-URL: http://66.102.120.18:8000/play/a00e/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Sony Sports Ten 2 (1080p)
