@@ -1764,6 +1764,18 @@
     "img": "https://i.imgur.com/azqtpYh.png"
   },
   {
+    "name": "Star Movies HD (1080p)",
+    "type": "Movies",
+    "url": "http://103.178.78.151:7505/play/a1ge/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Star Movies Select HD (1080p)",
+    "type": "Movies",
+    "url": "http://103.178.78.151:7505/play/a1gd/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png"
+  },
+  {
     "name": "Star Utsav Movies (576p)",
     "type": "Movies",
     "url": "http://103.78.149.54:8000/play/a00m/index.m3u8",
@@ -1876,6 +1888,12 @@
     "type": "Religious",
     "url": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png"
+  },
+  {
+    "name": "Aastha Gujarati (480p)",
+    "type": "Religious",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png"
   },
   {
     "name": "Aastha Kannada (480p)",
@@ -2068,12 +2086,6 @@
     "type": "Religious",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
     "img": "https://i.postimg.cc/cLCfzgqB/peacetvurdu.png"
-  },
-  {
-    "name": "PTC Simran (720p)",
-    "type": "Religious",
-    "url": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/a682c050-1974-4e9b-8935-e5508d1ce94d/3.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_SIMRAN/images/LOGO_HD/image.png"
   },
   {
     "name": "Sadhna (720p)",
@@ -2514,6 +2526,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png"
   },
   {
+    "name": "Sony Entertainment Television HD (1080p)",
+    "type": "Entertainment",
+    "url": "http://103.178.78.151:7505/play/a0uc/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png"
+  },
+  {
     "name": "Sony Pal (576p)",
     "type": "Entertainment",
     "url": "http://103.178.78.151:7505/play/a1tu/index.m3u8",
@@ -2523,6 +2541,12 @@
     "name": "Sony SAB (576p)",
     "type": "Entertainment",
     "url": "http://103.167.255.18:8085/play/a0k8/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Sony SAB HD (1080p)",
+    "type": "Entertainment",
+    "url": "http://103.178.78.151:7505/play/a0ul/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png"
   },
   {
@@ -3210,6 +3234,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
+    "name": "Sony Sports Ten 5 (1080p)",
+    "type": "Sports",
+    "url": "http://103.178.78.151:7505/play/a1qa/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png"
+  },
+  {
     "name": "Star Sports 1 (576p)",
     "type": "Sports",
     "url": "http://103.167.255.18:8085/play/a0ki/index.m3u8",
@@ -3450,6 +3480,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD/images/LOGO_HD/image.png"
   },
   {
+    "name": "National Geographic HD (1080p)",
+    "type": "Documentary",
+    "url": "http://103.178.78.151:7505/play/a12o/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL/images/LOGO_HD/image.png"
+  },
+  {
     "name": "National Geographic Wild HD (1080p)",
     "type": "Documentary",
     "url": "http://103.167.255.18:8085/play/a0lt/index.m3u8",
@@ -3460,6 +3496,12 @@
     "type": "Documentary",
     "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Sony BBC Earth HD (1080p)",
+    "type": "Documentary",
+    "url": "http://103.178.78.151:7505/play/a0vu/index.m3u8",
+    "img": "https://i.imgur.com/XVUGLxa.png"
   },
   {
     "name": "India TV Aap Ki Adalat (1080p) [Geo-blocked]",
