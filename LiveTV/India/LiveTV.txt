@@ -1520,11 +1520,6 @@ URL: https://stream.galaxyott.live/live/suriyantv/index.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Tata Sky Bollywood Premiere (1080p)
-URL: http://103.178.78.151:7505/play/a1vu/index.m3u8
-Logo: https://i.imgur.com/VngCqQB.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Thalaa TV (1080p)
 URL: https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
 Logo: https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png
@@ -1839,6 +1834,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: 10 TV (720p)
 URL: https://cdn-1.pishow.tv/live/391/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: 22Scope News (1080p)
+URL: https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: 24 News (396p)
@@ -2594,6 +2594,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Sakshi TV (576p)
 URL: https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAKSHI_TV/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Salaam TV (720p)
+URL: https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SALAAM_TV/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Samachar Plus (1080p)

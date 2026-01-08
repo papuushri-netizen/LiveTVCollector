@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-07 21:48:23",
+  "date": "2026-01-08 06:30:04",
   "channels": {
     "News": [
       {
@@ -22,6 +22,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-1.pishow.tv/live/391/master.m3u8"
+      },
+      {
+        "name": "22Scope News (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8"
       },
       {
         "name": "24 News (396p)",
@@ -1081,6 +1088,13 @@
         "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8"
       },
       {
+        "name": "Salaam TV (720p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SALAAM_TV/images/LOGO_HD/image.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8"
+      },
+      {
         "name": "Samachar Plus (1080p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Samachar_Plus.png",
         "group": "News",
@@ -2098,13 +2112,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://stream.galaxyott.live/live/suriyantv/index.m3u8"
-      },
-      {
-        "name": "Tata Sky Bollywood Premiere (1080p)",
-        "logo": "https://i.imgur.com/VngCqQB.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.178.78.151:7505/play/a1vu/index.m3u8"
       },
       {
         "name": "Thalaa TV (1080p)",
