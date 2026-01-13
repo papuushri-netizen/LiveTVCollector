@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-12 21:47:52",
+  "date": "2026-01-13 06:26:23",
   "channels": {
     "News": [
       {
@@ -3617,13 +3617,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.167.255.18:8085/play/a0k7/index.m3u8"
-      },
-      {
-        "name": "ETV Bal Bharat (576p)",
-        "logo": "https://i.imgur.com/zsTxPV9.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355286.ts"
       },
       {
         "name": "Gubbare (1080p)",
