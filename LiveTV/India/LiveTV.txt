@@ -423,6 +423,11 @@ URL: http://103.140.254.2:3500/live/756.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Colors Gujarati (1080p)
+URL: http://103.140.254.2:3500/live/196.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Colors HD (1080p)
 URL: http://103.167.255.18:8085/play/a0kf/index.m3u8
 Logo: https://i.imgur.com/M8uCJ0D.png
@@ -1333,6 +1338,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Colors Cineplex Superhits (576p)
 URL: http://163.61.227.29:8000/play/a04c/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Gujarati Cinema (576p)
+URL: http://103.140.254.2:3500/live/1324.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI_CINEMA/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Dhamaka Movies B4U (576p)

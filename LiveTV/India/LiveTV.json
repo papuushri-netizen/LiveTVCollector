@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-13 21:49:42",
+  "date": "2026-01-14 06:32:18",
   "channels": {
     "News": [
       {
@@ -1862,6 +1862,13 @@
         "url": "http://163.61.227.29:8000/play/a04c/index.m3u8"
       },
       {
+        "name": "Colors Gujarati Cinema (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI_CINEMA/images/LOGO_HD/image.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://103.140.254.2:3500/live/1324.m3u8"
+      },
+      {
         "name": "Dhamaka Movies B4U (576p)",
         "logo": "https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png",
         "group": "Movies",
@@ -2634,6 +2641,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.140.254.2:3500/live/756.m3u8"
+      },
+      {
+        "name": "Colors Gujarati (1080p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI/images/LOGO_HD/image.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://103.140.254.2:3500/live/196.m3u8"
       },
       {
         "name": "Colors HD (1080p)",

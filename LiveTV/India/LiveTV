@@ -1590,6 +1590,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png"
   },
   {
+    "name": "Colors Gujarati Cinema (576p)",
+    "type": "Movies",
+    "url": "http://103.140.254.2:3500/live/1324.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI_CINEMA/images/LOGO_HD/image.png"
+  },
+  {
     "name": "Dhamaka Movies B4U (576p)",
     "type": "Movies",
     "url": "https://cdn-1.pishow.tv/live/235/master.m3u8",
@@ -2248,6 +2254,12 @@
     "type": "Entertainment",
     "url": "http://103.140.254.2:3500/live/756.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Colors Gujarati (1080p)",
+    "type": "Entertainment",
+    "url": "http://103.140.254.2:3500/live/196.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI/images/LOGO_HD/image.png"
   },
   {
     "name": "Colors HD (1080p)",
