@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-16 21:47:30",
+  "date": "2026-01-17 06:27:53",
   "channels": {
     "News": [
       {
@@ -1093,13 +1093,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8"
-      },
-      {
-        "name": "Samachar Plus (1080p)",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Samachar_Plus.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://samacharplus.livebox.co.in/samacharplushls/live.m3u8"
       },
       {
         "name": "Samay Kolkata (720p)",
