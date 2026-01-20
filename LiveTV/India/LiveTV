@@ -2712,12 +2712,6 @@
     "img": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg"
   },
   {
-    "name": "Star Maa HD (1080p)",
-    "type": "Entertainment",
-    "url": "http://103.167.255.18:8085/play/a0nj/index.m3u8",
-    "img": "https://i.imgur.com/5c9PVS0.png"
-  },
-  {
     "name": "StarPlus (576p)",
     "type": "Entertainment",
     "url": "http://103.167.255.18:8085/play/a0k5/index.m3u8",
@@ -3180,12 +3174,6 @@
     "img": "https://i.imgur.com/J3jB7Kr.png"
   },
   {
-    "name": "Tribe TV (720p)",
-    "type": "General",
-    "url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
-    "img": "https://i.imgur.com/zG2P1WZ.png"
-  },
-  {
     "name": "TV BRICS English (1080p)",
     "type": "General",
     "url": "https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8",
@@ -3334,6 +3322,12 @@
     "type": "Business",
     "url": "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "NDTV Profit (1080p)",
+    "type": "Business",
+    "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png"
   },
   {
     "name": "Zee Business (720p)",

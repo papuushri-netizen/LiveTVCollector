@@ -190,6 +190,11 @@ URL: https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ET_NOW_SWADESH/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: NDTV Profit (1080p)
+URL: https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Zee Business (720p)
 URL: https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png
@@ -738,11 +743,6 @@ URL: https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3
 Logo: https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Star Maa HD (1080p)
-URL: http://103.167.255.18:8085/play/a0nj/index.m3u8
-Logo: https://i.imgur.com/5c9PVS0.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: StarPlus (576p)
 URL: http://103.167.255.18:8085/play/a0k5/index.m3u8
 Logo: https://i.imgur.com/xWxNy3L.png
@@ -1106,11 +1106,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Starnet (480p)
 URL: https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 Logo: https://i.imgur.com/J3jB7Kr.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Tribe TV (720p)
-URL: https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-Logo: https://i.imgur.com/zG2P1WZ.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: TV BRICS English (1080p)
