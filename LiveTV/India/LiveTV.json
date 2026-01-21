@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-21 06:31:50",
+  "date": "2026-01-21 13:49:35",
   "channels": {
     "News": [
       {
@@ -3908,7 +3908,7 @@
         "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8"
       },
       {
-        "name": "Zee Business (720p)",
+        "name": "Zee Business (576p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",
         "group": "Business",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",

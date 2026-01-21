@@ -195,7 +195,7 @@ URL: https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_PROFIT_PRIME/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Zee Business (720p)
+Name: Zee Business (576p)
 URL: https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
