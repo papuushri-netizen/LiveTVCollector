@@ -656,7 +656,7 @@
   {
     "name": "ULFN (Universal Living Faith Network)",
     "type": "Religious",
-    "url": "https://live-ak.vimeocdn.com/exp=1750861405~acl=%2F8ac44d13-ec64-4d1a-b801-79d1806fefaf_fmp4%2F%2A~hmac=bf56f78d314e426d9b0af11821a223284f8b0ba4f46123f697bd5a09217ad44e/8ac44d13-ec64-4d1a-b801-79d1806fefaf_fmp4/hls.m3u8",
+    "url": "https://live-api.vimeocdn.com/sessions/a32c1465-36ac-4f2a-9220-77f511090cd5/playlist/avc/hls.m3u8?cdn=akamai-fmp4&json=1&~exp=1768946400&~id=player&~sig=IbRH49GkL1psTG-BY7xsDjPD4u8qoJI8whZ9bdOUmfw",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -681,12 +681,6 @@
     "name": "GOD TV (UK)",
     "type": "Religious",
     "url": "https://ott.god.tv/live/uk/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "The Word Network",
-    "type": "Religious",
-    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/699668.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -722,7 +716,7 @@
   {
     "name": "Faith World TV",
     "type": "Religious",
-    "url": "https://stream.ecable.tv/faithworld/tracks-v1a1/mono.m3u8",
+    "url": "https://faithworldtv.abs.tv/1826926230/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3458,7 +3452,7 @@
   {
     "name": "Altitude Sports Denver",
     "type": "Sports",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/48335.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/332892.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3501,12 +3495,6 @@
     "name": "Spectrum Sportsnet OC16",
     "type": "Sports",
     "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649399.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Root Sports",
-    "type": "Sports",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/48334.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -23018,6 +23006,12 @@
   {
     "name": "QVC 7",
     "type": "Shopping",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc7us/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "QVC 8",
+    "type": "Shopping",
     "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
@@ -30308,7 +30302,7 @@
   {
     "name": "Cartoon Network (Canada)",
     "type": "Canadian Channels",
-    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3127.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3248.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -30320,13 +30314,13 @@
   {
     "name": "Télétoon French (Canada)",
     "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40604.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3134.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "TFO French (Canada)",
     "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40659.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3133.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -30344,7 +30338,7 @@
   {
     "name": "APTN (Canada)",
     "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40774.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3214.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -30386,7 +30380,7 @@
   {
     "name": "Magnolia Network (Canada)",
     "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40722.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3086.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -30440,7 +30434,7 @@
   {
     "name": "AHC (American Heroes Channel) (Canada)",
     "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40777.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3213.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -30486,9 +30480,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Investigation (Canada)",
+    "name": "ID (Investigation Discovery) (Canada)",
     "type": "Canadian Channels",
-    "url": "http://xxip25.top:8080/live/char@dot.com/char@14223/57442.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/88083.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -30512,7 +30506,7 @@
   {
     "name": "YES TV (Canada)",
     "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40665.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3049.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -30548,7 +30542,7 @@
   {
     "name": "Travel Escape (Canada)",
     "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/N427DpynGE/7049166651/40580.ts",
+    "url": "http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3296.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {

@@ -4739,7 +4739,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Cartoon Network (Canada)
-URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3127.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3248.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -4749,12 +4749,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Télétoon French (Canada)
-URL: http://kstv.us:8080/live/N427DpynGE/7049166651/40604.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3134.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: TFO French (Canada)
-URL: http://kstv.us:8080/live/N427DpynGE/7049166651/40659.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3133.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -4769,7 +4769,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: APTN (Canada)
-URL: http://kstv.us:8080/live/N427DpynGE/7049166651/40774.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3214.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -4804,7 +4804,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Magnolia Network (Canada)
-URL: http://kstv.us:8080/live/N427DpynGE/7049166651/40722.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3086.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -4849,7 +4849,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: AHC (American Heroes Channel) (Canada)
-URL: http://kstv.us:8080/live/N427DpynGE/7049166651/40777.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3213.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -4888,8 +4888,8 @@ URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3148.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Investigation (Canada)
-URL: http://xxip25.top:8080/live/char@dot.com/char@14223/57442.ts
+Name: ID (Investigation Discovery) (Canada)
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/88083.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -4909,7 +4909,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: YES TV (Canada)
-URL: http://kstv.us:8080/live/N427DpynGE/7049166651/40665.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3049.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -4939,7 +4939,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Travel Escape (Canada)
-URL: http://kstv.us:8080/live/N427DpynGE/7049166651/40580.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/3296.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -26402,7 +26402,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ULFN (Universal Living Faith Network)
-URL: https://live-ak.vimeocdn.com/exp=1750861405~acl=%2F8ac44d13-ec64-4d1a-b801-79d1806fefaf_fmp4%2F%2A~hmac=bf56f78d314e426d9b0af11821a223284f8b0ba4f46123f697bd5a09217ad44e/8ac44d13-ec64-4d1a-b801-79d1806fefaf_fmp4/hls.m3u8
+URL: https://live-api.vimeocdn.com/sessions/a32c1465-36ac-4f2a-9220-77f511090cd5/playlist/avc/hls.m3u8?cdn=akamai-fmp4&json=1&~exp=1768946400&~id=player&~sig=IbRH49GkL1psTG-BY7xsDjPD4u8qoJI8whZ9bdOUmfw
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -26423,11 +26423,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: GOD TV (UK)
 URL: https://ott.god.tv/live/uk/master.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: The Word Network
-URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/699668.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -26457,7 +26452,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Faith World TV
-URL: https://stream.ecable.tv/faithworld/tracks-v1a1/mono.m3u8
+URL: https://faithworldtv.abs.tv/1826926230/tracks-v1a1/mono.ts.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -27047,6 +27042,11 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: QVC 7
+URL: https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc7us/master.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: QVC 8
 URL: https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
@@ -27921,7 +27921,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Altitude Sports Denver
-URL: http://kstv.us:8080/live/N427DpynGE/7049166651/48335.ts
+URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/332892.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -27957,11 +27957,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Spectrum Sportsnet OC16
 URL: http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/649399.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: Root Sports
-URL: http://kstv.us:8080/live/N427DpynGE/7049166651/48334.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
