@@ -2685,7 +2685,7 @@
     "name": "beIN Sports USA",
     "type": "Sports",
     "url": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png"
   },
   {
     "name": "BeIN SPORTS XTRA (1080p) [Geo-blocked]",
@@ -3076,6 +3076,12 @@
     "type": "Sports",
     "url": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8",
     "img": "https://i.imgur.com/D4mZ8ll.png"
+  },
+  {
+    "name": "Willow Sports (1080p) [Geo-blocked]",
+    "type": "Sports",
+    "url": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
+    "img": "https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png"
   },
   {
     "name": "World Poker Tour (1080p) [Not 24/7]",
@@ -10818,9 +10824,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg"
   },
   {
-    "name": "WNJU-DT1",
+    "name": "WNJU-DT1 (1080p) [Not 24/7]",
     "type": "Undefined",
-    "url": "http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/1080/index.m3u8",
+    "url": "https://tvpass.org/live/TelemundoEast/hd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png"
   },
   {
@@ -10882,6 +10888,12 @@
     "type": "Undefined",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8",
     "img": "https://i.imgur.com/MNSBpDW.png"
+  },
+  {
+    "name": "WPXN-DT1",
+    "type": "Undefined",
+    "url": "http://143.244.60.30/ION_TV/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png"
   },
   {
     "name": "WPXN-DT7",
@@ -11014,6 +11026,12 @@
     "type": "Undefined",
     "url": "https://143.244.60.30/AL_Birmingham_NBC/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png"
+  },
+  {
+    "name": "WWOR-DT1",
+    "type": "Undefined",
+    "url": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png"
   },
   {
     "name": "WXIX-DT1 (720p)",

@@ -27282,7 +27282,7 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: beIN Sports USA
 URL: http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: BeIN SPORTS XTRA (1080p) [Geo-blocked]
@@ -27608,6 +27608,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: W14DK-D 14.5 All Sports Television Network
 URL: https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 Logo: https://i.imgur.com/D4mZ8ll.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: Willow Sports (1080p) [Geo-blocked]
+URL: https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
+Logo: https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: World Poker Tour (1080p) [Not 24/7]
@@ -30418,8 +30423,8 @@ URL: https://e5.thetvapp.to/hls/WNET/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: WNJU-DT1
-URL: http://d029dcec.kazmazpaz.ru/iptv/T6XNCP6L7LLKPD/1080/index.m3u8
+Name: WNJU-DT1 (1080p) [Not 24/7]
+URL: https://tvpass.org/live/TelemundoEast/hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -30471,6 +30476,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: WPXI-DT1 (1080p)
 URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
 Logo: https://i.imgur.com/MNSBpDW.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: WPXN-DT1
+URL: http://143.244.60.30/ION_TV/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: WPXN-DT7
@@ -30581,6 +30591,11 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: WVTM-DT1 (720p)
 URL: https://143.244.60.30/AL_Birmingham_NBC/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png
+Source: https://iptv-org.github.io/iptv/countries/us.m3u
+--------------------------------------------------
+Name: WWOR-DT1
+URL: http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: WXIX-DT1 (720p)
