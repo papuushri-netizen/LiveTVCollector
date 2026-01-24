@@ -90,6 +90,12 @@
     "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Calcutta%20News.png"
   },
   {
+    "name": "AmarUjala (1080p)",
+    "type": "News",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/amar-ujala/index.m3u8",
+    "img": "https://i.imgur.com/ndQ8LZp.png"
+  },
+  {
     "name": "Ananda Barta (720p)",
     "type": "News",
     "url": "https://account19.livebox.co.in/Anandabarta2hls/live.m3u8",
@@ -129,7 +135,7 @@
     "name": "Awaaz India TV (720p)",
     "type": "News",
     "url": "https://awaazindia.livebox.co.in/AwaazIndaTVdash/Live.mpd",
-    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Awaaz_India_TV.png"
+    "img": "https://i.imgur.com/eKQs51V.png"
   },
   {
     "name": "Bada Khabar (432p)",
@@ -2904,6 +2910,30 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
+    "name": "BVG (576p)",
+    "type": "Education",
+    "url": "https://mumt05.tangotv.in/BVG/index.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png"
+  },
+  {
+    "name": "Gyandarshan (720p)",
+    "type": "Education",
+    "url": "https://cdn-6.pishow.tv/live/14/master.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "KITE Victers (Kerala) (720p) [Not 24/7]",
+    "type": "Education",
+    "url": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
+    "img": "https://i.imgur.com/kj4OEsb.png"
+  },
+  {
+    "name": "Vyas NIC (576p)",
+    "type": "Education",
+    "url": "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8",
+    "img": "https://www.yupptv.com/seo_img/UGC_GEC_big.jpg"
+  },
+  {
     "name": "CCV (480p)",
     "type": "General",
     "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
@@ -3604,24 +3634,6 @@
     "type": "Cooking;Lifestyle",
     "url": "http://103.140.254.2:3500/live/561.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png"
-  },
-  {
-    "name": "Gyandarshan (720p)",
-    "type": "Education",
-    "url": "https://cdn-6.pishow.tv/live/14/master.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "KITE Victers (Kerala) (720p) [Not 24/7]",
-    "type": "Education",
-    "url": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
-    "img": "https://i.imgur.com/kj4OEsb.png"
-  },
-  {
-    "name": "Vyas NIC (576p)",
-    "type": "Education",
-    "url": "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8",
-    "img": "https://www.yupptv.com/seo_img/UGC_GEC_big.jpg"
   },
   {
     "name": "History TV18 HD (1080p) [Geo-blocked]",

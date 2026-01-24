@@ -339,6 +339,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: Education
+Name: BVG (576p)
+URL: https://mumt05.tangotv.in/BVG/index.m3u8
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Gyandarshan (720p)
 URL: https://cdn-6.pishow.tv/live/14/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png
@@ -1991,6 +1996,11 @@ URL: https://cdn-2.pishow.tv/live/237/master.m3u8
 Logo: https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Calcutta%20News.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: AmarUjala (1080p)
+URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/amar-ujala/index.m3u8
+Logo: https://i.imgur.com/ndQ8LZp.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Ananda Barta (720p)
 URL: https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Anand_Barta.png
@@ -2023,7 +2033,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Awaaz India TV (720p)
 URL: https://awaazindia.livebox.co.in/AwaazIndaTVdash/Live.mpd
-Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Awaaz_India_TV.png
+Logo: https://i.imgur.com/eKQs51V.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Bada Khabar (432p)
