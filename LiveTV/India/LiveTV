@@ -1818,7 +1818,7 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png"
   },
   {
-    "name": "Star Gold 2 (576p)",
+    "name": "Star Gold 2 (480p)",
     "type": "Movies",
     "url": "http://116.90.120.152:8000/play/a0gz/index.m3u8",
     "img": "https://i.imgur.com/G0ZfzZr.png"
