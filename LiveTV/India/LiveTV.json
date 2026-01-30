@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-29 22:01:21",
+  "date": "2026-01-30 06:39:18",
   "channels": {
     "News": [
       {
@@ -1629,11 +1629,11 @@
         "url": "https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8"
       },
       {
-        "name": "Raj Musix Tamil (576p)",
+        "name": "Raj Musix Tamil (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.140.254.2:3500/live/748.m3u8"
+        "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8"
       },
       {
         "name": "Raj Musix Telugu (720p)",
@@ -2072,11 +2072,11 @@
         "url": "https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8"
       },
       {
-        "name": "Raj Digital Plus (576p)",
+        "name": "Raj Digital Plus (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.140.254.2:3500/live/683.m3u8"
+        "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8"
       },
       {
         "name": "Roja Movies (1080p)",
