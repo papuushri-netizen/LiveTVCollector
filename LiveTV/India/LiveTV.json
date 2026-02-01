@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-31 21:46:39",
+  "date": "2026-02-01 06:51:34",
   "channels": {
     "News": [
       {
@@ -577,6 +577,13 @@
         "url": "https://see.lokshahi.live/live/index.m3u8"
       },
       {
+        "name": "M Nadu TV (576p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/M_Nadu.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt01.tangotv.in/MNADU/index.m3u8"
+      },
+      {
         "name": "M Sign Media (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/8fdUkOl.png",
         "group": "News",
@@ -633,11 +640,11 @@
         "url": "https://cdn-3.pishow.tv/live/1481/master.m3u8"
       },
       {
-        "name": "Mh 1 News (576p) [Not 24/7]",
+        "name": "Mh 1 News (360p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mh_One_News.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.140.254.2:3500/live/511.m3u8"
+        "url": "https://livestream.jswk.online/mhonenews/live/index.m3u8"
       },
       {
         "name": "Mirror Now (720p)",
@@ -1531,11 +1538,11 @@
         "url": "https://mumt02.tangotv.in/MASTIII/index.m3u8"
       },
       {
-        "name": "Mh 1 Music (576p) [Not 24/7]",
+        "name": "Mh 1 Music (576p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH1/images/LOGO_HD/image.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.140.254.2:3500/live/742.m3u8"
+        "url": "https://mumt04.tangotv.in/MHONE/index.m3u8"
       },
       {
         "name": "MNTV Music (1080p)",
@@ -2724,14 +2731,14 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.140.254.2:3500/live/3381.m3u8"
+        "url": "https://mumt02.tangotv.in/BRIOTV/index.m3u8"
       },
       {
         "name": "Captain (576p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Captain.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.140.254.2:3500/live/3069.m3u8"
+        "url": "https://mumt01.tangotv.in/CAPTAIN/index.m3u8"
       },
       {
         "name": "Colors Bangla (1080p)",
@@ -3228,7 +3235,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.140.254.2:3500/live/3394.m3u8"
+        "url": "https://galaxyott.live/hls/suryatv.m3u8"
       },
       {
         "name": "Surya TV (1080p)",

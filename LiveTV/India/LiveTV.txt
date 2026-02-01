@@ -409,12 +409,12 @@ Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVE
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Brio TV (576p)
-URL: http://103.140.254.2:3500/live/3381.m3u8
+URL: https://mumt02.tangotv.in/BRIOTV/index.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Captain (576p)
-URL: http://103.140.254.2:3500/live/3069.m3u8
+URL: https://mumt01.tangotv.in/CAPTAIN/index.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Captain.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -769,7 +769,7 @@ Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVE
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Suriya TV (1080p)
-URL: http://103.140.254.2:3500/live/3394.m3u8
+URL: https://galaxyott.live/hls/suryatv.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1739,8 +1739,8 @@ URL: https://mumt02.tangotv.in/MASTIII/index.m3u8
 Logo: https://i.imgur.com/lxgXHx4.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Mh 1 Music (576p) [Not 24/7]
-URL: http://103.140.254.2:3500/live/742.m3u8
+Name: Mh 1 Music (576p)
+URL: https://mumt04.tangotv.in/MHONE/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH1/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -2326,6 +2326,11 @@ URL: https://see.lokshahi.live/live/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_LOKSHAHI/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: M Nadu TV (576p)
+URL: https://mumt01.tangotv.in/MNADU/index.m3u8
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/M_Nadu.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: M Sign Media (720p) [Not 24/7]
 URL: http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8
 Logo: https://i.imgur.com/8fdUkOl.png
@@ -2366,8 +2371,8 @@ URL: https://cdn-3.pishow.tv/live/1481/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MEDIA_ONE/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Mh 1 News (576p) [Not 24/7]
-URL: http://103.140.254.2:3500/live/511.m3u8
+Name: Mh 1 News (360p)
+URL: https://livestream.jswk.online/mhonenews/live/index.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Mh_One_News.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------

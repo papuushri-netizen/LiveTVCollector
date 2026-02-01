@@ -492,6 +492,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_LOKSHAHI/images/LOGO_HD/image.png"
   },
   {
+    "name": "M Nadu TV (576p)",
+    "type": "News",
+    "url": "https://mumt01.tangotv.in/MNADU/index.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/M_Nadu.png"
+  },
+  {
     "name": "M Sign Media (720p) [Not 24/7]",
     "type": "News",
     "url": "http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8",
@@ -540,9 +546,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MEDIA_ONE/images/LOGO_HD/image.png"
   },
   {
-    "name": "Mh 1 News (576p) [Not 24/7]",
+    "name": "Mh 1 News (360p)",
     "type": "News",
-    "url": "http://103.140.254.2:3500/live/511.m3u8",
+    "url": "https://livestream.jswk.online/mhonenews/live/index.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Mh_One_News.png"
   },
   {
@@ -1308,9 +1314,9 @@
     "img": "https://i.imgur.com/lxgXHx4.png"
   },
   {
-    "name": "Mh 1 Music (576p) [Not 24/7]",
+    "name": "Mh 1 Music (576p)",
     "type": "Music",
-    "url": "http://103.140.254.2:3500/live/742.m3u8",
+    "url": "https://mumt04.tangotv.in/MHONE/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH1/images/LOGO_HD/image.png"
   },
   {
@@ -2324,13 +2330,13 @@
   {
     "name": "Brio TV (576p)",
     "type": "Entertainment",
-    "url": "http://103.140.254.2:3500/live/3381.m3u8",
+    "url": "https://mumt02.tangotv.in/BRIOTV/index.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png"
   },
   {
     "name": "Captain (576p)",
     "type": "Entertainment",
-    "url": "http://103.140.254.2:3500/live/3069.m3u8",
+    "url": "https://mumt01.tangotv.in/CAPTAIN/index.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Captain.png"
   },
   {
@@ -2756,7 +2762,7 @@
   {
     "name": "Suriya TV (1080p)",
     "type": "Entertainment",
-    "url": "http://103.140.254.2:3500/live/3394.m3u8",
+    "url": "https://galaxyott.live/hls/suryatv.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png"
   },
   {
