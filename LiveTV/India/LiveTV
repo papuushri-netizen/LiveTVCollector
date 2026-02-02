@@ -2400,15 +2400,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LOGO_HD/image.png"
   },
   {
-    "name": "Colors Tamil (576p)",
+    "name": "Colors Tamil (720p)",
     "type": "Entertainment",
-    "url": "http://103.140.254.2:3500/live/1371.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Colors Tamil HD (1080p)",
-    "type": "Entertainment",
-    "url": "http://103.140.254.2:3500/live/429.m3u8",
+    "url": "http://15.235.144.106:14052/",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png"
   },
   {
@@ -2758,6 +2752,12 @@
     "type": "Entertainment",
     "url": "http://103.78.149.54:8000/play/a00y/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEO/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Sun TV HD (720p)",
+    "type": "Entertainment",
+    "url": "http://15.235.144.106:14054/",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV/images/LOGO_HD/image.png"
   },
   {
     "name": "Suriya TV (1080p)",
@@ -3616,12 +3616,6 @@
     "type": "Comedy",
     "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
     "img": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png"
-  },
-  {
-    "name": "Food Food (576p)",
-    "type": "Cooking;Lifestyle",
-    "url": "http://103.140.254.2:3500/live/561.m3u8",
-    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png"
   },
   {
     "name": "History TV18 HD (1080p) [Geo-blocked]",
