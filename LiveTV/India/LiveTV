@@ -2892,6 +2892,18 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png"
   },
   {
+    "name": "Star Sports 1 HD (720p)",
+    "type": "Sports",
+    "url": "http://122.165.240.223:1234/stream/tp/sp1/master.m3u8",
+    "img": "https://i.imgur.com/E5jjKHI.png"
+  },
+  {
+    "name": "Star Sports 2 HD (720p)",
+    "type": "Sports",
+    "url": "http://122.165.240.223:1234/stream/tp/sp2/master.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png"
+  },
+  {
     "name": "DUBAI SPORTS",
     "type": "Sports",
     "url": "http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8",
@@ -3028,6 +3040,18 @@
     "type": "Documentary",
     "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "National Geographic HD (720p)",
+    "type": "Documentary",
+    "url": "http://122.165.240.223:1234/stream/zio/nghd/master.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "National Geographic Wild HD (720p)",
+    "type": "Documentary",
+    "url": "http://122.165.240.223:1234/stream/zio/ngwild/master.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png"
   },
   {
     "name": "Safari TV (480p) [Not 24/7]",

@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-03 22:10:55",
+  "date": "2026-02-04 06:39:15",
   "channels": {
     "News": [
       {
@@ -3405,6 +3405,20 @@
         "url": "https://cdn-6.pishow.tv/live/13/master.m3u8"
       },
       {
+        "name": "Star Sports 1 HD (720p)",
+        "logo": "https://i.imgur.com/E5jjKHI.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://122.165.240.223:1234/stream/tp/sp1/master.m3u8"
+      },
+      {
+        "name": "Star Sports 2 HD (720p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://122.165.240.223:1234/stream/tp/sp2/master.m3u8"
+      },
+      {
         "name": "DUBAI SPORTS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
@@ -3570,6 +3584,20 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8"
+      },
+      {
+        "name": "National Geographic HD (720p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL/images/LOGO_HD/image.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://122.165.240.223:1234/stream/zio/nghd/master.m3u8"
+      },
+      {
+        "name": "National Geographic Wild HD (720p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://122.165.240.223:1234/stream/zio/ngwild/master.m3u8"
       },
       {
         "name": "Safari TV (480p) [Not 24/7]",

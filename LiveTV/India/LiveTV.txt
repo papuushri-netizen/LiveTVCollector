@@ -266,6 +266,16 @@ URL: https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: National Geographic HD (720p)
+URL: http://122.165.240.223:1234/stream/zio/nghd/master.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: National Geographic Wild HD (720p)
+URL: http://122.165.240.223:1234/stream/zio/ngwild/master.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Safari TV (480p) [Not 24/7]
 URL: https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png
@@ -2978,6 +2988,16 @@ Group: Sports
 Name: DD Sports (720p)
 URL: https://cdn-6.pishow.tv/live/13/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Sports 1 HD (720p)
+URL: http://122.165.240.223:1234/stream/tp/sp1/master.m3u8
+Logo: https://i.imgur.com/E5jjKHI.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Sports 2 HD (720p)
+URL: http://122.165.240.223:1234/stream/tp/sp2/master.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: DUBAI SPORTS
