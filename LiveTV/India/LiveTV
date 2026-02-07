@@ -1890,6 +1890,18 @@
     "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Fakt%20Marathi.png"
   },
   {
+    "name": "Gangaur TV (1080p)",
+    "type": "Entertainment",
+    "url": "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png"
+  },
+  {
+    "name": "GTC Punjabi (1080p)",
+    "type": "Entertainment",
+    "url": "https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8",
+    "img": "https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg"
+  },
+  {
     "name": "Hi Dost! (720p)",
     "type": "Entertainment",
     "url": "https://cdn-1.pishow.tv/live/224/master.m3u8",

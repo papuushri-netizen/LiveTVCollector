@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-06 22:02:54",
+  "date": "2026-02-07 06:38:06",
   "channels": {
     "News": [
       {
@@ -2212,6 +2212,20 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.78.149.54:8000/play/a00q/index.m3u8"
+      },
+      {
+        "name": "Gangaur TV (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8"
+      },
+      {
+        "name": "GTC Punjabi (1080p)",
+        "logo": "https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8"
       },
       {
         "name": "Hi Dost! (720p)",
