@@ -1483,6 +1483,36 @@ URL: https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Stingray Classic Rock (1080p)
+URL: https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+Logo: https://i.imgur.com/FBgu8yB.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Stingray DJAZZ (1080p)
+URL: https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Stingray Easy Listening (1080p)
+URL: https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Stingray Naturescape (1080p)
+URL: https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+Logo: https://i.imgur.com/882kd90.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Stingray The Spa (1080p)
+URL: https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+Logo: https://i.imgur.com/ywAN923.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Stingray Today's KPOP (1080p)
+URL: https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+Logo: https://i.imgur.com/mMbntB5.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Sun Music HD (720p)
 URL: http://15.235.144.106:14055
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MUSIC/images/LOGO_HD/image.png
@@ -3023,16 +3053,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Sony Sports Ten 3 (576p)
 URL: http://103.253.18.58:8000/play/a00b
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3/images/LOGO_HD/LOGO_HD_image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Star Sports 1 HD (720p)
-URL: http://122.165.240.223:1234/stream/tp/sp1/master.m3u8
-Logo: https://i.imgur.com/E5jjKHI.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Star Sports 2 HD (720p)
-URL: http://122.165.240.223:1234/stream/tp/sp2/master.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: DUBAI SPORTS
