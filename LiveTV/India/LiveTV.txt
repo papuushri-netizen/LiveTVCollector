@@ -1580,7 +1580,12 @@ URL: https://cdn-1.pishow.tv/live/1211/master.m3u8
 Logo: https://i.imgur.com/dZA4gel.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Aaj Tak (1080p)
+Name: Aaj Tak (404p)
+URL: https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Aaj Tak HD (1080p)
 URL: https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
@@ -1737,6 +1742,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: DD NEWS (576p)
 URL: http://103.78.149.54:8000/play/a002/index.m3u8
+Logo: https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: DD News HD (1080p)
+URL: http://103.78.149.54:8000/play/a02f/index.m3u8
 Logo: https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------

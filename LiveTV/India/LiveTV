@@ -30,7 +30,13 @@
     "img": "https://i.imgur.com/dZA4gel.png"
   },
   {
-    "name": "Aaj Tak (1080p)",
+    "name": "Aaj Tak (404p)",
+    "type": "News",
+    "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Aaj Tak HD (1080p)",
     "type": "News",
     "url": "https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png"
@@ -219,6 +225,12 @@
     "name": "DD NEWS (576p)",
     "type": "News",
     "url": "http://103.78.149.54:8000/play/a002/index.m3u8",
+    "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png"
+  },
+  {
+    "name": "DD News HD (1080p)",
+    "type": "News",
+    "url": "http://103.78.149.54:8000/play/a02f/index.m3u8",
     "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png"
   },
   {
