@@ -294,7 +294,7 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png"
   },
   {
-    "name": "Gulistan News (720p)",
+    "name": "Gulistan News (720p) [Not 24/7]",
     "type": "News",
     "url": "https://live.gulistannews.in/hls/gul.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GULISTAN_NEWS/images/LOGO_HD/image.png"
@@ -432,7 +432,7 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JANTA_TV/images/LOGO_HD/image.png"
   },
   {
-    "name": "JK 24x7 News (720p)",
+    "name": "JK 24x7 News (720p) [Not 24/7]",
     "type": "News",
     "url": "https://live.gulistannews.in/hls/jk.m3u8",
     "img": "https://i.imgur.com/VIPPB6t.png"
@@ -870,7 +870,7 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUTHIYA_THALAIMURAI/images/LOGO_HD/image.png"
   },
   {
-    "name": "RDX Goa (720p)",
+    "name": "RDX Goa (720p) [Geo-blocked]",
     "type": "News",
     "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png"
@@ -1062,7 +1062,7 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV9_TELUGU_NEWS/images/LOGO_HD/image.png"
   },
   {
-    "name": "TV Punjab (720p)",
+    "name": "TV Punjab (720p) [Geo-blocked]",
     "type": "News",
     "url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
     "img": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png"
@@ -1416,9 +1416,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MUSIC/images/LOGO_HD/image.png"
   },
   {
-    "name": "Tabbar Hits (1080p)",
+    "name": "Tabbar Hits",
     "type": "Music",
-    "url": "https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8?ads.vf=cr_1zfCL21S",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TABBAR_HITS/images/LOGO_HD/image.png"
   },
   {
@@ -1578,7 +1578,7 @@
     "img": "https://i.imgur.com/jSedjXf.png"
   },
   {
-    "name": "Fateh TV",
+    "name": "Fateh TV [Not 24/7]",
     "type": "Religious",
     "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
     "img": "https://i.imgur.com/c4ItNkB.png"
@@ -2046,22 +2046,10 @@
     "img": "https://i.imgur.com/cFNw4Af.png"
   },
   {
-    "name": "MTV (1080p)",
-    "type": "Entertainment",
-    "url": "http://103.253.18.58:8000/play/a01t",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Nazara (1080p)",
     "type": "Entertainment",
     "url": "https://epiconvh.akamaized.net/live/nazara/master.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png"
-  },
-  {
-    "name": "NCV (720p)",
-    "type": "Entertainment",
-    "url": "http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8",
-    "img": "https://i.imgur.com/HZy6x27.png"
   },
   {
     "name": "NTC TV (720p)",
@@ -2170,12 +2158,6 @@
     "type": "Entertainment",
     "url": "http://103.78.149.54:8000/play/a00r/index.m3u8",
     "img": "https://i.imgur.com/H1jhHDl.png"
-  },
-  {
-    "name": "StarPlus (576p)",
-    "type": "Entertainment",
-    "url": "http://103.52.34.182:8001/play/a01l/index.m3u8",
-    "img": "https://i.imgur.com/xWxNy3L.png"
   },
   {
     "name": "Studio Yuva (576p)",
@@ -2478,12 +2460,6 @@
     "img": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png"
   },
   {
-    "name": "Wow Cinema One (576p)",
-    "type": "Movies",
-    "url": "https://cdn-2.pishow.tv/live/231/master.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_WOW_CINEMA_ONE/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Zee Biskope (576p)",
     "type": "Movies",
     "url": "http://103.78.149.54:8000/play/a00x/index.m3u8",
@@ -2512,12 +2488,6 @@
     "type": "Movies",
     "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
     "img": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png"
-  },
-  {
-    "name": "Zee Talkies HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.52.34.182:8001/play/a04r/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "Animax Asia India (1080p) [Geo-blocked]",
@@ -2980,12 +2950,6 @@
     "type": "Sports",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony Sports Ten 3 (576p)",
-    "type": "Sports",
-    "url": "http://103.253.18.58:8000/play/a00b",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "DUBAI SPORTS",

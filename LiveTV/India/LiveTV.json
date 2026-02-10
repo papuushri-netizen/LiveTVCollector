@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-10 14:09:23",
+  "date": "2026-02-10 22:24:22",
   "channels": {
     "News": [
       {
@@ -346,7 +346,7 @@
         "url": "https://live.legitpro.co.in/gujaratfirst/index.m3u8"
       },
       {
-        "name": "Gulistan News (720p)",
+        "name": "Gulistan News (720p) [Not 24/7]",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GULISTAN_NEWS/images/LOGO_HD/image.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -507,7 +507,7 @@
         "url": "https://live.jswk.online/IK_RTPM/live/index.m3u8"
       },
       {
-        "name": "JK 24x7 News (720p)",
+        "name": "JK 24x7 News (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/VIPPB6t.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1018,7 +1018,7 @@
         "url": "https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8"
       },
       {
-        "name": "RDX Goa (720p)",
+        "name": "RDX Goa (720p) [Geo-blocked]",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1242,7 +1242,7 @@
         "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8"
       },
       {
-        "name": "TV Punjab (720p)",
+        "name": "TV Punjab (720p) [Geo-blocked]",
         "logo": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -1657,11 +1657,11 @@
         "url": "http://15.235.144.106:14055"
       },
       {
-        "name": "Tabbar Hits (1080p)",
+        "name": "Tabbar Hits",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TABBAR_HITS/images/LOGO_HD/image.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8"
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8?ads.vf=cr_1zfCL21S"
       },
       {
         "name": "Tarang Music (720p)",
@@ -1848,7 +1848,7 @@
         "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8"
       },
       {
-        "name": "Fateh TV",
+        "name": "Fateh TV [Not 24/7]",
         "logo": "https://i.imgur.com/c4ItNkB.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -2396,25 +2396,11 @@
         "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8"
       },
       {
-        "name": "MTV (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.253.18.58:8000/play/a01t"
-      },
-      {
         "name": "Nazara (1080p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://epiconvh.akamaized.net/live/nazara/master.m3u8"
-      },
-      {
-        "name": "NCV (720p)",
-        "logo": "https://i.imgur.com/HZy6x27.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8"
       },
       {
         "name": "NTC TV (720p)",
@@ -2541,13 +2527,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.78.149.54:8000/play/a00r/index.m3u8"
-      },
-      {
-        "name": "StarPlus (576p)",
-        "logo": "https://i.imgur.com/xWxNy3L.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.52.34.182:8001/play/a01l/index.m3u8"
       },
       {
         "name": "Studio Yuva (576p)",
@@ -2902,13 +2881,6 @@
         "url": "https://streams2.sofast.tv/ptnr-yupptv/title-TOLLY-TV-TEL_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8"
       },
       {
-        "name": "Wow Cinema One (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_WOW_CINEMA_ONE/images/LOGO_HD/image.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdn-2.pishow.tv/live/231/master.m3u8"
-      },
-      {
         "name": "Zee Biskope (576p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png",
         "group": "Movies",
@@ -2942,13 +2914,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8"
-      },
-      {
-        "name": "Zee Talkies HD (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.52.34.182:8001/play/a04r/index.m3u8"
       }
     ],
     "Animation": [
@@ -3508,13 +3473,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
-      },
-      {
-        "name": "Sony Sports Ten 3 (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_3/images/LOGO_HD/LOGO_HD_image.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.253.18.58:8000/play/a00b"
       },
       {
         "name": "DUBAI SPORTS",
