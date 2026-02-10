@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-09 14:08:43",
+  "date": "2026-02-10 06:54:38",
   "channels": {
     "News": [
       {
@@ -2515,6 +2515,13 @@
         "url": "https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8"
       },
       {
+        "name": "Sony Entertainment Television HD (720p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://217.20.112.199/sethd/index.m3u8"
+      },
+      {
         "name": "SONY PAL (576p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png",
         "group": "Entertainment",
@@ -3204,11 +3211,11 @@
         "url": "http://103.78.149.54:8000/play/a02v/index.m3u8"
       },
       {
-        "name": "DD URDU (576p)",
+        "name": "DD Urdu (576p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_URDU/images/LOGO_HD/image.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.78.149.54:8000/play/a02c/index.m3u8"
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8"
       },
       {
         "name": "DD Uttar Pradesh (576p)",
@@ -3441,11 +3448,11 @@
     ],
     "Culture": [
       {
-        "name": "DD BHARATI (576p)",
+        "name": "DD Bharati (576p)",
         "logo": "https://i.imgur.com/4tfUIEo.png",
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.78.149.54:8000/play/a024/index.m3u8"
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
       },
       {
         "name": "DD Punjabi (576p)",
@@ -3471,11 +3478,11 @@
     ],
     "Education;Outdoor": [
       {
-        "name": "DD KISAN (576p)",
+        "name": "DD Kisan (576p)",
         "logo": "https://i.imgur.com/x56WJEa.png",
         "group": "Education;Outdoor",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.78.149.54:8000/play/a004/index.m3u8"
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
       }
     ],
     "Culture;News": [
@@ -3489,18 +3496,18 @@
     ],
     "Sports": [
       {
-        "name": "DD SPORTS (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.78.149.54:8000/play/a02r/index.m3u8"
-      },
-      {
         "name": "DD SPORTS HD (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.78.149.54:8000/play/a02i/index.m3u8"
+      },
+      {
+        "name": "DD Sports SD (1080p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
       },
       {
         "name": "Sony Sports Ten 3 (576p)",

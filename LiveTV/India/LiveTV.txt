@@ -225,8 +225,8 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: Culture
-Name: DD BHARATI (576p)
-URL: http://103.78.149.54:8000/play/a024/index.m3u8
+Name: DD Bharati (576p)
+URL: https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 Logo: https://i.imgur.com/4tfUIEo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -312,8 +312,8 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: Education;Outdoor
-Name: DD KISAN (576p)
-URL: http://103.78.149.54:8000/play/a004/index.m3u8
+Name: DD Kisan (576p)
+URL: https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
 Logo: https://i.imgur.com/x56WJEa.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -614,6 +614,11 @@ URL: https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Sirikannada.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Sony Entertainment Television HD (720p)
+URL: http://217.20.112.199/sethd/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: SONY PAL (576p)
 URL: http://103.78.149.54:8000/play/a016/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png
@@ -862,8 +867,8 @@ URL: http://103.78.149.54:8000/play/a02v/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TRIPURA/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: DD URDU (576p)
-URL: http://103.78.149.54:8000/play/a02c/index.m3u8
+Name: DD Urdu (576p)
+URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_URDU/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -3050,13 +3055,13 @@ Source: https://raw.githubusercontent.com/SUBHASHM3U8/M3u/refs/heads/main/README
 --------------------------------------------------
 
 Group: Sports
-Name: DD SPORTS (576p)
-URL: http://103.78.149.54:8000/play/a02r/index.m3u8
+Name: DD SPORTS HD (1080p)
+URL: http://103.78.149.54:8000/play/a02i/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: DD SPORTS HD (1080p)
-URL: http://103.78.149.54:8000/play/a02i/index.m3u8
+Name: DD Sports SD (1080p)
+URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
