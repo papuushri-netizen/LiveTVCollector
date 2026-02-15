@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-14 21:47:42",
+  "date": "2026-02-15 06:47:21",
   "channels": {
     "News": [
       {
@@ -3096,6 +3096,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-1.pishow.tv/live/276/master.m3u8"
+      },
+      {
+        "name": "Suriyan TV (576p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8"
       },
       {
         "name": "Thalaa TV (1080p)",
