@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-16 22:02:21",
+  "date": "2026-02-17 06:43:54",
   "channels": {
     "News": [
       {
@@ -1074,11 +1074,11 @@
         "url": "https://cdn-4.pishow.tv/live/1502/master.m3u8"
       },
       {
-        "name": "Public TV (720p)",
+        "name": "Public TV (576p) [Geo-blocked]",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_TV/images/LOGO_HD/image.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdn-3.pishow.tv/live/439/master.m3u8"
+        "url": "https://livestreampublictv.sunnxt.com/publictv/index.m3u8"
       },
       {
         "name": "Puthiya Thalaimurai (576p)",
@@ -4481,6 +4481,13 @@
         "group": "Travel",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
+        "group": "Travel",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8"
       },
       {
         "name": "Travelxp HD (1080p) [Geo-blocked]",

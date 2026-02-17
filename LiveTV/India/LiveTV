@@ -918,9 +918,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LOGO_HD/image.png"
   },
   {
-    "name": "Public TV (720p)",
+    "name": "Public TV (576p) [Geo-blocked]",
     "type": "News",
-    "url": "https://cdn-3.pishow.tv/live/439/master.m3u8",
+    "url": "https://livestreampublictv.sunnxt.com/publictv/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_TV/images/LOGO_HD/image.png"
   },
   {
@@ -3789,6 +3789,12 @@
     "name": "Travelxp (720p)",
     "type": "Travel",
     "url": "https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
+    "type": "Travel",
+    "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png"
   },
   {
