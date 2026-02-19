@@ -174,10 +174,10 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS/images/LOGO_HD/image.png"
   },
   {
-    "name": "Bharat Samachar TV (480p)",
+    "name": "Bharat Samachar (480p)",
     "type": "News",
     "url": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8",
-    "img": "https://i.imgur.com/x5f8E3K.png"
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR/images/LOGO_HD/image.png"
   },
   {
     "name": "Big Tv",
@@ -242,7 +242,7 @@
   {
     "name": "DD News HD (1080p)",
     "type": "News",
-    "url": "http://103.78.149.54:8000/play/a02f/index.m3u8",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8",
     "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png"
   },
   {
@@ -1188,7 +1188,7 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VTV_GUJARATI/images/LOGO_HD/image.png"
   },
   {
-    "name": "Zee 24 Ghanta",
+    "name": "Zee 24 Ghanta (576p)",
     "type": "News",
     "url": "http://45.148.145.57/IN_Zee24Ghanta/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_GHANTA/images/LOGO_HD/LOGO_HD_image.png"
@@ -1512,7 +1512,7 @@
     "img": "https://i.imgur.com/mMbntB5.png"
   },
   {
-    "name": "Sun Music",
+    "name": "Sun Music (360p)",
     "type": "Music",
     "url": "http://198.27.83.207:2550/SUN_MUSIC_SD/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MUSIC/images/LOGO_HD/image.png"
@@ -1728,10 +1728,10 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png"
   },
   {
-    "name": "KTV",
+    "name": "KTV HD (360p)",
     "type": "Movies",
     "url": "http://198.27.83.207:2550/KTV_SD/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KTV/images/LOGO_HD/image.png"
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KTV_HD/images/LOGO_HD/image.png"
   },
   {
     "name": "Maha Movie (576p)",
@@ -2187,7 +2187,7 @@
     "name": "Peace TV Urdu (1080p)",
     "type": "Religious",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
-    "img": "https://i.postimg.cc/cLCfzgqB/peacetvurdu.png"
+    "img": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg"
   },
   {
     "name": "Sadhna (720p)",
@@ -2373,6 +2373,12 @@
     "name": "Colors Tamil (720p)",
     "type": "Entertainment",
     "url": "http://15.235.144.106:14052",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Colors Tamil HD (360p)",
+    "type": "Entertainment",
+    "url": "http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png"
   },
   {
@@ -2706,7 +2712,7 @@
     "img": "https://i.imgur.com/H1jhHDl.png"
   },
   {
-    "name": "Star Vijay",
+    "name": "Star Vijay HD (360p)",
     "type": "Entertainment",
     "url": "http://198.27.83.207:8888/STAR_VIJAY_SD/index.m3u8",
     "img": "https://i.imgur.com/dZtJHAe.png"
@@ -2736,12 +2742,6 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png"
   },
   {
-    "name": "Sun Bangla (576p)",
-    "type": "Entertainment",
-    "url": "http://103.182.170.32:8888/play/a01v",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_BANGLA/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Sun Marathi (576p)",
     "type": "Entertainment",
     "url": "http://103.78.149.54:8000/play/a007/index.m3u8",
@@ -2754,9 +2754,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEO/images/LOGO_HD/image.png"
   },
   {
-    "name": "Sun TV",
+    "name": "Sun TV (576p)",
     "type": "Entertainment",
-    "url": "http://198.27.83.207:2550/SUN_TV_SD/index.m3u8",
+    "url": "http://103.229.254.25:7001/play/a06x/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV/images/LOGO_HD/image.png"
   },
   {
@@ -2770,12 +2770,6 @@
     "type": "Entertainment",
     "url": "http://103.229.254.25:7001/play/a0dq/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_HD/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Surya TV SD (1080p)",
-    "type": "Entertainment",
-    "url": "https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_TV/images/LOGO_HD/image.png"
   },
   {
     "name": "Swantham (576p)",
@@ -2850,10 +2844,10 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJABI/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
-    "name": "Zee Tamil",
+    "name": "Zee Tamil HD (360p)",
     "type": "Entertainment",
     "url": "http://198.27.83.207:8888/ZEE_TAMIL_SD/index.m3u8",
-    "img": "https://i.imgur.com/KwTVqSe.png"
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TAMIL_HD/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "Zee TV (576p)",
@@ -3708,7 +3702,7 @@
     "img": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png"
   },
   {
-    "name": "Food Food",
+    "name": "Food Food (576p)",
     "type": "Cooking;Lifestyle",
     "url": "http://45.148.145.57/IN_FOODFOOD/index.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png"
@@ -3744,7 +3738,7 @@
     "img": "https://i.ibb.co/jT3NCPp/logo-tv.png"
   },
   {
-    "name": "Jaya TV",
+    "name": "Jaya TV (360p)",
     "type": "Culture;Entertainment",
     "url": "http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png"
