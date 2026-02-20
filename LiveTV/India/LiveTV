@@ -1020,9 +1020,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SALAAM_TV/images/LOGO_HD/image.png"
   },
   {
-    "name": "Samay Kolkata (720p)",
+    "name": "Samay Kolkata (1080p)",
     "type": "News",
-    "url": "https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8",
+    "url": "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Samay_Kolkata.png"
   },
   {
@@ -2134,6 +2134,12 @@
     "type": "Religious",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jyotish-duniya/master.m3u8?ads.vf=zhqukBO16Si",
     "img": "https://i.imgur.com/WwRcpYj.png"
+  },
+  {
+    "name": "Life TV (720p)",
+    "type": "Religious",
+    "url": "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8",
+    "img": "https://i.ibb.co/v1C0bdR/logo-1.png"
   },
   {
     "name": "Madha TV (600p)",

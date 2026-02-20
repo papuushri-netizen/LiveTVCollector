@@ -2656,8 +2656,8 @@ URL: https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SALAAM_TV/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Samay Kolkata (720p)
-URL: https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8
+Name: Samay Kolkata (1080p)
+URL: https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Samay_Kolkata.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -3093,6 +3093,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Jyotish Duniya
 URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jyotish-duniya/master.m3u8?ads.vf=zhqukBO16Si
 Logo: https://i.imgur.com/WwRcpYj.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Life TV (720p)
+URL: https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+Logo: https://i.ibb.co/v1C0bdR/logo-1.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Madha TV (600p)
