@@ -361,7 +361,7 @@ Logo: https://i.imgur.com/sh0yFSf.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Anmol TV (576p)
-URL: http://103.78.149.54:8000/play/a00j/index.m3u8
+URL: http://163.61.227.29:8000/play/a04a/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -590,6 +590,11 @@ URL: https://epiconvh.akamaized.net/live/nazara/master.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Nazara.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Nepal 1 (396p)
+URL: https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Nepal_one.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: NTC TV (720p)
 URL: https://galaxyott.live/hls/ntv.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png
@@ -726,7 +731,7 @@ Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVE
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Sun Neo (576p)
-URL: http://103.78.149.54:8000/play/a00y/index.m3u8
+URL: http://163.61.227.29:8000/play/a04t/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEO/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1545,6 +1550,11 @@ URL: http://103.78.149.54:8000/play/a022/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/GNLZZGG0022ZZ40.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Zee Cinema HD (480p)
+URL: http://103.99.249.139/zeecinema/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Zee South Flix (1080p)
 URL: https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 Logo: https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png
@@ -1714,8 +1724,8 @@ URL: https://epiconvh.akamaized.net/live/showbox/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Songdew TV (720p)
-URL: https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/hdntl=exp=1767018459~acl=/*~data=hdntl~hmac=85f3eb24914af4b01a9b5886a64ab34a6861689e7a16e85eac290f7dce45b41c/chunklist_b2628000.m3u8
+Name: Songdew TV (396p)
+URL: https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/SongDew_TV.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1772,6 +1782,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Tarang Music (720p)
 URL: https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tarang_Miusic.tif/lossless-page1-512px-Tarang_Miusic.tif.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Tunes 6 (720p)
+URL: https://stream.d6-pro.com/tunes6music/live/video.m3u8
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Vaanavil TV (720p)
@@ -3145,6 +3160,11 @@ URL: https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 Logo: https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: PMC Telugu (1080p)
+URL: https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Sadhna (720p)
 URL: https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SADHNA/images/LOGO_HD/image.png
@@ -3461,6 +3481,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Star Sports 1 Hindi HD (1080p)
 URL: http://161.248.38.40:8000/play/a06n/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Sports 2 Hindi HD (480p)
+URL: http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
+Logo: https://i.imgur.com/kHerF19.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Sports 2 Tamil (1080p)
