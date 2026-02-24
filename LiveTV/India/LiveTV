@@ -1536,6 +1536,12 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png"
   },
   {
+    "name": "Ultimate TV (576p)",
+    "type": "Music",
+    "url": "https://mumbai-edge.smartplaytv.in/utv/index.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png"
+  },
+  {
     "name": "Vaanavil TV (720p)",
     "type": "Music",
     "url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",

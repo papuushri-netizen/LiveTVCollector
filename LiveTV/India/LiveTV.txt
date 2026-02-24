@@ -1794,6 +1794,11 @@ URL: https://stream.d6-pro.com/tunes6music/live/video.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Ultimate TV (576p)
+URL: https://mumbai-edge.smartplaytv.in/utv/index.m3u8
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Vaanavil TV (720p)
 URL: https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png

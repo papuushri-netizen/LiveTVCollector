@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-24 06:42:14",
+  "date": "2026-02-24 14:05:09",
   "channels": {
     "News": [
       {
@@ -1795,6 +1795,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8"
+      },
+      {
+        "name": "Ultimate TV (576p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumbai-edge.smartplaytv.in/utv/index.m3u8"
       },
       {
         "name": "Vaanavil TV (720p)",
