@@ -302,8 +302,18 @@ URL: https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HISTORY_TV18_HD/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: National Geographic HD (1080p)
+URL: http://103.113.103.202:8001/play/a007/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: National Geographic Wild (576p)
 URL: http://103.229.254.25:7001/play/a06r/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: National Geographic Wild HD (1080p)
+URL: http://103.113.103.202:8001/play/a02s/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -400,8 +410,8 @@ URL: http://103.229.254.25:7001/play/a077/index.m3u8
 Logo: https://i.imgur.com/M8uCJ0D.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Colors Bangla HD (720p)
-URL: https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+Name: Colors Bangla HD (1080p)
+URL: http://103.229.254.25:7001/play/a0ds/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -680,11 +690,6 @@ URL: http://217.20.112.199/sethd/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: SONY PAL (576p)
-URL: http://103.78.149.54:8000/play/a016/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Sony SAB (720p)
 URL: http://103.229.254.25:7001/play/a09s/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png
@@ -706,7 +711,7 @@ Logo: https://i.imgur.com/H1jhHDl.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Vijay HD (360p)
-URL: http://198.27.83.207:8888/STAR_VIJAY_SD/index.m3u8
+URL: http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8
 Logo: https://i.imgur.com/dZtJHAe.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -816,7 +821,7 @@ Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVE
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee Tamil HD (360p)
-URL: http://198.27.83.207:8888/ZEE_TAMIL_SD/index.m3u8
+URL: http://198.27.83.207:2550/ZEE_TAMIL_SD/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TAMIL_HD/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1270,6 +1275,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: Movies
+Name: &flix HD (1080p)
+URL: http://103.113.103.202:8001/play/a02k/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: &pictures HD (1080p)
 URL: http://103.229.254.25:7001/play/a033/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDPICTURES/images/LOGO_HD/LOGO_HD_image.png
@@ -1311,7 +1321,7 @@ Logo: https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3l
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Anmol Cinema (576p)
-URL: http://103.78.149.54:8000/play/a01f/index.m3u8
+URL: http://103.113.103.202:8001/play/a017/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1465,6 +1475,16 @@ URL: https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d6
 Logo: https://i.imgur.com/RQhorAG.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Sony Max (576p)
+URL: http://103.113.103.202:8001/play/a025/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Sony Max 2 (576p)
+URL: http://103.113.103.202:8001/play/a002/index.m3u8
+Logo: https://i.imgur.com/gqUYk6C.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Sony Pix HD (1080p)
 URL: http://103.229.254.25:7001/play/a0ed/index.m3u8
 Logo: https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png
@@ -1490,6 +1510,11 @@ URL: http://103.229.254.25:7001/play/a0dd/index.m3u8
 Logo: https://i.imgur.com/xC460sj.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Star Gold Romance (576p)
+URL: http://103.113.103.202:8001/play/a029/index.m3u8
+Logo: https://i.imgur.com/gSWv9U3.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Star Gold Select HD (1080p)
 URL: http://103.229.254.25:7001/play/a032/index.m3u8
 Logo: https://i.imgur.com/U7eiuqv.png
@@ -1498,6 +1523,16 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Star Gold Thrills (576p)
 URL: http://161.248.38.40:8000/play/a06v/index.m3u8
 Logo: https://i.imgur.com/azqtpYh.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Movies HD (1080p)
+URL: http://103.113.103.202:8001/play/a02j/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Movies Select HD (1080p)
+URL: http://103.113.103.202:8001/play/a02i/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Utsav Movies (576p)
@@ -2181,8 +2216,8 @@ URL: https://newsxott.in/hls/indianewsupuk.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/India_News_UP.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: India Today (720p) [Not 24/7]
-URL: https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+Name: India Today (720p) [Geo-blocked]
+URL: https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -2694,6 +2729,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Sathiyam TV (720p)
 URL: https://live-cf-sathiyamtv.dailyhunt.in/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SATHIYAM_TV/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Bharat (576p)
+URL: http://103.113.103.202:8001/play/a01z/index.m3u8
+Logo: https://i.imgur.com/Q8ajPij.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Sudarshan News (1080p)
@@ -3312,6 +3352,16 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Star Sports 2 Tamil (1080p)
 URL: http://103.229.254.25:7001/play/a0d1/index.m3u8
 Logo: https://i.imgur.com/eWPoUxB.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Sports Select 1 HD (1080p)
+URL: http://103.113.103.202:8001/play/a02e/index.m3u8
+Logo: https://i.imgur.com/Mh9tKPx.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Sports Select 2 HD (1080p)
+URL: http://103.113.103.202:8001/play/a02q/index.m3u8
+Logo: https://i.imgur.com/FtRT73R.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: DUBAI SPORTS
