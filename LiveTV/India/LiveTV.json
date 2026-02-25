@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-25 14:06:58",
+  "date": "2026-02-25 22:28:55",
   "channels": {
     "News": [
       {
@@ -4671,6 +4671,97 @@
       }
     ],
     "Uncategorized": [
+      {
+        "name": "Deepto TV HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
+      },
+      {
+        "name": "Bangla Vision",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
+      },
+      {
+        "name": "BTV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
+      },
+      {
+        "name": "HUM TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8"
+      },
+      {
+        "name": "NTV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
+      },
+      {
+        "name": "ATN Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
+      },
+      {
+        "name": "Channel I HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
+      },
+      {
+        "name": "Jamuna TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
+      },
+      {
+        "name": "ATN News",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
+      },
+      {
+        "name": "Channel 24 HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
+      },
+      {
+        "name": "Ekattor HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
+      },
+      {
+        "name": "Independent TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
+      },
+      {
+        "name": "Somoy",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
+      },
       {
         "name": "IPL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
