@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-26 22:15:25",
+  "date": "2026-02-27 06:43:06",
   "channels": {
     "News": [
       {
@@ -3299,13 +3299,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://163.61.227.29:8000/play/a04t/index.m3u8"
-      },
-      {
-        "name": "Sun TV (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV/images/LOGO_HD/image.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.229.254.25:7001/play/a06x/index.m3u8"
       },
       {
         "name": "Sun TV HD (720p)",

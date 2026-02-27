@@ -2820,12 +2820,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_NEO/images/LOGO_HD/image.png"
   },
   {
-    "name": "Sun TV (576p)",
-    "type": "Entertainment",
-    "url": "http://103.229.254.25:7001/play/a06x/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Sun TV HD (720p)",
     "type": "Entertainment",
     "url": "http://15.235.144.106:14054",
