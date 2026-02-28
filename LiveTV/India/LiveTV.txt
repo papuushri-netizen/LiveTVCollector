@@ -1629,6 +1629,11 @@ URL: https://b.jsrdn.com/strm/channels/9xm/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: B4U Hitz (576p)
+URL: http://115.42.65.142:9981/stream/channelid/1099703605
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: B4U Music (1080p)
 URL: https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 Logo: https://i.imgur.com/KSxPLJA.png
@@ -3344,7 +3349,12 @@ URL: http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 Logo: https://i.imgur.com/kHerF19.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Star Sports 2 Tamil (1080p)
+Name: Star Sports 2 Tamil (576p)
+URL: http://103.229.254.25:7001/play/a0dc/index.m3u8
+Logo: https://i.imgur.com/eWPoUxB.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Sports 2 Tamil HD (1080p)
 URL: http://103.229.254.25:7001/play/a0d1/index.m3u8
 Logo: https://i.imgur.com/eWPoUxB.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u

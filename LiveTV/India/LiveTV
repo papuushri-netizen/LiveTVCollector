@@ -1308,6 +1308,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png"
   },
   {
+    "name": "B4U Hitz (576p)",
+    "type": "Music",
+    "url": "http://115.42.65.142:9981/stream/channelid/1099703605",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "B4U Music (1080p)",
     "type": "Music",
     "url": "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
@@ -3624,7 +3630,13 @@
     "img": "https://i.imgur.com/kHerF19.png"
   },
   {
-    "name": "Star Sports 2 Tamil (1080p)",
+    "name": "Star Sports 2 Tamil (576p)",
+    "type": "Sports",
+    "url": "http://103.229.254.25:7001/play/a0dc/index.m3u8",
+    "img": "https://i.imgur.com/eWPoUxB.png"
+  },
+  {
+    "name": "Star Sports 2 Tamil HD (1080p)",
     "type": "Sports",
     "url": "http://103.229.254.25:7001/play/a0d1/index.m3u8",
     "img": "https://i.imgur.com/eWPoUxB.png"

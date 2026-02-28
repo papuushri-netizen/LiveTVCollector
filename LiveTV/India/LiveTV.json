@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-27 21:59:24",
+  "date": "2026-02-28 06:34:20",
   "channels": {
     "News": [
       {
@@ -1529,6 +1529,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://b.jsrdn.com/strm/channels/9xm/master.m3u8"
+      },
+      {
+        "name": "B4U Hitz (576p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://115.42.65.142:9981/stream/channelid/1099703605"
       },
       {
         "name": "B4U Music (1080p)",
@@ -4261,7 +4268,14 @@
         "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8"
       },
       {
-        "name": "Star Sports 2 Tamil (1080p)",
+        "name": "Star Sports 2 Tamil (576p)",
+        "logo": "https://i.imgur.com/eWPoUxB.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://103.229.254.25:7001/play/a0dc/index.m3u8"
+      },
+      {
+        "name": "Star Sports 2 Tamil HD (1080p)",
         "logo": "https://i.imgur.com/eWPoUxB.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
