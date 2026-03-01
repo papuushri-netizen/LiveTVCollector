@@ -1776,10 +1776,22 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_MOVIES/images/LOGO_HD/image.png"
   },
   {
+    "name": "MH One Movies (576p)",
+    "type": "Movies",
+    "url": "https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8",
+    "img": "https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png"
+  },
+  {
     "name": "MNX (576p)",
     "type": "Movies",
     "url": "http://161.248.38.40:8000/play/a07f/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Movieplex (576p)",
+    "type": "Movies",
+    "url": "http://103.78.149.54:8000/play/a020/index.m3u8",
+    "img": "https://i.imgur.com/THJEAqJ.png"
   },
   {
     "name": "Oscar Movies Bhojpuri (576p)",
@@ -2242,6 +2254,12 @@
     "type": "Religious",
     "url": "https://mumt04.tangotv.in/PARASGOLD/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PARAS_GOLD_ONE/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Peace Of Mind TV (576p)",
+    "type": "Religious",
+    "url": "https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEACE_OF_MIND/images/LOGO_HD/image.png"
   },
   {
     "name": "Peace TV Bangla (1080p)",
@@ -3858,6 +3876,18 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png"
   },
   {
+    "name": "Mr. Bean Animated (1080p)",
+    "type": "Animation;Kids",
+    "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png"
+  },
+  {
+    "name": "Sony Yay! (576p)",
+    "type": "Animation;Kids",
+    "url": "http://103.229.254.25:7001/play/a0cl/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png"
+  },
+  {
     "name": "Sansad TV 1 (1080p) [Not 24/7]",
     "type": "Legislative",
     "url": "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
@@ -3874,12 +3904,6 @@
     "type": "Culture;Religious",
     "url": "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSKAR/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony Yay! (576p)",
-    "type": "Animation;Kids",
-    "url": "http://103.229.254.25:7001/play/a0cl/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png"
   },
   {
     "name": "The Pet Collective",
