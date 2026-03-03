@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-02 22:02:43",
+  "date": "2026-03-03 06:44:19",
   "channels": {
     "News": [
       {
@@ -1608,6 +1608,13 @@
         "url": "https://mumt02.tangotv.in/MASTIII/index.m3u8"
       },
       {
+        "name": "Max Music (1080p)",
+        "logo": "https://livetv.ashokadigital.net/upload/logo/1732168750_WhatsApp%20Image%202024-11-21%20at%2011.05.55%20AM%20(1).jpeg",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.maxtn.in/maxmusic/maxmusic/index.m3u8"
+      },
+      {
         "name": "Mh 1 Music (576p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH1/images/LOGO_HD/image.png",
         "group": "Music",
@@ -2119,6 +2126,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-2.pishow.tv/live/228/master.m3u8"
+      },
+      {
+        "name": "Max Movies (1080p)",
+        "logo": "https://livetv.ashokadigital.net/upload/logo/1732168422_WhatsApp%20Image%202024-11-21%20at%2010.18.47%20AM.jpeg",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8"
       },
       {
         "name": "MH One Movies (576p)",
@@ -3266,6 +3280,13 @@
         "url": "https://galaxyott.live/hls/ntv.m3u8"
       },
       {
+        "name": "Oli TV (1080p)",
+        "logo": "https://i.ibb.co/XfvTQyJn/main-removebg-preview.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.olidigital.in/olitv/olitv/index.m3u8"
+      },
+      {
         "name": "Pasand TV (576p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pasand.png",
         "group": "Entertainment",
@@ -4156,6 +4177,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8"
+      },
+      {
+        "name": "Kairali Arabia (576p)",
+        "logo": "https://i.imgur.com/BBEfplL.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8"
       },
       {
         "name": "Kairali TV (576p)",
