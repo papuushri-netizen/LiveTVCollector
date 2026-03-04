@@ -9026,6 +9026,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: Uncategorized
+Name: T Sports HD
+URL: https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u
+--------------------------------------------------
 Name: Deepto TV HD
 URL: https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
