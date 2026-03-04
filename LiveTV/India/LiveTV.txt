@@ -21,6 +21,11 @@ URL: http://103.229.254.25:7001/play/a0cl/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Super Hungama (576p)
+URL: http://103.161.153.165:8000/play/a05a/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 
 Group: Bangla
 Name: ATN Bangla
@@ -755,6 +760,11 @@ URL: https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3
 Logo: https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Star Jalsha HD (720p)
+URL: http://103.161.153.165:8000/play/a00w/index.m3u8
+Logo: https://i.imgur.com/IlufzR5.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Star Kiran (576p)
 URL: http://111.88.78.21:8000/play/a0ph/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_KIRAN/images/LOGO_HD/image.png
@@ -808,6 +818,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Subin TV (1080p)
 URL: https://stream.galaxyott.live/live/subintv/index.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Sun Bangla (720p)
+URL: http://103.161.153.165:8000/play/a03k/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_BANGLA/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Sun Marathi (576p)
@@ -873,6 +888,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Vissa TV (576p)
 URL: https://mumt02.tangotv.in/VISSATV/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Zee Bangla HD (1080p)
+URL: http://103.161.153.165:8000/play/zeebnhd/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee Bangla Sonar (576p)
