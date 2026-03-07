@@ -162,7 +162,7 @@ Source: https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/
 Group: Business
 Name: CNBC Awaaz (1080p)
 URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/512px-CNBC_Awaaz_logo.png
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_AWAAZ/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: CNBC Bajar (1080p)
@@ -1565,6 +1565,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Goldmines (576p)
 URL: http://103.78.149.54:8000/play/a00z/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Goldmines 2 (576p)
+URL: https://cdn-2.pishow.tv/live/1460/master.m3u8
+Logo: https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Goldmines Movies (576p)
