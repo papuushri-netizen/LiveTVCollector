@@ -2709,7 +2709,7 @@
     "name": "Asianet Plus (576p)",
     "type": "Entertainment",
     "url": "http://111.88.78.21:8000/play/a0z4/index.m3u8",
-    "img": "https://i.imgur.com/qg1IhV8.png"
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png"
   },
   {
     "name": "Big Magic (576p)",
@@ -3316,12 +3316,6 @@
     "type": "Entertainment",
     "url": "https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TARANG/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Telugu One (1080p)",
-    "type": "Entertainment",
-    "url": "https://amg02821-amg02821c1-samsung-in-4717.playouts.now.amagi.tv/playlist/amg02821-objectone-teluguone-samsungin/playlist.m3u8",
-    "img": "https://dvvlqr1rtlak3.cloudfront.net/TeluguOne/teluguone_logo_resized_400x200.png"
   },
   {
     "name": "Thanthi One (576p)",
@@ -4029,7 +4023,7 @@
     "name": "Chintu TV (576p)",
     "type": "Animation;Kids",
     "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0587/master.m3u8",
-    "img": "https://i.imgur.com/MHrufYc.png"
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHINTU_TV/images/LOGO_HD/image.png"
   },
   {
     "name": "Mr. Bean Animated (1080p)",
@@ -4668,22 +4662,22 @@
     "img": "https://i.imgur.com/yH7n2dF.png"
   },
   {
-    "name": "Travelxp (720p)",
-    "type": "Travel",
-    "url": "https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
     "type": "Travel",
     "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png"
   },
   {
-    "name": "Travelxp HD (1080p) [Geo-blocked]",
+    "name": "Travelxp HD (1080p)",
     "type": "Travel",
-    "url": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8",
+    "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0118/master.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Travelxp Tamil (576p)",
+    "type": "Travel",
+    "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0202/master.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png"
   },
   {
     "name": "Unique TV (576p)",
