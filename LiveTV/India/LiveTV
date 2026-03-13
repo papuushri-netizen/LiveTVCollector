@@ -1569,7 +1569,7 @@
     "name": "Tarang Music (720p)",
     "type": "Music",
     "url": "https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tarang_Miusic.tif/lossless-page1-512px-Tarang_Miusic.tif.png"
+    "img": "https://i.imgur.com/oSm8zFD.png"
   },
   {
     "name": "Tunes 6 (720p)",
@@ -2664,6 +2664,12 @@
     "img": "https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540"
   },
   {
+    "name": "Aamar Bangla (720p)",
+    "type": "Entertainment",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png"
+  },
+  {
     "name": "Adithya TV (576p)",
     "type": "Entertainment",
     "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0571/master.m3u8",
@@ -3582,16 +3588,16 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHUBH_TV/images/LOGO_HD/image.png"
   },
   {
-    "name": "Tamil Vision TV (1080p)",
-    "type": "Undefined",
-    "url": "http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8",
-    "img": "https://i.imgur.com/DodsLuW.png"
-  },
-  {
     "name": "Tamilan TV (1080p)",
     "type": "Undefined",
     "url": "https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png"
+  },
+  {
+    "name": "TamilVision-TV (1080p)",
+    "type": "Undefined",
+    "url": "https://live.cmr24.fm/TVI/HD/chunks.m3u8",
+    "img": "https://i.imgur.com/DodsLuW.png"
   },
   {
     "name": "Tehzeeb TV (720p)",
