@@ -4056,12 +4056,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png"
   },
   {
-    "name": "Disney Channel HD (1080p)",
-    "type": "Kids",
-    "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0451/master.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Disney Junior (576p)",
     "type": "Kids",
     "url": "http://103.229.254.25:7001/play/a09r/index.m3u8",
@@ -4252,30 +4246,6 @@
     "type": "Sports",
     "url": "http://103.229.254.25:7001/play/a0dw/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Star Sports 1 (576p)",
-    "type": "Sports",
-    "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0412/master.m3u8",
-    "img": "https://i.imgur.com/E5jjKHI.png"
-  },
-  {
-    "name": "Star Sports 1 HD (1080p)",
-    "type": "Sports",
-    "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0441/master.m3u8",
-    "img": "https://i.imgur.com/E5jjKHI.png"
-  },
-  {
-    "name": "Star Sports 1 Hindi (576p)",
-    "type": "Sports",
-    "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0415/master.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Star Sports 1 Hindi HD (1080p)",
-    "type": "Sports",
-    "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0443/master.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png"
   },
   {
     "name": "Star Sports 1 Kannada (576p)",
