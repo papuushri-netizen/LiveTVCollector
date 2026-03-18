@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-17 22:25:48",
+  "date": "2026-03-18 06:47:27",
   "channels": {
     "News": [
       {
@@ -29,6 +29,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8"
+      },
+      {
+        "name": "24 News (576p)",
+        "logo": "https://i.imgur.com/xraizkS.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8"
       },
       {
         "name": "99TV (720p)",
@@ -1373,13 +1380,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8?ads.vf=W-glh07KfBm"
-      },
-      {
-        "name": "Twenty Four News (396p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TWENTY_FOUR/images/LOGO_HD/image.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8"
       },
       {
         "name": "V6 News (576p)",

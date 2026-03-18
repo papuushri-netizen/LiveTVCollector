@@ -24,6 +24,12 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png"
   },
   {
+    "name": "24 News (576p)",
+    "type": "News",
+    "url": "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8",
+    "img": "https://i.imgur.com/xraizkS.png"
+  },
+  {
     "name": "99TV (720p)",
     "type": "News",
     "url": "https://cdn-1.pishow.tv/live/1211/master.m3u8",
@@ -1174,12 +1180,6 @@
     "type": "News",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8?ads.vf=W-glh07KfBm",
     "img": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png"
-  },
-  {
-    "name": "Twenty Four News (396p)",
-    "type": "News",
-    "url": "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TWENTY_FOUR/images/LOGO_HD/image.png"
   },
   {
     "name": "V6 News (576p)",
