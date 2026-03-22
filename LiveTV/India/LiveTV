@@ -1856,14 +1856,8 @@
   {
     "name": "MNX (576p)",
     "type": "Movies",
-    "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0089/master.m3u8",
+    "url": "http://103.161.153.165:8000/play/a059/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "MNX HD (1080p)",
-    "type": "Movies",
-    "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0114/master.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png"
   },
   {
     "name": "Movieplex (576p)",
@@ -2304,9 +2298,9 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Grace_TV.png"
   },
   {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Religious\",Hare Krsna (1080p)",
+    "name": "Hare Krsna TV (1080p)",
     "type": "Religious",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hare-krsna/master.m3u8?ads.vf=BTLYq9OkYrW",
+    "url": "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd",
     "img": "https://dtil.tmsimg.com/assets/s143102_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -2988,9 +2982,9 @@
     "img": "https://dtil.tmsimg.com/assets/s143790_ld_h9_aa.png?lock=720x540"
   },
   {
-    "name": "Sony Aath (576p)",
+    "name": "Sony Aath (720p)",
     "type": "Entertainment",
-    "url": "http://103.229.254.25:7001/play/a07a/index.m3u8",
+    "url": "http://103.161.153.165:8000/play/sonyatth/index.m3u8",
     "img": "https://i.imgur.com/q4AwVq9.png"
   },
   {
@@ -3966,6 +3960,12 @@
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540"
   },
   {
+    "name": "Sony Sports Ten 5 (480p)",
+    "type": "Sports",
+    "url": "http://103.99.249.139/sonyten3/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png"
+  },
+  {
     "name": "Sony Sports Ten 5 HD (1080p)",
     "type": "Sports",
     "url": "http://116.90.120.151:8000/play/a0hb/index.m3u8",
@@ -3999,12 +3999,6 @@
     "name": "Star Sports 1 Tamil (576p)",
     "type": "Sports",
     "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0419/master.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Star Sports 1 Tamil HD (1080p)",
-    "type": "Sports",
-    "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0472/master.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png"
   },
   {
