@@ -1692,12 +1692,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png"
   },
   {
-    "name": "KTV HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.121.6.5:8000/play/a05i/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/GNLZZGG002Z1SEP.png?lock=720x540"
-  },
-  {
     "name": "Maha Movie (576p)",
     "type": "Movies",
     "url": "https://cdn-6.pishow.tv/live/10007/master.m3u8",
@@ -2340,9 +2334,9 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/zbbhakti.png"
   },
   {
-    "name": "Aakaash Aath (720p)",
+    "name": "Aakaash Aath (576p)",
     "type": "Entertainment",
-    "url": "https://cdn-4.pishow.tv/live/969/master.m3u8",
+    "url": "https://mumt03.tangotv.in/AAKASHAATH/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540"
   },
   {
@@ -2788,24 +2782,6 @@
     "type": "Entertainment",
     "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png"
-  },
-  {
-    "name": "Sun Bangla (720p)",
-    "type": "Entertainment",
-    "url": "http://103.161.153.165:8000/play/a03k/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0506.png?lock=720x540"
-  },
-  {
-    "name": "Sun Neo (576p)",
-    "type": "Entertainment",
-    "url": "http://163.61.227.29:8000/play/a04t/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/GNLZZGG002Z06B5.png?lock=720x540"
-  },
-  {
-    "name": "Sun Surya HD (1080p)",
-    "type": "Entertainment",
-    "url": "https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8",
-    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png"
   },
   {
     "name": "Swantham (576p)",
@@ -3616,18 +3592,6 @@
     "type": "Sports",
     "url": "http://116.90.120.151:8000/play/a0hi/index.m3u8",
     "img": "https://i.imgur.com/kHerF19.png"
-  },
-  {
-    "name": "Star Sports 2 Tamil (576p)",
-    "type": "Sports",
-    "url": "http://103.229.254.25:7001/play/a0dc/index.m3u8",
-    "img": "https://i.imgur.com/eWPoUxB.png"
-  },
-  {
-    "name": "Star Sports 2 Tamil HD (1080p)",
-    "type": "Sports",
-    "url": "http://103.229.254.25:7001/play/a0d1/index.m3u8",
-    "img": "https://i.imgur.com/eWPoUxB.png"
   },
   {
     "name": "Star Sports 3 (576p)",

@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-23 22:15:41",
+  "date": "2026-03-24 06:40:18",
   "channels": {
     "News": [
       {
@@ -1981,13 +1981,6 @@
         "url": "https://cdn-3.pishow.tv/live/1530/master.m3u8"
       },
       {
-        "name": "KTV HD (1080p)",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z1SEP.png?lock=720x540",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.121.6.5:8000/play/a05i/index.m3u8"
-      },
-      {
         "name": "Maha Movie (576p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png",
         "group": "Movies",
@@ -2741,11 +2734,11 @@
     ],
     "Entertainment": [
       {
-        "name": "Aakaash Aath (720p)",
+        "name": "Aakaash Aath (576p)",
         "logo": "https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdn-4.pishow.tv/live/969/master.m3u8"
+        "url": "https://mumt03.tangotv.in/AAKASHAATH/index.m3u8"
       },
       {
         "name": "Aamar Bangla (720p)",
@@ -3264,27 +3257,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://stream.galaxyott.live/live/subintv/index.m3u8"
-      },
-      {
-        "name": "Sun Bangla (720p)",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0506.png?lock=720x540",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.161.153.165:8000/play/a03k/index.m3u8"
-      },
-      {
-        "name": "Sun Neo (576p)",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z06B5.png?lock=720x540",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://163.61.227.29:8000/play/a04t/index.m3u8"
-      },
-      {
-        "name": "Sun Surya HD (1080p)",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8"
       },
       {
         "name": "Swantham (576p)",
@@ -4252,20 +4224,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://116.90.120.151:8000/play/a0hi/index.m3u8"
-      },
-      {
-        "name": "Star Sports 2 Tamil (576p)",
-        "logo": "https://i.imgur.com/eWPoUxB.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.229.254.25:7001/play/a0dc/index.m3u8"
-      },
-      {
-        "name": "Star Sports 2 Tamil HD (1080p)",
-        "logo": "https://i.imgur.com/eWPoUxB.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.229.254.25:7001/play/a0d1/index.m3u8"
       },
       {
         "name": "Star Sports 3 (576p)",
