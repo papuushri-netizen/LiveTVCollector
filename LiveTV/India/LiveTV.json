@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-24 22:21:47",
+  "date": "2026-03-25 06:45:48",
   "channels": {
     "News": [
       {
@@ -353,6 +353,13 @@
         "url": "https://mumt05.tangotv.in/GSTV/index.m3u8"
       },
       {
+        "name": "GTC News (1080p)",
+        "logo": "https://www.thegtcnetwork.com/gtc-news.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8"
+      },
+      {
         "name": "Guarantee News (1080p)",
         "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYZzbGJ7ViZA/company-logo_200_200/company-logo_200_200/0/1728031377890?e=2147483647&v=beta&t=bIsZgNUCcg0M_-Zqeu5wKYgBt_1-pI798X9lP5CxhTM",
         "group": "News",
@@ -652,6 +659,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8"
+      },
+      {
+        "name": "Mantavya News (576p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8"
       },
       {
         "name": "Mathrubhumi News (576p)",
@@ -1876,13 +1890,6 @@
         "url": "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8"
       },
       {
-        "name": "Bflix Movies (576p)",
-        "logo": "https://i.imgur.com/5CtiQ45.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mumt03.tangotv.in/BFLIX/index.m3u8"
-      },
-      {
         "name": "Bhojpuri Cinema (720p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png",
         "group": "Movies",
@@ -2445,6 +2452,13 @@
         "url": "https://mumt05.tangotv.in/FATEHTV/index.m3u8"
       },
       {
+        "name": "Goodness TV (576p)",
+        "logo": "https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=720x540",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt02.tangotv.in/GOODNESSTV/index.m3u8"
+      },
+      {
         "name": "GoodNews TV (720p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOODNEWS_TV/images/LOGO_HD/image.png",
         "group": "Religious",
@@ -2529,6 +2543,13 @@
         "url": "https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8"
       },
       {
+        "name": "Mahaa Bhakti (1080p)",
+        "logo": "https://yt3.googleusercontent.com/OWECRvCVJh-dXU2MTRZhMRIDvFvcWan0YMoWWfXsM5_WEHobQy2QoHQbGr7AZUXzMOByTMAXbg=s900-c-k-c0x00ffffff-no-rj",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8"
+      },
+      {
         "name": "Mercy TV (1080p)",
         "logo": "https://i.imgur.com/klNH4tV.png",
         "group": "Religious",
@@ -2541,6 +2562,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://paramount.jswk.online/shraddhamhone/index.m3u8"
+      },
+      {
+        "name": "Nambikkai TV (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAMBIKKAI_TV/images/LOGO_HD/image.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8"
       },
       {
         "name": "Namdhari (404p) [Not 24/7]",
@@ -2823,13 +2851,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.229.254.25:7001/play/a0du/index.m3u8"
-      },
-      {
-        "name": "Colors Tamil HD (360p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8"
       },
       {
         "name": "Dabangg (576p)",
@@ -4402,11 +4423,11 @@
     ],
     "Documentary": [
       {
-        "name": "History TV18 HD (1080p) [Geo-blocked]",
+        "name": "History TV18 HD (1080p)",
         "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8"
+        "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8"
       },
       {
         "name": "INWILD (1080p)",
@@ -4476,13 +4497,6 @@
         "group": "Culture;Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8"
-      },
-      {
-        "name": "Jaya TV (360p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png",
-        "group": "Culture;Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8"
       }
     ],
     "Entertainment;Movies": [
@@ -4520,6 +4534,13 @@
     "Legislative": [
       {
         "name": "Sansad TV 1 (1080p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD/images/LOGO_HD/LOGO_HD_image.png",
+        "group": "Legislative",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
+      },
+      {
+        "name": "Sansad TV 1 HD (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD/images/LOGO_HD/LOGO_HD_image.png",
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
