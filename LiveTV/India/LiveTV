@@ -876,6 +876,12 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_9_News.png"
   },
   {
+    "name": "Prime News (576p)",
+    "type": "News",
+    "url": "https://mumt02.tangotv.in/PRIMENEWS/index.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_News.png"
+  },
+  {
     "name": "Prudent Media (1080p)",
     "type": "News",
     "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
@@ -1020,6 +1026,12 @@
     "img": "https://i.imgur.com/Q8ajPij.png"
   },
   {
+    "name": "STV Haryana News (576p)",
+    "type": "News",
+    "url": "https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8",
+    "img": "https://i.imgur.com/TJRZo9e.png"
+  },
+  {
     "name": "Sudarshan News (1080p)",
     "type": "News",
     "url": "https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8",
@@ -1150,6 +1162,12 @@
     "type": "News",
     "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VIP_NEWS/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Vistaar News (576p)",
+    "type": "News",
+    "url": "https://mumt04.tangotv.in/VISTAARNEWS/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISTAAR_NEWS/images/LOGO_HD/image.png"
   },
   {
     "name": "Zee 24 Ghanta (576p)",
@@ -2733,7 +2751,7 @@
     "name": "Sony Aath (720p)",
     "type": "Entertainment",
     "url": "http://103.161.153.165:8000/play/sonyatth/index.m3u8",
-    "img": "https://i.imgur.com/q4AwVq9.png"
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png"
   },
   {
     "name": "Sony Entertainment Television HD (1080p)",
@@ -2782,12 +2800,6 @@
     "type": "Entertainment",
     "url": "http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8",
     "img": "https://i.imgur.com/dZtJHAe.png"
-  },
-  {
-    "name": "StarPlus HD (720p)",
-    "type": "Entertainment",
-    "url": "https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8",
-    "img": "https://i.imgur.com/xWxNy3L.png"
   },
   {
     "name": "Studio Yuva (576p)",
@@ -2988,6 +3000,12 @@
     "img": "https://i.imgur.com/fDdG6Y2.png"
   },
   {
+    "name": "Shekinah TV (1080p)",
+    "type": "Undefined",
+    "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Shekinah.png"
+  },
+  {
     "name": "Shemaroo Marathi Bana (720p)",
     "type": "Undefined",
     "url": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8]",
@@ -3006,6 +3024,12 @@
     "img": "https://i.imgur.com/9hdNFtt.png"
   },
   {
+    "name": "Taaza TV (720p)",
+    "type": "Undefined",
+    "url": "https://live.we2live.in/taazatv/live/playlist.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Taaza_TV.png"
+  },
+  {
     "name": "Tamilan TV (1080p)",
     "type": "Undefined",
     "url": "https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8",
@@ -3022,6 +3046,12 @@
     "type": "Undefined",
     "url": "https://cdn-4.pishow.tv/live/239/master.m3u8",
     "img": "https://i.imgur.com/PCVOdup.png"
+  },
+  {
+    "name": "The Q India (576p)",
+    "type": "Undefined",
+    "url": "https://mumt05.tangotv.in/THEQ/index.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "Total TV Haryana (576p)",
@@ -3789,7 +3819,7 @@
     "name": "Sony BBC Earth HD (1080p)",
     "type": "Documentary",
     "url": "http://116.90.120.151:8000/play/a0j1/index.m3u8",
-    "img": "https://i.imgur.com/XVUGLxa.png"
+    "img": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "India TV Aap Ki Adalat (1080p) [Geo-blocked]",
