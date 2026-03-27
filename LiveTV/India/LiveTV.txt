@@ -259,12 +259,12 @@ URL: https://cdn-1.pishow.tv/live/10/master.m3u8
 Logo: https://i.imgur.com/4tfUIEo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: DD Punjabi
+Name: DD Punjabi (504p)
 URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Hyder TV
+Name: Hyder TV (720p)
 URL: https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 Logo: https://i.imgur.com/reHjjRZ.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
@@ -695,8 +695,8 @@ URL: http://116.90.120.151:8000/play/a0km/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Sony SAB HD (480p)
-URL: http://103.99.249.139/sonysab/index.m3u8
+Name: Sony SAB HD (1080p)
+URL: http://103.229.254.25:7001/play/a0db/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -858,7 +858,7 @@ URL: https://cdn-4.pishow.tv/live/35/master.m3u8
 Logo: https://i.imgur.com/C7KQiZI.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: DD Chandana
+Name: DD Chandana (504p)
 URL: https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
@@ -878,7 +878,7 @@ URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f
 Logo: https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Goa-Logo_2000_X_1125_Transpharent.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: DD Haryana
+Name: DD Haryana (504p)
 URL: https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
 Logo: https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Haryana-Logo_2000_X_1125_Transpharent.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
@@ -893,7 +893,7 @@ URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea
 Logo: https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: DD Jharkhand
+Name: DD Jharkhand (504p)
 URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
@@ -973,7 +973,7 @@ URL: https://cdn-1.pishow.tv/live/21/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_YADAGIRI/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Gaunda Punjab TV
+Name: Gaunda Punjab TV (720p)
 URL: http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
 Logo: https://i.imgur.com/ArRZRM3.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
@@ -1015,7 +1015,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: KTV Bangla (720p)
 URL: https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-Logo: https://i.imgur.com/zG2P1WZ.png
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f8e3b371c660faa2f43a7f0942948a4.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Makkal TV (576i)
