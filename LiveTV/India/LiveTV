@@ -998,8 +998,14 @@
   {
     "name": "Salaam TV (720p)",
     "type": "News",
-    "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8",
+    "url": "https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s144466_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "name": "Samachar Plus 24x7 (576p)",
+    "type": "News",
+    "url": "https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Samachar_Plus.png"
   },
   {
     "name": "Samay Kolkata (1080p)",
@@ -1266,21 +1272,21 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png"
   },
   {
-    "name": "9X Jhakaas (576p)",
+    "name": "9X Jhakaas (1080p)",
     "type": "Music",
-    "url": "https://cdn-3.pishow.tv/live/6/master.m3u8",
+    "url": "https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540"
   },
   {
-    "name": "9X Tashan",
+    "name": "9X Tashan (1080p)",
     "type": "Music",
     "url": "https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_TASHAN/images/LOGO_HD/image.png"
   },
   {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Music\",9XM (1080p)",
+    "name": "9XM (1080p)",
     "type": "Music",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8?ads.vf=JyGLrSjXxAC",
+    "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png"
   },
   {
@@ -1292,7 +1298,7 @@
   {
     "name": "B4U Music (1080p)",
     "type": "Music",
-    "url": "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
+    "url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -1542,7 +1548,7 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png"
   },
   {
-    "name": "Zoom",
+    "name": "Zoom (720p)",
     "type": "Music",
     "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png"
@@ -1562,13 +1568,13 @@
   {
     "name": "&pictures HD (1080p)",
     "type": "Movies",
-    "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
+    "url": "http://103.161.153.165:8000/play/a05u/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540"
   },
   {
     "name": "&prive HD (1080p)",
     "type": "Movies",
-    "url": "http://116.90.120.151:8000/play/a0it/index.m3u8",
+    "url": "http://103.161.153.165:8000/play/a05m/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540"
   },
   {
@@ -1580,19 +1586,19 @@
   {
     "name": "&TV HD (1080p)",
     "type": "Movies",
-    "url": "http://103.229.254.25:7001/play/a034/index.m3u8",
+    "url": "http://103.161.153.165:8000/play/a05c/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "Abzy Dhakad (504p)",
     "type": "Movies",
-    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8",
+    "url": "http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8",
     "img": "https://i.imgur.com/5ORC4tn.png"
   },
   {
-    "name": "Abzy Movies (480p)",
+    "name": "Abzy Movies (504p)",
     "type": "Movies",
-    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8",
+    "url": "http://57.129.53.130:21001/ABZY_Movies/master.m3u8",
     "img": "https://i.imgur.com/LnVgKVF.png"
   },
   {
@@ -1760,13 +1766,13 @@
   {
     "name": "Movies Now + (1080p)",
     "type": "Movies",
-    "url": "http://116.90.120.151:8000/play/a0i4/index.m3u8",
+    "url": "http://103.161.153.165:8000/play/a04o/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png"
   },
   {
     "name": "Movies Now HD (1080p)",
     "type": "Movies",
-    "url": "http://116.90.120.151:8000/play/a0ib/index.m3u8",
+    "url": "http://103.161.153.165:8000/play/mnh/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png"
   },
   {
@@ -2106,9 +2112,9 @@
     "img": "https://i.imgur.com/jSedjXf.png"
   },
   {
-    "name": "Fateh TV (576p)",
+    "name": "Fateh TV (1080p) [Not 24/7]",
     "type": "Religious",
-    "url": "https://mumt05.tangotv.in/FATEHTV/index.m3u8",
+    "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
     "img": "https://i.imgur.com/c4ItNkB.png"
   },
   {
@@ -2700,7 +2706,7 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png"
   },
   {
-    "name": "Raj TV",
+    "name": "Raj TV (1080p)",
     "type": "Entertainment",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png"
@@ -2778,12 +2784,6 @@
     "img": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg"
   },
   {
-    "name": "Star Jalsha HD (720p)",
-    "type": "Entertainment",
-    "url": "http://103.161.153.165:8000/play/a00w/index.m3u8",
-    "img": "https://i.imgur.com/IlufzR5.png"
-  },
-  {
     "name": "Star Maa Gold (576p)",
     "type": "Entertainment",
     "url": "http://103.121.6.5:8000/play/a063/index.m3u8",
@@ -2800,6 +2800,12 @@
     "type": "Entertainment",
     "url": "http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8",
     "img": "https://i.imgur.com/dZtJHAe.png"
+  },
+  {
+    "name": "StarPlus (1080p)",
+    "type": "Entertainment",
+    "url": "http://103.229.254.25:7001/play/a09z/index.m3u8",
+    "img": "https://i.imgur.com/xWxNy3L.png"
   },
   {
     "name": "Studio Yuva (576p)",
@@ -2862,12 +2868,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LOGO_HD/image.png"
   },
   {
-    "name": "Zee Bangla HD (1080p)",
-    "type": "Entertainment",
-    "url": "http://103.161.153.165:8000/play/zeebnhd/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png"
-  },
-  {
     "name": "Zee Bangla Sonar (576p)",
     "type": "Entertainment",
     "url": "http://103.229.254.25:7001/play/a070/index.m3u8",
@@ -2888,7 +2888,7 @@
   {
     "name": "Zee Tamil (576p)",
     "type": "Entertainment",
-    "url": "http://116.90.120.151:8000/play/a0h4/index.m3u8",
+    "url": "http://103.161.153.165:8000/play/a05z/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022S29Y.png?lock=720x540"
   },
   {
@@ -3836,7 +3836,7 @@
   {
     "name": "Jaya Max (576p)",
     "type": "Culture;Entertainment",
-    "url": "https://mac.zenplay.top/linear-live.php?id=994&amp;vtoken=&amp;e=.m3u8",
+    "url": "https://mac.zenplay.top/linear-live.php?amp;e=.m3u8&amp;vtoken=&id=994",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_MAX/images/LOGO_HD/image.png"
   },
   {

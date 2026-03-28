@@ -277,7 +277,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 
 Group: Culture;Entertainment
 Name: Jaya Max (576p)
-URL: https://mac.zenplay.top/linear-live.php?id=994&amp;vtoken=&amp;e=.m3u8
+URL: https://mac.zenplay.top/linear-live.php?amp;e=.m3u8&amp;vtoken=&id=994
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_MAX/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -640,7 +640,7 @@ URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188b
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Raj TV
+Name: Raj TV (1080p)
 URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
@@ -705,11 +705,6 @@ URL: https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3
 Logo: https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Star Jalsha HD (720p)
-URL: http://103.161.153.165:8000/play/a00w/index.m3u8
-Logo: https://i.imgur.com/IlufzR5.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Star Maa Gold (576p)
 URL: http://103.121.6.5:8000/play/a063/index.m3u8
 Logo: https://i.imgur.com/8v4JXYu.png
@@ -723,6 +718,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Star Vijay HD (360p)
 URL: http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8
 Logo: https://i.imgur.com/dZtJHAe.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: StarPlus (1080p)
+URL: http://103.229.254.25:7001/play/a09z/index.m3u8
+Logo: https://i.imgur.com/xWxNy3L.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Studio Yuva (576p)
@@ -775,11 +775,6 @@ URL: https://mumt02.tangotv.in/VISSATV/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Zee Bangla HD (1080p)
-URL: http://103.161.153.165:8000/play/zeebnhd/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Zee Bangla Sonar (576p)
 URL: http://103.229.254.25:7001/play/a070/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540
@@ -796,7 +791,7 @@ Logo: https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zh
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee Tamil (576p)
-URL: http://116.90.120.151:8000/play/a0h4/index.m3u8
+URL: http://103.161.153.165:8000/play/a05z/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/GNLZZGG0022S29Y.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1261,12 +1256,12 @@ Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVE
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: &pictures HD (1080p)
-URL: http://103.229.254.25:7001/play/a033/index.m3u8
+URL: http://103.161.153.165:8000/play/a05u/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: &prive HD (1080p)
-URL: http://116.90.120.151:8000/play/a0it/index.m3u8
+URL: http://103.161.153.165:8000/play/a05m/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1276,17 +1271,17 @@ Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVE
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: &TV HD (1080p)
-URL: http://103.229.254.25:7001/play/a034/index.m3u8
+URL: http://103.161.153.165:8000/play/a05c/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Abzy Dhakad (504p)
-URL: https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+URL: http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
 Logo: https://i.imgur.com/5ORC4tn.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Abzy Movies (480p)
-URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
+Name: Abzy Movies (504p)
+URL: http://57.129.53.130:21001/ABZY_Movies/master.m3u8
 Logo: https://i.imgur.com/LnVgKVF.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1426,12 +1421,12 @@ Logo: https://i.imgur.com/THJEAqJ.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Movies Now + (1080p)
-URL: http://116.90.120.151:8000/play/a0i4/index.m3u8
+URL: http://103.161.153.165:8000/play/a04o/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Movies Now HD (1080p)
-URL: http://116.90.120.151:8000/play/a0ib/index.m3u8
+URL: http://103.161.153.165:8000/play/mnh/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1614,18 +1609,18 @@ URL: https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: 9X Jhakaas (576p)
-URL: https://cdn-3.pishow.tv/live/6/master.m3u8
+Name: 9X Jhakaas (1080p)
+URL: https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
 Logo: https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: 9X Tashan
+Name: 9X Tashan (1080p)
 URL: https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_TASHAN/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Music",9XM (1080p)
-URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8?ads.vf=JyGLrSjXxAC
+Name: 9XM (1080p)
+URL: https://9xjio.wiseplayout.com/9XM/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1635,7 +1630,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: B4U Music (1080p)
-URL: https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+URL: https://cdn-2.pishow.tv/live/415/master.m3u8
 Logo: https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1844,7 +1839,7 @@ URL: https://server.zillarbarta.com/zbmusic/index.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Zoom
+Name: Zoom (720p)
 URL: https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
@@ -2687,8 +2682,13 @@ Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVE
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Salaam TV (720p)
-URL: https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8
+URL: https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
 Logo: https://dtil.tmsimg.com/assets/s144466_ld_h15_aa.png?lock=720x540
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Samachar Plus 24x7 (576p)
+URL: https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Samachar_Plus.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Samay Kolkata (1080p)
@@ -3065,8 +3065,8 @@ URL: https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 Logo: https://i.imgur.com/jSedjXf.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Fateh TV (576p)
-URL: https://mumt05.tangotv.in/FATEHTV/index.m3u8
+Name: Fateh TV (1080p) [Not 24/7]
+URL: https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 Logo: https://i.imgur.com/c4ItNkB.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
