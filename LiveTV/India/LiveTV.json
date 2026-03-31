@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-30 22:15:52",
+  "date": "2026-03-31 06:52:30",
   "channels": {
     "News": [
       {
@@ -2233,6 +2233,13 @@
         "url": "http://116.90.120.151:8000/play/a0gw/index.m3u8"
       },
       {
+        "name": "Star Movies HD (1080p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8"
+      },
+      {
         "name": "Star Movies Select HD (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
         "group": "Movies",
@@ -2282,6 +2289,13 @@
         "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8"
       },
       {
+        "name": "Vijay Super (576p)",
+        "logo": "https://i.imgur.com/3MWm9nD.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://ptu.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8"
+      },
+      {
         "name": "Zee Biskope (576p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png",
         "group": "Movies",
@@ -2329,6 +2343,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://116.90.120.151:8000/play/a0io/index.m3u8"
+      },
+      {
+        "name": "Zee Thirai HD (1080p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://ptu.ridsys.in/riptv/live/ZEE_THIRAI/index.m3u8"
       }
     ],
     "Religious": [
@@ -2802,6 +2823,13 @@
         "url": "https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8"
       },
       {
+        "name": "Village TV (576p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://villagetv.applelive.in/villagetv/villagetv/index.m3u8"
+      },
+      {
         "name": "Zainabia Channel",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Religious",
@@ -2907,6 +2935,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.229.254.25:7001/play/a0du/index.m3u8"
+      },
+      {
+        "name": "Colors Tamil HD (1080p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://ptu.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8"
       },
       {
         "name": "Dabangg (576p)",
@@ -3308,6 +3343,13 @@
         "url": "http://116.90.120.151:8000/play/a0kc/index.m3u8"
       },
       {
+        "name": "Star Vijay (576p)",
+        "logo": "https://i.imgur.com/dZtJHAe.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://ptu.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8"
+      },
+      {
         "name": "Star Vijay HD (360p)",
         "logo": "https://i.imgur.com/dZtJHAe.png",
         "group": "Entertainment",
@@ -3418,6 +3460,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.161.153.165:8000/play/a05z/index.m3u8"
+      },
+      {
+        "name": "Zee Tamil HD (1080p)",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8"
       }
     ],
     "Animation": [
