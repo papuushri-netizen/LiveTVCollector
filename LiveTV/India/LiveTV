@@ -1590,12 +1590,6 @@
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540"
   },
   {
-    "name": "&prive HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.161.153.165:8000/play/a05m/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540"
-  },
-  {
     "name": "&TV (576p)",
     "type": "Movies",
     "url": "http://103.229.254.25:7001/play/a09v/index.m3u8",
@@ -3579,25 +3573,25 @@
     "name": "CNBC Awaaz (1080p)",
     "type": "Business",
     "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_AWAAZ/images/LOGO_HD/image.png"
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCAwaaz.png"
   },
   {
     "name": "CNBC Bajar (1080p)",
     "type": "Business",
     "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_BAJAR/images/LOGO_HD/image.png"
+    "img": "https://dtil.tmsimg.com/assets/GNLZZGG00216V90.png?lock=720x540"
   },
   {
     "name": "CNBC TV18 (1080p)",
     "type": "Business",
     "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_TV18/images/LOGO_HD/image.png"
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18.png"
   },
   {
     "name": "CNBC TV18 Prime HD (1080p)",
     "type": "Business",
     "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_PRIME_HD/images/LOGO_HD/LOGO_HD_image.png"
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18Prime.png"
   },
   {
     "name": "ET Now (720p)",
