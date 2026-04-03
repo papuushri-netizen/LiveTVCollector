@@ -157,7 +157,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: CNBC Bajar (1080p)
 URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
-Logo: https://dtil.tmsimg.com/assets/GNLZZGG00216V90.png?lock=720x540
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/CNBCBajar.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: CNBC TV18 (1080p)
@@ -725,8 +725,8 @@ URL: http://ptu.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8
 Logo: https://i.imgur.com/dZtJHAe.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Star Vijay HD (360p)
-URL: http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8
+Name: Star Vijay HD (1080p)
+URL: http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY_HD/index.m3u8
 Logo: https://i.imgur.com/dZtJHAe.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1764,8 +1764,8 @@ URL: https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Raj Musix Tamil (1080p)
-URL: https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+Name: Raj Musix Tamil (576p)
+URL: http://ajkiptv.ridsys.in/riptv/live/RAJ_MUSIX/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1862,6 +1862,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Vaanavil TV (720p)
 URL: https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Vijay Takkar (576p)
+URL: http://ajkiptv.ridsys.in/riptv/live/VIJAY_TAKKAR/index.m3u8
+Logo: https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: YRF Music (1080p)

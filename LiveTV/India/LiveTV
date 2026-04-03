@@ -1434,9 +1434,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM/images/LOGO_HD/image.png"
   },
   {
-    "name": "Raj Musix Tamil (1080p)",
+    "name": "Raj Musix Tamil (576p)",
     "type": "Music",
-    "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
+    "url": "http://ajkiptv.ridsys.in/riptv/live/RAJ_MUSIX/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png"
   },
   {
@@ -1552,6 +1552,12 @@
     "type": "Music",
     "url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png"
+  },
+  {
+    "name": "Vijay Takkar (576p)",
+    "type": "Music",
+    "url": "http://ajkiptv.ridsys.in/riptv/live/VIJAY_TAKKAR/index.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "YRF Music (1080p)",
@@ -2862,9 +2868,9 @@
     "img": "https://i.imgur.com/dZtJHAe.png"
   },
   {
-    "name": "Star Vijay HD (360p)",
+    "name": "Star Vijay HD (1080p)",
     "type": "Entertainment",
-    "url": "http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8",
+    "url": "http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY_HD/index.m3u8",
     "img": "https://i.imgur.com/dZtJHAe.png"
   },
   {
@@ -3579,7 +3585,7 @@
     "name": "CNBC Bajar (1080p)",
     "type": "Business",
     "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/GNLZZGG00216V90.png?lock=720x540"
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCBajar.png"
   },
   {
     "name": "CNBC TV18 (1080p)",
