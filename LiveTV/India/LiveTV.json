@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-03 21:59:10",
+  "date": "2026-04-04 06:46:05",
   "channels": {
     "News": [
       {
@@ -4725,7 +4725,7 @@
     "Classic": [
       {
         "name": "Zee Cine Classic (1080p)",
-        "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png",
+        "logo": "https://i.imgur.com/QCRhS1n.png",
         "group": "Classic",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8"
