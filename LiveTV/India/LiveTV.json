@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-05 21:55:43",
+  "date": "2026-04-06 06:55:08",
   "channels": {
     "News": [
       {
@@ -2310,6 +2310,13 @@
         "url": "http://103.157.248.140:8000/play/a00q/index.m3u8"
       },
       {
+        "name": "Zee Cinemalu HD (1080p)",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8"
+      },
+      {
         "name": "Zee South Flix (1080p)",
         "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",
         "group": "Movies",
@@ -2506,6 +2513,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8"
+      },
+      {
+        "name": "Divyavani TV (576p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8"
       },
       {
         "name": "Fateh TV (1080p) [Not 24/7]",
@@ -3467,6 +3481,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8"
+      },
+      {
+        "name": "Zee Telugu HD (1080p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8"
       },
       {
         "name": "Zee TV (1080p)",

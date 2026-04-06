@@ -1974,6 +1974,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
+    "name": "Zee Cinemalu HD (1080p)",
+    "type": "Movies",
+    "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540"
+  },
+  {
     "name": "Zee South Flix (1080p)",
     "type": "Movies",
     "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
@@ -2140,6 +2146,12 @@
     "type": "Religious",
     "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
     "img": "https://i.imgur.com/jSedjXf.png"
+  },
+  {
+    "name": "Divyavani TV (576p)",
+    "type": "Religious",
+    "url": "https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png"
   },
   {
     "name": "Fateh TV (1080p) [Not 24/7]",
@@ -2962,6 +2974,12 @@
     "type": "Entertainment",
     "url": "http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540"
+  },
+  {
+    "name": "Zee Telugu HD (1080p)",
+    "type": "Entertainment",
+    "url": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "Zee TV (1080p)",

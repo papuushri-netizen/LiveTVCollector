@@ -820,6 +820,11 @@ URL: http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Zee Telugu HD (1080p)
+URL: https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Zee TV (1080p)
 URL: http://103.229.254.25:7001/play/a0cs/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png
@@ -1613,6 +1618,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Zee Cinema HD (1080p)
 URL: http://103.157.248.140:8000/play/a00q/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Zee Cinemalu HD (1080p)
+URL: https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
+Logo: https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee South Flix (1080p)
@@ -3123,6 +3133,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Dheeran TV (576p)
 URL: https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 Logo: https://i.imgur.com/jSedjXf.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Divyavani TV (576p)
+URL: https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Fateh TV (1080p) [Not 24/7]
