@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-08 22:21:03",
+  "date": "2026-04-09 06:44:42",
   "channels": {
     "News": [
       {
@@ -1720,6 +1720,13 @@
         "url": "https://cdn-3.pishow.tv/live/1229/master.m3u8"
       },
       {
+        "name": "ShowBox (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://116.90.120.151:8000/play/a0k2/index.m3u8"
+      },
+      {
         "name": "Songdew TV (396p)",
         "logo": "https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540",
         "group": "Music",
@@ -1979,6 +1986,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8"
+      },
+      {
+        "name": "Filamchi Bhojpuri (1080p)",
+        "logo": "https://dtil.tmsimg.com/assets/s157803_ld_h15_aa.png?lock=720x540",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8"
       },
       {
         "name": "Goldmines (576p)",
@@ -3182,6 +3196,13 @@
         "url": "http://103.157.248.140:8000/play/a01p/index.m3u8"
       },
       {
+        "name": "Nazara (1080p)",
+        "logo": "https://dtil.tmsimg.com/assets/s158303_ld_h15_aa.png?lock=720x540",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8"
+      },
+      {
         "name": "Nepal 1 (396p)",
         "logo": "https://dtil.tmsimg.com/assets/s143584_ld_h15_aa.png?lock=720x540",
         "group": "Entertainment",
@@ -3334,13 +3355,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.121.6.5:8000/play/a063/index.m3u8"
-      },
-      {
-        "name": "Star Utsav (576p)",
-        "logo": "https://i.imgur.com/H1jhHDl.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://116.90.120.151:8000/play/a0kc/index.m3u8"
       },
       {
         "name": "Star Vijay (576p)",
@@ -4343,13 +4357,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.157.248.140:8000/play/a05x/index.m3u8"
-      },
-      {
-        "name": "Star Sports 1 HD (1080p)",
-        "logo": "https://i.imgur.com/E5jjKHI.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8"
       },
       {
         "name": "Star Sports 1 Hindi (576p)",

@@ -1470,6 +1470,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LOGO_HD/image.png"
   },
   {
+    "name": "ShowBox (576p)",
+    "type": "Music",
+    "url": "http://116.90.120.151:8000/play/a0k2/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png"
+  },
+  {
     "name": "Songdew TV (396p)",
     "type": "Music",
     "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
@@ -1690,6 +1696,12 @@
     "type": "Movies",
     "url": "https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "name": "Filamchi Bhojpuri (1080p)",
+    "type": "Movies",
+    "url": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/s157803_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "Goldmines (576p)",
@@ -2718,6 +2730,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png"
   },
   {
+    "name": "Nazara (1080p)",
+    "type": "Entertainment",
+    "url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/s158303_ld_h15_aa.png?lock=720x540"
+  },
+  {
     "name": "Nepal 1 (396p)",
     "type": "Entertainment",
     "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8",
@@ -2848,12 +2866,6 @@
     "type": "Entertainment",
     "url": "http://103.121.6.5:8000/play/a063/index.m3u8",
     "img": "https://i.imgur.com/8v4JXYu.png"
-  },
-  {
-    "name": "Star Utsav (576p)",
-    "type": "Entertainment",
-    "url": "http://116.90.120.151:8000/play/a0kc/index.m3u8",
-    "img": "https://i.imgur.com/H1jhHDl.png"
   },
   {
     "name": "Star Vijay (576p)",
@@ -3694,12 +3706,6 @@
     "type": "Sports",
     "url": "http://103.157.248.140:8000/play/a05x/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Star Sports 1 HD (1080p)",
-    "type": "Sports",
-    "url": "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8",
-    "img": "https://i.imgur.com/E5jjKHI.png"
   },
   {
     "name": "Star Sports 1 Hindi (576p)",
