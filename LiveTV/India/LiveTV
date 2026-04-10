@@ -189,7 +189,7 @@
     "name": "Big TV 24x7 (576i)",
     "type": "News",
     "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8",
-    "img": "https://yt3.googleusercontent.com/blnfLkIGphkSPHfWy4SVOVyHlrWSAEn2pArAS5wdH7tYmXAFD4dVMGLtSmZr5R5CNl1d2cUuDw=s512-c-k-c0x00ffffff-no-rj"
+    "img": "https://i.postimg.cc/rpHrRxR5/big_tv_malayalam.png"
   },
   {
     "name": "BRK News (576p)",
@@ -1468,12 +1468,6 @@
     "type": "Music",
     "url": "https://cdn-3.pishow.tv/live/1229/master.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ShowBox (576p)",
-    "type": "Music",
-    "url": "http://116.90.120.151:8000/play/a0k2/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png"
   },
   {
     "name": "Songdew TV (396p)",
