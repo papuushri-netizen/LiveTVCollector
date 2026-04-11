@@ -1580,7 +1580,7 @@
   {
     "name": "&pictures HD (1080p)",
     "type": "Movies",
-    "url": "http://103.161.153.165:8000/play/a05u/index.m3u8",
+    "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540"
   },
   {
@@ -2000,7 +2000,7 @@
   {
     "name": "Zee Thirai HD (1080p)",
     "type": "Movies",
-    "url": "http://ptu.ridsys.in/riptv/live/ZEE_THIRAI/index.m3u8",
+    "url": "http://ajkiptv.ridsys.in/riptv/live/ZEE_THIRAI_HD/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
@@ -2958,12 +2958,6 @@
     "img": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png"
   },
   {
-    "name": "Zee Tamil (576p)",
-    "type": "Entertainment",
-    "url": "http://103.161.153.165:8000/play/a05z/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022S29Y.png?lock=720x540"
-  },
-  {
     "name": "Zee Tamil HD (1080p)",
     "type": "Entertainment",
     "url": "http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8",
@@ -3438,9 +3432,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/500px-Kairali_TV.svg.png"
   },
   {
-    "name": "Kalaignar TV (396p)",
+    "name": "Kalaignar TV (576p)",
     "type": "General",
-    "url": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8",
+    "url": "http://ajkiptv.ridsys.in/riptv/live/KALAIGNAR_TV/index.m3u8",
     "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kalaignar%20TV.png"
   },
   {
@@ -3578,7 +3572,7 @@
   {
     "name": "Nickelodeon (576p)",
     "type": "Kids",
-    "url": "http://ptu.ridsys.in/riptv/live/NICK/index.m3u8",
+    "url": "http://103.157.248.140:8000/play/a01n/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png"
   },
   {
@@ -3710,7 +3704,7 @@
   {
     "name": "Star Sports 1 Tamil (576p)",
     "type": "Sports",
-    "url": "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_TAMIL/index.m3u8",
+    "url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png"
   },
   {
@@ -3724,12 +3718,6 @@
     "type": "Sports",
     "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
     "img": "https://i.imgur.com/kHerF19.png"
-  },
-  {
-    "name": "Star Sports 3 (576p)",
-    "type": "Sports",
-    "url": "http://103.161.153.165:8000/play/a05p/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png"
   },
   {
     "name": "DUBAI SPORTS",
@@ -3898,12 +3886,6 @@
     "type": "Documentary",
     "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony BBC Earth (576p)",
-    "type": "Documentary",
-    "url": "http://ajkiptv.ridsys.in/riptv/live/SONY_BBC_EARTH/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/s143799_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "India TV Aap Ki Adalat (1080p) [Geo-blocked]",
