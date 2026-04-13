@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-12 21:57:12",
+  "date": "2026-04-13 07:16:24",
   "channels": {
     "News": [
       {
@@ -1011,6 +1011,13 @@
         "url": "https://powertvkannada.com/hls/stream.m3u8"
       },
       {
+        "name": "Prag News (576p)",
+        "logo": "https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt05.tangotv.in/PRAGNEWS/index.m3u8"
+      },
+      {
         "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"News\",Prameya News7 (1080p)",
         "logo": "https://dtil.tmsimg.com/assets/s143578_ld_h15_aa.png?lock=720x540",
         "group": "News",
@@ -1394,6 +1401,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://mumt04.tangotv.in/VISTAARNEWS/index.m3u8"
+      },
+      {
+        "name": "VTV News (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VTV_GUJARATI/images/LOGO_HD/image.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt04.tangotv.in/VTV/index.m3u8"
       },
       {
         "name": "Zee 24 Ghanta (576p)",
@@ -2234,7 +2248,7 @@
       },
       {
         "name": "Suriyan TV (576p)",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/suriyantvtamil.png",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8"
@@ -3606,6 +3620,13 @@
         "url": "https://cdn-3.pishow.tv/live/437/master.m3u8"
       },
       {
+        "name": "Sai TV (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAI_TV/images/LOGO_HD/image.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt03.tangotv.in/SAITVTAMILDEVOTIONAL/index.m3u8"
+      },
+      {
         "name": "Santvani Channel (576p)",
         "logo": "https://dtil.tmsimg.com/assets/s143763_ld_h15_aa.png?lock=720x540",
         "group": "Undefined",
@@ -4537,7 +4558,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png",
         "group": "Cooking;Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://45.148.145.57/IN_FOODFOOD/index.m3u8"
+        "url": "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
       }
     ],
     "Documentary": [
@@ -4601,7 +4622,7 @@
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_MAX/images/LOGO_HD/image.png",
         "group": "Culture;Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mac.zenplay.top/linear-live.php?amp;e=.m3u8&amp;vtoken=&id=994"
+        "url": "http://ajkiptv.ridsys.in/riptv/live/JAYA_MAX/index.m3u8"
       },
       {
         "name": "Jaya Plus (576p)",
@@ -4686,11 +4707,11 @@
         "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8"
       },
       {
-        "name": "Travelxp HD (1080p)",
+        "name": "Travelxp HD (1080p) [Geo-blocked]",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
         "group": "Travel",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://116.90.120.151:8000/play/a0ho/index.m3u8"
+        "url": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8"
       }
     ],
     "Entertainment;Kids": [
