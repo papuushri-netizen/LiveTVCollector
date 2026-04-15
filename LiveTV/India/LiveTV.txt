@@ -617,7 +617,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Nazara (1080p)
 URL: https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
-Logo: https://dtil.tmsimg.com/assets/s158303_ld_h15_aa.png?lock=720x540
+Logo: https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Nepal 1 (396p)
@@ -1427,7 +1427,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Manoranjan Movies (720p)
 URL: http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_MOVIES/images/LOGO_HD/image.png
+Logo: https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Max Movies (1080p)
@@ -1643,6 +1643,13 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Zee Thirai HD (1080p)
 URL: http://ajkiptv.ridsys.in/riptv/live/ZEE_THIRAI_HD/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+
+Group: Movies;Music
+Name: Shemaroo Filmi Gaane (1080p)
+URL: http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
@@ -2556,6 +2563,11 @@ URL: https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 Logo: https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: News 24 MP & Chhattisgarh (576p)
+URL: https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS24_MPCG/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: News Daily 24 (576p)
 URL: https://cdn-6.pishow.tv/live/10009/master.m3u8
 Logo: https://i.imgur.com/lT8rihP.png
@@ -3170,6 +3182,11 @@ URL: https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOODNEWS_TV/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Gospel TV India (720p)
+URL: https://server.livelegitpro.in:9899/gospeltv/index.m3u8
+Logo: https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Grace TV (576p)
 URL: https://mumt03.tangotv.in/GRACETV/index.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Grace_TV.png
@@ -3220,8 +3237,8 @@ URL: https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 Logo: https://i.ibb.co/v1C0bdR/logo-1.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Madha TV (600p)
-URL: https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8
+Name: Madha TV (576p)
+URL: https://mumt02.tangotv.in/MADHATV/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------

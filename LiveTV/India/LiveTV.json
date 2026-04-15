@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-14 22:25:06",
+  "date": "2026-04-15 06:55:10",
   "channels": {
     "News": [
       {
@@ -904,6 +904,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8"
+      },
+      {
+        "name": "News 24 MP & Chhattisgarh (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS24_MPCG/images/LOGO_HD/image.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8"
       },
       {
         "name": "News Daily 24 (576p)",
@@ -2059,7 +2066,7 @@
       },
       {
         "name": "Manoranjan Movies (720p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_MOVIES/images/LOGO_HD/image.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8"
@@ -2564,6 +2571,13 @@
         "url": "https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8"
       },
       {
+        "name": "Gospel TV India (720p)",
+        "logo": "https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8"
+      },
+      {
         "name": "Grace TV (576p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Grace_TV.png",
         "group": "Religious",
@@ -2634,11 +2648,11 @@
         "url": "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8"
       },
       {
-        "name": "Madha TV (600p)",
+        "name": "Madha TV (576p)",
         "logo": "https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8"
+        "url": "https://mumt02.tangotv.in/MADHATV/index.m3u8"
       },
       {
         "name": "Mahaa Bhakti (1080p)",
@@ -3232,7 +3246,7 @@
       },
       {
         "name": "Nazara (1080p)",
-        "logo": "https://dtil.tmsimg.com/assets/s158303_ld_h15_aa.png?lock=720x540",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8"
@@ -4722,6 +4736,15 @@
         "group": "Culture;Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8"
+      }
+    ],
+    "Movies;Music": [
+      {
+        "name": "Shemaroo Filmi Gaane (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png",
+        "group": "Movies;Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8"
       }
     ],
     "Family": [

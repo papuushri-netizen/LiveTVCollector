@@ -774,6 +774,12 @@
     "img": "https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png?lock=720x540"
   },
   {
+    "name": "News 24 MP & Chhattisgarh (576p)",
+    "type": "News",
+    "url": "https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS24_MPCG/images/LOGO_HD/image.png"
+  },
+  {
     "name": "News Daily 24 (576p)",
     "type": "News",
     "url": "https://cdn-6.pishow.tv/live/10009/master.m3u8",
@@ -1761,7 +1767,7 @@
     "name": "Manoranjan Movies (720p)",
     "type": "Movies",
     "url": "http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_MOVIES/images/LOGO_HD/image.png"
+    "img": "https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "Max Movies (1080p)",
@@ -2190,6 +2196,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOODNEWS_TV/images/LOGO_HD/image.png"
   },
   {
+    "name": "Gospel TV India (720p)",
+    "type": "Religious",
+    "url": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8",
+    "img": "https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png"
+  },
+  {
     "name": "Grace TV (576p)",
     "type": "Religious",
     "url": "https://mumt03.tangotv.in/GRACETV/index.m3u8",
@@ -2250,9 +2262,9 @@
     "img": "https://i.ibb.co/v1C0bdR/logo-1.png"
   },
   {
-    "name": "Madha TV (600p)",
+    "name": "Madha TV (576p)",
     "type": "Religious",
-    "url": "https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8",
+    "url": "https://mumt02.tangotv.in/MADHATV/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -2763,7 +2775,7 @@
     "name": "Nazara (1080p)",
     "type": "Entertainment",
     "url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/s158303_ld_h15_aa.png?lock=720x540"
+    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540"
   },
   {
     "name": "Nepal 1 (396p)",
@@ -4000,6 +4012,12 @@
     "type": "Culture;Religious",
     "url": "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSKAR/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Shemaroo Filmi Gaane (1080p)",
+    "type": "Movies;Music",
+    "url": "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png"
   },
   {
     "name": "The Pet Collective",
