@@ -1602,12 +1602,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png"
   },
   {
-    "name": "&pictures HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.229.254.25:7001/play/a033/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540"
-  },
-  {
     "name": "&TV (576p)",
     "type": "Movies",
     "url": "http://103.229.254.25:7001/play/a09v/index.m3u8",
@@ -1719,7 +1713,7 @@
     "name": "Filamchi Bhojpuri (1080p)",
     "type": "Movies",
     "url": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/s157803_ld_h15_aa.png?lock=720x540"
+    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540"
   },
   {
     "name": "Goldmines (576p)",
@@ -3228,6 +3222,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LOGO_HD/image.png"
   },
   {
+    "name": "INFAST (1080p)",
+    "type": "Lifestyle",
+    "url": "https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8",
+    "img": "https://i.imgur.com/VwAMqA7.png"
+  },
+  {
     "name": "Kappa TV (576p)",
     "type": "Lifestyle",
     "url": "https://cdn-3.pishow.tv/live/1123/master.m3u8",
@@ -3952,6 +3952,12 @@
     "type": "Movies;News",
     "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
     "img": "https://i.ibb.co/jT3NCPp/logo-tv.png"
+  },
+  {
+    "name": "InWonder (1080p)",
+    "type": "Science",
+    "url": "https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8",
+    "img": "https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png"
   },
   {
     "name": "Jaya Max (576p)",
