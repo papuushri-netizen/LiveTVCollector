@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-16 22:32:52",
+  "date": "2026-04-17 06:58:36",
   "channels": {
     "News": [
       {
@@ -1205,6 +1205,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8"
+      },
+      {
+        "name": "Samachar Plus",
+        "logo": "https://i.imgur.com/n7FhveH.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://cdn-2.pishow.tv/live/269/master.m3u8"
       },
       {
         "name": "Samachar Plus 24x7 (576p)",
@@ -3063,7 +3070,7 @@
         "url": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8"
       },
       {
-        "name": "Epic TV (1080p)",
+        "name": "Epic TV Digital (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",

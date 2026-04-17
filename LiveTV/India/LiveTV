@@ -1032,6 +1032,12 @@
     "img": "https://dtil.tmsimg.com/assets/s144466_ld_h15_aa.png?lock=720x540"
   },
   {
+    "name": "Samachar Plus",
+    "type": "News",
+    "url": "https://cdn-2.pishow.tv/live/269/master.m3u8",
+    "img": "https://i.imgur.com/n7FhveH.png"
+  },
+  {
     "name": "Samachar Plus 24x7 (576p)",
     "type": "News",
     "url": "https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8",
@@ -2616,7 +2622,7 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png"
   },
   {
-    "name": "Epic TV (1080p)",
+    "name": "Epic TV Digital (1080p)",
     "type": "Entertainment",
     "url": "https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png"

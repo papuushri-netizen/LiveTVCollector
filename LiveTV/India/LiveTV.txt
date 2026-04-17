@@ -490,7 +490,7 @@ URL: https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Epic TV (1080p)
+Name: Epic TV Digital (1080p)
 URL: https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
@@ -2776,6 +2776,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Salaam TV (720p)
 URL: https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
 Logo: https://dtil.tmsimg.com/assets/s144466_ld_h15_aa.png?lock=720x540
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Samachar Plus
+URL: https://cdn-2.pishow.tv/live/269/master.m3u8
+Logo: https://i.imgur.com/n7FhveH.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Samachar Plus 24x7 (576p)
