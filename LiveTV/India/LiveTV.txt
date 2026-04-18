@@ -3448,6 +3448,11 @@ URL: http://103.157.248.140:8000/play/a05x/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Star Sports 1 HD (1080p)
+URL: http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8
+Logo: https://i.imgur.com/E5jjKHI.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Star Sports 1 Hindi (576p)
 URL: http://103.157.248.140:8000/play/a00g/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png

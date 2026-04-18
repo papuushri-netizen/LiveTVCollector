@@ -3756,6 +3756,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png"
   },
   {
+    "name": "Star Sports 1 HD (1080p)",
+    "type": "Sports",
+    "url": "http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8",
+    "img": "https://i.imgur.com/E5jjKHI.png"
+  },
+  {
     "name": "Star Sports 1 Hindi (576p)",
     "type": "Sports",
     "url": "http://103.157.248.140:8000/play/a00g/index.m3u8",

@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-17 22:13:02",
+  "date": "2026-04-18 06:52:05",
   "channels": {
     "News": [
       {
@@ -4413,6 +4413,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.157.248.140:8000/play/a05x/index.m3u8"
+      },
+      {
+        "name": "Star Sports 1 HD (1080p)",
+        "logo": "https://i.imgur.com/E5jjKHI.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://ptuf.ridsys.in/riptv/live/STAR_SPORTS_1_HD/index.m3u8"
       },
       {
         "name": "Star Sports 1 Hindi (576p)",
