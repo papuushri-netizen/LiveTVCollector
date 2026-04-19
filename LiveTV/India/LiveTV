@@ -2166,6 +2166,12 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png"
   },
   {
+    "name": "Dharsan TV (720p)",
+    "type": "Religious",
+    "url": "https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8",
+    "img": "https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ"
+  },
+  {
     "name": "Dheeran TV (576p)",
     "type": "Religious",
     "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
@@ -2230,6 +2236,12 @@
     "type": "Religious",
     "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
     "img": "https://www.lyngsat.com/logo/tv/hh/harvest_tv_in_usa.png"
+  },
+  {
+    "name": "Hebron TV (1080p)",
+    "type": "Religious",
+    "url": "https://account20.livebox.co.in/charleshls/live.m3u8",
+    "img": "https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512"
   },
   {
     "name": "Hindu Dharmam (576p)",
@@ -3750,6 +3762,18 @@
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540"
   },
   {
+    "name": "Sony Sports Ten 4 (1080p) [Geo-blocked]",
+    "type": "Sports",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0025T4PV.png?lock=720x540"
+  },
+  {
+    "name": "Sony Sports Ten 4 Telugu (1080p)",
+    "type": "Sports",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540"
+  },
+  {
     "name": "Sony Sports Ten 5 HD (1080p)",
     "type": "Sports",
     "url": "http://103.157.248.140:8000/play/a05x/index.m3u8",
@@ -3766,18 +3790,6 @@
     "type": "Sports",
     "url": "http://103.157.248.140:8000/play/a00g/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Star Sports 1 Tamil (576p)",
-    "type": "Sports",
-    "url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Star Sports 1 Tamil HD (1080p)",
-    "type": "Sports",
-    "url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png"
   },
   {
     "name": "Star Sports 2 Hindi HD (1080p)",

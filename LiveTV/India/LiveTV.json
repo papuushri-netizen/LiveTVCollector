@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-18 21:58:08",
+  "date": "2026-04-19 07:14:36",
   "channels": {
     "News": [
       {
@@ -2536,6 +2536,13 @@
         "url": "https://mumt05.tangotv.in/DHARMSANDESH/index.m3u8"
       },
       {
+        "name": "Dharsan TV (720p)",
+        "logo": "https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8"
+      },
+      {
         "name": "Dheeran TV (576p)",
         "logo": "https://i.imgur.com/jSedjXf.png",
         "group": "Religious",
@@ -2611,6 +2618,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Hebron TV (1080p)",
+        "logo": "https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://account20.livebox.co.in/charleshls/live.m3u8"
       },
       {
         "name": "Hindu Dharmam (576p)",
@@ -4408,6 +4422,20 @@
         "url": "http://103.229.254.25:7001/play/a09q/index.m3u8"
       },
       {
+        "name": "Sony Sports Ten 4 (1080p) [Geo-blocked]",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025T4PV.png?lock=720x540",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8"
+      },
+      {
+        "name": "Sony Sports Ten 4 Telugu (1080p)",
+        "logo": "https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8"
+      },
+      {
         "name": "Sony Sports Ten 5 HD (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
         "group": "Sports",
@@ -4427,20 +4455,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.157.248.140:8000/play/a00g/index.m3u8"
-      },
-      {
-        "name": "Star Sports 1 Tamil (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8"
-      },
-      {
-        "name": "Star Sports 1 Tamil HD (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8"
       },
       {
         "name": "Star Sports 2 Hindi HD (1080p)",
