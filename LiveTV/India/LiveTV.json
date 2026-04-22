@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-21 22:17:43",
+  "date": "2026-04-22 06:57:18",
   "channels": {
     "News": [
       {
@@ -1946,6 +1946,13 @@
         "url": "http://103.229.254.25:7001/play/a034/index.m3u8"
       },
       {
+        "name": "&xplor HD (720p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mini.allinonereborn.fun/tata.php?id=11619"
+      },
+      {
         "name": "Abzy Dhakad (504p)",
         "logo": "https://i.imgur.com/5ORC4tn.png",
         "group": "Movies",
@@ -2412,7 +2419,7 @@
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://116.90.120.151:8000/play/a0kf/index.m3u8"
+        "url": "http://103.154.3.101:5001/live/559.m3u8"
       },
       {
         "name": "Zee Bollymovies (1080p) [Geo-blocked]",
@@ -2758,6 +2765,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-2.pishow.tv/live/989/master.m3u8"
+      },
+      {
+        "name": "Jothi TV (1080p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JOTHI_TV/images/LOGO_HD/image.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://103.154.3.101:5001/live/2768.m3u8"
       },
       {
         "name": "Life TV (720p)",
@@ -5092,6 +5106,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.253.18.58:8000/play/a03o"
+      },
+      {
+        "name": "Star Sports 2 HD (1080p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mini.allinonereborn.fun/tata.php?id=11819"
       },
       {
         "name": "Star Sports 2 Hindi HD (1080p)",

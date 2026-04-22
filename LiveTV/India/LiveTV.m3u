@@ -553,6 +553,8 @@ http://103.154.3.101:5001/live/185.m3u8
 http://103.229.254.25:7001/play/a09v/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&TV HD (1080p)
 http://103.229.254.25:7001/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&xplor HD (720p)
+https://mini.allinonereborn.fun/tata.php?id=11619
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ORC4tn.png" group-title="Movies",Abzy Dhakad (504p)
 http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnVgKVF.png" group-title="Movies",Abzy Movies (504p)
@@ -686,7 +688,7 @@ http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" group-title="Movies",Zee Action (576p)
 http://103.154.3.101:5001/live/488.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Biskope (576p)
-http://116.90.120.151:8000/play/a0kf/index.m3u8
+http://103.154.3.101:5001/live/559.m3u8
 #EXTINF:-1 tvg-logo="https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512" group-title="Movies",Zee Bollymovies (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512" group-title="Movies",Zee Bollymovies Australia (1080p) [Geo-blocked]
@@ -785,6 +787,8 @@ https://mumt01.tangotv.in/HOPECHANNELINDIA/index.m3u8
 https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143230_ld_h15_aa.png?lock=720x540" group-title="Religious",Jinvani Channel (720p)
 https://cdn-2.pishow.tv/live/989/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JOTHI_TV/images/LOGO_HD/image.png" group-title="Religious",Jothi TV (1080p)
+http://103.154.3.101:5001/live/2768.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1C0bdR/logo-1.png" group-title="Religious",Life TV (720p)
 https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143287_ld_h15_aa.png?lock=720x540" group-title="Religious",Madha TV (576p)
@@ -1445,6 +1449,8 @@ https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%205%20HD.m3u8
 http://103.253.18.58:8000/play/a00m
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi (576p)
 http://103.253.18.58:8000/play/a03o
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" group-title="Sports",Star Sports 2 HD (1080p)
+https://mini.allinonereborn.fun/tata.php?id=11819
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",Star Sports 2 Hindi HD (1080p)
 http://103.157.248.140:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",DUBAI SPORTS

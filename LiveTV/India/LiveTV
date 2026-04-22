@@ -1662,6 +1662,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
+    "name": "&xplor HD (720p)",
+    "type": "Movies",
+    "url": "https://mini.allinonereborn.fun/tata.php?id=11619",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
     "name": "Abzy Dhakad (504p)",
     "type": "Movies",
     "url": "http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8",
@@ -2060,7 +2066,7 @@
   {
     "name": "Zee Biskope (576p)",
     "type": "Movies",
-    "url": "http://116.90.120.151:8000/play/a0kf/index.m3u8",
+    "url": "http://103.154.3.101:5001/live/559.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
@@ -2356,6 +2362,12 @@
     "type": "Religious",
     "url": "https://cdn-2.pishow.tv/live/989/master.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143230_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "name": "Jothi TV (1080p)",
+    "type": "Religious",
+    "url": "http://103.154.3.101:5001/live/2768.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JOTHI_TV/images/LOGO_HD/image.png"
   },
   {
     "name": "Life TV (720p)",
@@ -4336,6 +4348,12 @@
     "type": "Sports",
     "url": "http://103.253.18.58:8000/play/a03o",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Star Sports 2 HD (1080p)",
+    "type": "Sports",
+    "url": "https://mini.allinonereborn.fun/tata.php?id=11819",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png"
   },
   {
     "name": "Star Sports 2 Hindi HD (1080p)",

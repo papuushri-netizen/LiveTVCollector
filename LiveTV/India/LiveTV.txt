@@ -1680,6 +1680,11 @@ URL: http://103.229.254.25:7001/play/a034/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: &xplor HD (720p)
+URL: https://mini.allinonereborn.fun/tata.php?id=11619
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Abzy Dhakad (504p)
 URL: http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
 Logo: https://i.imgur.com/5ORC4tn.png
@@ -2011,7 +2016,7 @@ Logo: https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee Biskope (576p)
-URL: http://116.90.120.151:8000/play/a0kf/index.m3u8
+URL: http://103.154.3.101:5001/live/559.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -3687,6 +3692,11 @@ URL: https://cdn-2.pishow.tv/live/989/master.m3u8
 Logo: https://dtil.tmsimg.com/assets/s143230_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Jothi TV (1080p)
+URL: http://103.154.3.101:5001/live/2768.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JOTHI_TV/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Life TV (720p)
 URL: https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 Logo: https://i.ibb.co/v1C0bdR/logo-1.png
@@ -3941,6 +3951,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Star Sports 1 Hindi (576p)
 URL: http://103.253.18.58:8000/play/a03o
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Sports 2 HD (1080p)
+URL: https://mini.allinonereborn.fun/tata.php?id=11819
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Sports 2 Hindi HD (1080p)
