@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-24 22:14:11",
+  "date": "2026-04-25 06:54:41",
   "channels": {
     "News": [
       {
@@ -1664,6 +1664,13 @@
         "url": "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8"
       },
       {
+        "name": "Kalika TV (576p)",
+        "logo": "https://i.imgur.com/XWXFoJA.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8"
+      },
+      {
         "name": "Mastiii (576p)",
         "logo": "https://i.imgur.com/lxgXHx4.png",
         "group": "Music",
@@ -2093,18 +2100,18 @@
         "url": "https://cdn-1.pishow.tv/live/235/master.m3u8"
       },
       {
+        "name": "Epic Bhojpuri (576p)",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://103.72.101.252:8080/live/3384.m3u8"
+      },
+      {
         "name": "ETV Cinema HD (1080p)",
         "logo": "https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8"
-      },
-      {
-        "name": "Filamchi Bhojpuri (1080p)",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8"
       },
       {
         "name": "Goldmines (576p)",
@@ -5183,7 +5190,7 @@
         "logo": "https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8"
+        "url": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8"
       },
       {
         "name": "National Geographic HD (1080p)",
