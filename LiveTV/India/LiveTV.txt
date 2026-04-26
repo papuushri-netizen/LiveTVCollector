@@ -615,7 +615,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Dangal 2 (720p)
 URL: https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-Logo: https://www.lyngsat.com/logo/tv/dd/dangal-2-in.png
+Logo: https://i.imgur.com/BEr1r7L.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Darshana TV (576p)

@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-25 22:00:45",
+  "date": "2026-04-26 07:16:52",
   "channels": {
     "News": [
       {
@@ -3204,7 +3204,7 @@
       },
       {
         "name": "Dangal 2 (720p)",
-        "logo": "https://www.lyngsat.com/logo/tv/dd/dangal-2-in.png",
+        "logo": "https://i.imgur.com/BEr1r7L.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8"
