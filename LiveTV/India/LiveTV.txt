@@ -59,6 +59,13 @@ Logo: https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
+Group: Business;News
+Name: BT TV (720p)
+URL: https://feeds.intoday.in/bttv/itgd.m3u8
+Logo: https://akm-img-a-in.tosshub.com/businesstoday/resource/img/best-bank-new.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+
 Group: Classic
 Name: Zee Cine Classic (1080p)
 URL: https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
@@ -1509,8 +1516,8 @@ URL: https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 Logo: https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: B4U Movies India (1080p)
-URL: https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+Name: B4U Movies (1080p) [Geo-blocked]
+URL: https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/M9kMFJl.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1895,8 +1902,8 @@ URL: http://115.42.65.142:9981/stream/channelid/1099703605
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: B4U Music (1080p)
-URL: https://cdn-2.pishow.tv/live/415/master.m3u8
+Name: B4U Music (576p)
+URL: http://103.213.31.109:90/B4UMusic/playlist.m3u8
 Logo: https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -2167,8 +2174,8 @@ URL: https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="News",ABN Andhra Jyothy (1080p)
-URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abn-andhra-jyothy/index.m3u8?ads.vf=UlAYFOs6jHe
+Name: like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="News",ABN Andhra Jyoti (1080p)
+URL: https://d18a8tqmogafg2.cloudfront.net/abnandhrajyothy/playlist.m3u8
 Logo: https://dtil.tmsimg.com/assets/s142517_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------

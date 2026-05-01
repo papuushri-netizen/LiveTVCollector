@@ -48,9 +48,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png"
   },
   {
-    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"News\",ABN Andhra Jyothy (1080p)",
+    "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"News\",ABN Andhra Jyoti (1080p)",
     "type": "News",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abn-andhra-jyothy/index.m3u8?ads.vf=UlAYFOs6jHe",
+    "url": "https://d18a8tqmogafg2.cloudfront.net/abnandhrajyothy/playlist.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s142517_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -1374,9 +1374,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "B4U Music (1080p)",
+    "name": "B4U Music (576p)",
     "type": "Music",
-    "url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
+    "url": "http://103.213.31.109:90/B4UMusic/playlist.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -1728,9 +1728,9 @@
     "img": "https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540"
   },
   {
-    "name": "B4U Movies India (1080p)",
+    "name": "B4U Movies (1080p) [Geo-blocked]",
     "type": "Movies",
-    "url": "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8",
+    "url": "https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/M9kMFJl.png"
   },
   {
@@ -3490,6 +3490,12 @@
     "type": "Lifestyle",
     "url": "http://103.229.254.25:7001/play/a0dp/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
+    "name": "BT TV (720p)",
+    "type": "Business;News",
+    "url": "https://feeds.intoday.in/bttv/itgd.m3u8",
+    "img": "https://akm-img-a-in.tosshub.com/businesstoday/resource/img/best-bank-new.png"
   },
   {
     "name": "BVG (576p)",
