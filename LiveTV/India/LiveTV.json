@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-01 22:14:09",
+  "date": "2026-05-02 07:20:39",
   "channels": {
     "News": [
       {
@@ -780,11 +780,11 @@
         "url": "https://segment.yuppcdn.net/240122/news7/playlist.m3u8"
       },
       {
-        "name": "News9Live (720p)",
+        "name": "News9Live (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS9/images/LOGO_HD/image.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/main.m3u8"
+        "url": "https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8"
       },
       {
         "name": "News18 Assam North-East (1080p)",
@@ -1601,6 +1601,13 @@
         "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8"
       },
       {
+        "name": "Aaryaa TV (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://stream.ottlive.co.in/aryatvtamil/index.m3u8"
+      },
+      {
         "name": "B4U Hitz (576p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Music",
@@ -1881,11 +1888,11 @@
         "url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8"
       },
       {
-        "name": "Ultimate TV (576p)",
+        "name": "Ultimate TV (1080p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mumbai-edge.smartplaytv.in/utv/index.m3u8"
+        "url": "https://stream.ottlive.co.in/utvtamil/index.m3u8"
       },
       {
         "name": "Vaanavil TV (720p)",
@@ -2419,7 +2426,7 @@
         "logo": "https://i.imgur.com/3MWm9nD.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8"
+        "url": "http://103.157.248.140:8000/play/a05l/index.m3u8"
       },
       {
         "name": "Zee Action (576p)",
@@ -3553,11 +3560,11 @@
         "url": "http://cdn12.henico.net:8080/live/sadatv/index.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Entertainment\",Sana Tv (1080p)",
+        "name": "Sana TV (1080p)",
         "logo": "https://i.imgur.com/CR7DGBv.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sana-tv/index.m3u8?ads.vf=VcGQSvUuGWi"
+        "url": "https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8"
       },
       {
         "name": "Shemaroo TV (720p)",
@@ -3670,6 +3677,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://stream.galaxyott.live/live/subintv/index.m3u8"
+      },
+      {
+        "name": "Suriya TV (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://stream.ottlive.co.in/suryatvtamil/index.m3u8"
       },
       {
         "name": "Swantham (576p)",
@@ -5257,13 +5271,6 @@
         "group": "Culture;Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.72.101.252:8080/live/420.m3u8"
-      },
-      {
-        "name": "Jaya Plus (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_PLUS/images/LOGO_HD/image.png",
-        "group": "Culture;Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8"
       },
       {
         "name": "Jaya TV (1080p)",
