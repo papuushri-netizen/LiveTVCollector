@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-02 22:05:36",
+  "date": "2026-05-03 07:19:52",
   "channels": {
     "Religious": [
       {
@@ -1484,6 +1484,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8"
+      },
+      {
+        "name": "Wu Tang Collection (720p)",
+        "logo": "https://i.imgur.com/sz55sBl.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745"
       }
     ],
     "Outdoor": [
@@ -1730,18 +1737,25 @@
         "url": "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8"
       },
       {
+        "name": "Fox Deportes (1280p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+      },
+      {
+        "name": "Fox Sports 1 (1280p)",
+        "logo": "https://i.imgur.com/O9BapV9.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8"
+      },
+      {
         "name": "Fox Sports 2 (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/LHtxKI8.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://tvpass.org/live/FoxSports2/hd"
-      },
-      {
-        "name": "Fox Sports en Espanol (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
       },
       {
         "name": "FTF Sports (720p)",
@@ -10368,13 +10382,6 @@
         "url": "https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8"
       },
       {
-        "name": "Revolt (1080p)",
-        "logo": "https://i.imgur.com/eaYnGpH.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/77b454c9-7bf0-404d-9d26-77cc9d4936ea/playlist.m3u8"
-      },
-      {
         "name": "RFD-TV",
         "logo": "https://i.imgur.com/FcT3beY.png",
         "group": "Undefined",
@@ -16071,7 +16078,7 @@
         "url": "http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/723847"
       },
       {
-        "name": "WRDC-TV MyNetworkTV 28 (Washington DC)",
+        "name": "WRDC-TV MyNetworkTV 28 (FOX 5+) (Washington DC)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
@@ -17755,6 +17762,13 @@
         "url": "https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8"
       },
       {
+        "name": "Cutlers Court",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "24/7 Shows",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://jmp2.uk/stvp-US700020AX"
+      },
+      {
         "name": "Caso Cerrado (Español)",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "24/7 Shows",
@@ -17781,6 +17795,13 @@
         "group": "24/7 Shows",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/8ac47318828743abb12db399e2441605/playlist.m3u8"
+      },
+      {
+        "name": "Las 3 Marías (Español)",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "24/7 Shows",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://jmp2.uk/stvp-USBD17000172A"
       },
       {
         "name": "JaJaJa (Español)",
@@ -19965,7 +19986,7 @@
         "logo": "https://www.mediamoves.com/wp-content/uploads/2026/01/Noticias-Univision-to-N-Univision-logo-rebrand.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8"
       },
       {
         "name": "Noticias Telemundo Ahora",
@@ -20007,14 +20028,14 @@
         "logo": "https://allvectorlogo.com/img/2016/07/univision-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8"
       },
       {
         "name": "Univision (East)",
         "logo": "https://allvectorlogo.com/img/2016/07/univision-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8"
       },
       {
         "name": "Univision+",
@@ -20028,14 +20049,14 @@
         "logo": "https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest.m3u8"
       },
       {
         "name": "UniMás (East)",
         "logo": "https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/hls/umaeast-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/hls/umaeast.m3u8"
       },
       {
         "name": "UniMás+",
@@ -20049,14 +20070,14 @@
         "logo": "https://allvectorlogo.com/img/2016/07/univision-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8"
       },
       {
         "name": "KFTR-TV UniMás 46 (Los Angeles CA)",
         "logo": "https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8"
       },
       {
         "name": "KVEA-TV Telemundo 52 (Corona/Los Angeles CA)",
@@ -20070,7 +20091,7 @@
         "logo": "https://allvectorlogo.com/img/2016/07/univision-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8"
       },
       {
         "name": "WNJU-TV Telemundo 47 (New York NY)",
@@ -20084,14 +20105,14 @@
         "logo": "https://www.vhv.rs/dpng/d/438-4383272_unimas-logo-png-transparent-png.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8"
       },
       {
         "name": "WLTV-TV Univision 23 (Miami FL)",
         "logo": "https://allvectorlogo.com/img/2016/07/univision-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8"
       },
       {
         "name": "WSCV-TV Telemundo 51 (Miami FL)",
@@ -20119,7 +20140,7 @@
         "logo": "https://allvectorlogo.com/img/2016/07/univision-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wgbo/wgbo.isml/hls/wgbo.m3u8"
       },
       {
         "name": "KCEC-TV Univision 14 (Denver CO)",
@@ -20147,7 +20168,7 @@
         "logo": "https://allvectorlogo.com/img/2016/07/univision-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kdtv/kdtv.isml/hls/kdtv.m3u8"
       },
       {
         "name": "KSTS-TV Telemundo 48 (San Francisco CA)",
@@ -20287,7 +20308,7 @@
         "logo": "https://allvectorlogo.com/img/2016/07/univision-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8"
       },
       {
         "name": "KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX)",
@@ -20308,7 +20329,7 @@
         "logo": "https://allvectorlogo.com/img/2016/07/univision-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/http://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.m3u8"
       },
       {
         "name": "KTMD-TV Telemundo 47 (Houston TX)",
@@ -20413,7 +20434,7 @@
         "logo": "https://allvectorlogo.com/img/2016/07/univision-logo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.m3u8"
       },
       {
         "name": "WUVG-DT UniMás 34.2 (Atlanta GA)",
@@ -21113,14 +21134,14 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8"
       },
       {
         "name": "Galavisión (East)",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8"
       },
       {
         "name": "Telemundo Internacional",
@@ -23248,14 +23269,14 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8"
       },
       {
         "name": "ViX Zona TUDN",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona-audio_eng=128000-video=6000000.m3u8"
+        "url": "http://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8"
       },
       {
         "name": "ViX Lo Mejor de Liga MX",
