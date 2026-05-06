@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-05 22:43:10",
+  "date": "2026-05-06 07:23:19",
   "channels": {
     "News": [
       {
@@ -308,7 +308,7 @@
         "logo": "https://i.imgur.com/pFNCRnf.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8"
+        "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8"
       },
       {
         "name": "ETV News (1080p)",
@@ -322,7 +322,7 @@
         "logo": "https://dtil.tmsimg.com/assets/s143032_ld_h15_aa.png?lock=720x540",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8"
+        "url": "https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8"
       },
       {
         "name": "First India News (576p)",
@@ -2422,13 +2422,6 @@
         "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8"
       },
       {
-        "name": "Vijay Super (576p)",
-        "logo": "https://i.imgur.com/3MWm9nD.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.157.248.140:8000/play/a05l/index.m3u8"
-      },
-      {
         "name": "Zee Action (576p)",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
         "group": "Movies",
@@ -3305,7 +3298,7 @@
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_HD/images/LOGO_HD/image.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8"
+        "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8"
       },
       {
         "name": "Fakt Marathi (720p) [Not 24/7]",
@@ -3651,11 +3644,11 @@
         "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/suvarnatv_live_https/index.m3u8"
       },
       {
-        "name": "Star Vijay (576p)",
+        "name": "Star Vijay HD (1080p)",
         "logo": "https://i.imgur.com/dZtJHAe.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://ptuf.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8"
+        "url": "https://peaky.techcoder40.workers.dev/776.m3u8"
       },
       {
         "name": "StarPlus HD (1080p)",
