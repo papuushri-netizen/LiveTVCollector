@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-09 22:11:01",
+  "date": "2026-05-10 07:26:43",
   "channels": {
     "News": [
       {
@@ -1769,11 +1769,11 @@
         "url": "https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8"
       },
       {
-        "name": "Raj Musix Tamil (576p)",
+        "name": "Raj Musix Tamil (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.72.101.252:8080/live/748.m3u8"
+        "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8"
       },
       {
         "name": "Raj Musix Telugu (720p)",
@@ -2247,11 +2247,11 @@
         "url": "https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8"
       },
       {
-        "name": "Raj Digital Plus (576p)",
+        "name": "Raj Digital Plus (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.72.101.252:8080/live/683.m3u8"
+        "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8"
       },
       {
         "name": "Roja Movies (1080p)",
@@ -2490,13 +2490,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.72.101.252:8080/live/1358.m3u8"
-      },
-      {
-        "name": "Zee Thirai HD (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.72.101.252:8080/live/3051.m3u8"
       }
     ],
     "Religious": [
@@ -3728,13 +3721,6 @@
         "url": "https://mumt02.tangotv.in/VISSATV/index.m3u8"
       },
       {
-        "name": "Zee Bangla (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.72.101.252:8080/live/625.m3u8"
-      },
-      {
         "name": "Zee Bangla Sonar (576p)",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540",
         "group": "Entertainment",
@@ -3775,13 +3761,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.72.101.252:8080/live/722.m3u8"
-      },
-      {
-        "name": "Zee Tamil (576p)",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S29Y.png?lock=720x540",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.72.101.252:8080/live/628.m3u8"
       },
       {
         "name": "Zee Telugu HD (1080p)",
