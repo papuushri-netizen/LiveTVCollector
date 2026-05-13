@@ -1797,7 +1797,7 @@
     "name": "Dhamaka Movies B4U (576p)",
     "type": "Movies",
     "url": "https://cdn-1.pishow.tv/live/235/master.m3u8",
-    "img": "https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png"
+    "img": "https://static.wikia.nocookie.net/logopedia/images/8/8c/Dhamaka_Movies.jpg"
   },
   {
     "name": "Epic Bhojpuri (576p)",
@@ -1821,7 +1821,7 @@
     "name": "Goldmines 2 (576p)",
     "type": "Movies",
     "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8",
-    "img": "https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png"
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Goldmines Movies (720p)",
@@ -1875,7 +1875,7 @@
     "name": "MH One Movies (576p)",
     "type": "Movies",
     "url": "https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8",
-    "img": "https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png"
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "MNX (576p)",
@@ -2337,7 +2337,7 @@
     "name": "Harvest USA (576p)",
     "type": "Religious",
     "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-    "img": "https://www.lyngsat.com/logo/tv/hh/harvest_tv_in_usa.png"
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Hebron TV (1080p)",
@@ -2475,7 +2475,7 @@
     "name": "Sairam TV (576p)",
     "type": "Religious",
     "url": "https://mumt04.tangotv.in/SAIRAMTV/index.m3u8",
-    "img": "https://www.lyngsat.com/logo/tv/ss/sairam_tv_in.png"
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Salvation TV (1080p)",
@@ -2901,7 +2901,7 @@
     "name": "Manoranjan Prime",
     "type": "Entertainment",
     "url": "https://cdn-4.pishow.tv/live/1474/master.m3u8",
-    "img": "https://www.lyngsat.com/logo/tv/mm/manoranjan-prime-in.png"
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Manoranjan TV (720p)",
@@ -3267,7 +3267,7 @@
     "name": "On TV (576p)",
     "type": "Undefined",
     "url": "https://mumt03.tangotv.in/ONTV/index.m3u8",
-    "img": "https://www.lyngsat.com/logo/tv/oo/on-tv-in.png"
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Prarthana TV (720p)",
@@ -4047,7 +4047,7 @@
     "name": "Malar TV (720p) [Not 24/7]",
     "type": "General",
     "url": "https://cdn-3.pishow.tv/live/473/master.m3u8",
-    "img": "https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png"
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Mayyazhi (720p) [Not 24/7]",

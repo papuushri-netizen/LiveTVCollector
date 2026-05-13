@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-13 15:42:46",
+  "date": "2026-05-13 23:24:23",
   "channels": {
     "News": [
       {
@@ -2101,7 +2101,7 @@
       },
       {
         "name": "Dhamaka Movies B4U (576p)",
-        "logo": "https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8c/Dhamaka_Movies.jpg",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-1.pishow.tv/live/235/master.m3u8"
@@ -2129,7 +2129,7 @@
       },
       {
         "name": "Goldmines 2 (576p)",
-        "logo": "https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8"
@@ -2192,7 +2192,7 @@
       },
       {
         "name": "MH One Movies (576p)",
-        "logo": "https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8"
@@ -2733,7 +2733,7 @@
       },
       {
         "name": "Harvest USA (576p)",
-        "logo": "https://www.lyngsat.com/logo/tv/hh/harvest_tv_in_usa.png",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8"
@@ -2894,7 +2894,7 @@
       },
       {
         "name": "Sairam TV (576p)",
-        "logo": "https://www.lyngsat.com/logo/tv/ss/sairam_tv_in.png",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://mumt04.tangotv.in/SAIRAMTV/index.m3u8"
@@ -3393,7 +3393,7 @@
       },
       {
         "name": "Manoranjan Prime",
-        "logo": "https://www.lyngsat.com/logo/tv/mm/manoranjan-prime-in.png",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-4.pishow.tv/live/1474/master.m3u8"
@@ -3824,7 +3824,7 @@
       },
       {
         "name": "On TV (576p)",
-        "logo": "https://www.lyngsat.com/logo/tv/oo/on-tv-in.png",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://mumt03.tangotv.in/ONTV/index.m3u8"
@@ -4742,7 +4742,7 @@
       },
       {
         "name": "Malar TV (720p) [Not 24/7]",
-        "logo": "https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-3.pishow.tv/live/473/master.m3u8"

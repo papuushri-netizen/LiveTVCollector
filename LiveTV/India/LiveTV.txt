@@ -757,7 +757,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Manoranjan Prime
 URL: https://cdn-4.pishow.tv/live/1474/master.m3u8
-Logo: https://www.lyngsat.com/logo/tv/mm/manoranjan-prime-in.png
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Manoranjan TV (720p)
@@ -1265,7 +1265,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Malar TV (720p) [Not 24/7]
 URL: https://cdn-3.pishow.tv/live/473/master.m3u8
-Logo: https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Mayyazhi (720p) [Not 24/7]
@@ -1553,7 +1553,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Dhamaka Movies B4U (576p)
 URL: https://cdn-1.pishow.tv/live/235/master.m3u8
-Logo: https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png
+Logo: https://static.wikia.nocookie.net/logopedia/images/8/8c/Dhamaka_Movies.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Epic Bhojpuri (576p)
@@ -1573,7 +1573,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Goldmines 2 (576p)
 URL: https://cdn-2.pishow.tv/live/1460/master.m3u8
-Logo: https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Goldmines Movies (720p)
@@ -1618,7 +1618,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: MH One Movies (576p)
 URL: https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
-Logo: https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: MNX (576p)
@@ -3403,7 +3403,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Harvest USA (576p)
 URL: https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-Logo: https://www.lyngsat.com/logo/tv/hh/harvest_tv_in_usa.png
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Hebron TV (1080p)
@@ -3518,7 +3518,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Sairam TV (576p)
 URL: https://mumt04.tangotv.in/SAIRAMTV/index.m3u8
-Logo: https://www.lyngsat.com/logo/tv/ss/sairam_tv_in.png
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Salvation TV (1080p)
@@ -3738,7 +3738,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: On TV (576p)
 URL: https://mumt03.tangotv.in/ONTV/index.m3u8
-Logo: https://www.lyngsat.com/logo/tv/oo/on-tv-in.png
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Prarthana TV (720p)
