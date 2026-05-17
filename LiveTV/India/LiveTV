@@ -1680,9 +1680,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
-    "name": "&xplor HD (720p)",
+    "name": "&xplor HD (1080p)",
     "type": "Movies",
-    "url": "https://mini.allinonereborn.fun/tata.php?id=11619",
+    "url": "http://149.71.34.166:8000/play/a001/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
@@ -2042,7 +2042,7 @@
   {
     "name": "Star Utsav Movies (576p)",
     "type": "Movies",
-    "url": "http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka",
+    "url": "http://149.71.34.166:8000/play/a059/index.m3u8",
     "img": "https://i.imgur.com/k5QHfH2.png"
   },
   {
@@ -2080,6 +2080,12 @@
     "type": "Movies",
     "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8",
     "img": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png"
+  },
+  {
+    "name": "Vijay Super HD (1080p)",
+    "type": "Movies",
+    "url": "http://149.71.34.166:8000/play/a06c/index.m3u8",
+    "img": "https://i.imgur.com/3MWm9nD.png"
   },
   {
     "name": "Zee Action (576p)",
@@ -2140,6 +2146,12 @@
     "type": "Movies",
     "url": "http://103.72.101.252:8080/live/1358.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
+    "name": "Zee Thirai HD (1080p)",
+    "type": "Movies",
+    "url": "http://149.71.34.166:8000/play/a06d/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "Aadinath TV (576p)",
@@ -2694,15 +2706,9 @@
     "img": "https://i.imgur.com/M8uCJ0D.png"
   },
   {
-    "name": "Colors Infinity (576p)",
-    "type": "Entertainment",
-    "url": "http://103.72.101.252:8080/live/1325.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Colors Infinity HD (1080p)",
     "type": "Entertainment",
-    "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
+    "url": "http://149.71.34.166:8002/play/a01d/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png"
   },
   {
@@ -3118,6 +3124,12 @@
     "type": "Entertainment",
     "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/suvarnatv_live_https/index.m3u8",
     "img": "https://i.imgur.com/U9FA4Gs.png"
+  },
+  {
+    "name": "Star Utsav (576p)",
+    "type": "Entertainment",
+    "url": "http://149.71.34.166:8000/play/a04y/index.m3u8",
+    "img": "https://i.imgur.com/H1jhHDl.png"
   },
   {
     "name": "Star Vijay HD (1080p)",
@@ -4148,7 +4160,7 @@
   {
     "name": "Disney International HD (1080p)",
     "type": "Kids",
-    "url": "http://116.90.120.151:8000/play/a0hp/index.m3u8",
+    "url": "http://149.71.34.166:8002/play/a01p/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png"
   },
   {
@@ -4160,7 +4172,7 @@
   {
     "name": "Hungama TV (576p)",
     "type": "Kids",
-    "url": "https://mini.allinonereborn.fun/tata.php?id=11647",
+    "url": "http://149.71.34.166:8000/play/a075/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png"
   },
   {
@@ -4434,15 +4446,15 @@
     "img": "https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png"
   },
   {
-    "name": "National Geographic HD (1080p)",
+    "name": "National Geographic HD (576p)",
     "type": "Documentary",
-    "url": "http://103.157.248.140:8000/play/a012/index.m3u8",
+    "url": "http://149.71.34.166:8002/play/a013/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "National Geographic Wild HD (1080p)",
     "type": "Documentary",
-    "url": "http://103.157.248.140:8000/play/a010/index.m3u8",
+    "url": "http://149.71.34.166:8002/play/a012/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png"
   },
   {
