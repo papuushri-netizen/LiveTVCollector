@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-20 07:39:44",
+  "date": "2026-05-20 16:11:04",
   "channels": {
     "Religious": [
       {
@@ -2084,7 +2084,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://41.205.93.154/ESPN/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/21589"
       },
       {
         "name": "ESPN 2",
@@ -2315,7 +2315,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3612"
+        "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8"
       },
       {
         "name": "beIN Sports XL",
@@ -13877,7 +13877,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_CW_%282006%E2%80%932024%29.svg/1920px-The_CW_%282006%E2%80%932024%29.svg.png",
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/93093"
+        "url": "http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3115"
       },
       {
         "name": "WLNY-TV CBS/Ind. 10/55 (New York NY)",
@@ -20872,21 +20872,21 @@
       },
       {
         "name": "Telemundo Internacional",
-        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "logo": "https://logosandtypes.com/wp-content/uploads/2020/08/Telemundo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://cdnbarinas.tvzamora.com/telemundo/index.m3u8"
+        "url": "http://38.49.150.44:8000/play/a0mg/index.m3u8u?hls"
       },
       {
         "name": "Telemundo Al Día",
-        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "logo": "https://logosandtypes.com/wp-content/uploads/2020/08/Telemundo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747"
       },
       {
         "name": "Telemundo Acción",
-        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "logo": "https://logosandtypes.com/wp-content/uploads/2020/08/Telemundo.png",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99991748/hls/master.m3u8?ads.xumo_channelId=99991748"
@@ -21218,7 +21218,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://190.11.225.124:5000/warner_hd/playlist.m3u8"
+        "url": "http://205.235.6.29:8000/play/a0ys/index.m3u8?hls"
       },
       {
         "name": "Universal Channel en Español",
@@ -21372,7 +21372,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://bgdc.live:25461/folalawal@/4044225438/215217"
+        "url": "http://38.194.226.190:8000/play/a00u/index.m3u8?hls"
       },
       {
         "name": "Dream Works en Español",
@@ -21911,7 +21911,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://tv.nstvlatino.com:8080/Mitv2462/I8G5FfZBMw/4052"
+        "url": "http://201.151.118.136:8000/play/a00i/index.m3u8u?hls"
       },
       {
         "name": "TV Hispanic",
@@ -21981,7 +21981,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://astra.fibernetisp.com.co/play/a0m6/index.m3u8"
+        "url": "http://201.77.60.62:8002/play/a0ol/index.m3u8?hls"
       },
       {
         "name": "Novelas Channel",
@@ -22191,7 +22191,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://astra.fibernetisp.com.co/play/a0b4/index.m3u8"
+        "url": "http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/52162"
       },
       {
         "name": "Cinepolis",
@@ -22488,6 +22488,13 @@
         "url": "http://103.111.40.242:9999/play/a00x/index.m3u8"
       },
       {
+        "name": "Cinema Dinamita",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/327700"
+      },
+      {
         "name": "Films & Art",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
@@ -22744,7 +22751,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://atlas.cdmx.gob.mx:8089/https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true"
+        "url": "http://38.49.150.44:8000/play/a0ny/index.m3u8u?hls"
       },
       {
         "name": "N+ Noticieros (México)",
@@ -22772,7 +22779,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8"
+        "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_P511PDS00167357.m3u8"
       },
       {
         "name": "NTN24",
@@ -23069,6 +23076,13 @@
         "url": "http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3809"
       },
       {
+        "name": "FOX One en Español",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Latino (Spanish)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://38.194.226.190:8000/play/a00o/index.m3u8?hls"
+      },
+      {
         "name": "FOX Sports en Español",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
@@ -23080,28 +23094,28 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://bgdc.live:25461/folalawal@/4044225438/215155"
+        "url": "http://38.194.226.190:8000/play/a00h/index.m3u8?hls"
       },
       {
         "name": "FOX Sports 2 en Español",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://bgdc.live:25461/folalawal@/4044225438/215156"
+        "url": "http://38.194.226.190:8000/play/a011/index.m3u8?hls"
       },
       {
         "name": "FOX Sports 3 en Español",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://bgdc.live:25461/folalawal@/4044225438/215157"
+        "url": "http://38.194.226.190:8000/play/a02m/index.m3u8?hls"
       },
       {
         "name": "FOX Sports Premium en Español",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://bgdc.live:25461/folalawal@/4044225438/215158"
+        "url": "http://38.194.226.190:8000/play/a003/index.m3u8?hls"
       },
       {
         "name": "ESPN Deportes",
@@ -23115,28 +23129,28 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://bgdc.live:25461/folalawal@/4044225438/215146"
+        "url": "http://38.194.226.190:8000/play/a01v/index.m3u8?hls"
       },
       {
         "name": "ESPN 2 en Español",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://190.11.225.124:5000/live/espn_2_hd/playlist.m3u8"
+        "url": "http://38.194.226.190:8000/play/a01w/index.m3u8?hls"
       },
       {
         "name": "ESPN 3 en Español",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://190.11.225.124:5000/live/espn_3_hd/playlist.m3u8"
+        "url": "http://38.194.226.190:8000/play/a002/index.m3u8?hls"
       },
       {
         "name": "ESPN 4 en Español",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://190.11.225.124:5000/live/espn_4_hd/playlist.m3u8"
+        "url": "http://38.194.226.190:8000/play/a02x/index.m3u8?hls"
       },
       {
         "name": "ESPN 5 en Español",
@@ -23992,11 +24006,11 @@
         "url": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8"
       },
       {
-        "name": "Nickelodeon (West)",
+        "name": "Nickelodeon (East)",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/631831"
+        "url": "http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/3673"
       },
       {
         "name": "Nick Jr. (West)",
@@ -33429,14 +33443,14 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "UK Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/542826"
+        "url": "https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8"
       },
       {
         "name": "BBC Two (UK)",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "UK Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://s.rocketdns.info:8080/Z3nXfkOnf0/Madt8rUvmN/2358"
+        "url": "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8"
       },
       {
         "name": "BBC 3 (UK)",
@@ -33451,13 +33465,6 @@
         "group": "UK Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
-      },
-      {
-        "name": "BBC 4 Cbeebies (UK)",
-        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
-        "group": "UK Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://bgdc.live:25461/folalawal@/4044225438/223357"
       },
       {
         "name": "BBC Alba (UK)",
