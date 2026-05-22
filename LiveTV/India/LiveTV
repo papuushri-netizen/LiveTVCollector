@@ -3084,12 +3084,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LOGO_HD/image.png"
   },
   {
-    "name": "Sony SAB HD (1080p)",
-    "type": "Entertainment",
-    "url": "http://103.122.249.134:8000/play/a04h",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Sooriyan TV (1080p)",
     "type": "Entertainment",
     "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",

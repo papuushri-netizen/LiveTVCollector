@@ -885,11 +885,6 @@ URL: https://sl.vodep39240327.workers.dev/channel/SONY%20MARATHI.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Sony SAB HD (1080p)
-URL: http://103.122.249.134:8000/play/a04h
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Sooriyan TV (1080p)
 URL: https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 Logo: https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg
