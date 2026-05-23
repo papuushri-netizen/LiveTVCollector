@@ -4494,6 +4494,12 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png"
   },
   {
+    "name": "MediBizTV (720p)",
+    "type": "Education;News;Science",
+    "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Mr. Bean Animated (1080p)",
     "type": "Animation;Kids",
     "url": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8",
