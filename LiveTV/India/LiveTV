@@ -1086,12 +1086,6 @@
     "img": "https://i.imgur.com/Q8ajPij.png"
   },
   {
-    "name": "Star Bharat HD (1080p)",
-    "type": "News",
-    "url": "http://103.122.249.134:8000/play/a054",
-    "img": "https://i.imgur.com/Q8ajPij.png"
-  },
-  {
     "name": "STV Haryana News (576p)",
     "type": "News",
     "url": "https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8",
@@ -1784,7 +1778,7 @@
   {
     "name": "Colors Cineplex HD (1080p)",
     "type": "Movies",
-    "url": "http://103.122.249.134:8000/play/a05j",
+    "url": "http://149.71.34.166:8000/play/a00b/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png"
   },
   {
@@ -1972,12 +1966,6 @@
     "type": "Movies",
     "url": "http://149.71.34.166:8000/play/a00z/index.m3u8",
     "img": "https://i.imgur.com/gqUYk6C.png"
-  },
-  {
-    "name": "Sony Max HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.122.249.134:8000/play/a05a",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png"
   },
   {
     "name": "Sony Pix HD (1080p) [Geo-blocked]",
@@ -3210,12 +3198,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LOGO_HD/image.png"
   },
   {
-    "name": "Zee Bangla Sonar (576p)",
-    "type": "Entertainment",
-    "url": "http://103.122.249.134:8000/play/a030",
-    "img": "https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540"
-  },
-  {
     "name": "Zee Dil Se (1080p)",
     "type": "Entertainment",
     "url": "https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8",
@@ -4152,12 +4134,6 @@
     "img": "https://i.imgur.com/xv9cWSh.png"
   },
   {
-    "name": "Disney Channel (576p)",
-    "type": "Kids",
-    "url": "http://103.122.249.134:8000/play/a05f",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Disney International HD (1080p)",
     "type": "Kids",
     "url": "http://149.71.34.166:8002/play/a01p/index.m3u8",
@@ -4182,22 +4158,10 @@
     "img": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540"
   },
   {
-    "name": "Nick Jr. (576p)",
-    "type": "Kids",
-    "url": "http://103.122.249.134:8000/play/a04y",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Nickelodeon (576p)",
     "type": "Kids",
     "url": "http://149.71.34.166:8000/play/a00u/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sonic (576p)",
-    "type": "Kids",
-    "url": "http://103.122.249.134:8000/play/a051",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
   },
   {
     "name": "ZB Cartoon (1080p)",
@@ -4344,12 +4308,6 @@
     "img": "https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540"
   },
   {
-    "name": "Sony Sports Ten 5 HD (1080p)",
-    "type": "Sports",
-    "url": "http://103.122.249.134:8000/play/a03d",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Star Sports 1 HD (1080p)",
     "type": "Sports",
     "url": "http://103.253.18.58:8000/play/a00m",
@@ -4362,40 +4320,10 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png"
   },
   {
-    "name": "Star Sports 1 Hindi HD (1080p)",
-    "type": "Sports",
-    "url": "http://103.122.249.134:8000/play/a059",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Star Sports 1 Tamil HD (1080p)",
-    "type": "Sports",
-    "url": "http://103.122.249.134:8000/play/a04e",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Star Sports 2 HD (1080p)",
-    "type": "Sports",
-    "url": "http://103.122.249.134:8000/play/a055",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png"
-  },
-  {
     "name": "Star Sports 2 Hindi HD (1080p)",
     "type": "Sports",
     "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
     "img": "https://i.imgur.com/kHerF19.png"
-  },
-  {
-    "name": "Star Sports 2 Tamil (576p)",
-    "type": "Sports",
-    "url": "http://103.122.249.134:8000/play/a04i",
-    "img": "https://i.imgur.com/eWPoUxB.png"
-  },
-  {
-    "name": "Star Sports 3 (576p)",
-    "type": "Sports",
-    "url": "http://103.122.249.134:8000/play/a04u",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png"
   },
   {
     "name": "ETV Abhiruchi (1080p)",

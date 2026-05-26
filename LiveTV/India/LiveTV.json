@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-25 22:57:28",
+  "date": "2026-05-26 07:40:45",
   "channels": {
     "News": [
       {
@@ -1270,13 +1270,6 @@
         "url": "http://103.253.18.58:8000/play/a00u"
       },
       {
-        "name": "Star Bharat HD (1080p)",
-        "logo": "https://i.imgur.com/Q8ajPij.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.122.249.134:8000/play/a054"
-      },
-      {
         "name": "STV Haryana News (576p)",
         "logo": "https://i.imgur.com/TJRZo9e.png",
         "group": "News",
@@ -2090,7 +2083,7 @@
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.122.249.134:8000/play/a05j"
+        "url": "http://149.71.34.166:8000/play/a00b/index.m3u8"
       },
       {
         "name": "Colors Cineplex Superhits (576p)",
@@ -2308,13 +2301,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://149.71.34.166:8000/play/a00z/index.m3u8"
-      },
-      {
-        "name": "Sony Max HD (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.122.249.134:8000/play/a05a"
       },
       {
         "name": "Sony Pix HD (1080p) [Geo-blocked]",
@@ -3756,13 +3742,6 @@
         "url": "https://mumt02.tangotv.in/VISSATV/index.m3u8"
       },
       {
-        "name": "Zee Bangla Sonar (576p)",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.122.249.134:8000/play/a030"
-      },
-      {
         "name": "Zee Dil Se (1080p)",
         "logo": "https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png",
         "group": "Entertainment",
@@ -4869,13 +4848,6 @@
         "url": "https://cdn-6.pishow.tv/live/1243/master.m3u8"
       },
       {
-        "name": "Disney Channel (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.122.249.134:8000/play/a05f"
-      },
-      {
         "name": "Disney International HD (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png",
         "group": "Kids",
@@ -4904,25 +4876,11 @@
         "url": "http://103.72.101.252:8080/live/1226.m3u8"
       },
       {
-        "name": "Nick Jr. (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.122.249.134:8000/play/a04y"
-      },
-      {
         "name": "Nickelodeon (576p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://149.71.34.166:8000/play/a00u/index.m3u8"
-      },
-      {
-        "name": "Sonic (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.122.249.134:8000/play/a051"
       },
       {
         "name": "ZB Cartoon (1080p)",
@@ -5103,13 +5061,6 @@
         "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8"
       },
       {
-        "name": "Sony Sports Ten 5 HD (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.122.249.134:8000/play/a03d"
-      },
-      {
         "name": "Star Sports 1 HD (1080p)",
         "logo": "https://i.imgur.com/E5jjKHI.png",
         "group": "Sports",
@@ -5124,46 +5075,11 @@
         "url": "http://103.253.18.58:8000/play/a03o"
       },
       {
-        "name": "Star Sports 1 Hindi HD (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.122.249.134:8000/play/a059"
-      },
-      {
-        "name": "Star Sports 1 Tamil HD (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.122.249.134:8000/play/a04e"
-      },
-      {
-        "name": "Star Sports 2 HD (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.122.249.134:8000/play/a055"
-      },
-      {
         "name": "Star Sports 2 Hindi HD (1080p)",
         "logo": "https://i.imgur.com/kHerF19.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.157.248.140:8000/play/a01m/index.m3u8"
-      },
-      {
-        "name": "Star Sports 2 Tamil (576p)",
-        "logo": "https://i.imgur.com/eWPoUxB.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.122.249.134:8000/play/a04i"
-      },
-      {
-        "name": "Star Sports 3 (576p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.122.249.134:8000/play/a04u"
       }
     ],
     "Cooking": [
