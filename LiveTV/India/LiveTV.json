@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-29 23:56:04",
+  "date": "2026-05-30 07:34:31",
   "channels": {
     "News": [
       {
@@ -2322,13 +2322,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.253.18.58:8000/play/a00r"
-      },
-      {
-        "name": "Star Gold HD (1080p)",
-        "logo": "https://i.imgur.com/xC460sj.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://149.71.34.166:8000/play/a01b/index.m3u8"
       },
       {
         "name": "Star Gold Romance (576p)",

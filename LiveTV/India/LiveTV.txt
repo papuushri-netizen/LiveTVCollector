@@ -1695,11 +1695,6 @@ URL: http://103.253.18.58:8000/play/a00r
 Logo: https://i.imgur.com/G0ZfzZr.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Star Gold HD (1080p)
-URL: http://149.71.34.166:8000/play/a01b/index.m3u8
-Logo: https://i.imgur.com/xC460sj.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Star Gold Romance (576p)
 URL: http://103.253.18.58:8000/play/a017
 Logo: https://i.imgur.com/gSWv9U3.png

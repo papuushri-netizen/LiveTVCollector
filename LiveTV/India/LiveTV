@@ -1986,12 +1986,6 @@
     "img": "https://i.imgur.com/G0ZfzZr.png"
   },
   {
-    "name": "Star Gold HD (1080p)",
-    "type": "Movies",
-    "url": "http://149.71.34.166:8000/play/a01b/index.m3u8",
-    "img": "https://i.imgur.com/xC460sj.png"
-  },
-  {
     "name": "Star Gold Romance (576p)",
     "type": "Movies",
     "url": "http://103.253.18.58:8000/play/a017",
