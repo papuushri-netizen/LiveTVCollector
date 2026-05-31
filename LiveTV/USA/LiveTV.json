@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-30 22:21:06",
+  "date": "2026-05-31 07:57:40",
   "channels": {
     "Religious": [
       {
@@ -21309,7 +21309,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://bgdc.live:25461/folalawal@/4044225438/215187"
+        "url": "http://181.78.8.199:8000/play/a0ad/index.m3u8?hls"
       },
       {
         "name": "MTV Flow Latino (Pluto TV)",
@@ -22233,21 +22233,21 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://45.166.93.156:9999/play/a0j5/index.m3u8"
+        "url": "http://181.78.8.199:8000/play/a09n/index.m3u8?hls"
       },
       {
         "name": "Cine Premium",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://45.166.93.156:9999/play/a0j3/index.m3u8"
+        "url": "http://181.78.8.199:8000/play/a09q/index.m3u8?hls"
       },
       {
         "name": "Cine Familiar",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://45.166.93.156:9999/play/a0j4/index.m3u8"
+        "url": "http://181.78.8.199:8000/play/a09p/index.m3u8?hls"
       },
       {
         "name": "Cine de Oro",
@@ -22625,7 +22625,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "Latino (Spanish)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://cdnbarinas.tvzamora.com/tcm/index.m3u8"
+        "url": "http://181.119.108.43:9001/play/a0ga/index.m3u8?hls"
       },
       {
         "name": "Pluto TV A La Mexicana",
