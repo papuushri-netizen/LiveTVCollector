@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-31 07:57:40",
+  "date": "2026-05-31 15:36:38",
   "channels": {
     "Religious": [
       {
@@ -33660,28 +33660,35 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "UK Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8"
+        "url": "http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2359"
       },
       {
         "name": "BBC Two (UK)",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "UK Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8"
+        "url": "http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2358"
       },
       {
         "name": "BBC 3 (UK)",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "UK Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8"
+        "url": "http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/88915"
       },
       {
         "name": "BBC 4 (UK)",
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "UK Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
+        "url": "http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2356"
+      },
+      {
+        "name": "BBC 4 Cbeebies (UK)",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "UK Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2320"
       },
       {
         "name": "BBC Alba (UK)",
@@ -33835,7 +33842,7 @@
         "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
         "group": "UK Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://kstv.us:8080/N427DpynGE/7049166651/47807"
+        "url": "http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2220"
       },
       {
         "name": "RTE 2 (UK)",
@@ -33955,6 +33962,13 @@
         "group": "UK Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://kstv.us:8080/N427DpynGE/7049166651/47805"
+      },
+      {
+        "name": "RTE Jr. (UK)",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "UK Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://s.rocketdns.info:8080/alpha413/S3n09wdSRd/2215"
       },
       {
         "name": "Nickelodeon (UK)",
