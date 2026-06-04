@@ -2064,6 +2064,12 @@
     "img": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png"
   },
   {
+    "name": "Vijay Super (576p)",
+    "type": "Movies",
+    "url": "http://202.70.146.135:8000/play/a008/index.m3u8",
+    "img": "https://i.imgur.com/3MWm9nD.png"
+  },
+  {
     "name": "Zee Action (576p)",
     "type": "Movies",
     "url": "http://103.72.101.252:8080/live/488.m3u8",

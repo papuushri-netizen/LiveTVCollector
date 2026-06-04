@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-04 01:11:01",
+  "date": "2026-06-04 08:11:52",
   "channels": {
     "News": [
       {
@@ -2413,6 +2413,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8"
+      },
+      {
+        "name": "Vijay Super (576p)",
+        "logo": "https://i.imgur.com/3MWm9nD.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://202.70.146.135:8000/play/a008/index.m3u8"
       },
       {
         "name": "Zee Action (576p)",
