@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-07 22:34:30",
+  "date": "2026-06-08 08:09:18",
   "channels": {
     "News": [
       {
@@ -5070,6 +5070,13 @@
         "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8"
       },
       {
+        "name": "Star Sports 1 (720p)",
+        "logo": "https://i.imgur.com/E5jjKHI.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8"
+      },
+      {
         "name": "Star Sports 1 HD (1080p)",
         "logo": "https://i.imgur.com/E5jjKHI.png",
         "group": "Sports",
@@ -5082,6 +5089,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.253.18.58:8000/play/a03o"
+      },
+      {
+        "name": "Star Sports 2 HD (720p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
       },
       {
         "name": "Star Sports 2 Hindi HD (1080p)",
