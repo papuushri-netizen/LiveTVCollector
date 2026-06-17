@@ -2130,12 +2130,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
-    "name": "Zee Thirai HD (1080p)",
-    "type": "Movies",
-    "url": "http://149.71.34.166:8000/play/a06d/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png"
-  },
-  {
     "name": "Aadinath TV (576p)",
     "type": "Religious",
     "url": "https://mumt01.tangotv.in/AADINATHTV/index.m3u8",

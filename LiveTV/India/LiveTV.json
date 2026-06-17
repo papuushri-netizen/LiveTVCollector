@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-17 00:57:13",
+  "date": "2026-06-17 08:13:02",
   "channels": {
     "News": [
       {
@@ -2490,13 +2490,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.72.101.252:8080/live/1358.m3u8"
-      },
-      {
-        "name": "Zee Thirai HD (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://149.71.34.166:8000/play/a06d/index.m3u8"
       }
     ],
     "Religious": [
