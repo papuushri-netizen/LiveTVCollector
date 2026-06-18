@@ -904,6 +904,11 @@ URL: https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
 Logo: https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Star Jalsha HD (720p)
+URL: https://tvsen4.aynaott.com/n64PH4YL/index.m3u8
+Logo: https://i.imgur.com/IlufzR5.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Star Maa Gold (576p)
 URL: http://103.121.6.5:8000/play/a063/index.m3u8
 Logo: https://i.imgur.com/8v4JXYu.png
