@@ -1674,12 +1674,6 @@
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540"
   },
   {
-    "name": "&TV (576p)",
-    "type": "Movies",
-    "url": "http://103.229.254.25:7001/play/a09v/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png"
-  },
-  {
     "name": "&xplor HD (1080p)",
     "type": "Movies",
     "url": "http://149.71.34.166:8000/play/a001/index.m3u8",
@@ -1694,7 +1688,7 @@
   {
     "name": "All Time Movies (576p)",
     "type": "Movies",
-    "url": "https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png"
   },
   {
@@ -2646,6 +2640,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_PLUS/images/LOGO_HD/image.png"
   },
   {
+    "name": "Big Magic (576p)",
+    "type": "Entertainment",
+    "url": "https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png?lock=720x540"
+  },
+  {
     "name": "Brio TV (576p)",
     "type": "Entertainment",
     "url": "https://mumt02.tangotv.in/BRIOTV/index.m3u8",
@@ -2984,8 +2984,14 @@
   {
     "name": "Pasand TV (576p)",
     "type": "Entertainment",
-    "url": "https://mumt01.tangotv.in/PASANDTV/index.m3u8",
+    "url": "https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8",
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png?lock=720x540"
+  },
+  {
+    "name": "Pear TV (576p)",
+    "type": "Entertainment",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png"
   },
   {
     "name": "Polimer TV (720p)",
@@ -3038,7 +3044,7 @@
   {
     "name": "Shemaroo TV (720p)",
     "type": "Entertainment",
-    "url": "https://cdn-3.pishow.tv/live/230/master.m3u8",
+    "url": "https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png"
   },
   {
@@ -3090,12 +3096,6 @@
     "img": "https://i.imgur.com/8v4JXYu.png"
   },
   {
-    "name": "Star Maa HD (1080p)",
-    "type": "Entertainment",
-    "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8",
-    "img": "https://i.imgur.com/5c9PVS0.png"
-  },
-  {
     "name": "Star Pravah HD (1080p)",
     "type": "Entertainment",
     "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starpravah_live_https/index.m3u8",
@@ -3122,13 +3122,13 @@
   {
     "name": "StarPlus HD (1080p)",
     "type": "Entertainment",
-    "url": "http://149.71.34.166:8000/play/a01h/index.m3u8",
+    "url": "http://41.205.64.66/STAR-PLUS/index.m3u8",
     "img": "https://i.imgur.com/xWxNy3L.png"
   },
   {
     "name": "Studio Yuva (576p)",
     "type": "Entertainment",
-    "url": "https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8",
     "img": "https://i.imgur.com/BOhgz2T.png"
   },
   {
@@ -3164,7 +3164,7 @@
   {
     "name": "Thanthi One (576p)",
     "type": "Entertainment",
-    "url": "https://mumt02.tangotv.in/THANTHIONE/index.m3u8",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s158791_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -3176,7 +3176,7 @@
   {
     "name": "Vasanth TV (576p)",
     "type": "Entertainment",
-    "url": "https://mumt04.tangotv.in/VASANTHTV/index.m3u8",
+    "url": "https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s144068_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -3296,7 +3296,7 @@
   {
     "name": "Puthuyugam TV (576p)",
     "type": "Undefined",
-    "url": "https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8",
+    "url": "https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143693_ld_h15_aa.png?lock=720x540"
   },
   {
@@ -3320,13 +3320,13 @@
   {
     "name": "Ramdhenu (576p)",
     "type": "Undefined",
-    "url": "https://mumt01.tangotv.in/RAMDHENU/index.m3u8",
+    "url": "https://cdn-7.pishow.tv/live/10016/master.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143717_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "Rang (576p)",
     "type": "Undefined",
-    "url": "https://mumt01.tangotv.in/RANG/index.m3u8",
+    "url": "https://cdn-7.pishow.tv/live/10017/master.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RANG/images/LOGO_HD/image.png"
   },
   {
@@ -4016,13 +4016,13 @@
   {
     "name": "Kairali Arabia (576p)",
     "type": "General",
-    "url": "https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8",
     "img": "https://i.imgur.com/BBEfplL.png"
   },
   {
     "name": "Kairali TV (576p)",
     "type": "General",
-    "url": "https://mumt01.tangotv.in/KAIRALI/index.m3u8",
+    "url": "https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/500px-Kairali_TV.svg.png"
   },
   {
@@ -4296,12 +4296,6 @@
     "img": "https://i.imgur.com/kHerF19.png"
   },
   {
-    "name": "ETV Abhiruchi (1080p)",
-    "type": "Cooking",
-    "url": "https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8",
-    "img": "https://i.imgur.com/3D5SN3E.png"
-  },
-  {
     "name": "ETV Comedy (1080p)",
     "type": "Comedy",
     "url": "https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8",
@@ -4478,7 +4472,7 @@
   {
     "name": "Unique TV (576p)",
     "type": "Entertainment;Kids",
-    "url": "https://mumt05.tangotv.in/UNIQUETV/index.m3u8",
+    "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png"
   },
   {
