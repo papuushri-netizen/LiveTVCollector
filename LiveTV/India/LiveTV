@@ -380,7 +380,7 @@
   {
     "name": "India Ahead (576p)",
     "type": "News",
-    "url": "https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8",
+    "url": "https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8",
     "img": "https://i.imgur.com/hBkTmf9.png"
   },
   {
@@ -536,7 +536,7 @@
   {
     "name": "Madhimugam TV (576p)",
     "type": "News",
-    "url": "https://cdn-3.pishow.tv/live/1476/master.m3u8",
+    "url": "https://yuppparoriglin.akamaized.net/181224/smil:mathimugam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png"
   },
   {
@@ -1818,6 +1818,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines Bollywood (576p)",
+    "type": "Movies",
+    "url": "http://103.175.73.12:8080/live/52/52_0.m3u8",
+    "img": "https://i.imgur.com/6mNQ9mM.png"
+  },
+  {
     "name": "Goldmines Movies (720p)",
     "type": "Movies",
     "url": "http://103.213.31.109:90/GoldminesMovies/playlist.m3u8",
@@ -1916,7 +1922,7 @@
   {
     "name": "Public Movies (576p)",
     "type": "Movies",
-    "url": "https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8",
+    "url": "https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES/images/LOGO_HD/image.png"
   },
   {
@@ -2652,9 +2658,9 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png"
   },
   {
-    "name": "Captain (576p)",
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Captain (576p)",
     "type": "Entertainment",
-    "url": "https://mumt01.tangotv.in/CAPTAIN/index.m3u8",
+    "url": "http://103.175.73.12:8080/live/173/master.m3u8",
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540"
   },
   {
@@ -2686,6 +2692,12 @@
     "type": "Entertainment",
     "url": "http://149.71.34.166:8000/play/a00c/index.m3u8",
     "img": "https://i.imgur.com/M8uCJ0D.png"
+  },
+  {
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Colors Infinity (576p)",
+    "type": "Entertainment",
+    "url": "http://103.175.73.12:8080/live/29/29_0.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png"
   },
   {
     "name": "Colors Infinity HD (1080p)",
@@ -2774,7 +2786,7 @@
   {
     "name": "E 24 (576p)",
     "type": "Entertainment",
-    "url": "https://mumt04.tangotv.in/E24/index.m3u8",
+    "url": "https://live-cf-e24.dailyhunt.in/master.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png"
   },
   {
@@ -3096,6 +3108,12 @@
     "img": "https://i.imgur.com/8v4JXYu.png"
   },
   {
+    "name": "Star Maa HD (720p)",
+    "type": "Entertainment",
+    "url": "http://217.20.112.199:8080/maatv/index.m3u8",
+    "img": "https://i.imgur.com/5c9PVS0.png"
+  },
+  {
     "name": "Star Pravah HD (1080p)",
     "type": "Entertainment",
     "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starpravah_live_https/index.m3u8",
@@ -3118,6 +3136,12 @@
     "type": "Entertainment",
     "url": "http://149.71.34.166:8000/play/a06i/index.m3u8",
     "img": "https://i.imgur.com/dZtJHAe.png"
+  },
+  {
+    "name": "StarPlus (576p)",
+    "type": "Entertainment",
+    "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
+    "img": "https://i.imgur.com/xWxNy3L.png"
   },
   {
     "name": "StarPlus HD (1080p)",
@@ -3190,6 +3214,12 @@
     "type": "Entertainment",
     "url": "https://mumt02.tangotv.in/VISSATV/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Zee Bangla HD (720p)",
+    "type": "Entertainment",
+    "url": "http://217.20.112.199:8080/maamovies/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "Zee Dil Se (1080p)",
@@ -4316,7 +4346,7 @@
   {
     "name": "Food Food (576p)",
     "type": "Cooking;Lifestyle",
-    "url": "https://mumt03.tangotv.in/FOODFOOD/index.m3u8",
+    "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png"
   },
   {

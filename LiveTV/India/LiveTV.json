@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-19 23:16:50",
+  "date": "2026-06-20 07:58:31",
   "channels": {
     "News": [
       {
@@ -448,7 +448,7 @@
         "logo": "https://i.imgur.com/hBkTmf9.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8"
+        "url": "https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8"
       },
       {
         "name": "India Daily Live (1080p)",
@@ -630,7 +630,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdn-3.pishow.tv/live/1476/master.m3u8"
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:mathimugam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
       },
       {
         "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"News\",Mahaa News (1080p)",
@@ -2128,6 +2128,13 @@
         "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8"
       },
       {
+        "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",Goldmines Bollywood (576p)",
+        "logo": "https://i.imgur.com/6mNQ9mM.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://103.175.73.12:8080/live/52/52_0.m3u8"
+      },
+      {
         "name": "Goldmines Movies (720p)",
         "logo": "https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540",
         "group": "Movies",
@@ -2244,7 +2251,7 @@
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES/images/LOGO_HD/image.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8"
+        "url": "https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8"
       },
       {
         "name": "Raj Digital Plus (1080p)",
@@ -3105,11 +3112,11 @@
         "url": "https://mumt02.tangotv.in/BRIOTV/index.m3u8"
       },
       {
-        "name": "Captain (576p)",
+        "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Captain (576p)",
         "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mumt01.tangotv.in/CAPTAIN/index.m3u8"
+        "url": "http://103.175.73.12:8080/live/173/master.m3u8"
       },
       {
         "name": "Colors (576p)",
@@ -3145,6 +3152,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://149.71.34.166:8000/play/a00c/index.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Colors Infinity (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://103.175.73.12:8080/live/29/29_0.m3u8"
       },
       {
         "name": "Colors Infinity HD (1080p)",
@@ -3249,7 +3263,7 @@
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mumt04.tangotv.in/E24/index.m3u8"
+        "url": "https://live-cf-e24.dailyhunt.in/master.m3u8"
       },
       {
         "name": "EET TV (1080p) [Not 24/7]",
@@ -3623,6 +3637,13 @@
         "url": "http://103.121.6.5:8000/play/a063/index.m3u8"
       },
       {
+        "name": "Star Maa HD (720p)",
+        "logo": "https://i.imgur.com/5c9PVS0.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://217.20.112.199:8080/maatv/index.m3u8"
+      },
+      {
         "name": "Star Pravah HD (1080p)",
         "logo": "https://i.imgur.com/ZT0u7AK.png",
         "group": "Entertainment",
@@ -3649,6 +3670,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://149.71.34.166:8000/play/a06i/index.m3u8"
+      },
+      {
+        "name": "StarPlus (576p)",
+        "logo": "https://i.imgur.com/xWxNy3L.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://41.205.93.154/STAR-PLUS/index.m3u8"
       },
       {
         "name": "StarPlus HD (1080p)",
@@ -3733,6 +3761,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://mumt02.tangotv.in/VISSATV/index.m3u8"
+      },
+      {
+        "name": "Zee Bangla HD (720p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://217.20.112.199:8080/maamovies/index.m3u8"
       },
       {
         "name": "Zee Dil Se (1080p)",
@@ -5078,7 +5113,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png",
         "group": "Cooking;Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
+        "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8"
       }
     ],
     "Documentary": [
